@@ -4,6 +4,7 @@
 :root {
 	--theme-color: #3fbce8;
 }
+
 body {
 	font-size: 17px;
 }
@@ -16,4 +17,13 @@ body {
 	.content {
 		left: 0px;
 	}
+}
+
+.markdown-section table {
+	margin: 0 auto 1rem auto;
+	width: 90%;
+}
+
+.markdown-section th:nth-of-type(2) {
+	column-width: 1000px;
 }
