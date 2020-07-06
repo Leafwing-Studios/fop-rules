@@ -1,2 +1,8 @@
-# Fonts of Power Rules Compendium
-Fonts of Power is a roleplaying game and this is the rulebook! I'd put the introduction here too. 
+# Fonts of Power
+Fonts of Power is a d20 tabletop roleplaying game system, designed to capture the wonder of exploring magical places. Teeming with magic, the titular **fonts of power** have three defining characteristics: they are **dangerous, interesting,** and **magical.** As a **player** in Fonts of Power, you will delve deep into these fonts as you seek your fortune, fight for your ideals, win allies, and learn more about the wonderous world in front of you. 
+
+Take the story into your own hands, opting into risk, and you will earn **Resolve.** This powerful meta-currency can be used to recover from unlucky mistakes or to find the strength to press on to meet the challenges you’ve chosen to face. As you adventure, you’ll find moments to catch your breath and reap the rewards of your escapades, taking advantage of a rich system of **downtime activities.** These moments of calm are precious and valuable, giving you the chance to hone your skills, forge meaningful bonds, create your own magical items and more.
+
+Setting the stage for you and your friends, the **worldspeaker** breathes life into this world by creating fantastical monsters for the adventurers to fight and memorable settings for you to explore. Rather than setting up the narrator of the world to drive the plot or act as the sole referee of the rules, Fonts of Power seeks to empower its players to drive the story forward and create characters that truly capture their fantasies. This system uses **collaborative rulekeeping**; by understanding the rules for yourself and playing fair, you can help make the worldspeaker role more accessible, and let them focus on truly making the world come to life for you to explore.
+
+This should probably be reworded to be more about this compendium, and have a less weird ending point.
