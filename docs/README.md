@@ -1,15 +1,2 @@
-# Headline
-This is the text for my headline!
-> Quote text
-
-**bold**
-*italics*
-
-Column 1 | Column 2
--------- | --------
-Value 1 | Value 2
-Value 3 | Value 4
-Value 1 | Value 2
-Value 3 | Value 4
-Value 1 | Value 2
-Value 3 | Value 4
+# Fonts of Power Rules Compendium
+Fonts of Power is a roleplaying game and this is the rulebook! I'd put the introduction here too. 
