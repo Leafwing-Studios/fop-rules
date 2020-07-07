@@ -12,7 +12,8 @@ Work as a table to answer the following questions about the session that was jus
 
 Once you’re done with those questions, **discuss what you want to do next.** This is incredibly helpful for the worldspeaker, as it lets them prepare settings and situations for you to explore during the next session.
 
-## Customizing Experience
+{infobox-start}
+**Customizing Experience**
 This experience system is one of the simplest and most effective levers to adjust to help this system fit your campaign.
 
 The 10 experience per level default sets a pretty brisk pace, letting players explore the entirety of their class features in a single reasonably long campaign. For a more leisurely campaign, a gentler learning curve, or a more epic story, increasing this to 25 experience per level might work better.
@@ -20,6 +21,7 @@ The 10 experience per level default sets a pretty brisk pace, letting players ex
 If you want to focus on a different style of story than the optimistic, adventurous default implied, changing the list of experience questions or the trigger for Resolve is an excellent way to encourage players to play to the genre.
 
 When selecting experience questions, try to ensure a tension between them, in order to frame interesting dilemmas for the party. Similarly, Resolve should be awarded when the players behave in a way that is somehow contrary to their self-interest: encouraging them to take the story in the desired direction when other considerations would discourage them from doing so.
+{infobox-end}
 
 ## Leveling Up
 As your characters adventure, they will inevitably both grow and change, shaped by their experiences. When the party has accumulated **10 experience** since last levelling up, the entire party **levels up,** and each player character gains features and abilities as described by their class. When this happens, any extra experience is carried over, to be counted towards the next level.

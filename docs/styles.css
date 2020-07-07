@@ -27,3 +27,6 @@ body {
 .markdown-section th:nth-of-type(2) {
 	column-width: 1000px;
 }
+.markdown-section th:nth-of-type(3) {
+	column-width: 1000px;
+}
