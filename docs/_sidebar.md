@@ -16,6 +16,7 @@
 	* [Skills](rules/skills/)
 		* [Making Skill Checks](rules/skills/making-skill-checks.md)
 		* [Skill Descriptions](rules/skills/skill-descriptions.md)
+	* [Downtime Activities](rules/downtime-activities.md)
 * [Character Options](character-options/)
 	* [Species](character-options/species/)
 		* [Automaton](character-options/species/automaton.md)
