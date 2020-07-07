@@ -1,10 +1,6 @@
 /* .markdown-section tr:nth-child(2n) {
 	background-color: #505050;
 } */
-:root {
-	--theme-color: #3fbce8;
-}
-
 body {
 	font-size: 17px;
 }
