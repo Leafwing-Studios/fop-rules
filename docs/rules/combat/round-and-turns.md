@@ -1,5 +1,13 @@
 # Rounds and Turns
+
 When it becomes clear that a fight is inevitable, combat begins. First split the creatures into **sides,** which fight together as allies. Typically, this will be the player characters and the monsters. Then, each side determines the **turn order** they wish to act in, without seeing the choices made by any other side.
+
+<div class="infobox">
+
+**Choosing turn order**
+
+The order in which your turns are taken is typically not of tremendous tactical importance from combat-to-combat. You can speed up play by sticking to a standard turn order for your party, in which your frontline acts before your backline, or simply using the arrangement of players around the table.
+</div>
 
 Typically, each creature takes one turn per round, and act in sequence according the following rules:
 1. The players’ side always takes the first turn. 
@@ -11,10 +19,6 @@ Typically, each creature takes one turn per round, and act in sequence according
 
 Particularly powerful monsters tend to take multiple turns per round; these must all be completed before the round can advance.
 
-{infobox-start}
-**Choosing turn order**
-The order in which your turns are taken is typically not of tremendous tactical importance from combat-to-combat. You can speed up play by sticking to a standard turn order for your party, in which your frontline acts before your backline, or simply using the arrangement of players around the table.
-{infobox-end}
 
 ## Surprise Rounds
 Sometimes, one side gets the jump on the other, either by hiding or suddenly lashing out with violence. When this happens, prepare the turn order like normal. During the first round, creatures which were surprised skip their turn.
