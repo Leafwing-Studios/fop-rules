@@ -30,3 +30,11 @@ body {
 .markdown-section th:nth-of-type(3) {
 	column-width: 1000px;
 }
+
+.sidebar li {
+	margin: 0px 0px 0px 5px;
+}
+
+.sidebar .sidebar-nav {
+	line-height: 1.8em;
+}
