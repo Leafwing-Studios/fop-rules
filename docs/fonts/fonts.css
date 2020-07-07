@@ -28,15 +28,19 @@
 
 @font-face {
 	font-family: "Oswald";
-	src: url('Oswald-Regular.ttf');
+	src: url('Oswald-VariableFont_wght.ttf');
 	font-weight: normal;
 	font-style: normal;
 }
 
-body {
+body, .search input {
 	font-family: Raleway,Helvetica Neue,Arial,sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: Oswald,Helvetica Neue,Arial,sans-serif;
+}
+
+.search h2 {
+	font-weight: 400;
 }
