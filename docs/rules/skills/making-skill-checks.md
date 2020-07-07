@@ -45,6 +45,13 @@ Outright failure should have consequences. If you cannot think of any meaningful
 * You fail to convince your rival to put aside your differences, and they focus their attacks on you rather than the monster.
 * You fail to discover the information you’re looking for, and must venture into the font of power totally unprepared.
 
+<div class="infobox">
+
+**Setbacks and Knowledge**
+
+If a player chooses a setback when attempting to recall or gain information, the worldspeaker should roll 1d10 in secret. If the result is greater than or equal to the difference between the skill check result and the required difficulty, the player recalls or learns the information successfully. Otherwise, they misremember, misinterpret a fact or were simply lied to and should be told incorrect information. If they choose an opportunity, they should remember something different but related and helpful.
+</div>
+
 Setbacks are a cost incurred due to pushing through to succeed in the face of serious adversity. You might:
 * You succeed at enchanting a magical item, but it comes with a strange drawback as well.
 * You force the door open, but gain a stack of exhaustion for overexerting yourself.
@@ -73,11 +80,6 @@ Simple successes are straightforward and let the story move on without complicat
 * You succeed at finding the hidden ruins, and discover a secret entrance while you’re at it.
 * You succeed at treating the stranger’s wounds, and gain advantage on the skill check made to convince them to retreat to safety.
 * You succeed at tracking down the beast you are pursuing, and stumble upon a rich magical grove. Gain the benefits of the Harvest downtime activity.
-
-{infobox-start}
-**Setbacks and Knowledge**
-If a player chooses a setback when attempting to recall or gain information, the worldspeaker should roll 1d10 in secret. If the result is greater than or equal to the difference between the skill check result and the required difficulty, the player recalls or learns the information successfully. Otherwise, they misremember, misinterpret a fact or were simply lied to and should be told incorrect information. If they choose an opportunity, they should remember something different but related and helpful.
-{infobox-end}
 
 **Success and failure on skill checks made as part of combat is binary.** This helps keep simple skill checks with well-defined mechanics (such as the Treat or Hide minor actions) fast and fair.
 

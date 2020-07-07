@@ -13,6 +13,25 @@ body {
 	.content {
 		left: 0px;
 	}
+	
+	.infobox {
+		position: absolute;
+		left: 105%;
+		width: 50%;
+	}
+}
+
+.infobox {
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.infobox p:nth-last-of-type(1) {
+	margin-bottom: 0px;
+}
+
+.infobox p:nth-of-type(1) {
+	margin: 0px;
 }
 
 .markdown-section table {

@@ -25,6 +25,18 @@ You have disadvantage on all basic attacks except against the creature(s) you ar
 You cannot make Grapple attacks. You may end this status on yourself (and the Grappled status on your target) at the start or end of any of your turns.
 
 ## Flying
+
+<div class="infobox">
+
+**This is not a flight simulator**
+
+Flying in combat in this game is deliberately unrealistic, optimizing for fun and interesting gameplay that captures some of the fun of flight in fantasy combat without destroying the game’s balance or grinding combat to a halt.
+
+If you find yourself worrying about whether you can outrange the archers on the ground, or how movement speeds work when you are in fact travelling in 3 dimensions, or whether your character can really fly while wearing a full suit of armor: you’re probably operating at the wrong level of abstraction. Be generous to the players and monsters who have invested in the ability to fly, and don’t use combat rules to resolve scenes that don’t have interesting combat counterplay.
+
+Falling damage is determined on a per-scene basis due to **vantages** present in the environment. Rather than worrying about the biomechanics of coconut-laden swallows, and the amount of damage that said coconut would suffer when dropped from a tremendous height (and the damage that a hapless victim would suffer as it landed on their head), relax and enjoy the fiction of the game for its own sake!
+</div>
+
 If you have the ability to fly, you can spend half your movement to take flight. While flying:
 * You can pass through enemy tiles, and enemies can pass through your tiles.
 * You ignore the effects of difficult terrain and other **ground effects.**
@@ -33,15 +45,6 @@ If you have the ability to fly, you can spend half your movement to take flight.
 * If you cannot spend movement or are knocked prone you stop flying.
 
 You may stop flying at any point during your turn by spending 5 feet of movement.
-
-{infobox-start}
-**This is not a flight simulator**
-Flying in combat in this game is deliberately unrealistic, optimizing for fun and interesting gameplay that captures some of the fun of flight in fantasy combat without destroying the game’s balance or grinding combat to a halt.
-
-If you find yourself worrying about whether you can outrange the archers on the ground, or how movement speeds work when you are in fact travelling in 3 dimensions, or whether your character can really fly while wearing a full suit of armor: you’re probably operating at the wrong level of abstraction. Be generous to the players and monsters who have invested in the ability to fly, and don’t use combat rules to resolve scenes that don’t have interesting combat counterplay.
-
-Falling damage is determined on a per-scene basis due to **vantages** present in the environment. Rather than worrying about the biomechanics of coconut-laden swallows, and the amount of damage that said coconut would suffer when dropped from a tremendous height (and the damage that a hapless victim would suffer as it landed on their head), relax and enjoy the fiction of the game for its own sake!
-{infobox-end}
 
 ## Invisible
 You cannot be seen using sight. Creatures who cannot see you are treated as if they were suffering the blinded condition with respect to attacks by and against you.

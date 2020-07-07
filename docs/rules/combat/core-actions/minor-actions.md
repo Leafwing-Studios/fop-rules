@@ -1,6 +1,16 @@
 # Minor Actions
 
 ## Activate
+
+<div class="infobox">
+
+**Priming consumables**
+
+Some consumables must be **primed** before they are **activated,** such as consumables with the tripwire affix. In this case, the affix will specify how the consumable is primed, and what activates it.
+
+In this case, the consumable’s effects (and the risk of essence overload) only occur when the activation criteria is met. Consumables may be **unprimed** by using the Activate minor action a second time before they activate.
+</div>
+
 Use a consumable, or temporarily attune to a magical item.
 
 Choose one:
@@ -9,13 +19,6 @@ Choose one:
 * Temporarily attune to a magical item until the end of your next rest, ignoring the limits on the number of arms, armor or trinkets that you could normally be attuned to. Like usual, the enchantment point total of these items must be less than or equal to your proficiency bonus.
 
 Using this action repeatedly risks **essence overload** as your body struggles to handle the intense magical energy. If you have used this action since you last completed a rest, make a Focus (Arcana) skill check. Gain 5 stacks of exhaustion, reduced by 1 stack for each 5 points of your skill check result.
-
-{infobox-start}
-**Priming consumables**
-Some consumables must be **primed** before they are **activated,** such as consumables with the tripwire affix. In this case, the affix will specify how the consumable is primed, and what activates it.
-
-In this case, the consumable’s effects (and the risk of essence overload) only occur when the activation criteria is met. Consumables may be **unprimed** by using the Activate minor action a second time before they activate.
-{infobox-end}
 
 ## Break Grapple
 Attempt to break another creature’s hold on a target, ending the grappled status on yourself or another creature within 5 feet of you. 
