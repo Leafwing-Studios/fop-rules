@@ -23,7 +23,7 @@ Roll | How do you feel about the competitive nature of your society?
 5 | I thrive with the competition.
 6 | I actively push for more competition.
 
-### Features {docsify-ignor}
+### Features {docsify-ignore}
 
 **Insatiable Curiosity:** You may use the Activate minor action one more time each rest before needing to make a Focus (Arcana) skill check made to avoid essence overload.
 
