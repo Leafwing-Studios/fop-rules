@@ -32,6 +32,8 @@ Roll | What are you best at making?
 5 | Clothing and objects made of leather and cloth.
 6 | Works of art.
 
+### Featires {docsify-ignore}
+
 **Adaptable:** Treat your Prowess as if it were one higher for the sake of determining which mundane arms and armor you can wield. At the end of each of your turns, you may gain the benefits of the Swap minor action.
 
 **Natural Talent:** Choose another Combat Talent.

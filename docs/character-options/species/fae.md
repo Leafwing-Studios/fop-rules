@@ -21,6 +21,8 @@ Roll | Why are you leaving your home?
 5 | I had a falling out with my tribe.
 6 | I want to have fun, make friends and explore the world.
 
+### Features {docsify-ignore}
+
 **Gossamer Wings:** You can fly. While you are not flying, your basic attacks have disadvantage, and all basic attacks against you have advantage.
 
 **Dart and Weave:** When you take the Dash minor action, attacks of opportunity made against you have disadvantage until the end of this turn.

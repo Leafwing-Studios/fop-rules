@@ -23,6 +23,8 @@ Roll | What did or do you do for a living?
 5 | I make things.
 6 | I buy and sell.
 
+### Features {docsify-ignore}
+
 **Backed into a Corner:** While you are at or below 20% of your maximum life you have advantage on all attacks.
 
 **Untamed:** Your body is an effective weapon all on its own. Build a set of arms with a gear score equal to half your Prowess that you have access to at all times. It gains the free hands affix but cannot have the thrown affix unless it also has the returning affix. When creating enchanted arms, you may choose to modify these arms instead, creating for example magical tattoos or claw covers, rather than an enchanted sword. If your Prowess changes, you must also modify these arms.
