@@ -27,6 +27,10 @@ Modifier | Payoff | Plausibility
 
 ## Morality
 
+Ideals reflect the NPC’s moral values: their willingness to help out because it’s the right thing to do, or refuse to help because it would be wrong to do so. In Fonts of Power, there are five **core ideals** that both players and NPCs follow to some degree: Equality, Harmony, Integrity, Liberty, and Progress. These are detailed in the Attributes and Ideals chapter of this book.
+
+Different people care about these ideals to different degrees, based on the values of their culture and their own sense of morality. Each ideal is measured by a score between 0 and 5 (inclusive), reflecting the degree to which the character cares about that ideal. Most people are neither terribly moral nor selfish, and so their ideals sum to 10. The ideals of particularly selfish characters may sum to 5, and the ideals of a particularly self-sacrificing character may sum to 15. For most NPCs you might create, beginning with a value of 2 in each ideal is a great starting point.
+
 <div class="infobox">
 
 **Moral dilemmas**
@@ -35,10 +39,6 @@ Many deals have moral factors that weigh both for and against them. For example,
 
 Suppose that the miner’s ideals are [4,3,2,1,0] in the standard alphabetical order. The value of 4 in Equality is higher than his value of 1 in Liberty, so we add 4 to the morality of the deal. However, he has a value of 3 in Harmony (which is higher than his value of 0 in Progress), so we subtract 3 from the morality of the deal. The final morality assessment is thus 1, reflecting his mixed feelings about the righteousness of the plan.
 </div>
-
-Ideals reflect the NPC’s moral values: their willingness to help out because it’s the right thing to do, or refuse to help because it would be wrong to do so. In Fonts of Power, there are five **core ideals** that both players and NPCs follow to some degree: Equality, Harmony, Integrity, Liberty, and Progress. These are detailed in the Attributes and Ideals chapter of this book.
-
-Different people care about these ideals to different degrees, based on the values of their culture and their own sense of morality. Each ideal is measured by a score between 0 and 5 (inclusive), reflecting the degree to which the character cares about that ideal. Most people are neither terribly moral nor selfish, and so their ideals sum to 10. The ideals of particularly selfish characters may sum to 5, and the ideals of a particularly self-sacrificing character may sum to 15. For most NPCs you might create, beginning with a value of 2 in each ideal is a great starting point.
 
 When the player characters propose a plan that either promotes or runs against these ideals, the morality of the deal changes from 0. If a plan significantly improves things along at least one of these ideals, select the relevant ideal that the NPC cares about the most and add its value to the morality score for this deal. If a plan significantly worsens things along at least one of these ideals,  select the relevant ideal that the NPC cares about the most and subtract its value to the morality score for this deal. Only one ideal in each direction matters for computing the morality of a deal, but both directions may be in play at a time.
 
@@ -70,6 +70,10 @@ The party may choose to lie about their deal, completely fabricating a new story
 
 ### Moral Appeal
 
+If a player succeeds on a difficulty 20 Presence (Guidance) skill check, they can attempt to temporarily change the NPCs ideals by 1 while assessing the deal, causing them to either care more strongly about the moral benefits of the task, or overlook any moral questionability. 
+
+NPCs can spot insincere moral arguments: the character making the check has advantage on this skill check if their personal value for that ideal is more extreme than the new value for the NPC’s ideal, and disadvantage if it is less extreme. 
+
 <div class="infobox">
 
 **Sincerity by example**
@@ -78,10 +82,6 @@ To illustrate the mechanics of Moral Appeal, suppose the player character’s In
 
 On the other hand, suppose the player character was attempting to convince the NPC to take responsibility for the crimes they’d committed, again engaging Integrity. As they try to temporarily increase the NPC’s Integrity by 1, they have disadvantage on this skill check. because their integrity is less extreme in the appropriate direction (now, increasing).
 </div>
-
-If a player succeeds on a difficulty 20 Presence (Guidance) skill check, they can attempt to temporarily change the NPCs ideals by 1 while assessing the deal, causing them to either care more strongly about the moral benefits of the task, or overlook any moral questionability. 
-
-NPCs can spot insincere moral arguments: the character making the check has advantage on this skill check if their personal value for that ideal is more extreme than the new value for the NPC’s ideal, and disadvantage if it is less extreme. 
 
 The party can repeat this process until they fail, but Ideals are always between 0 and 5. If they fail by 10 or more, the NPC takes offense and their loyalty is reduced by 1.
 

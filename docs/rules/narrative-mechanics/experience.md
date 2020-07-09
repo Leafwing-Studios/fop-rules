@@ -1,5 +1,16 @@
 # Experience
 
+As you adventure, your characters learn and grow from the risks that they take and the goals that they meet. This accumulated knowledge is tracked by the party and represented by **experience.**
+
+At the end of every session, work as a group to **reflect** on the notable events of the session. We recommend taking notes in point form as a **game log,** which you can refer back to in case there are questions about the events of the past.
+
+Work as a table to answer the following questions about the session that was just played. Answer the following questions honestly, then earn 1 experience for each question that you say yes to:
+1. Did we **explore** the world, learning something new and important?
+1. Did we **win someone’s trust,** causing their loyalty towards us to increase by at least 1?
+1. Did we act according to our **ideals?**
+1. Did we find, steal, craft, or earn **treasure?**
+1. Did we end the session with **at least one Resolve unspent?** If yes, reduce the Resolve that the party has by one.
+
 <div class="infobox">
 
 **Customizing Experience**
@@ -12,17 +23,6 @@ If you want to focus on a different style of story than the optimistic, adventur
 
 When selecting experience questions, try to ensure a tension between them, in order to frame interesting dilemmas for the party. Similarly, Resolve should be awarded when the players behave in a way that is somehow contrary to their self-interest: encouraging them to take the story in the desired direction when other considerations would discourage them from doing so.
 </div>
-
-As you adventure, your characters learn and grow from the risks that they take and the goals that they meet. This accumulated knowledge is tracked by the party and represented by **experience.**
-
-At the end of every session, work as a group to **reflect** on the notable events of the session. We recommend taking notes in point form as a **game log,** which you can refer back to in case there are questions about the events of the past.
-
-Work as a table to answer the following questions about the session that was just played. Answer the following questions honestly, then earn 1 experience for each question that you say yes to:
-1. Did we **explore** the world, learning something new and important?
-1. Did we **win someone’s trust,** causing their loyalty towards us to increase by at least 1?
-1. Did we act according to our **ideals?**
-1. Did we find, steal, craft, or earn **treasure?**
-1. Did we end the session with **at least one Resolve unspent?** If yes, reduce the Resolve that the party has by one.
 
 Once you’re done with those questions, **discuss what you want to do next.** This is incredibly helpful for the worldspeaker, as it lets them prepare settings and situations for you to explore during the next session.
 

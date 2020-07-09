@@ -2,13 +2,6 @@
 
 When it becomes clear that a fight is inevitable, combat begins. First split the creatures into **sides,** which fight together as allies. Typically, this will be the player characters and the monsters. Then, each side determines the **turn order** they wish to act in, without seeing the choices made by any other side.
 
-<div class="infobox">
-
-**Choosing turn order**
-
-The order in which your turns are taken is typically not of tremendous tactical importance from combat-to-combat. You can speed up play by sticking to a standard turn order for your party, in which your frontline acts before your backline, or simply using the arrangement of players around the table.
-</div>
-
 Typically, each creature takes one turn per round, and act in sequence according the following rules:
 1. The players’ side always takes the first turn. 
 1. At the end of each turn, roll a d4.
@@ -16,6 +9,13 @@ Typically, each creature takes one turn per round, and act in sequence according
 	* 4: The current side takes the next turn in its turn order.
 1. Repeat until both sides have reached the end of their turn order.
 1. Then. start a new round; rolling to see who starts the next round according to the last creature to take their turn in the round that is ending.
+
+<div class="infobox">
+
+**Choosing turn order**
+
+The order in which your turns are taken is typically not of tremendous tactical importance from combat-to-combat. You can speed up play by sticking to a standard turn order for your party, in which your frontline acts before your backline, or simply using the arrangement of players around the table.
+</div>
 
 Particularly powerful monsters tend to take multiple turns per round; these must all be completed before the round can advance.
 

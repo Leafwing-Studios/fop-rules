@@ -26,6 +26,15 @@ You cannot make Grapple attacks. You may end this status on yourself (and the Gr
 
 ## Flying
 
+If you have the ability to fly, you can spend half your movement to take flight. While flying:
+* You can pass through enemy tiles, and enemies can pass through your tiles.
+* You ignore the effects of difficult terrain and other **ground effects.**
+* Melee attacks made against you have disadvantage.
+* Attacks against you which apply forced movement or knock you prone have advantage.
+* If you cannot spend movement or are knocked prone you stop flying.
+
+You may stop flying at any point during your turn by spending 5 feet of movement.
+
 <div class="infobox">
 
 **This is not a flight simulator**
@@ -36,15 +45,6 @@ If you find yourself worrying about whether you can outrange the archers on the 
 
 Falling damage is determined on a per-scene basis due to **vantages** present in the environment. Rather than worrying about the biomechanics of coconut-laden swallows, and the amount of damage that said coconut would suffer when dropped from a tremendous height (and the damage that a hapless victim would suffer as it landed on their head), relax and enjoy the fiction of the game for its own sake!
 </div>
-
-If you have the ability to fly, you can spend half your movement to take flight. While flying:
-* You can pass through enemy tiles, and enemies can pass through your tiles.
-* You ignore the effects of difficult terrain and other **ground effects.**
-* Melee attacks made against you have disadvantage.
-* Attacks against you which apply forced movement or knock you prone have advantage.
-* If you cannot spend movement or are knocked prone you stop flying.
-
-You may stop flying at any point during your turn by spending 5 feet of movement.
 
 ## Invisible
 You cannot be seen using sight. Creatures who cannot see you are treated as if they were suffering the blinded condition with respect to attacks by and against you.

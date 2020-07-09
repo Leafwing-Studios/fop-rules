@@ -9,16 +9,16 @@ Attacks use either your **basic attack bonus** (proficiency bonus + Agility), or
 
 Basic attacks are always made against the defender’s **basic defense.** This reflects the effectiveness of their armor and their ability to dodge or parry blows. A player’s basic defense is, by default, 12 + Prowess + Agility, but wearing armor replaces the 12 + Prowess component with its own basic defense.
 
+**Special attacks** are used for unusual effects and magical spells: attempting to trip your opponent, light them on fire, banish them to another realm or so on in ways that armor won’t help defend them from.
+
+By default, each character is proficient in two special defenses of their choice. For special defenses that you are proficient in, your defense is 10 + your proficiency bonus + the corresponding attribute. For all other special defenses, your defense is 10 + half your proficiency bonus + the corresponding attribute.
+
 <div class="infobox">
 
 **Terminology for special attacks**
 
 Every special attack targets a different special defense corresponding to an attribute, and we need a fast way to distinguish this. This convention is best illustrated through an example. **A Focus attack, for example, is a special attack made against your target’s Focus special defense.** Add your special attack bonus (your proficiency bonus + your Expertise) to the d20 you rolled to make your attack, then compare it to your opponent’s Focus special defense to see if you hit. **You do not add your Focus to a Focus attack. The name refers to the relevant special defense.**
 </div>
-
-**Special attacks** are used for unusual effects and magical spells: attempting to trip your opponent, light them on fire, banish them to another realm or so on in ways that armor won’t help defend them from.
-
-By default, each character is proficient in two special defenses of their choice. For special defenses that you are proficient in, your defense is 10 + your proficiency bonus + the corresponding attribute. For all other special defenses, your defense is 10 + half your proficiency bonus + the corresponding attribute.
 
 Unless there are particularly strange extenuating circumstances (such as if your ally is being carried away on horseback, or very far away through a cloud of smoke), **you can always hit a willing creature with an attack without needing to roll.**
 
@@ -42,6 +42,10 @@ While you are in an enemy zone of control, ranged attacks that you make have dis
 
 ## Single Target and Multi Target Attacks
 
+Attacks are either **single target** or **multi target.** Many features are half as effective when used with multi target attacks, in order to preserve balance but still reward you for hitting many enemies at once.
+
+There are several commonly used terms to describe the area of effect of powers; their meaning is described in the table below.
+
 <div class="infobox">
 
 **Faster area attacks**
@@ -50,10 +54,6 @@ To accelerate the pace of combat, you may roll the same attack made against mult
 
 This has strange implications for the mechanics of combat even though the expected hit rate is the same (namely that lower defense creatures are always hit if a higher defense creature is), so we do not recommend calculating attacks this way unless you find it needed to speed up combat.
 </div>
-
-Attacks are either **single target** or **multi target.** Many features are half as effective when used with multi target attacks, in order to preserve balance but still reward you for hitting many enemies at once.
-
-There are several commonly used terms to describe the area of effect of powers; their meaning is described in the table below.
 
 **Types of area of effect**
 
