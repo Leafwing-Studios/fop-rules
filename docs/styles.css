@@ -16,6 +16,7 @@ body {
 	
 	.infobox {
 		position: absolute;
+		margin-top: -30%;
 		left: 105%;
 		width: 50%;
 	}

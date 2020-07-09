@@ -45,13 +45,6 @@ Outright failure should have consequences. If you cannot think of any meaningful
 * You fail to convince your rival to put aside your differences, and they focus their attacks on you rather than the monster.
 * You fail to discover the information you’re looking for, and must venture into the font of power totally unprepared.
 
-<div class="infobox">
-
-**Setbacks and Knowledge**
-
-If a player chooses a setback when attempting to recall or gain information, the worldspeaker should roll 1d10 in secret. If the result is greater than or equal to the difference between the skill check result and the required difficulty, the player recalls or learns the information successfully. Otherwise, they misremember, misinterpret a fact or were simply lied to and should be told incorrect information. If they choose an opportunity, they should remember something different but related and helpful.
-</div>
-
 Setbacks are a cost incurred due to pushing through to succeed in the face of serious adversity. You might:
 * You succeed at enchanting a magical item, but it comes with a strange drawback as well.
 * You force the door open, but gain a stack of exhaustion for overexerting yourself.
@@ -59,6 +52,13 @@ Setbacks are a cost incurred due to pushing through to succeed in the face of se
 * You succeed at convincing someone to help you, but aggravate the rival faction in the process, causing their loyalty towards you to decrease by 1.
 * You succeed at disarming an arcane trap but do so clumsily, drawing unwanted attention.
 * You succeed at convincing your mark to tell you where his treasure is hidden, but have roused his suspicion, giving you disadvantage on skill checks made to steal it.
+
+<div class="infobox">
+
+**Setbacks and Knowledge**
+
+If a player chooses a setback when attempting to recall or gain information, the worldspeaker should roll 1d10 in secret. If the result is greater than or equal to the difference between the skill check result and the required difficulty, the player recalls or learns the information successfully. Otherwise, they misremember, misinterpret a fact or were simply lied to and should be told incorrect information. If they choose an opportunity, they should remember something different but related and helpful.
+</div>
 
 When a skill check’s outcome is based on the final result, rather than a specific threshold (such as the Devise downtime activity or the use of Animism to learn about monsters you encounter), success at a cost means that you succeed at the tier higher than your rolled, but take a setback in exchange.
 
