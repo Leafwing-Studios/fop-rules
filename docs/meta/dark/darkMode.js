@@ -49,15 +49,23 @@ const plugin = (hook, vm) => {
   }
 
   theme = { ...defaultConfig, ...vm.config.darkMode }
-
-  hook.afterEach(function(html, next) {
+	
+	hook.mounted(function () {
+		var checked = ''
+		if (localStorage.getItem('DOCSIFY_DARK_MODE')) {
+			currColor = localStorage.getItem('DOCSIFY_DARK_MODE');
+			if (currColor === 'dark') checked = 'checked'
+		}
+		
     var darkEl = ` <div id="dark_mode">
-             <input class="container_toggle" type="checkbox" id="switch" name="mode" />
-             <label for="switch">Toggle</label>
-           </div>`
-    html = `${darkEl}${html}`
-    next(html)
-  })
+     <input class="container_toggle" type="checkbox" id="switch" name="mode" ${checked} />
+     <label for="switch">Toggle</label>
+   </div>`
+		
+		const el = window.Docsify.dom.create('div', darkEl);
+		const aside = window.Docsify.dom.find('aside');
+		window.Docsify.dom.appendTo(aside, el);
+	});
 
   hook.doneEach(function() {
     var currColor
