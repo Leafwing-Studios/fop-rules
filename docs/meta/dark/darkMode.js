@@ -7,6 +7,9 @@ const plugin = (hook, vm) => {
   }
 	
   var setColor = ({ background, toggleBtnBg, textColor, highlightColor, divider, backgroundAlt }) => {
+		var splitBackground = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(background)
+		var splitBackground = splitBackground || ['', 'ff', 'ff', 'ff']
+		
     document.documentElement.style.setProperty(
       '--docsify_dark_mode_bg',
       background
@@ -19,6 +22,10 @@ const plugin = (hook, vm) => {
 		document.documentElement.style.setProperty('--highlight_color', highlightColor)
 		document.documentElement.style.setProperty('--divider_color', divider)
 		document.documentElement.style.setProperty('--alternate_background', backgroundAlt)
+		document.documentElement.style.setProperty(
+			'--docsify_dark_mode_bg_rgb', 
+			`${parseInt(splitBackground[1], 16)}, ${parseInt(splitBackground[2], 16)}, ${parseInt(splitBackground[3], 16)}`
+		)
   }
 
   var theme = { dark: {}, light: {} }

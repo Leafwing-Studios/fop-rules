@@ -113,3 +113,9 @@ input, input::placeholder {
 .markdown-section tr:nth-of-type(2n) {
 	background-color: var(--alternate_background);
 }
+
+@media screen and (max-width: 768px) {	
+	body.close .sidebar-toggle {
+		background-color: rgba(var(--docsify_dark_mode_bg_rgb), 0.8);
+	}
+}
