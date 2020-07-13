@@ -21,8 +21,8 @@ aside {
 #dark_mode > label {
   cursor: pointer;
   text-indent: -9999px;
-  width: 55px;
-  height: 30px;
+  width: 38px;
+  height: 23px;
   background: var(--docsify_dark_mode_btn);
   margin: 0 auto;
   display: flex;
@@ -37,14 +37,14 @@ aside {
 #dark_mode > label:after {
   content: '';
   background: #fff;
-  width: 20px;
-  height: 20px;
+  width: 13px;
+  height: 13px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
   position: absolute;
   top: 5px;
-  left: 4px;
+  left: 5px;
   transition: cubic-bezier(0.68, -0.55, 0.27, 1.55) 320ms;
 }
 
@@ -69,9 +69,9 @@ html.transition *:after {
 }
 
 #dark_mode {
-  position: absolute;
-  right: 0;
-  top: -35px;
+  position: fixed;
+  right: 1%;
+  top: -0.5%;
 }
 
 .markdown-section strong {
