@@ -1,9 +1,9 @@
 const plugin = (hook, vm) => {
   var trans = () => {
     document.documentElement.classList.add('transition')
-    window.setTimeout(() => {
-      document.documentElement.classList.remove('transition')
-    }, 800)
+    // window.setTimeout(() => {
+    //   document.documentElement.classList.remove('transition')
+    // }, 800)
   }
 	
   var setColor = ({ background, toggleBtnBg, textColor, highlightColor }) => {
@@ -24,14 +24,14 @@ const plugin = (hook, vm) => {
     dark: {
       background: '#0F151A',
       toggleBtnBg: '#34495e',
-      textColor: '#BBBBAB',
-			highlightColor: '#DEDEC8',
+			textColor: '#b4b4a8',
+			highlightColor: '#c3c3b6',
     },
     light: {
-      background: 'inherit',
+      background: 'none',
       toggleBtnBg: 'var(--theme-color)',
-      textColor: 'inherit',
-			highlightColor: 'inherit',
+      textColor: '#34495e',
+			highlightColor: '#2c3e50',
     }
   }
 
