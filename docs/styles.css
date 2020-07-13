@@ -23,7 +23,7 @@ body {
 }
 
 .infobox {
-	border: 1px solid black;
+	border: 1px solid;
 	padding: 10px;
 }
 
@@ -40,13 +40,18 @@ body {
 	width: 90%;
 }
 
-.markdown-section th:nth-of-type(2) {
-	column-width: 1000px;
+.wideTable table {
+	width: 120%;
+	margin-left: -10%;
 }
-.markdown-section th:nth-of-type(3) {
+
+.markdown-section th:nth-last-of-type(1) {
 	column-width: 1000px;
 }
 
+.threeColumn th:nth-of-type(2){
+	column-width: 1000px;
+}
 .sidebar li {
 	margin: 0px 0px 0px 5px;
 }
