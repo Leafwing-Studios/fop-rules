@@ -11,6 +11,7 @@ input,
 .sidebar,
 aside {
   background: var(--docsify_dark_mode_bg);
+	color: var(--text_color);
 }
 
 #dark_mode > input[type='checkbox'] {
@@ -74,11 +75,12 @@ html.transition *:after {
   top: -35px;
 }
 
-p, 
+.markdown-section strong {
+	color: var(--highlight_color);
+}
+
 li:not(.active)>a, 
-li:before,
-h2,
-li
+li:before
 {
   color: var(--text_color) !important;
 }
@@ -87,16 +89,8 @@ input, input::placeholder {
 	color: var(--text_color);
 }
 
-.markdown-section strong {
-	color: var(--highlight_color);
-}
-
 .anchor span {
 	color: var(--text_color);
-}
-
-a.app-name-link {
-	color: var(--text_color) !important;
 }
 
 .search {
