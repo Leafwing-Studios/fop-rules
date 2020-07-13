@@ -6,11 +6,6 @@ body {
 }
 
 @media (min-width: 1550px) {
-	.wideTable table {
-		width: 160% !important;
-		margin-left: -15% !important;
-	}
-	
 	.markdown-section {
 		max-width: 45%;
 	}
