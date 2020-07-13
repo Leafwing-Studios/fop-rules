@@ -1,5 +1,4 @@
 :root {
-  --text_color: var(--theme-color);
   --docsify_dark_mode_bg: white;
   --docsify_dark_mode_btn: var(--theme-color);
 }
@@ -79,8 +78,7 @@ html.transition *:after {
 	color: var(--highlight_color);
 }
 
-li:not(.active)>a, 
-li:before
+.sidebar li:not(.active)>a
 {
   color: var(--text_color) !important;
 }
