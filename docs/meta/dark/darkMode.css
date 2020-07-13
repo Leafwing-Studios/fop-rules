@@ -6,7 +6,6 @@ html,
 body,
 main,
 input,
-.sidebar-toggle,
 .sidebar,
 aside {
   background: var(--docsify_dark_mode_bg);
@@ -70,8 +69,8 @@ html.transition *:after {
 
 #dark_mode {
   position: fixed;
-  right: 1%;
-  top: -0.5%;
+  left: 255px;
+  top: 94.4%;
 }
 
 .markdown-section strong {
@@ -114,8 +113,18 @@ input, input::placeholder {
 	background-color: var(--alternate_background);
 }
 
-@media screen and (max-width: 768px) {	
+.sidebar-toggle {
+	width: 255px;
+	background-color: rgba(var(--docsify_dark_mode_bg_rgb), 0.8);
+}
+
+@media screen and (max-width: 768px) {
+	.sidebar-toggle {
+		width: 0;
+	}
+	
 	body.close .sidebar-toggle {
+		width: 255px;
 		background-color: rgba(var(--docsify_dark_mode_bg_rgb), 0.8);
 	}
 }
