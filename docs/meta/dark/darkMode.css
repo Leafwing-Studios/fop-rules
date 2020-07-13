@@ -73,6 +73,15 @@ html.transition *:after {
   right: 0;
   top: 0;
 }
+
 p {
   color: var(--text_color);
+}
+
+.markdown-section strong {
+	color: var(--highlight_color);
+}
+
+.anchor span {
+	color: var(--highlight_color);
 }

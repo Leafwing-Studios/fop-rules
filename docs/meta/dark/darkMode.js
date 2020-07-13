@@ -5,7 +5,8 @@ const plugin = (hook, vm) => {
       document.documentElement.classList.remove('transition')
     }, 800)
   }
-  var setColor = ({ background, toggleBtnBg, textColor }) => {
+	
+  var setColor = ({ background, toggleBtnBg, textColor, highlightColor }) => {
     document.documentElement.style.setProperty(
       '--docsify_dark_mode_bg',
       background
@@ -15,19 +16,22 @@ const plugin = (hook, vm) => {
       toggleBtnBg
     )
     document.documentElement.style.setProperty('--text_color', textColor)
+		document.documentElement.style.setProperty('--highlight_color', highlightColor)
   }
 
   var theme = { dark: {}, light: {} }
   var defaultConfig = {
     dark: {
-      background: '#1c2022',
+      background: '#0F151A',
       toggleBtnBg: '#34495e',
-      textColor: '#b4b4b4'
+      textColor: '#BBBBAB',
+			highlightColor: '#DEDEC8',
     },
     light: {
       background: 'inherit',
       toggleBtnBg: 'var(--theme-color)',
       textColor: 'inherit',
+			highlightColor: 'inherit',
     }
   }
 
