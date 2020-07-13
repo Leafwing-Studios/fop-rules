@@ -127,4 +127,12 @@ input, input::placeholder {
 		width: 255px;
 		background-color: rgba(var(--docsify_dark_mode_bg_rgb), 0.8);
 	}
+	
+	#dark_mode {
+		visibility: hidden;
+	}
+	
+	body.close #dark_mode {
+		visibility: visible;
+	}
 }
