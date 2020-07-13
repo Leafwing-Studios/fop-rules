@@ -6,6 +6,11 @@ body {
 }
 
 @media (min-width: 1550px) {
+	.wideTable table {
+		width: 160% !important;
+		margin-left: -15% !important;
+	}
+	
 	.markdown-section {
 		max-width: 45%;
 	}
@@ -40,13 +45,18 @@ body {
 	width: 90%;
 }
 
-.markdown-section th:nth-of-type(2) {
-	column-width: 1000px;
+.wideTable table {
+	width: 120%;
+	margin-left: -10%;
 }
-.markdown-section th:nth-of-type(3) {
+
+.markdown-section th:nth-last-of-type(1) {
 	column-width: 1000px;
 }
 
+.threeColumn th:nth-of-type(2){
+	column-width: 1000px;
+}
 .sidebar li {
 	margin: 0px 0px 0px 5px;
 }

@@ -17,6 +17,8 @@ Self-interest is the selfish calculation of “what’s in it for me”. There a
 
 **Payoff and Plausibility modifiers**
 
+<div class="threeColumn">
+
 Modifier | Payoff | Plausibility
 -- | -- | --
 -2 | The benefit of success is much less than the cost of failure. | Success is dramatically less likely than failure.
@@ -24,6 +26,8 @@ Modifier | Payoff | Plausibility
 0 | The benefit of success is about the same as the cost of failure. | Success and failure are about equally likely.
 1 | The benefit of success is greater than the cost of failure. | Success is more likely than failure.
 2 | The benefit of success is much greater than the cost of failure. | Success is dramatically more likely than failure.
+
+</div>
 
 ## Morality
 

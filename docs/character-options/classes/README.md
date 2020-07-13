@@ -28,6 +28,8 @@ Positions and roles listed in dark gray require more specific character choices 
 
 The Complexity column in the table below is designed to reflect the class’s skill floor: the initial challenge involved in becoming proficient with a particular class as a player that is new to *Fonts of Power.*
 
+<div class="wideTable">
+
 Class | Playstyle | Position | Roles | Complexity | Description
 -- | -- | -- | -- | -- | --
 Ascendant | Martial | Backline, Frontline | Bruiser, Controller, Striker | Low | Basic attack brawler or grappler focused on self-improvement, customizing their natural weapons.
@@ -42,6 +44,8 @@ Soulbinder | Gish | Backline, Skirmisher | Controller, Guardian, Striker | High 
 Touched | Gish | Skirmisher | Bruiser, Striker | Medium | Two entities bound to the same form slowly learn to work together as they dance across the battlefield, blending melee strikes, ranged attacks, and simple custom spells.
 Trickster | Martial | Skirmisher | Controller, Striker | Low | Masters of luck itself, they play the odds as they roll the dice on huge attacks and set off devious delayed- 
 Weaver | Caster | Backline | Controller, Guardian, Striker | Medium | Weave together simple patterns into a brilliant tapestry by carefully choosing which ones to sustain indefinitely.
+
+</div>
 
 ## Sections {docsify-ignore}
 * [Ascendant](character-options/classes/ascendant.md)
