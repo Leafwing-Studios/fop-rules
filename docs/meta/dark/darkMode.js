@@ -51,8 +51,14 @@ const plugin = (hook, vm) => {
   theme = { ...defaultConfig, ...vm.config.darkMode }
 
   hook.afterEach(function(html, next) {
+		var checked = ''
+		if (localStorage.getItem('DOCSIFY_DARK_MODE')) {
+			currColor = localStorage.getItem('DOCSIFY_DARK_MODE');
+			if (currColor === 'dark') checked = 'checked'
+		}
+		
     var darkEl = ` <div id="dark_mode">
-             <input class="container_toggle" type="checkbox" id="switch" name="mode" />
+             <input class="container_toggle" type="checkbox" id="switch" name="mode" ${checked} />
              <label for="switch">Toggle</label>
            </div>`
     html = `${darkEl}${html}`
