@@ -4,3 +4,4 @@ This section details all the options and choices available to players when creat
 ### Sections
 * [Character Creation](character-options/character-creation/)
 * [Species](character-options/species/)
+* [Classes](character-options/classes/)
