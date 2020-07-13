@@ -39,9 +39,6 @@ Roll | Why did you leave your original role?
 **Inorganic:** You do not need to eat, drink, breathe or sleep. However, you must be maintained, either by yourself or a skilled technician, for 4 hours per day or you begin to malfunction, suffering exhaustion as other species do when they don’t sleep.
 
 ## Combat
-**Lock-On:** Whenever you use the Scan minor action, select a creature. You gain advantage on attacks made against that creature until the end of your next turn.
-
-**Optimized:** You are proficient in Athletics. 
 
 Roll | How do you feel about having been made as a weapon of war?
 -- | --
@@ -52,13 +49,11 @@ Roll | How do you feel about having been made as a weapon of war?
 5 | I’ve removed what I can of my original capabilities.
 6 | I hate that I was made to hurt people.
 
+**Lock-On:** Whenever you use the Scan minor action, select a creature. You gain advantage on attacks made against that creature until the end of your next turn.
+
+**Optimized:** You are proficient in Athletics. 
 
 ## Industry
-**Repurposed:** Your body is an effective weapon all on its own. Build a set of arms with a gear score equal to half (your Prowess plus one) that you have access to at all times. It gains the free hands affix but cannot have the thrown affix unless it also has the returning affix. When creating enchanted arms, you may choose to modify these arms instead, creating for example an extremely dangerous saw or flaming welding torch, rather than an enchanted sword. If your Prowess changes, you must also modify these arms.
-
-Whenever you make a basic attack, you may choose to use these arms in place of the arms you have equipped without the use of the Swap minor action.
-
-**Multitool:** Select three pieces of adventuring gear. They are built into your body. You do not need to roll the Supply die in order to access them.
 
 Roll | Why were you originally created?
 -- | --
@@ -69,11 +64,14 @@ Roll | Why were you originally created?
 5 | I was created to serve as an employee.
 6 | I was created to act as a successor for a retiring master craftsperson.
 
+**Repurposed:** Your body is an effective weapon all on its own. Build a set of arms with a gear score equal to half (your Prowess plus one) that you have access to at all times. It gains the free hands affix but cannot have the thrown affix unless it also has the returning affix. When creating enchanted arms, you may choose to modify these arms instead, creating for example an extremely dangerous saw or flaming welding torch, rather than an enchanted sword. If your Prowess changes, you must also modify these arms.
+
+Whenever you make a basic attack, you may choose to use these arms in place of the arms you have equipped without the use of the Swap minor action.
+
+**Multitool:** Select three pieces of adventuring gear. They are built into your body. You do not need to roll the Supply die in order to access them.
+
 
 ## Service
-**Lightweight:** Your movement speed is increased by 10 feet.
-
-**Tactful:** You are proficient in Charm.
 
 Roll | What field were you originally designed to work in?
 -- | --
@@ -83,3 +81,7 @@ Roll | What field were you originally designed to work in?
 4 | Companionship.
 5 | Secretarial work.
 6 | Politics.
+
+**Lightweight:** Your movement speed is increased by 10 feet.
+
+**Tactful:** You are proficient in Charm.
