@@ -6,7 +6,7 @@ const plugin = (hook, vm) => {
     }, 210)
   }
 	
-  var setColor = ({ background, toggleBtnBg, textColor, highlightColor, divider }) => {
+  var setColor = ({ background, toggleBtnBg, textColor, highlightColor, divider, backgroundAlt }) => {
     document.documentElement.style.setProperty(
       '--docsify_dark_mode_bg',
       background
@@ -18,6 +18,7 @@ const plugin = (hook, vm) => {
     document.documentElement.style.setProperty('--text_color', textColor)
 		document.documentElement.style.setProperty('--highlight_color', highlightColor)
 		document.documentElement.style.setProperty('--divider_color', divider)
+		document.documentElement.style.setProperty('--alternate_background', backgroundAlt)
   }
 
   var theme = { dark: {}, light: {} }
@@ -25,9 +26,10 @@ const plugin = (hook, vm) => {
     dark: {
       background: '#0F151A',
       toggleBtnBg: '#34495e',
-			textColor: '#b4b4a8',
-			highlightColor: '#c3c3b6',
+			textColor: '#c4c4b8',
+			highlightColor: '#d3d3c6',
 			divider: '#454555',
+			backgroundAlt: '#161F26',
     },
     light: {
       background: 'none',
@@ -35,6 +37,7 @@ const plugin = (hook, vm) => {
       textColor: '#34495e',
 			highlightColor: '#2c3e50',
 			divider: '#eee',
+			backgroundAlt: '#f8f8f8',
     }
   }
 
