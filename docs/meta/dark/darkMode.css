@@ -6,6 +6,7 @@
 html,
 body,
 main,
+input,
 .sidebar-toggle,
 .sidebar,
 aside {
@@ -73,8 +74,17 @@ html.transition *:after {
   top: -35px;
 }
 
-p {
-  color: var(--text_color);
+p, 
+li:not(.active)>a, 
+li:before,
+h2,
+li
+{
+  color: var(--text_color) !important;
+}
+
+input, input::placeholder {
+	color: var(--text_color);
 }
 
 .markdown-section strong {
@@ -85,6 +95,21 @@ p {
 	color: var(--text_color);
 }
 
-.sidebar h1 {
-	color: var(--text_color);
+a.app-name-link {
+	color: var(--text_color) !important;
+}
+
+.search {
+	border-bottom-color: var(--divider_color) !important;
+}
+.matching-post {
+	border-bottom-color: var(--divider_color) !important;
+}
+
+.docsify-pagination-container {
+	border-top-color: var(--divider_color) !important;
+}
+
+.sidebar {
+	border-right-color: var(--divider_color) !important;
 }

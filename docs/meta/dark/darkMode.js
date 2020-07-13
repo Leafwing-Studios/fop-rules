@@ -1,12 +1,12 @@
 const plugin = (hook, vm) => {
   var trans = () => {
     document.documentElement.classList.add('transition')
-    // window.setTimeout(() => {
-    //   document.documentElement.classList.remove('transition')
-    // }, 800)
+    window.setTimeout(() => {
+      document.documentElement.classList.remove('transition')
+    }, 800)
   }
 	
-  var setColor = ({ background, toggleBtnBg, textColor, highlightColor }) => {
+  var setColor = ({ background, toggleBtnBg, textColor, highlightColor, divider }) => {
     document.documentElement.style.setProperty(
       '--docsify_dark_mode_bg',
       background
@@ -17,6 +17,7 @@ const plugin = (hook, vm) => {
     )
     document.documentElement.style.setProperty('--text_color', textColor)
 		document.documentElement.style.setProperty('--highlight_color', highlightColor)
+		document.documentElement.style.setProperty('--divider_color', divider)
   }
 
   var theme = { dark: {}, light: {} }
@@ -26,12 +27,14 @@ const plugin = (hook, vm) => {
       toggleBtnBg: '#34495e',
 			textColor: '#b4b4a8',
 			highlightColor: '#c3c3b6',
+			divider: '#454555',
     },
     light: {
       background: 'none',
       toggleBtnBg: 'var(--theme-color)',
       textColor: '#34495e',
 			highlightColor: '#2c3e50',
+			divider: '#eee',
     }
   }
 
