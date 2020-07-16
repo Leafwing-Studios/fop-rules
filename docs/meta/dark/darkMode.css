@@ -129,10 +129,12 @@ input, input::placeholder {
 	}
 	
 	#dark_mode {
-		visibility: hidden;
+		left: -45px;
+		top: 2330px;
+		position: absolute;
 	}
 	
 	body.close #dark_mode {
-		visibility: visible;
+		transform: translateX(300px);
 	}
 }
