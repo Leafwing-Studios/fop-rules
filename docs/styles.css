@@ -12,6 +12,17 @@ a:hover {
 	text-decoration: underline;
 }
 
+.markdown-section h1>a,
+.markdown-section h2>a,
+.markdown-section h3>a,
+.markdown-section h4>a,
+.markdown-section h5>a,
+.markdown-section h6>a
+{
+	color: var(--text_color);
+	text-decoration-color: var(--theme-color);
+}
+
 @media (min-width: 1550px) {
 	.markdown-section {
 		max-width: 45%;
