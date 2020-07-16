@@ -69,3 +69,8 @@
 	* [Talents](character-options/talents/)
 		* [Skill Talents](character-options/talents/skill-talents.md)
 		* [Combat Talents](character-options/talents/combat-talents.md)
+	* [Gear](character-options/gear/)
+		* [Categorizing Gear](character-options/gear/categorizing-gear.md)
+		* [Equipping Gear](character-options/gear/equipping-gear.md)
+		* [Creating Gear](character-options/gear/creating-gear.md)
+		* [Quirks, Affixes, and Prebuilt Gear](character-options/gear/quirks-affixes-prebuilt.md)
