@@ -35,6 +35,17 @@ body {
 	margin: 0px;
 }
 
+.inline-box {
+	border: 1px solid;
+	padding: 10px;
+	width: 50%;
+	margin-left: 5%;
+}
+
+.inline-box p {
+	margin: 0px;
+}
+
 .markdown-section table {
 	margin: 0 auto 1rem auto;
 	width: 90%;
