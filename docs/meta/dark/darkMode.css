@@ -130,6 +130,8 @@ input, input::placeholder {
 	
 	#dark_mode {
 		left: -45px;
+		top: 2330px;
+		position: absolute;
 	}
 	
 	body.close #dark_mode {
