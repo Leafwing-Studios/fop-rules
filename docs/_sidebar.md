@@ -66,3 +66,6 @@
 		* [Touched](character-options/classes/touched.md)
 		* [Trickster](character-options/classes/trickster.md)
 		* [Weaver](character-options/classes/weaver.md)
+	* [Talents](character-options/talents/)
+		* [Skill Talents](character-options/talents/skill-talents.md)
+		* [Combat Talents](character-options/talents/combat-talents.md)
