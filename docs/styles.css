@@ -5,6 +5,13 @@ body {
 	font-size: 17px;
 }
 
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
 @media (min-width: 1550px) {
 	.markdown-section {
 		max-width: 45%;
