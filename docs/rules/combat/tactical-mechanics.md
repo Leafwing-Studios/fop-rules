@@ -1,5 +1,21 @@
 # Tactical Mechanics
 
+## Boons
+**Boons** are benefits that you grant other creatures (typically your allies) that make them more effective in combat. The distinction mostly matters for effects which improve your boons, such as the supportive or encouraging talents. If a power has both positive and negative effects, it still counts as a boon.
+
+Effects which qualify as a boon include but are not limited to:
+* granting absorption
+* granting resistance or immunity to damage
+* granting advantage on attacks
+* causing attacks made against them to have disadvantage
+* removing conditions or afflictions, such as with the Treat minor action
+* granting additional movement
+* turning them invisible
+* granting them the benefit of an action
+
+Effects which do not, on their own, qualify as a boon include:
+* applying forced movement or shifting creatures, even if the target is an ally
+
 ## Concentration
 Many classes (Devout, Shamans, Soulbinders and Weavers) use **concentration** as a mechanic in order to maintain control over ongoing effects. Whenever you lose life while you are concentrating on an effect, you must pass a difficulty 15 Endurance **concentration check** to maintain your concentration or the effect ends. If you lost life due to physical damage, you must make a Prowess (Endurance) skill check. If it was elemental damage make a Focus (Endurance) skill check instead.
 
