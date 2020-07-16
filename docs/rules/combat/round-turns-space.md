@@ -1,4 +1,4 @@
-# Rounds and Turns
+## Rounds and Turns
 
 When it becomes clear that a fight is inevitable, combat begins. First split the creatures into **sides,** which fight together as allies. Typically, this will be the player characters and the monsters. Then, each side determines the **turn order** they wish to act in, without seeing the choices made by any other side.
 
@@ -20,7 +20,21 @@ The order in which your turns are taken is typically not of tremendous tactical 
 Particularly powerful monsters tend to take multiple turns per round; these must all be completed before the round can advance.
 
 
-## Surprise Rounds
+### Surprise Rounds
 Sometimes, one side gets the jump on the other, either by hiding or suddenly lashing out with violence. When this happens, prepare the turn order like normal. During the first round, creatures which were surprised skip their turn.
 
 Typically, an entire side will be surprised, but sometimes, such as when one character spots a hidden monster at the last moment, they will act while the rest of their allies do not.
+
+## Controlling Space
+Keeping yourself safe from someone trying to stab you requires a great deal of active attention. 
+
+Every creature has a **zone of control,** by default the tiles that it is immediately adjacent to.
+
+Whenever you **enter and leave an opponent’s zone of control in the same turn,** you provoke an **attack of opportunity,** leaving your guard down as you scramble to get past them. When this happens, they may spend their reaction to make an attack of their choice against you, so long as it does not cost essence. This is not limited to basic attacks: they may choose to hold you in place with a Grapple attack, trip you using the Shove minor action or even blast you with a spell.
+
+You can improve your ability to control space with various arms affixes, such as:
+* *reach:* The range of your melee basic attacks is increased to 10 feet, and your zone of control is increased to a 10 foot radius.
+* *proactive:* Enemies provoke an attack of opportunity whenever they leave your zone of control.
+* *reactive:* Enemies provoke an attack of opportunity whenever they enter your zone of control.
+* *opportunistic:* Enemies provoke an attack of opportunity whenever they move from a tile that is within your zone of control into another tile that is within your zone of control.
+* *zoning:* Your zone of control is increased to a 10 foot radius, but you can no longer use basic attacks, Shove or Grapple attacks for attacks of opportunity.
