@@ -9,29 +9,30 @@ Every player character has a class: the source of their magical powers. As you l
 
 By categorizing the patterns in which various classes (and characters) play in combat, we can describe their **playstyle** in a way that helps us think and communicate about how they work across several important axes. This classification is intended to act as a guide, not a prescription, helping you make quick and informed decisions during character building.
 
-#### Approach
+The  **approach** of a character describes the tools they use in combat:
 
-**Martial:** Uses traditional weaponry almost exclusively.
+* **Martial:** Uses traditional weaponry almost exclusively.
 
-**Caster:** Uses magical spells almost exclusively.
+* **Caster:** Uses magical spells almost exclusively.
 
-**Spellblade:** Combines traditional weaponry and magic spells.
+* **Spellblade:** Combines traditional weaponry and magic spells.
 
-#### Position
 
-**Frontline:** Take and land hits in melee.
+The **position** of a character reflects where they prefer to fight from, relative to the fray:
 
-**Backline:** Sling attacks from a safe distance.
+* **Frontline:** Take and land hits in melee.
 
-**Skirmisher:** Highly mobile, moving in and out between different ranges as needed.
+* **Backline:** Sling attacks from a safe distance.
 
-#### Role
+* **Skirmisher:** Highly mobile, moving in and out between different ranges as needed.
 
-**Striker:** Ensure that your opponents’ life hits 0 before your party’s does.
+The **role** of a character captures the methods that they use to help their party prevail:
 
-**Controller:** Limit your opponents’ actions by shaping the battlefield or impairing their effectiveness.
+* **Striker:** Ensure that your opponents’ life hits 0 before your party’s does.
 
-**Guardian:** Support your allies by protecting and enhancing them.
+* **Controller:** Limit your opponents’ actions by shaping the battlefield or impairing their effectiveness.
+
+* **Guardian:** Support your allies by protecting and enhancing them.
 
 When a playstyle is listed in *italics*, opting into that classification will require more specific character choices.
 
