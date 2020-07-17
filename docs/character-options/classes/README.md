@@ -80,7 +80,7 @@ Channeling raw magic into their weapons, Conduits teleport to their foes before 
 
 </div>
 
-#### Devout
+### Devout
 
 Drawing on the power of a fickle god, Devout build up favor before working incredibly powerful miracles that last as long as their concentration holds.
 
