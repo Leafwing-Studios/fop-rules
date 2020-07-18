@@ -179,7 +179,7 @@ At level 17, you learn to tweak your counterattack techniques to create openings
 
 At level 18, the collective sentience of your blade watches over your work, catching your small mistakes. Whenever your party spends Resolve to set the roll of one of your skill checks to a 15, roll a d20. If this roll is greater than or equal to your original roll for that skill check, recover that Resolve.
 
-Lineage
+# Lineages
 
 # Virtuoso
 
