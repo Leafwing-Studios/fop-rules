@@ -11,48 +11,48 @@
 * Striker: keep yourself safe through superior mobility with affixes like ineffable or flying, and then build to empower your basic attacks to deal damage with a flurry of blows.
 * Controller: apply conditions with your basic attacks using the imbued strikes affix, or focus on grappling. prioritizing the grasping appendages affix to make sure you can lock down more than one creature at once.
 
-| Roll | What do you want to become? |
-|------|-----------------------------|
-| 1    | An exemplar of my race.     |
-| 2    | A master of martial arts.   |
-| 3    | A mad scientist’s creation. |
-| 4    | An avatar of a god.         |
-| 5    | A powerful beast.           |
-| 6    | A mechanical masterpiece.   |
+| Roll  | What do you want to become? |
+| :---: | --------------------------- |
+|   1   | An exemplar of my race.     |
+|   2   | A master of martial arts.   |
+|   3   | A mad scientist’s creation. |
+|   4   | An avatar of a god.         |
+|   5   | A powerful beast.           |
+|   6   | A mechanical masterpiece.   |
 
-| Roll | Why do you care about improving yourself? |
-|------|-------------------------------------------|
-| 1    | I thirst for power at any cost.           |
-| 2    | I seek enlightenment.                     |
-| 3    | I need to fulfill my destiny.             |
-| 4    | I hate what I used to be.                 |
-| 5    | I love exploring what I can become.       |
-| 6    | I want to live forever.                   |
+| Roll  | Why do you care about improving yourself? |
+| :---: | ----------------------------------------- |
+|   1   | I thirst for power at any cost.           |
+|   2   | I seek enlightenment.                     |
+|   3   | I need to fulfill my destiny.             |
+|   4   | I hate what I used to be.                 |
+|   5   | I love exploring what I can become.       |
+|   6   | I want to live forever.                   |
 
 # Features
 
 | Level | Proficiency Bonus | Features                                               |
-|:-----:|-------------------|:------------------------------------------------------:|
-|   1   | +1                | Combination Strikes (1), Natural Offense               |
-|   2   | +1                | Meditation, Natural Defense                            |
-|   3   | +1                | Self-Improvement (2), Tranquility                      |
-|   4   | +1                | Attribute Improvement                                  |
-|   5   | +2                | Proficiency Bonus Improvement, Combination Strikes (2) |
-|   6   | +2                | Discipline                                             |
-|   7   | +2                | Blur                                                   |
-|   8   | +2                | Attribute Improvement                                  |
-|   9   | +3                | Proficiency Bonus Improvement, Combination Strikes (3) |
-|   10  | +3                | Sublimation                                            |
-|   11  | +3                | Self-Improvement (3)                                   |
-|   12  | +3                | Attribute Improvement                                  |
-|   13  | +4                | Proficiency Bonus Improvement, Combination Strikes (4) |
-|   14  | +4                | Awareness                                              |
-|   15  | +4                | Integrity                                              |
-|   16  | +4                | Attribute Improvement                                  |
-|   17  | +5                | Proficiency Bonus Improvement, Combination Strikes (5) |
-|   18  | +5                | Reincarnation                                          |
-|   19  | +5                | Attribute Improvement                                  |
-|   20  | +5                | Ascension                                              |
+| :---: | :---------------: | ------------------------------------------------------ |
+|   1   |        +1         | Combination Strikes (1), Natural Offense               |
+|   2   |        +1         | Meditation, Natural Defense                            |
+|   3   |        +1         | Self-Improvement (2), Tranquility                      |
+|   4   |        +1         | Attribute Improvement                                  |
+|   5   |        +2         | Proficiency Bonus Improvement, Combination Strikes (2) |
+|   6   |        +2         | Discipline                                             |
+|   7   |        +2         | Blur                                                   |
+|   8   |        +2         | Attribute Improvement                                  |
+|   9   |        +3         | Proficiency Bonus Improvement, Combination Strikes (3) |
+|  10   |        +3         | Sublimation                                            |
+|  11   |        +3         | Self-Improvement (3)                                   |
+|  12   |        +3         | Attribute Improvement                                  |
+|  13   |        +4         | Proficiency Bonus Improvement, Combination Strikes (4) |
+|  14   |        +4         | Awareness                                              |
+|  15   |        +4         | Integrity                                              |
+|  16   |        +4         | Attribute Improvement                                  |
+|  17   |        +5         | Proficiency Bonus Improvement, Combination Strikes (5) |
+|  18   |        +5         | Reincarnation                                          |
+|  19   |        +5         | Attribute Improvement                                  |
+|  20   |        +5         | Ascension                                              |
 
 ## Combination Strikes
 In battle, the Ascendant is an unstoppable martial force, striking their enemy with a flurry of chained blows from the improved body they have created. At level 1, whenever you hit a creature with an attack, you may spend one essence to immediately make another Strike, Grapple, Shove or Expose attack against them. At level 1, you may only use this feature once per round. The number of times per round that you can use this feature increases by one at levels 5, 9, 13 and 17.
