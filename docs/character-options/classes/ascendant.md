@@ -64,7 +64,7 @@ While you cannot usually spend essence while making attacks of opportunity, you 
 ## Natural Offense
 Each Ascendant customizes their body in unique ways, turning their body into a natural weapon. At level 1, the number of gear points that you can use for arms is now equal to your (Prowess + Presence) / 2, rather than simply your Prowess / 2. Any additional modifiers still apply.
 
-When you gain this feature, select common affixes that sum to (Prowess + Presence) / 2 as if building a set of arms to create a natural weapon that you can use to attack with at any time. Your body changes to accommodate these modifiers a way that is consistent with the modifiers selected: mutating, transforming or granting you superhuman abilities to allow you to perform feats such as grabbing your opponents with your beastly jaws, striking at them with a long scorpion tale, shooting spikes at them out of your hands or tripping enemies with incredible speed.
+When you gain this feature, select common affixes that sum to (Prowess + Presence) / 2 as if building a set of arms to create a natural weapon that you can use to attack with at any time. Your body changes to accommodate these modifiers a way that is consistent with the modifiers selected: mutating, transforming or granting you superhuman abilities to allow you to perform feats such as grabbing your opponents with your beastly jaws, striking at them with a long scorpion tail, shooting spikes at them out of your hands or tripping enemies with incredible speed.
 
 These arms cannot have the *thrown* affix unless they also have the *returning* affix.
 
