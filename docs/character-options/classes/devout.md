@@ -187,39 +187,39 @@ When you reach level 20, you are a particular favorite of your deity, easily win
 
 # Devotion
 
-# Divine
+## Divine
 Aligning themselves with a deity whose cause they believe in, the Devoted of the Divine seek to spread the word and carry out the doctrine of the god.
 
-## Consequences: Divine Displeasure
+### Consequences: Divine Displeasure
 At level 1, when the Devout of a Divine entity fails a Favor check, your deity is deeply disappointed in you. You instead immediately cast the standard version of the prayer you selected.
 
-## Augury: Vague Portents
+### Augury: Vague Portents
 At level 6, you gain access to the Vague Portents downtime activity. 
 Present a yes or no question. 
 Your worldspeaker rolls a d20, and then answers your question based on the result.
 If the result is 10 or less, you cannot discern any useful information. If the result is 11 or higher, you learn the true answer.
 
-# Malevolent
+## Malevolent
 Seeking power at any cost, those devoted to Malevolent entities are both respectful and wary of their gods.
 
-## Consequences: Power at a Price
+### Consequences: Power at a Price
 At level 1, when the Devout of a Malevolent deity fails a Favor check, they are granted the power they seek but at a great cost. You cast the Miracle version of the prayer you selected, but a hostile or adversarial creature of the worldspeaker’s choice within 60 feet also gains the benefit of an identical prayer as well.
 
 Like usual, they must maintain their concentration. If there is no appropriate adversary within range, nothing happens.
 
-## Augury: Malicious Advice
+### Augury: Malicious Advice
 At level 6, you gain access to the Malicious Advice downtime activity. 
 Present a yes or no question. 
 Your worldspeaker rolls a d20 in secret, and then answers your question based on the result.
 If the result is 5 or less, you are told the wrong answer. If the result is 6 or higher, you learn the true answer.
 
-# Primeval
+## Primeval
 Connected with the ancient powers that form the world.
 
-## Consequences: Direct Line
+### Consequences: Direct Line
 At level 1, when the Devout of a Primeval deity fails a Favor check, the miracle occurs but you are overloaded with incredible, uncontrolled magical energy. You cast the miracle version of the prayer you selected, but must make a Focus (Geomatics) skill check to mitigate the damage done by the uncontrolled energy flowing through your body. Gain 5 stacks of exhaustion, reduced by 1 stack for each 5 points of your skill check result.
 
-## Augury: Ancient Offering
+### Augury: Ancient Offering
 At level 6, you gain access to the Ancient Offering downtime activity. 
 Present a yes or no question. 
 Your worldspeaker rolls a d20, and then answers your question based on the result.

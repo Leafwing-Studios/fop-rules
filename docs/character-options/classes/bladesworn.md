@@ -181,23 +181,23 @@ At level 18, the collective sentience of your blade watches over your work, catc
 
 # Lineages
 
-# Virtuoso
+## Virtuoso
 
 Possessing talent beyond that of any mortal, the Virtuoso bladesworn live for the thrill and art of battle, putting on a spectacular show as they fight to be the very best.
 
-## Rhythmic Intensity: Deadly Performance
+### Rhythmic Intensity: Deadly Performance
 
 At level 1, you dance across the battlefield in a beautiful whirlwind of deadly steel. Whenever you hit a creature with a basic attack (or one of your counterattacks), deal additional damage to it equal to your Rhythm. The damage type is the same as the original attack, using the majority damage type if it is mixed (choosing in the event of a tie).
 
-## Weapon Bond: Summoning
+### Weapon Bond: Summoning
 
 Also at level 1, the bond between you and your sworn weapon is unbreakable. As a minor action, you may summon your sworn weapon. No matter where it is, it appears instantly in your hand.
 
-## Signature Technique: Parry
+### Signature Technique: Parry
 
 At level 11, your blade guides you, granting you access to a powerful counterattack unique to your Lineage.
 
-### Parry
+#### Parry
 
 Cost: 1
 
@@ -209,31 +209,31 @@ Duration: Instant
 
 Whenever a creature tries to make an attack of opportunity against you, you may spend a reaction to use this counterattack. Make an Expertise attack against that creature. If you hit, deal damage and apply effects as if you had landed a basic attack and their attack of opportunity automatically misses.
 
-## Direction: Challenge
+### Direction: Challenge
 
 At level 14, you can feel the blade tugging you towards its own goals. When you use the Scan minor action your blade points at the path towards the most skilled opponent (based on level or tier) that you have not yet fought within a mile.
 
-## Rhythmic Possession: Flawless
+### Rhythmic Possession: Flawless
 
 At level 20, as the frenzy of battle washes over you completely, you become one with the blade you are sworn to. When you are at 5 stacks of Rhythm or above, every basic attack and counterattack that you make automatically hits, no matter what you rolled. You should still roll to determine whether or not you landed a critical hit.
 
-# Cursed Blade
+## Cursed Blade
 
 Inescapably bound to their wielder, the Cursed Blade thirsts for blood, whispering in their ear incessantly. While the wielder ultimately decides how to respond to this temptation, and how to use the power offered, they must live with the knowledge that their soul will one day join the hungering voices.
 
-## Rhythmic Intensity: Bloodlust
+### Rhythmic Intensity: Bloodlust
 
 At level 1, you cut your way through the battlefield in an increasingly brutal fashion. The critical hit threshold for your basic attacks (and counterattacks) is reduced by your Rhythm.
 
-## Weapon Bond: Inescapable Curse
+### Weapon Bond: Inescapable Curse
 
 Also at level 1, the bond between you and your sworn weapon is unbreakable. No matter what you might do, you cannot get rid of the thing. Whether you attempt to destroy it, give it away or lose it, it always reappears back in your possession by the end of your next natural rest. Immediately after you hit a creature with an attack with another weapon (and are not wielding this weapon), it suddenly appears in your hands instead, and you later discover the other weapon stowed safely away in your belongings.
 
-## Signature Technique: Thirst
+### Signature Technique: Thirst
 
 At level 11, your blade guides you, granting you access to a powerful counterattack that allows you to continue your deadly streak.
 
-### Thirst
+#### Thirst
 
 Cost: 1
 
@@ -245,33 +245,33 @@ Duration: Instant
 
 Whenever you reduce a creature to 0 life, you may spend a reaction to use this counterattack. Make a Focus attack against another creature of your choice within range of your weapon. If you hit, deal damage and apply effects as if you had landed a basic attack and regain 1d6 life.
 
-## Direction: Reaper
+### Direction: Reaper
 
 At level 14, you can feel the blade tugging you towards its own goals. When you use the Scan minor action your blade points towards the path to the creature closest to death (by percentage of life remaining) within a mile.
 
-## Rhythmic Possession: Whirlwind
+### Rhythmic Possession: Whirlwind
 
 At level 20, as the frenzy of battle washes over you completely you become one with the blade you are sworn to, carving up everything in your path. When you are at 5 or more stacks of Rhythm, basic attacks (and counterattacks) you make target all creatures within your zone of control. Make sure to roll these attacks separately: missing on even one of these attacks resets your Rhythm to 0.
 
 If your basic attacks are ranged, they instead hit all creatures within a cone with a length equal to the range of your weapon.
 
-# Ancestral Guardian
+## Ancestral Guardian
 
 Proud bearers of the revered armaments of their lineage (genetic or otherwise), Ancestral Guardians devote themselves to the protection of the things they hold dear, guided by the wisdom of their ancestors.
 
-## Rhythmic Intensity: Stand Your Ground
+### Rhythmic Intensity: Stand Your Ground
 
 At level 1, you stand firm in the face of overwhelming odds, bolstered by the heft of your blows. Whenever you hit a creature with a basic attack (or one of your counterattacks), gain absorption equal to your Rhythm. If your attack was a critical hit, gain absorption equal to twice your Rhythm instead.
 
-## Weapon Bond: Spirit Weapon
+### Weapon Bond: Spirit Weapon
 
 Also at level 1, the bond between you and your sworn weapon is unbreakable. The weapon you are bound to is spiritual in nature. It has a clearly otherworldly nature and appears out of thin air. As a minor action, you can cause your bound weapon to appear in your hands or disappear completely.
 
-## Signature Technique: Intervene
+### Signature Technique: Intervene
 
 At level 11, your blade guides you, granting you access to a powerful counterattack that protects your allies from harm.
 
-### Intervene
+#### Intervene
 
 Cost: 1
 
@@ -283,10 +283,10 @@ Duration: Instant
 
 Whenever an ally is hit by an attack, you may spend a reaction to use this counterattack. Make an Agility attack against the creature who struck your ally. If you hit, deal damage and apply effects as if you had landed a basic attack, and your opponent must reroll the attack roll they just made. Your opponent uses the new result, hit or miss.
 
-## Direction: Feud
+### Direction: Feud
 
 At level 14, you can feel the blade tugging you towards its own goals. When you use the Scan minor action your blade points towards the path to the creature within one mile with the least loyalty towards you.
 
-## Rhythmic Possession: Forebearers’ Fortification
+### Rhythmic Possession: Forebearers’ Fortification
 
 At level 20, as the frenzy of battle washes over you completely, you become one with the blade you are sworn to. When you are at 5 stacks of Rhythm or above, you automatically gain the benefits of the Block reaction when you are hit with an attack. You may not use the Block reaction (or benefit from any other effects that grant its effect) while this effect is active.
