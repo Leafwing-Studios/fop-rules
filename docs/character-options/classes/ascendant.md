@@ -29,7 +29,7 @@
 |   5   | I love exploring what I can become.       |
 |   6   | I want to live forever.                   |
 
-# Features
+# Class Features
 
 | Level | Proficiency Bonus | Features                                               |
 | :---: | :---------------: | ------------------------------------------------------ |
@@ -94,7 +94,6 @@ When you reach level 3, maintaining your tranquility in the face of danger only 
 
 ## Attribute Improvement
 When you reach level 4, 8, 12, 16 and 19 you become tangibly more talented, and can increase one Attribute of your choice by 1. As normal, you can’t increase your score above +5 in this way.
-
 
 ## Proficiency Bonus Improvement
 At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the table below.
