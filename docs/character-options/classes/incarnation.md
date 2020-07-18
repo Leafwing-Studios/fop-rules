@@ -1,7 +1,7 @@
 # Incarnation
 **Source of Power:** Wellsprings of raw emotion, Incarnations focus their feelings to become somehow larger than life.
 
-**Core Mechanic:** As Incarnations bide their time in combat, their Emotion grows, which can be to grant them additional major actions in a turn. Spending essence to Transform,, they gain tremendous, straightforward power, but their Emotion slowly ticks down, until they return to their normal form and it begins to grow again.
+**Core Mechanic:** As Incarnations bide their time in combat, their Emotion grows, which can be used to grant them additional major actions in a turn. Spending essence to Transform,, they gain tremendous, straightforward power, but their Emotion slowly ticks down, until they return to their normal form and it begins to grow again.
 
 **Specialization:** Each Incarnation specializes in a particular emotion, which dictates the mechanics of both the offensive and defensive components of their transformation.
 
