@@ -31,7 +31,7 @@ As your characters adventure, they will inevitably both grow and change, shaped 
 
 When you level up:
 * Gain all of the **features** listed in the next level of your class.
-* Increase your maximum **life** by 5. It should always be 5 times (your level plus 5).
+* Increase your maximum **life** by 5 (total should be 25 + 5 × your level)
 * If your proficiency bonus or Focus changed, recalculate your maximum **essence** as proficiency bonus × (6 + Focus).
 * **You may change up to two choices** that you made about your character in the past, replacing:
 	* Your combat or skill talent
@@ -43,6 +43,27 @@ When you level up:
 		* The details of gear built as part of one of your features, such as the wild combat talent
 	* The value of one of your ideals, changing it by up to 2 in either direction
 	* The values of two of your attributes, taking 1 point from a single attribute and assigning it to another.
+
+At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the table below.
+
+| Level | Proficiency Bonus |
+| ----- | ----------------- |
+| 1-4   | +1                |
+| 5-8   | +2                |
+| 9-12  | +3                |
+| 13-16 | +4                |
+| 17-20 | +5                |
+
+When this happens, you should change:
+* your proficient skill checks (proficiency bonus + attribute)
+* your basic attack bonus (proficiency bonus + Agility)
+* your special attack bonus (proficiency bonus + Expertise)
+* your special defenses (either proficiency bonus + attribute or 1/2 × proficiency bonus + attribute)
+* your maximum essence, which should be your proficiency bonus × (6 + Focus)
+
+The following features also change, because they rely on your proficiency bonus:
+* the enchantment gear gear point totals of each of your pieces of gear ()
+* the amount of essence you can spend with many of your features
 
 **These modifications reflect your character’s growth and change over the course of the campaign,** rather than a retroactive change to who they were.  If you wish to make a more significant change, such as to your species or class, ensure you have the table’s support. This risks more serious issues with story continuity and it may be simpler to instead create a new character.
 
