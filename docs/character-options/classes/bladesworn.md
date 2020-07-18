@@ -199,13 +199,13 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 #### Parry
 
-Cost: 1
+**Cost:** 1
 
-Casting time: Reaction
+**Casting time:** Reaction
 
-Range: Weapon
+**Range:** Weapon
 
-Duration: Instant
+**Duration:** Instant
 
 Whenever a creature tries to make an attack of opportunity against you, you may spend a reaction to use this counterattack. Make an Expertise attack against that creature. If you hit, deal damage and apply effects as if you had landed a basic attack and their attack of opportunity automatically misses.
 
@@ -235,13 +235,13 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 #### Thirst
 
-Cost: 1
+**Cost:** 1
 
-Casting time: Reaction
+**Casting time:** Reaction
 
-Range: Weapon
+**Range:** Weapon
 
-Duration: Instant
+**Duration:** Instant
 
 Whenever you reduce a creature to 0 life, you may spend a reaction to use this counterattack. Make a Focus attack against another creature of your choice within range of your weapon. If you hit, deal damage and apply effects as if you had landed a basic attack and regain 1d6 life.
 
@@ -273,13 +273,13 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 #### Intervene
 
-Cost: 1
+**Cost:** 1
 
-Casting time: Reaction
+**Casting time:** Reaction
 
-Range: Weapon
+**Range:** Weapon
 
-Duration: Instant
+**Duration:** Instant
 
 Whenever an ally is hit by an attack, you may spend a reaction to use this counterattack. Make an Agility attack against the creature who struck your ally. If you hit, deal damage and apply effects as if you had landed a basic attack, and your opponent must reroll the attack roll they just made. Your opponent uses the new result, hit or miss.
 
