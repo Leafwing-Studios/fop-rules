@@ -96,6 +96,22 @@ When you gain your second pairing of elements at level 7, you can Detonate each 
 ## Power Siphon
 Also at level 3, you gain the ability to leech magical power from those you attack. The first time each round that you hit an enemy with a basic attack, restore 1 essence. If it was a critical hit, restore 2 essence instead.
 
+## Attribute Improvement
+When you reach level 4, 8, 12, 16 and 19 you become tangibly more talented, and can increase one Attribute of your choice by 1. As normal, you can’t increase your score above +5 in this way.
+
+## Proficiency Bonus Improvement
+At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the table below.
+
+| Level | Proficiency Bonus |
+| ----- | ----------------- |
+| 1-4   | +1                |
+| 5-8   | +2                |
+| 9-12  | +3                |
+| 13-16 | +4                |
+| 17-20 | +5                |
+
+See the Leveling Up section in the Narrative Mechanics chapter for a reminder of the factors that change when this occurs.
+
 ## Spell Mirror
 When you reach level 5, you learn the ability to mirror the spells you cast. Whenever you cast a spell, you may copy it some number of times based on your level. For each copy you cast, you must spend one essence and may choose a new target. These copies resolve in the order of your choice and casting multiple copies affects your exposure multiple times, as you would expect. Whenever you cast a spell, you can create a total number of copies of it equal to your proficiency bonus, at the cost of 1 essence per copy.
 
