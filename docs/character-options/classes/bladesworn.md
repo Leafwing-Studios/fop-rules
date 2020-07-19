@@ -124,10 +124,6 @@ At level 3, you dance with the music of battle, hypnotizing your foe with a flur
 Also at level 3, the collective memories of the blade bolster you, giving you hope even when you fail. Whenever you miss with a basic attack or one of your counterattacks, regain 1 essence.
 
 ## Attribute Improvement
-
-When you reach level 4, 8, 12, 16 and 19 you become tangibly more talented, and can increase one Attribute of your choice by 1. As usual, you can’t increase your score above +5 in this way.
-
-## Attribute Improvement
 When you reach level 4, 8, 12, 16 and 19 you become tangibly more talented, and can increase one Attribute of your choice by 1. As normal, you can’t increase your score above +5 in this way.
 
 ## Proficiency Bonus Improvement
