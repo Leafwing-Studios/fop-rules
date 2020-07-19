@@ -7,7 +7,7 @@ Use a consumable, or temporarily attune to a magical item.
 Choose one:
 * Gain the benefits of a consumable magic item whose gear point total is less than or equal to your proficiency bonus. These are created using the Devise downtime activity.
 * Consume essence crystals directly to restore essence. You may only consume an amount less than or equal to your proficiency bonus at a time. Restore essence equal to 5 times the number of essence crystals consumed.
-* Temporarily attune to a magical item until the end of your next rest, ignoring the limits on the number of arms, armor or trinkets that you could normally be attuned to. Like usual, the enchantment point total of these items must be less than or equal to your proficiency bonus.
+* Temporarily attune (or unattune) to a magical item until the end of your next rest, ignoring your attunement limit. Like usual, the enchantment gear point total of these items must be less than or equal to your proficiency bonus.
 
 Using this action repeatedly risks **essence overload** as your body struggles to handle the intense magical energy. If you have used this action since you last completed a rest, make a Focus (Arcana) skill check. Gain 5 stacks of exhaustion, reduced by 1 stack for each 5 points of your skill check result.
 
@@ -58,21 +58,21 @@ Attempt to gain information about your surroundings using one of your skills. Th
 * a Focus (Medicine) skill check to estimate the current life and essence of a creature, according to the following table
 * an Expertise (Arcana) skill check to determine the nature of a magical effect, according to the following table
 
-Expertise (Medicine) check result | Information gained
--- | -- 
-5 | Is the creature above or below half life? Does it have any essence remaining?
-10 | What percentage of life and essence are they at, rounded to the nearest 25%?
-15 | What percentage of life and essence are they at, rounded to the nearest 10%?
-20 | What percentage of life and essence are they at, rounded to the nearest 5%?
-25 | What is their current and total maximum life and essence?
+| Expertise (Medicine) check result | Information gained                                                            |
+| --------------------------------- | ----------------------------------------------------------------------------- |
+| 5                                 | Is the creature above or below half life? Does it have any essence remaining? |
+| 10                                | What percentage of life and essence are they at, rounded to the nearest 25%?  |
+| 15                                | What percentage of life and essence are they at, rounded to the nearest 10%?  |
+| 20                                | What percentage of life and essence are they at, rounded to the nearest 5%?   |
+| 25                                | What is their current and total maximum life and essence?                     |
 
-Expertise (Arcana) check result | Information Gained
--- | -- 
-5 | Is there magic?
-10 | Is this magic helpful, harmful, neither or both?
-15 | What’s the approximate nature of the magic?
-20 | What sort of creature or effect created the magic?
-25 | What exactly does the magic do?
+| Expertise (Arcana) check result | Information Gained                                 |
+| ------------------------------- | -------------------------------------------------- |
+| 5                               | Is there magic?                                    |
+| 10                              | Is this magic helpful, harmful, neither or both?   |
+| 15                              | What’s the approximate nature of the magic?        |
+| 20                              | What sort of creature or effect created the magic? |
+| 25                              | What exactly does the magic do?                    |
 
 ## Shove
 Make a Prowess attack against a creature within 5 feet of you. If you hit, you may choose to either knock them prone or push them 5 feet into an empty tile of your choice. 
