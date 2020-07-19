@@ -214,7 +214,7 @@ Threads of magic begin to come undone as the Weave shies away from a creature of
 World Weaving: Mass Annihilation
 At level 18, your ability to carefully unweave existence is terrifying and world-shaking, letting you snip whole buildings or locations out of the fabric of reality. You may now affect up to a 300 foot cube of material with your Unweave downtime activity.
 
-# Maker
+## Maker
 An optimistic guild open to any who might display signs of this talent, they ply their crafts as the most expert craftspeople in the entire realm. Working with the very fabric of reality, they toil to create splendours, both magical and mundane for the love of art, the good of the people or unimaginable wealth.
 
 Deeply prized, the few masters of this work are often sought after by the powerful as a unique tool, whether in pursuit of prosperity, vanity, or war. Commoners are easily awed (and often envious), but those who show a true love for creation have much to learn from any of the Guild of Makers that they might encounter.
