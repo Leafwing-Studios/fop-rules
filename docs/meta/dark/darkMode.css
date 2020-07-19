@@ -70,7 +70,7 @@ html.transition *:after {
 #dark_mode {
   position: fixed;
   left: 255px;
-  top: 94.4%;
+	bottom: 9px;
 }
 
 .markdown-section strong {
