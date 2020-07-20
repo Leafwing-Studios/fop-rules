@@ -45,6 +45,6 @@ When the combatants are at different height tiers:
 * When the creature on the higher tier is one tile back from the relevant edge of their tier, both creatures have full cover.
 
 ### Falling {docsify-ignore}
-When falling from a higher tier to a lower one, characters take damage based on the height fallen. Jumping down to another tier inflicts falling damage but does not cost extra movement. 
+When falling from a higher tier to a lower one, characters take damage based on the height fallen. Jumping down to another tier inflicts falling damage but does not cost extra movement.
 
 Falling deals 3d6 physical damage for each height tier that you fall, reduced by the result of an Agility (Athletics) skill check. For example, falling from the 3rd tier in an area, to the bottom (0th) tier would incur 9d6 physical damage. If you rolled a 13 on your skill check, the total damage would be 9d6 - 13.
