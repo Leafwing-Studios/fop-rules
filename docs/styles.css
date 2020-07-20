@@ -23,7 +23,10 @@ a:hover {
 }
 
 /* margin fix for thin screens, since paragraph spacing is less aggressive */
-.infobox, .side-panel, .inline-box {
+.infobox, 
+.side-panel, 
+.inline-box 
+{
 	margin-top: 1.2rem;
 }
 
