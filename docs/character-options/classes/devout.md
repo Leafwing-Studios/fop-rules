@@ -182,7 +182,7 @@ At level 17, you learn to deflect any attempt to interfere with your miracles. W
 At level 18, you finally learn to communicate directly with your deity and may occasionally ask them questions. Once per rest, you may immediately gain the benefit of the Augury downtime activity specific to your subclass.
 
 ## Favored
-When you reach level 20, you are a particular favorite of your deity, easily winning their approval. The first time during your turn in combat that you cast a prayer, your Favor increases by 2 rather than 1. In addition, the Worship downtime activity now increases your Favor by 2 rather than 1.
+When you reach level 20, you are a particular favorite of your deity, easily winning their approval. The first time during your turn in combat that you cast a prayer, your Favor increases by 2 rather than 1. In addition, the Ritual downtime activity now increases your Favor by 2 rather than 1 when you choose to increase your Favor.
 
 
 # Devotion
