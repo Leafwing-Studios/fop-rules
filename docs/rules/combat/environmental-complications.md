@@ -21,10 +21,10 @@ Physical objects can also affect visibility and, independently, provide **cover,
 
 Intervening creatures do not grant cover unless they are at least one tile larger than the target. If they do, they only grant partial cover, as they tend to both be actively moving and full of holes that might allow an attack to slip through.
 
-In general, when a creature is behind partial cover, it also obscures visibility, and when a creature is behind full cover, they are also invisible to you. Transparent objects, such as windows or shimmering walls of force are an obvious exception to this. Unless specifically stated, you do not need to be able to see creatures in order to target them with an attack.
+In general, when a creature is behind partial cover, they are obscured to you, and when a creature is behind full cover, they are also invisible to you. Transparent objects, such as windows or shimmering walls of force are an obvious exception to this. Unless specifically stated, you do not need to be able to see creatures in order to target them with an attack.
 
 ## Height Tiers
-Sometimes, cover takes the form of objects that can be climbed on, such as boulders, furniture or terraced gardens. In many cases, it makes sense to treat these cases as having several tiers of height.
+Sometimes, cover takes the form of objects that can be climbed on, such as boulders, furniture or terraced gardens. When this is the case, treat these environments as having several tiers of height.
 
 Creatures must spend half their movement to travel safely between adjacent **height tiers.**
 * Creatures that are flying only need to spend one quarter of their movement to travel between height tiers. 
@@ -45,6 +45,6 @@ When the combatants are at different height tiers:
 * When the creature on the higher tier is one tile back from the relevant edge of their tier, both creatures have full cover.
 
 ### Falling {docsify-ignore}
-When jumping (or being pushed) from a higher tier to a lower one, characters take damage based on the height fallen. Jumping does not cost extra movement. 
+When falling from a higher tier to a lower one, characters take damage based on the height fallen. Jumping down to another tier inflicts falling damage but does not cost extra movement. 
 
 Falling deals 3d6 physical damage for each height tier that you fall, reduced by the result of an Agility (Athletics) skill check. For example, falling from the 3rd tier in an area, to the bottom (0th) tier would incur 9d6 physical damage. If you rolled a 13 on your skill check, the total damage would be 9d6 - 13.
