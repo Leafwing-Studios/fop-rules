@@ -167,6 +167,9 @@ You gain access to the First Aid reaction. After another allied creature within 
 ### Stable
 You are immune to the effects of critical hits. You no longer benefit from critical hits.
 
+### Stalwart
+Whenever you take the Defend major action, ignore any stacks of conditions or afflictions that would be added to you until the start of your next turn. 
+
 ### Supportive
 The first time each round that you apply a boon to another creature they gain 4 absorption.
 
