@@ -62,6 +62,9 @@ You are proficient in a special defense of your choice. Gain resistance to a dam
 ### Upbeat
 Remove two stacks of each affliction from yourself at the end of each of your turns, rather than the usual one.
 
+### Vengeful
+After you are hit by an attack by a creature that is in your zone of control, you may spend your reaction to make an attack of opportunity against them.
+
 ## Backline
 
 ### Blowhard
