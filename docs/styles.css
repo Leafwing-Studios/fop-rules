@@ -22,6 +22,49 @@ a:hover {
 	text-decoration-color: var(--theme-color);
 }
 
+/* margin fix for thin screens, since paragraph spacing is less aggressive */
+.infobox, .side-panel, .inline-box {
+	margin-top: 1.2rem;
+}
+
+/* spacing fix for tables, since paragraph spacing is less aggressive */
+.markdown-section p + table {
+	margin-top: 1.2rem;
+}
+
+/* paragraph spacing fixes */
+p + ul,
+p + ol,
+.markdown-section h1 + p,
+.markdown-section h2 + p, 
+.markdown-section h3 + p,
+.markdown-section h4 + p
+{
+	margin-top: 0px;
+}
+
+.markdown-section p {
+	margin-bottom: 0px;
+}
+
+/* header spacing fixes */
+.markdown-section h2 {
+	margin-top: 30px; 
+}
+
+.markdown-section h3 {
+	margin-top: 20px;
+}
+
+.markdown-section h4 {
+	margin: 1.2rem 0 0.4rem;
+}
+
+/* final tool for fixing spacing. adds newlines */
+.spacer {
+	margin-bottom: 1.2rem;
+}
+
 /* non-thin screen special stuff */
 @media (min-width: 1550px) {
 	
@@ -49,11 +92,7 @@ a:hover {
 	padding: 10px;
 }
 
-.infobox p:nth-last-of-type(1), .side-panel p:nth-last-of-type(1) {
-	margin-bottom: 0px;
-}
-
-.infobox p:nth-of-type(1) .side-panel p:nth-of-type(1) {
+.infobox p:nth-of-type(1) {
 	margin: 0px;
 }
 
