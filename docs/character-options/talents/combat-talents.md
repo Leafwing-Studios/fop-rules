@@ -59,7 +59,7 @@ Enemies provoke an attack of opportunity whenever they leave your zone of contro
 ### Resilient
 You are proficient in a special defense of your choice. Gain resistance to a damage type of your choice other than physical.
 
-### Stalwart
+### Staunch
 Whenever you take the Defend major action, ignore any stacks of conditions or afflictions that would be added to you until the start of your next turn. 
 
 ### Upbeat
