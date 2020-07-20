@@ -11,6 +11,8 @@
 * Striker: keep yourself safe through superior mobility with affixes like ineffable or flying, and then build to empower your basic attacks to deal damage with a flurry of blows.
 * Controller: apply conditions with your basic attacks using the imbued strikes affix, or focus on grappling. prioritizing the grasping appendages affix to make sure you can lock down more than one creature at once.
 
+<div class="side-panel">
+
 | Roll  | What do you want to become? |
 | :---: | --------------------------- |
 |   1   | An exemplar of my race.     |
@@ -28,6 +30,8 @@
 |   4   | I hate what I used to be.                 |
 |   5   | I love exploring what I can become.       |
 |   6   | I want to live forever.                   |
+
+</div>
 
 # Class Features
 
@@ -134,4 +138,3 @@ When you reach level 20, you have achieved your ideal form: body and mind existi
 * You have advantage on all special attacks. You may make Shove and Expose attacks using your Combination Strikes feature without spending any extra essence or counting against the total number of attacks used, although your chain still breaks if you miss them.
 
 The chosen effect persists until it is replaced by another in this list.
-

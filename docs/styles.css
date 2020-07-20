@@ -32,7 +32,7 @@ a:hover {
 		left: 0px;
 	}
 	
-	.infobox {
+	.infobox, .side-panel {
 		position: absolute;
 		margin-top: -30%;
 		left: 105%;
@@ -45,11 +45,11 @@ a:hover {
 	padding: 10px;
 }
 
-.infobox p:nth-last-of-type(1) {
+.infobox p:nth-last-of-type(1), .side-panel p:nth-last-of-type(1) {
 	margin-bottom: 0px;
 }
 
-.infobox p:nth-of-type(1) {
+.infobox p:nth-of-type(1) .side-panel p:nth-of-type(1) {
 	margin: 0px;
 }
 
