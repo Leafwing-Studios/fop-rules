@@ -59,6 +59,9 @@ Enemies provoke an attack of opportunity whenever they leave your zone of contro
 ### Resilient
 You are proficient in a special defense of your choice. Gain resistance to a damage type of your choice other than physical.
 
+### Stalwart
+Whenever you take the Defend major action, ignore any stacks of conditions or afflictions that would be added to you until the start of your next turn. 
+
 ### Upbeat
 Remove two stacks of each affliction from yourself at the end of each of your turns, rather than the usual one.
 
@@ -166,9 +169,6 @@ You gain access to the First Aid reaction. After another allied creature within 
 
 ### Stable
 You are immune to the effects of critical hits. You no longer benefit from critical hits.
-
-### Stalwart
-Whenever you take the Defend major action, ignore any stacks of conditions or afflictions that would be added to you until the start of your next turn. 
 
 ### Supportive
 The first time each round that you apply a boon to another creature they gain 4 absorption.
