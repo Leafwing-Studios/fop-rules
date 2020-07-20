@@ -59,9 +59,6 @@ Enemies provoke an attack of opportunity whenever they leave your zone of contro
 ### Resilient
 You are proficient in a special defense of your choice. Gain resistance to a damage type of your choice other than physical.
 
-### Steadfast
-If you have not yet spent movement on your turn, you may take the Defend major action as a minor action. If you do so, you may not spend movement until the start of your next turn.
-
 ### Upbeat
 Remove two stacks of each affliction from yourself at the end of each of your turns, rather than the usual one.
 
