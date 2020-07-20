@@ -1,10 +1,8 @@
-/* .markdown-section tr:nth-child(2n) {
-	background-color: #505050;
-} */
 body {
 	font-size: 17px;
 }
 
+/* link styling */
 a {
 	text-decoration: none;
 }
@@ -12,6 +10,7 @@ a:hover {
 	text-decoration: underline;
 }
 
+/* color and link management for headings */
 .markdown-section h1>a,
 .markdown-section h2>a,
 .markdown-section h3>a,
@@ -23,7 +22,56 @@ a:hover {
 	text-decoration-color: var(--theme-color);
 }
 
+/* margin fix for thin screens, since paragraph spacing is less aggressive */
+.infobox, 
+.side-panel, 
+.inline-box 
+{
+	margin-top: 1.2rem;
+}
+
+/* spacing fix for tables, since paragraph spacing is less aggressive */
+.markdown-section p + table {
+	margin-top: 1.2rem;
+}
+
+/* paragraph spacing fixes */
+p + ul,
+p + ol,
+.markdown-section h1 + p,
+.markdown-section h2 + p, 
+.markdown-section h3 + p,
+.markdown-section h4 + p
+{
+	margin-top: 0px;
+}
+
+.markdown-section p {
+	margin-bottom: 0px;
+}
+
+/* header spacing fixes */
+.markdown-section h2 {
+	margin-top: 30px; 
+}
+
+.markdown-section h3 {
+	margin-top: 20px;
+}
+
+.markdown-section h4 {
+	margin: 1.2rem 0 0.4rem;
+}
+
+/* final tool for fixing spacing. adds newlines */
+.spacer {
+	margin-bottom: 1.2rem;
+}
+
+/* non-thin screen special stuff */
 @media (min-width: 1550px) {
+	
+	/* make some space on the side */
 	.markdown-section {
 		max-width: 45%;
 	}
@@ -32,7 +80,8 @@ a:hover {
 		left: 0px;
 	}
 	
-	.infobox {
+	/* move side stuff over to that side space */
+	.infobox, .side-panel {
 		position: absolute;
 		margin-top: -30%;
 		left: 105%;
@@ -40,19 +89,17 @@ a:hover {
 	}
 }
 
+/* infobox border and spacing */
 .infobox {
 	border: 1px solid;
 	padding: 10px;
-}
-
-.infobox p:nth-last-of-type(1) {
-	margin-bottom: 0px;
 }
 
 .infobox p:nth-of-type(1) {
 	margin: 0px;
 }
 
+/* inline box styling */
 .inline-box {
 	border: 1px solid;
 	padding: 10px;
@@ -64,23 +111,29 @@ a:hover {
 	margin: 0px;
 }
 
+/* table sizing */
 .markdown-section table {
 	margin: 0 auto 1rem auto;
 	width: 90%;
 }
 
-.wideTable table {
+/* styles for wide tables */
+.wide-table table {
 	width: 120%;
 	margin-left: -10%;
 }
 
+/* styles for column distribution of most tables (broken, a little) */
 .markdown-section th:nth-last-of-type(1) {
 	column-width: 1000px;
 }
 
-.threeColumn th:nth-of-type(2){
+/* bandaid for some tables because the above is broken */
+.three-column th:nth-of-type(2){
 	column-width: 1000px;
 }
+
+/* sidebar spacing fixes */
 .sidebar li {
 	margin: 0px 0px 0px 5px;
 }
