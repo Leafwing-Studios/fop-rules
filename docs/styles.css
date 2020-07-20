@@ -78,7 +78,8 @@ a:hover {
 	column-width: 1000px;
 }
 
-.threeColumn th:nth-of-type(2){
+/* bandaid for some tables because the above is broken */
+.three-column th:nth-of-type(2){
 	column-width: 1000px;
 }
 .sidebar li {

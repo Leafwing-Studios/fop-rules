@@ -17,7 +17,7 @@ Self-interest is the selfish calculation of “what’s in it for me”. There a
 
 **Payoff and Plausibility modifiers**
 
-<div class="threeColumn">
+<div class="three-column">
 
 Modifier | Payoff | Plausibility
 -- | -- | --
