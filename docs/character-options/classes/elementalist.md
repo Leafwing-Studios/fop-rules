@@ -118,22 +118,26 @@ When you reach level 5, you learn the ability to mirror the spells you cast. Whe
 ## Elemental Intuition
 At level 6, your intuition allows you to innately sense the elements around you. You automatically detect any source or usage of your chosen elements within 60 feet of you, and understand approximately what it is being used for. Additionally, you have advantage on any Arcana checks to understand or modify magic that uses your chosen elements.
 
-## Shaped Charge
-At level 11, you learn greater control over your outbursts of magical energy. When you use your Detonation feature, select one of the following shapes for the effect:
-* a 10-foot radius sphere centered on yourself
-* a 30-foot cone centered on yourself, in a direction of your choosing
-* a 40-foot x 5 foot line, starting at yourself, in a direction of your choosing
+## Spell Prism
+When you reach level 11, you are able to refract different elements and spells when mirroring them, using your skill to find common factors between each spell. When you use your Spell Mirror feature, you can pick different spells, as long as one of the following conditions is true:
+* All of the spells you selected share the same element (meld spells count as both elements)
+* All of the spells you selected are part of the same cycle (for example, all the *meld* or *spray* spells form a cycle)
 
 ## Elemental Crafting
 At level 14, your knowledge of the push and pull of elemental forces allows you to balance them in the physical objects around you. You have advantage on all skill checks made to Enchant, Disenchant or Splice affixes as a downtime activity as long as the affix has at least one of the elements in your pairings as a tag.
 
-## Spell Prism
-When you reach level 15, you are able to refract different elements and spells when mirroring them, using your skill to find common factors between each spell. When you use your Spell Mirror feature, you can pick different spells, as long as one of the following conditions is true:
-* All of the spells you selected share the same element (meld spells count as both elements)
-* All of the spells you selected are part of the same cycle (for example, all the *meld* or *spray* spells form a cycle)
+## Shaped Charge
+At level 15, you are able to carefully focus your outbursts of magical energy. When you use your Detonation feature, select one of the following shapes for the effect:
+* a 10-foot radius sphere centered on yourself
+* a 20-foot cone centered on yourself, in a direction of your choosing
+* a 40-foot x 5 foot line, starting at yourself, in a direction of your choosing
 
 ## Fusion
-When you reach level 20, you can combine the power of all four elements at once. Whenever you Detonate, you may trigger all four effects at once and reset all of your exposure to 0. Like always, these effects resolve in the order of your choice.
+
+When you reach level 20, you learn to combine your spells in a spectacular fashion, blending them together fluidly. When you use your Spell Mirror class feature, you gain one of the following benefits, depending on the relation between the spells copied:
+* If the spells are identical: After you land a critical hit with a copy of the spell, all subsequent spells are automatically a critical if they hit.
+* If the spells share an element but are not identical: After you finish casting these spells, set your exposure in that element to any value between 0 and 7.
+* If the spells are part of the same cycle but are not identical: Your spells deal hybrid damage of all the elemental damage types that would be dealt.
 
 # Pairings
 
