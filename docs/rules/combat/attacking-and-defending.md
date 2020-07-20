@@ -26,7 +26,7 @@ If an effect tells you to select a creature within range, or something to that e
 
 ## Critical Hits
 Whenever you roll a 20 on your d20 while making an attack (no matter what type of attack it is), your attack inflicts a **critical hit** (if it would otherwise land). When this happens:
-* Roll again for damage, adding it to the original damage rolled.
+* Roll again for damage, adding it to the original damage rolled. If there are any flat bonuses to the damage, double them as well.
 * Apply twice as many stacks of afflictions as usual.
 * Apply twice as many stacks of conditions as usual.
 * Double the effects of forced movement.

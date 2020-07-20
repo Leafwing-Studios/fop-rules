@@ -12,10 +12,12 @@ Creatures can be **vulnerable, resistant,** or **immune** to types of damage. Cr
 There are two different ways in which multiple various damage types might be combined: **split damage** and **hybrid damage.**
 
 ## Split Damage {docsify-ignore}
-**Split damage is evenly divided among its base types.** In the event of an uneven division, the remainder is of the most favorable type. For example, if you were to deal 13 fire-physical split damage to a creature that was vulnerable to fire, you would first split the damage in half, dealing 6 of each type. The remainder would become fire damage, resulting in 7 fire damage, and 6 physical damage. Due to the vulnerability, the fire damage would be doubled, and the creature would lose 7 × 2 + 6 = 20 life.
+Split damage is evenly divided among its base types. In the event of an uneven division, the remainder is of the most effective type. 
+
+For example, if you were to deal 13 fire-physical split damage to a creature that was vulnerable to fire, you would first split the damage in half, dealing 6 of each type. The remainder would become fire damage, resulting in 7 fire damage, and 6 physical damage. Due to the vulnerability, the fire damage would be doubled, and the creature would lose 7 × 2 + 6 = 20 life.
 
 ## Hybrid Damage {docsify-ignore}
-**Hybrid damage** is treated as the strongest of its base types: 
-A creature is vulnerable to the hybrid type if it is vulnerable to any of the base types.
-A creature is only resistant to the hybrid type if it is resistant to all of the base types.
-A creature is only immune to the hybrid type if it is immune to all of the base types.
+Hybrid damage is treated as the most effective of its base types:
+* A creature is vulnerable to the hybrid type if it is vulnerable to any of the base types.
+* A creature is only resistant to the hybrid type if it is resistant to all of the base types.
+* A creature is only immune to the hybrid type if it is immune to all of the base types.

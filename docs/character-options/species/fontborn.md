@@ -81,4 +81,4 @@ Roll | How did you become mutated?
 
 While they may share the basic features of the species they once were, every mutant must live with the powers they have gained for the rest of their life.
 
-Gain the features of another base species of your choice instead of any subspecies features. If you select human, gain their Adaptable and Natural Craftsman features.
+Gain the features of another base species of your choice instead of any subspecies features. If you select human, gain their Adaptable and Manual Dexterity features.

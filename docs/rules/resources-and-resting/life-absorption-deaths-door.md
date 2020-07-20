@@ -3,7 +3,7 @@ Life is the vital essence of every creature in *Fonts of Power,* representing th
 
 Your life can never go below 0: instead, when your life reaches 0 you enter Death’s Door (see below), and must choose whether to slip into unconsciousness or continue fighting while risking death.
 
-Player characters have maximum life equal to 5 × (level + 5). It can be restored through resting, self-healing magic (received at level 2) or consumable magic items.
+Player characters have maximum life 25 + 5 × their level. It can be restored through resting, self-healing magic (received at level 2) or consumable magic items.
 
 ## Absorption
 Creatures can gain **absorption,** a short-lasting replacement for life points that represents absorptive armoring or a protective force. Damage taken is subtracted from your absorption before your life. At the start of each of your turns, reduce your absorption by the amount of absorption you had at the end of your last turn, to a minimum of 0. Ordinarily, this just causes your absorption to be reduced to 0 at the start of each of your turns.

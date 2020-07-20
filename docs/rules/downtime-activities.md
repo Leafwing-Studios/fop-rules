@@ -12,25 +12,22 @@ There are several well-defined downtime activities within the rules for players 
 Every item was originally created by a particular skill, and its appearance clearly reflects that origin. You have disadvantage on crafting skill checks made with a skill other than the original skill made to make the gear.
 
 ## Attune
-Forge a connection with pieces of magical gear, allowing you to tap into its magic. You may attune to as many items at once as you choose. When you first craft a new piece of gear, you may attune to it automatically.
-
-You do not gain the benefits (or drawbacks) of any enchanted affixes of gear that you are not attuned to. You can only attune to gear if:
-
-**sum of enchantment affixes  ≤ proficiency bonus**
-
-At any time, you may be attuned to:
+Forge a connection with pieces of magical gear, allowing you to tap into its magic. You only gain the benefits (or drawbacks) of any enchanted affixes of gear that you have equipped while you are attuned to it. When you use this downtime activity, you may complete change the items that you are attuned to, attuning (or unattuning) to any number of items up to your personal **attument limit** of:
 * two sets of arms
 * one set of armor
 * one collection of trinkets
 
-If you are already at your limit of attunement, you must lose attunement to an existing set (or sets) of gear of the appropriate type to attune to a new set.
+If you are already at your attunement limit for a particular type of gear, you must lose attunement to an existing set (or sets) of gear of the appropriate type to attune to a new set.
+When you attune to a collection of trinkets, you may attune to any number of individual trinkets, so long as the sum of their enchantment affixes is less than or equal to your proficiency bonus.
 
-When you attune to a collection of trinkets, you may attune to any number of individual trinkets, so long as the sum of their enchantment affixes is less than or equal to your proficiency bonus. Using this downtime activity again lets you freely swap out attunement to any number of trinkets at a time.
+As you gain experience and learn to control your own magic, you are able to safely use more powerful magical items. You can only attune to an item if:
 
-After you perform this downtime activity, you are particularly in touch with your magical items for a short period of time. One time before, your next rest, you may modify the result of a roll after you see its outcome:
+**sum of enchantment affixes ≤ proficiency bonus**
+
+After you perform this downtime activity, you are particularly in touch with your magical items for a short period of time. One time before your next rest, you may modify the result of a roll after you see its outcome:
 * If you attuned to a set of arms, you may treat an attack that you made while you had these arms equipped as if you had rolled a 15.
 * If you attuned to a set of armor,  you may treat an attack that you made against you while you had this armor equipped as if the attacker had rolled a 5.
-* If you attuned to a collection of trinkets, you may treat a related skill check as if you had rolled a 15.
+* If you attuned to a collection of trinkets, you may treat a related skill check as if you had rolled a 15. This is deliberately broad: if it is narratively plausible that the trinket could have helped you accomplish the task for which you rolled the skill check, you may use this benefit.
 
 ## Bond
 Grow closer to another party member, improving your cooperation. Both party members must select this downtime activity in order to gain its benefits. Until you next complete a rest:
@@ -89,7 +86,7 @@ Select a common affix, or another affix that you know the recipe for. During the
 
 Make an enchanting skill check. If you succeed, add that affix to the item’s enchantment affixes.
 
-When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus.
+When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus. In addition, you may choose to immediately attune to the piece of gear you just enchanted, replacing your attunement to an existing piece of gear of the same type if needed.
 
 ## Harvest
 Gather essence crystals from the font of power around you. For example, you might process part of a dead monster using Animism, collect strange minor magical items using Arcana, tap into the font’s power directly using Geomatics, or salvage scraps of machinery using Tinkering.
@@ -130,7 +127,7 @@ Transfer an affix from one piece of gear to another, quickly and easily giving i
 
 Make an enchanting skill check. If you succeed, the affix is removed from the original item and added to the new item, If you fail, you must try again later but the original affix is not lost.
 
-When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus.
+When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus. In addition, you may choose to immediately attune to the piece of gear you just spliced the enchantment onto, replacing your attunement to an existing piece of gear of the same type if needed.
 
 ## Support
 Help your allies with their downtime tasks. Make a Focus (Guidance) skill check, enabling some of your allies to either perform two downtime activities, rather than just one. The number of characters you can support in this way is equal to your skill check result divided by 10, rounded down. Characters cannot benefit from this effect more than once per downtime, and cannot select either the Recover or Support downtime activities during a period of downtime where they benefit from this effect.
@@ -146,17 +143,17 @@ If more than one character uses the Resurrect downtime activity and both have pr
 
 **Resurrection Options**
 
-Species | Vessel | Skill required
--- | -- | --
-Original | Original body | Medicine
-Undead (Eternal or Skeleton) | Another body | Medicine
-Fontborn | Badly damaged body | Geomatics
-Awakened | An ordinary animal that was special to the deceased | Animism
-Undead (Spectre) or Slime | None | Geomatics
-Automata | An inanimate object that was special to the deceased | Tinkering
-Sylvan | A plant that was special to the deceased | Animism
-Crystalline | 10 essence crystals | Arcana
-Fae | Something from a wild place | Animism
+| Species                      | Vessel                                               | Skill required |
+| ---------------------------- | ---------------------------------------------------- | -------------- |
+| Original                     | Original body                                        | Medicine       |
+| Undead (Eternal or Skeleton) | Another body                                         | Medicine       |
+| Fontborn                     | Badly damaged body                                   | Geomatics      |
+| Awakened                     | An ordinary animal that was special to the deceased  | Animism        |
+| Undead (Spectre) or Slime    | None                                                 | Geomatics      |
+| Automata                     | An inanimate object that was special to the deceased | Tinkering      |
+| Sylvan                       | A plant that was special to the deceased             | Animism        |
+| Crystalline                  | 10 essence crystals                                  | Arcana         |
+| Fae                          | Something from a wild place                          | Animism        |
 
 When you return from the dead, you immediately suffer exhaustion equal to your previous transcendence. Like usual, gaining this exhaustion can kill you. Any skill checks made to resurrect you after you have died due to the exhaustion of being brought back from the dead are made with disadvantage.
 

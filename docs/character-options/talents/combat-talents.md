@@ -29,6 +29,42 @@ You may use the Activate minor action one more time each rest before needing to 
 ### Versatile
 Learn two additional powers from your class.
 
+### Wild
+Your body is an effective weapon all on its own. Build a set of arms with a gear score equal to (Prowess + 1) / 2 that you have equipped at all times. It gains the free hands affix but cannot have the thrown affix unless it also has the returning affix. When creating enchanted arms, you may choose to modify these arms instead, creating for example magical tattoos or claw covers, rather than an enchanted sword. If your Prowess changes, you must also modify these arms.
+
+Whenever you make a basic attack, you may choose to use these arms in place of the arms you have equipped without the use of the Swap minor action.
+
+You may also build a set of armor in this way, with a gear score of your Prowess / 2. If you do, you gain its benefit at all times but it cannot be unequipped and you cannot gain the benefit of other armor.
+
+## Frontline
+
+### Enduring
+You have advantage on Endurance skill checks made to Essence Tap and on concentration checks made while on Death’s Door. 
+
+### Daring
+Whenever you are hit by an attack, you may make an attack of opportunity against the creature that hit you.
+
+### Hearty
+Remove two stacks of each condition from yourself at the end of each of your turns, rather than the usual one.
+
+### Pragmatic
+You have advantage on Shove and Expose attacks.
+
+### Opportunistic
+Enemies provoke an attack of opportunity whenever they move from a tile that is within your zone of control into another tile that is within your zone of control.
+
+### Proactive
+Enemies provoke an attack of opportunity whenever they leave your zone of control.
+
+### Resilient
+You are proficient in a special defense of your choice. Gain resistance to a damage type of your choice other than physical.
+
+### Steadfast
+If you have not yet spent movement on your turn, you may take the Defend major action as a minor action. If you do so, you may not spend movement until the start of your next turn.
+
+### Upbeat
+Remove two stacks of each affliction from yourself at the end of each of your turns, rather than the usual one.
+
 ## Backline
 
 ### Blowhard
@@ -51,26 +87,6 @@ On your turn, if you have not yet spent movement, you may choose to gain advanta
 
 ### Timid
 At the start of your turn, if you are in an enemy zone of control, you may shift once. 
-
-## Frontline
-
-### Daring
-Whenever you are hit by an attack, you may make an attack of opportunity against the creature that hit you.
-
-### Pragmatic
-You have advantage on Shove and Expose attacks.
-
-### Opportunistic
-Enemies provoke an attack of opportunity whenever they move from a tile that is within your zone of control into another tile that is within your zone of control.
-
-### Resilient
-You are proficient in a special defense of your choice. Gain resistance to a damage type of your choice other than physical.
-
-### Steadfast
-If you have not yet spent movement on your turn, you may take the Defend major action as a minor action. If you do so, you may not spend movement until the start of your next turn.
-
-### Upbeat
-Remove two stacks of each affliction from yourself at the end of each of your turns, rather than the usual one.
 
 ## Skirmisher
 
@@ -95,24 +111,25 @@ Whenever you use your reaction, you may shift once.
 ### Spry
 After you make a melee attack against a creature, you may shift into any empty tile that is the same distance as you currently are from them.
 
+## Striker
 
-## Bruiser
+### Audacious
+The critical hit threshold for your attacks is reduced by 2. Whenever you roll a 1 while making an attack, something goes horribly wrong, and you suffer the attack’s effects instead.
 
-### Enduring
-You have advantage on Endurance skill checks made to Essence Tap and on concentration checks made while on Death’s Door. 
+### Bloodthirsty
+Whenever you reduce a non-allied creature to zero life, your critical hit threshold for all attacks is reduced to 1 until the end of your next turn.
 
-### Hearty
-Remove two stacks of each condition from yourself at the end of each of your turns, rather than the usual one.
+### Careful
+You have disadvantage on attacks that you make against allied creatures.
 
-### Proactive
-Enemies provoke an attack of opportunity whenever they leave your zone of control.
+### Lithe
+You have advantage on all skill checks made to use the Hide minor action in combat.
 
-### Wild
-Your body is an effective weapon all on its own. Build a set of arms with a gear score equal to (Prowess + 1) / 2 that you have equipped at all times. It gains the free hands affix but cannot have the thrown affix unless it also has the returning affix. When creating enchanted arms, you may choose to modify these arms instead, creating for example magical tattoos or claw covers, rather than an enchanted sword. If your Prowess changes, you must also modify these arms.
+### Sadistic
+Whenever you apply at least one stack of an affliction, apply another stack of that same affliction.
 
-Whenever you make a basic attack, you may choose to use these arms in place of the arms you have equipped without the use of the Swap minor action.
-
-You may also build a set of armor in this way, with a gear score of your Prowess / 2. If you do, you gain its benefit at all times but it cannot be unequipped and you cannot gain the benefit of other armor.
+### Sneaky
+When you miss a creature with an attack while hidden, you remain hidden and any invisibility you may have is not broken if it normally would be.
 
 ## Controller
 
@@ -155,23 +172,3 @@ The first time each round that you apply a boon to another creature they gain 4 
 
 ### Vigilant
 You may use your Block reaction to absorb damage from attacks against any creature within 5 feet of you. The die size of your Block reaction is increased once.
-
-## Striker
-
-### Audacious
-The critical hit threshold for your attacks is reduced by 2. Whenever you roll a 1 while making an attack, something goes horribly wrong, and you suffer the attack’s effects instead.
-
-### Bloodthirsty
-Whenever you reduce a non-allied creature to zero life, your critical hit threshold for all attacks is reduced to 1 until the end of your next turn.
-
-### Careful
-You have disadvantage on attacks that you make against allied creatures.
-
-### Lithe
-You have advantage on all skill checks made to use the Hide minor action in combat.
-
-### Sadistic
-Whenever you apply at least one stack of an affliction, apply another stack of that same affliction.
-
-### Sneaky
-When you miss a creature with an attack while hidden, you remain hidden and any invisibility you may have is not broken if it normally would be.

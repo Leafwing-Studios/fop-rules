@@ -50,7 +50,7 @@ Roll | How do you feel about your new body?
 5 | This was my original body.
 6 | This new form is what I’d always wished to be.
 
-Gain the features of another base species of your choice instead of any subspecies features. If you select human, gain their Adaptable and Natural Craftsman features. 
+Gain the features of another base species of your choice instead of any subspecies features. If you select human, gain their Adaptable and Manual Dexterity features. 
 
 ## Skeleton
 

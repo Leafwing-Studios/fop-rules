@@ -34,7 +34,7 @@ Roll | What are you best at making?
 
 ### Featires {docsify-ignore}
 
-**Adaptable:** Treat your Prowess as if it were one higher for the sake of determining which mundane arms and armor you can wield. At the end of each of your turns, you may gain the benefits of the Swap minor action.
+**Adaptable:** Treat your Prowess as if it were one higher for the sake of determining the innate gear point total of the arms and armor you can wield. At the end of each of your turns, you may gain the benefits of the Swap minor action.
 
 **Natural Talent:** Choose another Combat Talent.
 
