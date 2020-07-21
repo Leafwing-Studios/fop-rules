@@ -12,6 +12,8 @@
 * Controller: pick up patterns that apply conditions or restrict space like *pattern of binding* or *pattern of forbiddance*. Prioritize locking down the enemies that are trying to break your concentration to make sure you can keep the situation under control.
 * Guardian: select a blend of offensive (like *pattern of augmentation* and *pattern of empowerment*) and defensive (like *pattern of absorption* or *pattern of warding*) patterns, so you can adapt to the situation as it evolves. Absorption is an extremely effective defensive option as your concentration is only tested when you lose life, not when you take damage.
 
+<div class="side-panel">
+
 | Roll  | What does weaving reality feel like to you?   |
 | :---: | --------------------------------------------- |
 |   1   | It is joyful and playful.                     |
@@ -29,6 +31,8 @@
 |   4   | A leader guiding people towards a better future.  |
 |   5   | A mysterious wanderer.                            |
 |   6   | A reclusive master of my craft.                   |
+
+</div>
 
 # Class Features
 

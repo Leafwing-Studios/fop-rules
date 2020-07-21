@@ -11,6 +11,8 @@
 * Striker: Stack Prowess and Agility, focus on critical strikes and try to roll as high as you can. With your easy access to advantage, the *precise* affix is a staple; try to burst down vulnerable targets from the flanks as you pop out of invisibility.
 * Controller: Focus on Expertise and Presence to make sure your endless supply of tricks have the optimal effect. Be mindful of their placement and try to lock down enemies in their effect (or deceive them about its nature): your tricks’ delayed activation and short range really rewards creativity.
 
+<div class="side-panel">
+
 | Roll  | What is your favorite sort of trouble? |
 | :---: | -------------------------------------- |
 |   1   | Gambling.                              |
@@ -37,6 +39,8 @@
 |   4   | Betraying your allies.                |
 |   5   | Breaking your word.                   |
 |   6   | Crossing a god.                       |
+
+</div>
 
 # Class Features
 

@@ -11,6 +11,8 @@
 * Controller: Hold your ground in the middle of the enemy’s line and select auras that affect your enemies and focus on keeping yourself alive. Grappling can be a great addition, letting you force enemies to stay in range of your auras.
 * Guardian: Plant your feet just in front of your backline, keeping your enemies from getting close to your allies as you enhance their effectiveness with your auras. Make sure they’re adjacent to you, so that you can use your incredibly powerful Block reaction to protect them should they get hit.
 
+<div class="side-panel">
+
 | Roll  | Why do you hold such strong ideals?                  |
 | :---: | ---------------------------------------------------- |
 |   1   | I witnessed a tragedy.                               |
@@ -28,6 +30,8 @@
 |   4   | My reputation.                                  |
 |   5   | Innocents who get in the way.                   |
 |   6   | My power.                                       |
+
+</div>
 
 # Class Features
 

@@ -3,34 +3,38 @@ Sentient relatives of the plants that cover the world, the sylvan are a sensitiv
 
 Splendidly diverse, sylvan deliberately attempt to create novel forms and functions for both their descendants and the plants that they use to build their homes, carefully blending genetic material in order to create something beautiful, useful or simply strange. They’ve devised cultivars for every function imaginable: serving as the buildings, tools and furniture for their chaotic but splendid homes.
 
-Roll | What sort of environment are you best suited to?
--- | --
-1 | Harsh deserts.
-2 | Alpine meadows.
-3 | Rolling plains.
-4 | Dense forests.
-5 | Lush rainforest.
-6 | Gloomy swamps.
+<div class="side-panel">
+
+| Roll  | What sort of environment are you best suited to? |
+| :---: | ------------------------------------------------ |
+|   1   | Harsh deserts.                                   |
+|   2   | Alpine meadows.                                  |
+|   3   | Rolling plains.                                  |
+|   4   | Dense forests.                                   |
+|   5   | Lush rainforest.                                 |
+|   6   | Gloomy swamps.                                   |
 
 
-Roll | How do you feel about the extensive plant breeding of your species?
--- | --
-1 | I am troubled by the way we force other plants to deviate from their natural form.
-2 | I think our reliance on plant breeding closes our minds to alternative solutions.
-3 | At the very least I find the new forms useful.
-4 | I love the artistic elements of the craft.
-5 | I delight in the new breeds’ functions.
-6 | I personally experiment extensively.
+| Roll  | How do you feel about the extensive plant breeding of your species?                |
+| :---: | ---------------------------------------------------------------------------------- |
+|   1   | I am troubled by the way we force other plants to deviate from their natural form. |
+|   2   | I think our reliance on plant breeding closes our minds to alternative solutions.  |
+|   3   | At the very least I find the new forms useful.                                     |
+|   4   | I love the artistic elements of the craft.                                         |
+|   5   | I delight in the new breeds’ functions.                                            |
+|   6   | I personally experiment extensively.                                               |
 
 
-Roll | How do you feel about colonizing new lands?
--- | --
-1 | Nature is best left pristine.
-2 | We need to work together with the existing ecosystems and inhabitants.
-3 | It’s important to be careful not to lose valuable biodiversity in the process.
-4 | We should offer our services to other species.
-5 | We are clearly the most responsible stewards.
-6 | Dominion over the lands of the world is our birthright.
+| Roll  | How do you feel about colonizing new lands?                                    |
+| :---: | ------------------------------------------------------------------------------ |
+|   1   | Nature is best left pristine.                                                  |
+|   2   | We need to work together with the existing ecosystems and inhabitants.         |
+|   3   | It’s important to be careful not to lose valuable biodiversity in the process. |
+|   4   | We should offer our services to other species.                                 |
+|   5   | We are clearly the most responsible stewards.                                  |
+|   6   | Dominion over the lands of the world is our birthright.                        |
+
+</div>
 
 ### Features {docsify-ignore}
 

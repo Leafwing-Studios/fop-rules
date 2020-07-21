@@ -11,6 +11,8 @@
 * Skirmisher: Make sure to have versatile options for both ranged and melee, in both your weapons and powers. The *swapping*, *wild* and *shifting* affixes are particularly useful for making this painless. Focus on mobility and avoiding attacks of opportunity with affixes like *deft* or *shifty* and try to make sure you end every turn out of the immediate fray.
 * Frontline: Draw attention by diving deep into the backlines, then stick to your foes with attacks that limit mobility and the proactive combat talent. Back out when you drop low on health, and then heal back up with your Balance of Power: Host feature.
 
+<div class="side-panel">
+
 | Roll  | How did you and your companion become one?                          |
 | :---: | ------------------------------------------------------------------- |
 |   1   | I lost control of my magic, and now it has a mind of its own.       |
@@ -28,6 +30,8 @@
 |   4   | I long to lose myself to it, and give up my own identity.          |
 |   5   | I want to learn to work together.                                  |
 |   6   | I think we'd be better off if we merged and became one.            |
+
+</div>
 
 # Class Features
 

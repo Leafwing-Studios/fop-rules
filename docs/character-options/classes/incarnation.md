@@ -11,6 +11,8 @@
 * Striker: Ambition and Rage Incarnations can put out tons of damage, amplifying their basic attacks’ power through critical strikes with affixes like *keen* and *brutal victory*. Rely on superior mobility or ranged attacks to stay safe, or simply tank through the pain with affixes like undying.
 * Controller: Courage and Desire Incarnations are particularly adept at this role, taunting or charming your enemies. Augment this strength with weapons that apply conditions using the *imbued strikes* affix or focus on grappling with affixes like *grasping reach*.
 
+<div class="side-panel">
+
 | Roll  | How do you call out such strong emotions?                  |
 | :---: | ---------------------------------------------------------- |
 |   1   | I enter a trance of some sort.                             |
@@ -28,6 +30,8 @@
 |   4   | I am surrounded by a visible aura of power.                            |
 |   5   | I seem possessed.                                                      |
 |   6   | My emotions pour forth from me in a way that those around me can feel. |
+
+</div>
 
 ## Class Features
 

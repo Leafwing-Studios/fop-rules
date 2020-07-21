@@ -11,6 +11,8 @@
 * Striker: Both stacking up afflictions and dealing direct damage can be effective routes to whittle your enemies down. If you choose to use a ranged weapon, be sure to pick counterattacks that you can reliably trigger to make sure you’re rarely left with excess reactions.
 * Control: The *reach* arms affix is your best friend, letting you control and respond to the battle more effectively. Carefully force your opponents to play around your counterattacks, augmented by affixes like *imbued strikes* and *catching* to increase the disabling power of every basic attack.
 
+<div class="side-panel">
+
 | Roll  | How did you encounter your weapon?                          |
 | :---: | ----------------------------------------------------------- |
 |   1   | I stumbled across it.                                       |
@@ -28,6 +30,8 @@
 |   4   | I revere them in some way.                              |
 |   5   | They are my closest friends.                            |
 |   6   | I feel myself becoming one with their collective.       |
+
+</div>
 
 # Class Features
 

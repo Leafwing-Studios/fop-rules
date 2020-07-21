@@ -12,6 +12,8 @@
 * Striker: Opt into the risky double-edged spells like roar of fire to maximize your output, then select armor affixes like *immunity* to mitigate their downsides.
 * Controller: Double down on your conditions, selecting affixes like *imbued strikes* and *merciless* to apply more of them and then amplify their effects with exotic affixes like *absolute zero*.
 
+<div class="side-panel">
+
 | Roll  | How do you channel your magic into objects?          |
 | :---: | ---------------------------------------------------- |
 |   1   | I understand every detail of their construction.     |
@@ -29,6 +31,8 @@
 |   4   | I want to unlock its secrets.              |
 |   5   | I want to be able to outfit an army.       |
 |   6   | I am obsessed with the artistry of it all. |
+
+</div>
 
 # Class Features
 

@@ -12,6 +12,8 @@
 * Controller:  Focus on your conditions and forced movement, taking combat talents like *merciless* or *blowhard* and keep your exposure in the danger zone by alternating elements. The *telekinesis* affix lets you use the Shove minor action at long range, giving you more control from a safe distance, while the *patient* combat talent lets you get off more attacks of opportunity with your weapons to recover essence.
 * Guardian: The barrier cycle of spells lets you give absorption to your allies; amplify its effectiveness with combat talents like *encouraging* or *supportive*. You’ll often find yourself using the Treat minor action, consider investing in affixes like *combat medic* to make it more effective.
 
+<div class="side-panel">
+
 | Roll  | How are you tied to the elements?                |
 | :---: | ------------------------------------------------ |
 |   1   | I carefully study them out of academic interest. |
@@ -29,6 +31,8 @@
 |   4   | I just let it wash over me as the cycles continue.        |
 |   5   | I can feel myself changing with the elemental tides.      |
 |   6   | I can't get enough of the sensation.                      |
+
+</div>
 
 # Class Features
 
