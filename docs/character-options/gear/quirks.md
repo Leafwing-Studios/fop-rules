@@ -1,4 +1,4 @@
-## Quirks
+# Quirks
 Every piece of gear has a particular **quirk** to it: something simple and distinctive about it. Quirks should give items memorable flavor and might occasionally be relevant outside of combat, similar in utility to a piece of adventuring gear.
 
 Which quirks an item might have is determined by the fashion in which it was created. In game terms, this is the skill used to create or enchant it. 
