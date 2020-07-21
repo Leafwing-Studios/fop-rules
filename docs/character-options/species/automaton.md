@@ -14,7 +14,6 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 |   5   | Automata must have full agency, and the workers must be liberated..                                    |
 |   6   | The creation of automata is fundamentally immoral.                                                     |
 
-
 | Roll  | How do you feel about modifying your body?                           |
 | :---: | -------------------------------------------------------------------- |
 |   1   | I was perfect the moment I was created.                              |
