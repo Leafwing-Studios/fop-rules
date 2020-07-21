@@ -56,3 +56,12 @@ Interacting with the crafting system is done during downtime activities:
 * **Devise:** Create consumables for your party to use.
 
 Lend a hand, make a deal or beg a favor; by combining your skills with your allies you’ll get the work done in no time. For detailed information on how this works, reference the [Downtime Activities](rules/downtime-activities.md) chapter.
+
+## Affixes
+You can find the complete, searchable list of affixes for this game [here.](https://data.fontsofpower.com/affixes)
+
+Several common affixes speak of increasing or decreasing the size of a die. To do so, change the number of sides on the die rolled by 2. For example, increasing the damage die once for a weapon that deals 1d8 damage increases its damage to 1d10. If your weapon deals more than one die of damage, increasing or decreasing its damage die changes only one die at a time. Dice can never drop below a d4; affixes which would cause this to occur cannot be added.
+
+## Prebuilt Gear
+See the supplementary document [here.](https://docs.google.com/document/d/1q8qNZ45ASF8R-W_Zg_Sw6TnDlidb-4T5y93zmADEJME/edit) EDITOR'S NOTE: These are currently  very much under construction and full of bugs. These will be moved to a purely digital format Soon.
+

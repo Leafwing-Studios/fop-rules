@@ -71,4 +71,4 @@
 		* [Categorizing Gear](character-options/gear/categorizing-gear.md)
 		* [Equipping Gear](character-options/gear/equipping-gear.md)
 		* [Creating Gear](character-options/gear/creating-gear.md)
-		* [Quirks, Affixes, and Prebuilt Gear](character-options/gear/quirks-affixes-prebuilt.md)
+		* [Quirks](character-options/gear/quirks.md)
