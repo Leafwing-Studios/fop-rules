@@ -19,7 +19,7 @@ When making skill checks, Agility would be used when you need to sneak past a gu
 
 Attacks against your Agility defense include a trap suddenly dropping the floor out from underneath you and a mage launching blasts of magical energy that go whizzing by your head.
 
-In combat, Agility is used to determine your ability to dodge and strike accurately. Your basic attacks modifier, used to determine your chance to hit with a sword swing or a launched arrow, is given by your proficiency bonus plus your Agility. Unless you are wearing armor that prevents it, your Agility is added to your basic defense, making you hard to hit.
+In combat, Agility is used to determine your ability to dodge and strike accurately. Your basic attack modifier, used to determine your chance to hit with a sword swing or a launched arrow, is given by your proficiency bonus plus your Agility. Your Agility is added to your basic defense, making you hard to hit, and also improves your Block and Dodge reactions.
 
 ## Expertise
 Expertise represents talent at mastering technical skills both in combat and out of it, ability to understand complex systems and the precision with which you can channel essence into powerful effects. A character with a high Expertise may be a scholar full of knowledge, a talented artist, or an old master of the blade who, although he may not be as strong or fast as he once was, is still renowned for his technique. A character with a low Expertise may be a warrior who prefers charging in head first over all these fancy techniques, a young man struggling to learn his trade or a kind-hearted priest who often forgets the details of the scripture but fills in with words to the same effect.
