@@ -5,4 +5,4 @@ Characters can recover their resources and shake off exhaustion by resting. In o
 * Remove one stack of exhaustion
 * Perform a single **downtime activity**
 
-The party can also spend one Resolve in order to immediately gain the benefits of a rest, other than downtime activity. The party must be outside of combat in order to do so, but 
+The party can also spend one Resolve in order to immediately gain the benefits of a rest, other than the downtime activity, at any point while outside of combat.
