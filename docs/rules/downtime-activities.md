@@ -118,7 +118,7 @@ If you have access to a relevant **source of knowledge,** you have advantage on 
 You may use any source of knowledge regardless of crafting skill when learning new consumable affixes.
 
 ## Resupply
-Purchase supplies, borrow them from the locals or scavenge them from the surrounding environment. Reset the party’s Supplies die to a d8 and remove all existing adventuring gear that you have. The details of how and where you resupply influence the plausibility of having various useful pieces of equipment; it’s trivial to find firewood in the middle of a dark forest but quite hard to come across a new set of lockpicks.
+Purchase supplies, borrow them from the locals or scavenge them from the surrounding environment. Reset the party’s Supplies die to a d6 and remove all existing adventuring gear that you have. The details of how and where you resupply influence the plausibility of having various useful pieces of equipment; it’s trivial to find firewood in the middle of a dark forest but quite hard to come across a new set of lockpicks.
 
 See the Prepared for Anything section in the Gear chapter for more details on how Supply and adventuring gear works.
 
