@@ -16,6 +16,9 @@ The first time during your turn that you take a major action, take umbral damage
 ## Bleeding
 The first time during your turn that you spend movement, take decay damage equal to the number of stacks of this affliction.
 
+## Brittle
+After you lose life, take corrosive damage equal to the number of stacks of this affliction that you have. This effect cannot trigger again until the start of your next turn.
+
 ## Rage
 The first time during your turn that you take an action that is not an attack (i.e. does not involve making an immediate attack roll), take fire damage equal to the number of stacks of this affliction.
 
