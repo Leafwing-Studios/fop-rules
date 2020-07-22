@@ -24,14 +24,19 @@ Unless there are particularly strange extenuating circumstances (such as if your
 
 If an effect tells you to select a creature within range, or something to that effect, you can always select yourself as the target unless there is some specific reason that you could not.
 
-## Critical Hits
-Whenever you roll a 20 on your d20 while making an attack (no matter what type of attack it is), your attack inflicts a **critical hit** (if it would otherwise land). When this happens:
-* Roll again for damage, adding it to the original damage rolled. If there are any flat bonuses to the damage, double them as well.
-* Apply twice as many stacks of afflictions as usual.
-* Apply twice as many stacks of conditions as usual.
-* Double the effects of forced movement.
+## Critical Hits and Efficacy
+Whenever you roll a 20 on your d20 while making an attack (no matter what type of attack it is), your attack inflicts a **critical hit** (if it would otherwise land). When this happens, the **efficacy** of your attack is doubled.
 
-Some effects (such as the Lucky talent or the keen arms affix) can lower the **critical hit threshold,** allowing you to extend the range of numbers rolled which result in a critical hit. For example, if your critical hit threshold is lowered by one, any attack that you hit with where you rolled a 19 or 20 deals damage twice. These effects stack with each other. Determining whether an attack would be a critical hit is seperate from determining if it hits: rolls that are at least your critical hit threshold do not automatically make contact with your target(s), but are critical hits if they land.
+Efficacy multiplies the following characteristics of attacks:
+* The damage dealt. You do not roll again; simply multiply the damage dealt.
+* The number of stacks of afflictions applied.
+* The number of stacks of conditions applied.
+* The amount of absorption applied.
+* The distances involved in forced movement.
+
+Multiple modifiers to efficacy (such as critical hits and Trickster's All In class feature) stack multiplicatively: if your attack would deal 7 damage, and then its efficacy was doubled twice, you would deal 28 damage instead. Like always, round down when computing the final effects after efficacy is applied, rounding movement down to the nearest 5 foot interval.
+
+Some effects (such as the *lucky* combat talent or the *keen* arms affix) can lower the **critical hit threshold,** allowing you to extend the range of numbers rolled which result in a critical hit. For example, if your critical hit threshold is lowered by one, any attack that you hit with where you rolled a 19 or 20 deals damage twice. These effects stack with each other. Determining whether an attack would be a critical hit is seperate from determining if it hits: rolls that are at least your critical hit threshold do not automatically make contact with your target(s), but are critical hits if they land.
 
 Some effects, such as the Devout’s Avatar cycle of miracles, cause your attacks to deal **maximized damage.** This means that you treat the result of each die rolled as if it were the highest possible outcome. For example, if you were to hit your opponent with an attack that deals 1d6 + 3 damage and the damage was maximized, you would inflict 6 + 3 = 9 damage to them. This effect stacks with critical hits: if you land a critical hit with an attack that deals maximized damage, you deal twice the normal maximum damage. 
 
@@ -57,9 +62,9 @@ This has strange implications for the mechanics of combat even though the expect
 
 **Types of area of effect**
 
-Term | Description
--- | --
-Cone | A 90 degree cone, expanding out from the origin (typically the caster).
-Cylinder | A tall cylinder centered around the chosen point.
-Line | A line, typically beginning at the caster and affects all creatures within length specified. Lines wider than 5 feet expand out from both sides of the original line.
-Sphere | A sphere centered around the chosen point.
+| Term     | Description                                                                                                                                                           |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cone     | A 90 degree cone, expanding out from the origin (typically the caster).                                                                                               |
+| Cylinder | A tall cylinder centered around the chosen point.                                                                                                                     |
+| Line     | A line, typically beginning at the caster and affects all creatures within length specified. Lines wider than 5 feet expand out from both sides of the original line. |
+| Sphere   | A sphere centered around the chosen point.                                                                                                                            |

@@ -145,9 +145,13 @@ At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the
 See the Leveling Up section in the Narrative Mechanics chapter for a reminder of the factors that change when this occurs.
 
 ## All In
-At level 5, you learn to capitalize on strokes of luck, turning excellent attacks into truly remarkable ones. Whenever you hit a creature with an attack, you may pay 1 essence after seeing how much damage would be dealt. If you do, apply the effects of the attack another time, using the same damage rolled.
+At level 5, you learn to capitalize on strokes of luck, turning excellent attacks into truly remarkable ones. Once per round when you hit a creature with an attack, you may pay 1 essence after seeing how much damage would be dealt. If you do, double the efficacy of the attack.
 
-You may only use this feature once per round at level 5, increasing to twice per round at level 9 and three times per round at level 13 and four times per round at level 17. You may use this feature to replicate the effects of the same attack multiple times.
+At level 9, you may pay 2 essence instead to triple the attack's efficacy.
+
+At level 13, you may pay 3 essence instead to quadruple the attack's efficacy.
+
+At level 17, you may pay 4 essence instead to quintuple the attack's efficacy.
 
 ## Fast Talker
 At level 6, you can talk your way out of almost anything. Once per rest, after you fail a Presence skill check, you may immediately attempt the same skill check again, ignoring the first outcome.

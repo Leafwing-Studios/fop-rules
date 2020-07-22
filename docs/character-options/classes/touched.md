@@ -64,8 +64,6 @@ Touched are formed by the union between a **Host** and their **Companion.** The 
 
 By manifesting their true form more strongly, your companion can use **powers:** bursts of magical power that can be used as a major action with no essence cost. Every power targets a single creature and involves an immediate attack roll. 
 
-Unlike usual, all effects of the Touched’s powers are doubled when they land a critical hit, rather than just the damage, conditions, afflictions and forced movement.
-
 Every companion is associated with two element types, which determine the type of damage that their abilities can do, as well as the type of utility features they gain access to through their Deviance class feature. Select these now, from the twelve standard elements.
 
 Many of the Touched’s features rely on the distinction and interplay between melee and ranged attacks, which are said to belong to the two different **range categories** of the same name. While you are wielding a melee set of arms, the range of your melee powers is the same as the range of those arms. Otherwise, they have a 5 foot range. While you are wielding a ranged set of arms, the range of your ranged powers is the same as the range of those arms. Otherwise they have a range of 30 feet.
