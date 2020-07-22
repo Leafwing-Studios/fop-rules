@@ -159,7 +159,4 @@ While in your companion form, you:
 * gain immunity to the damage types corresponding to your companion
 * your deviance cap increases by 2. Select the new deviances to be used when you gain this feature.
 
-While blended, your critical hits are more powerful. Instead of doubling in effect, they:
-* deal triple damage, rolled three separate times
-* apply three times as many stacks of any conditions or afflictions
-* grant triple the benefit of any utility effect associated with your powers
+While blended, your critical hits are more powerful, tripling rather than doubling the efficacy of your attacks.
