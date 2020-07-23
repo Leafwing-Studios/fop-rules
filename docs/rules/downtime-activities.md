@@ -86,6 +86,12 @@ Select a common affix, or another affix that you know the recipe for. During the
 
 Make an enchanting skill check. If you succeed, add that affix to the item’s enchantment affixes.
 
+If you have access to a relevant **source of knowledge,** you have advantage on this skill check. Each crafting skill uses a different source of knowledge:
+* Animism: you have free access to a monster (or some trophy from that monster) who has the desired enchantment.
+* Arcana: you have free access to some sort of book, teacher or other documentation.
+* Geomatics: you are at a font of power that shares an element with the enchantment in question.
+* Tinkering: you have free access to an existing item with that affix.
+
 When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus. In addition, you may choose to immediately attune to the piece of gear you just enchanted, replacing your attunement to an existing piece of gear of the same type if needed.
 
 ## Harvest
@@ -100,22 +106,6 @@ Read a book, hone a talent, sharpen your weapon, practice magic, gather informat
 Focus on rest and enjoy yourself. 
 
 Remove an additional stack of exhaustion or restore half your maximum life.
-
-## Research
-Discover how to create a new affix. You must know the **recipe** for an affix in order to use it in the Enchant downtime activity, unless it is a common affix.
-
-When you use this downtime activity, select an affix, then: 
-1. Spend 5 essence crystals, consumed in the experimentation process.
-1. Make an enchanting skill check,
-1. If you succeed, you learn the recipe for this affix.
-
-If you have access to a relevant **source of knowledge,** you have advantage on this skill check and do not need to spend essence crystals. Each crafting skill uses a different source of knowledge:
-* Animism: you have free access to a monster (or some trophy from that monster) who has the desired enchantment.
-* Arcana: you have free access to some sort of book, teacher or other documentation.
-* Geomatics: you are at a font of power that shares an element with the enchantment in question.
-* Tinkering: you have free access to an existing item with that affix.
-
-You may use any source of knowledge regardless of crafting skill when learning new consumable affixes.
 
 ## Resupply
 Purchase supplies, borrow them from the locals or scavenge them from the surrounding environment. Reset the party’s Supplies die to a d6 and remove all existing adventuring gear that you have. The details of how and where you resupply influence the plausibility of having various useful pieces of equipment; it’s trivial to find firewood in the middle of a dark forest but quite hard to come across a new set of lockpicks.
