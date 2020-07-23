@@ -87,7 +87,7 @@ At the start of your turn you may shift once.
 You may move through the tiles of hostile creatures.
 
 ### Daring
-After you succesfully use the Dodge reaction, you may make an attack of opportunity against the creature whose attack you dodged without spending your reaction.
+After you successfully use the Dodge reaction, you may make an attack of opportunity against the creature whose attack you dodged without spending your reaction.
 
 ### Deft
 Whenever you take the Dash minor action, attacks of opportunity against you have disadvantage until the end of the current turn.
