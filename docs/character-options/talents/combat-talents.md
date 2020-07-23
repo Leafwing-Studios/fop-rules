@@ -71,7 +71,6 @@ Whenever you make an attack on your turn and have not spent movement yet this tu
 ### Coolheaded
 You no longer have disadvantage on ranged attacks due to being in an enemy zone of control.
 
-
 ### Immovable
 You are immune to forced movement.
 
@@ -84,7 +83,7 @@ Partial cover no longer causes your attacks to be made with disadvantage.
 On your turn, if you have not yet spent movement, you may choose to gain advantage on all of your attacks until the start of your next turn. If you do, you may not spend movement until the start of your next turn.
 
 ### Timid
-At the start of your turn, if you are in an enemy zone of control, you may shift once. 
+At the start of your turn you may shift once. 
 
 ## Skirmisher
 
