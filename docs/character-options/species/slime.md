@@ -46,12 +46,6 @@ You may collapse into a puddle as a minor action, and slide under doors and thro
 
 **Uncertain Anatomy:** Critical hits do not deal extra damage to you, but still cause conditions and afflictions to be doubled. You do not need to breathe, but must still eat, drink and sleep. Slimes can see, hear and speak as well as a typical human, although how they do so is a closely guarded secret.
 
-## Black Slime
-
-**Blackout:** At the end of your turn, apply one stack of blinded to each creature that you have grappled.
-
-**Dark as Night:** You have advantage on all Agility (Stealth) skill checks made while in dim light or darkness. You have disadvantage on all Agility (Stealth) skill checks made while in bright light. Objects inside of you cannot be seen unless they are giving off light.
-
 ## Bouncy Slime
 
 **Bounce Back:** At the end of each of your turns, remove an additional stack of each condition from yourself.
