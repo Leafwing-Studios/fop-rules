@@ -25,11 +25,7 @@ You may use the Activate minor action one more time each rest before needing to 
 Learn two additional powers from your class.
 
 ### Wild
-Your body is an effective weapon all on its own. Build a set of arms with a gear score equal to (Prowess + 1) / 2 that you have equipped at all times. It gains the free hands affix but cannot have the thrown affix unless it also has the returning affix. When creating enchanted arms, you may choose to modify these arms instead, creating for example magical tattoos or claw covers, rather than an enchanted sword. If your Prowess changes, you must also modify these arms.
-
-Whenever you make a basic attack, you may choose to use these arms in place of the arms you have equipped without the use of the Swap minor action.
-
-You may also build a set of armor in this way, with a gear score of your Prowess / 2. If you do, you gain its benefit at all times but it cannot be unequipped and you cannot gain the benefit of other armor.
+Whenever you use the Swap minor action, refund the action spent.
 
 ## Frontline
 
