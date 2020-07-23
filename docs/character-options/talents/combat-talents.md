@@ -133,9 +133,7 @@ When you miss a creature with an attack while hidden, you remain hidden and any 
 You have advantage on skill checks made to maintain a grapple. You may move at full speed when dragging a creature you have grappled.
 
 ### Lucky
-Whenever you roll a 1 on an attack roll, reroll the attack. You must use the new result.
-
-Your critical hit threshold is reduced by 1.
+Whenever you roll a 1 on an attack roll or a skill check made during combat, reroll the attack or skill check. You must use the new result.
 
 ### Merciless
 Whenever you apply at least one stack of a condition to a creature that already has a stack of that same condition, apply an additional stack of that condition.
