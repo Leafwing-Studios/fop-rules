@@ -79,7 +79,7 @@ When you reach level 2, your confidence and conviction is apparent to all you sp
 Also at level 2, your belief shields you from harm, granting additional protection when you use the Block reaction. Whenever you use the Block reaction (after you’ve seen how much damage the attack would deal and how much damage you would block), you may spend essence up to your proficiency bonus to increase the damage blocked. For every point of essence spent in this way, increase the damage blocked by 4.
 
 ## Intervention
-At level 3, you gain an unflinching willingness to step in front of blows meant for your allies. You may use your Block reaction to prevent damage that would be dealt to any creature within 5 feet of you, rather than just yourself. When you do so, you take any other effects of that attack in their place as well.
+At level 3, you gain an unflinching willingness to step in front of blows meant for your allies. You may use your Block reaction to prevent damage that would be dealt to any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well.
 
 ## Martyr
 Also at level 3, being wounded in the course of doing what is right only deepens your resolve. At the end of each turn in which you lost life, gain 1 essence and 2 absorption.

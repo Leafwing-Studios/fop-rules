@@ -152,6 +152,9 @@ Whenever you apply a boon to another creature, you may shift once.
 ### Encouraging
 Whenever you apply a boon to another creature, they may shift once.
 
+### Protective
+You may use your Block reaction to prevent damage that would be dealt to any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well.
+
 ### Reactive
 Enemies provoke an attack of opportunity whenever they enter your zone of control.
 
