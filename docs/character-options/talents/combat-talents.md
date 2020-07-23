@@ -9,11 +9,6 @@ You can no longer see in the usual fashion. Instead, you gain an innate awarenes
 ### Chosen
 Once per rest you may gain a benefit that would normally be earned by spending Resolve (other than to gain a rest).
 
-### Gifted
-You possess a magical item that cannot be destroyed or persistently lost. You are always attuned to this item and it may have a gear point total equal to your proficiency bonus plus one, rather than your proficiency bonus. If the item you selected is a trinket (rather than a set of arms or armor), instead simply increase the gear point total of trinkets that you can attune to by one.
-
-At first level and whenever you level up, you may choose to add, remove or modify an non-prismatic affix on this item. You do not need to know the appropriate enchantment, spend essence crystals or make any skill checks in order to do so.
-
 ### Nocturnal
 Objects in dim light are no longer obscured, and objects in darkness are now merely obscured, rather than invisible.
 
