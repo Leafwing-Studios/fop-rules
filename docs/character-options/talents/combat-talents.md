@@ -116,7 +116,7 @@ After you hit a creature with a melee attack, you may shift into any empty tile 
 The critical hit threshold for your attacks is reduced by 2. Whenever you roll a 1 while making an attack, something goes horribly wrong, and you suffer the attack’s effects instead.
 
 ### Bloodthirsty
-Whenever you reduce a non-allied creature to zero life, your critical hit threshold for all attacks is reduced to 1 until the end of your next turn.
+Whenever you reduce a non-allied creature to 0 life, attacks that you make are automatically criticals if they hit until the end of your next turn.
 
 ### Careful
 You have disadvantage on attacks that you make against allied creatures.
