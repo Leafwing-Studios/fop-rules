@@ -7,7 +7,7 @@ All gear is crafted using downtime activities. In general, your gear’s innate 
 
 The skill used in crafting affects the aesthetics of the item, and the quirk it comes with. For example, a magical staff created using Tinkering might be a metal rod with a glowing gemstone, but the same item crafted using Animism might be a twisted oak branch with a monster’s eyeball.
 
-## Beginning from a Base
+## Building on a Base
 Every piece of gear begins with a **base,** which is modified by any affixes that you add. 
 
 The base used for arms is:
