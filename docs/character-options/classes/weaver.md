@@ -72,7 +72,7 @@ You can sustain patterns even while otherwise impaired (such as if you were bani
 
 Your patterns expire if you end your turn more than 60 feet away from their target. If your concentration is lost, all patterns that you have cast or are sustaining immediately end, including any ongoing effects. You cannot sustain patterns lost in this way. Conditions and afflictions applied are not removed when this occurs, as they do not track which effect applied them.
 
-## Guilds
+## Guild
 Each Weaver belongs to a professional association, a Guild, which specializes in a particular style of manipulating the Weave. At level 1, each Weaver joins a Guild of their choice, unlocking benefits both immediately and as they grow in power.
 
 ### Signature Pattern
@@ -142,6 +142,7 @@ When you reach level 15, the raw energy released whenever another creature cause
 At level 20, you are able to seamlessly slip in and out of reality in response to threats. After you use the Block reaction, you may choose to gain one stack of banished. You automatically succeed on any Treat skill checks you make to remove the banished condition.
 
 # Guilds
+
 ## Fate
 Aloof and mysterious, the Guild of Fateweavers works in the shadows, observing and manipulating both the most important events in history and the subtle mundane lives which together build to a swell. Its students are taught the importance and danger of this role, and it often marks them as intractably different to those who might be their companions. 
 
