@@ -149,6 +149,9 @@ When you hit a creature with a Shove attack, you may choose to push them into an
 
 ## Guardian
 
+### Compassionate
+You have advantage on skill checks made to use the Treat minor action.
+
 ### Darting
 Whenever you apply a boon to another creature, you may shift once.
 
