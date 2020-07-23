@@ -87,7 +87,7 @@ At the start of your turn you may shift once.
 You may move through the tiles of hostile creatures.
 
 ### Deft
-When you take the Dash minor action, attacks of opportunity against you have disadvantage until the end of this turn.
+Whenever you take the Dash minor action, attacks of opportunity against you have disadvantage until the end of the current turn.
 
 ### Demure
 Whenever you hit a creature with an attack, they cannot make attacks of opportunity against you until the start of your next turn.
@@ -96,13 +96,13 @@ Whenever you hit a creature with an attack, they cannot make attacks of opportun
 You may use Agility (Athletics) instead of Prowess (Athletics) to maintain a grapple. You have advantage on all skill checks made to escape a grapple.
 
 ### Nimble
-Your Dash minor action now grants you additional movement speed equal to your movement speed, rather than half of it.
+Your Dash minor action now grants you additional movement equal to your movement speed, rather than half of it.
 
 ### Shifty
 Whenever you use your reaction, you may shift once.
 
 ### Spry
-After you make a melee attack against a creature, you may shift into any empty tile that is the same distance as you currently are from them.
+After you hit a creature with a melee attack, you may shift into any empty tile that is the same distance as you currently are from them.
 
 ## Striker
 
