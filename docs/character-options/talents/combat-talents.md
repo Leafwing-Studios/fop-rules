@@ -29,6 +29,9 @@ Whenever you use the Swap minor action, refund the action spent.
 
 ## Frontline
 
+### Dependable
+You have advantage on rolls made to determine how much damage is absorbed when you use the Block reaction.
+
 ### Enduring
 You have advantage on Endurance skill checks made to Essence Tap and on concentration checks made while on Death’s Door. 
 
