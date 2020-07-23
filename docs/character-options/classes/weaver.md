@@ -94,7 +94,7 @@ When you reach level 2, you can see magic in the world around you as faintly glo
 At level 2, the intense flow of magical energy runs through you, knitting your wounds together as it shrouds you in a magical barrier. Whenever you spend essence, you may spend that much essence again, gaining 4 life for each point of essence spent in this fashion.
 
 ## Warded by the Weave
-At level 3, you wrap the threads of magic around you, distorting the fabric of space to protect you from blows. The die size of your block reaction is increased once. After you use the Block reaction, gain absorption equal to the amount of damage that you would have blocked, even if that much damage was not dealt to you.
+At level 3, you wrap the threads of magic around you, distorting the fabric of space to protect you from blows. The die size of your Block reaction is increased once. After you use the Block reaction, gain absorption equal to the total damage that your Block reaction would have absorbed (even if less damage than that was dealt to you).
 
 ## Thread Twisting.
 Also at 3rd level, you begin to master the true deftness required to work with the Weave. As a minor action, you may change the target of a pattern you have cast this turn or sustained, so long as the new target would be valid if you were to cast the pattern anew.
@@ -138,10 +138,8 @@ At level 14, you learn to decipher the tangles of magic written in the Weave. Yo
 ## Snapped Threads
 When you reach level 15, the raw energy released whenever another creature causes your concentration to break banishes them into the Weave for a moment. Whenever another creature causes your concentration to break, make an Expertise attack against them, applying one stack of banished if you hit.
 
-## Masterpiece
-At level 20, you are a master of the arcane, and your threads of magic wrap around your targets, moving them around like pieces on a game board. All of your patterns gain: “At the end of each of your turns, you may shift the affected creature once.”
-
-Patterns which do not affect creatures directly, such as *pattern of forbiddance,* do not benefit from this feature.
+## One With the Weave
+At level 20, you are able to seamlessly slip in and out of reality in response to threats. After you use the Block reaction, you may choose to gain one stack of banished. You automatically succeed on any Treat skill checks you make to remove the banished condition.
 
 # Guilds
 ## Fate
