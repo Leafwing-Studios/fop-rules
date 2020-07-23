@@ -138,7 +138,7 @@ Your critical hit threshold is reduced by 1.
 Whenever you apply at least one stack of a condition to a creature that already has a stack of that same condition, apply an additional stack of that condition.
 
 ### Scheming
-The first time each round that you hit a creature with an attack, you may shift them once.
+Whenever you hit a creature with an attack, you may shift them once.
 
 ### Rough
 When you hit a creature with a Shove attack, you may choose to push them into any empty tile that is adjacent to you, rather than a tile within 5 feet of their previous position.
@@ -146,10 +146,10 @@ When you hit a creature with a Shove attack, you may choose to push them into an
 ## Guardian
 
 ### Darting
-The first time each round that you apply a boon to another creature, you may shift once.
+Whenever you apply a boon to another creature, you may shift once.
 
 ### Encouraging
-The first time each round that you apply a boon to another creature, they may shift once.
+Whenever you apply a boon to another creature, they may shift once.
 
 ### Reactive
 Enemies provoke an attack of opportunity whenever they enter your zone of control.
@@ -161,7 +161,4 @@ You gain access to the First Aid reaction. After another allied creature within 
 You are immune to the effects of critical hits. You no longer benefit from critical hits.
 
 ### Supportive
-The first time each round that you apply a boon to another creature they gain 4 absorption.
-
-### Vigilant
-You may use your Block reaction to absorb damage from attacks against any creature within 5 feet of you. The die size of your Block reaction is increased once.
+Whenever you apply a boon to another creature they gain 2 absorption.
