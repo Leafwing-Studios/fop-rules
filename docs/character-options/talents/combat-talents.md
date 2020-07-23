@@ -32,9 +32,6 @@ Whenever you use the Swap minor action, refund the action spent.
 ### Enduring
 You have advantage on Endurance skill checks made to Essence Tap and on concentration checks made while on Death’s Door. 
 
-### Daring
-Whenever you are hit by an attack, you may make an attack of opportunity against the creature that hit you.
-
 ### Hearty
 Remove two stacks of each condition from yourself at the end of each of your turns, rather than the usual one.
 
