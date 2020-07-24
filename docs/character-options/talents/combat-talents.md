@@ -67,9 +67,6 @@ Whenever you make an attack on your turn and have not spent movement yet this tu
 ### Coolheaded
 You no longer have disadvantage on ranged attacks due to being in an enemy zone of control.
 
-### Immovable
-You are immune to forced movement.
-
 ### Precise
 If you do not have disadvantage on a ranged attack, you may choose to gain disadvantage on the attack and double its range.
 
