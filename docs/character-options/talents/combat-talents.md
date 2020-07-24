@@ -51,7 +51,10 @@ Enemies provoke an attack of opportunity whenever they leave your zone of contro
 You are proficient in a special defense of your choice. Gain resistance to a damage type of your choice other than physical.
 
 ### Staunch
-Whenever you take the Defend major action, ignore any stacks of conditions or afflictions that would be added to you until the start of your next turn. 
+Whenever you take the Defend major action, ignore any stacks of conditions or afflictions that would be added to you until the start of your next turn.
+
+### Stout
+You may now use the Block reaction in response to attacks that only apply forced movement but do not deal damage. When you use the Block reaction, prevent all forced movement that would be applied by the attack blocked.
 
 ### Upbeat
 Remove two stacks of each affliction from yourself at the end of each of your turns, rather than the usual one.
@@ -66,6 +69,9 @@ Whenever you make an attack on your turn and have not spent movement yet this tu
 
 ### Coolheaded
 You no longer have disadvantage on ranged attacks due to being in an enemy zone of control.
+
+### Fierce
+The first time each round that you hit a creature with a basic attack, you may spend essence equal to your proficiency bonus to gain four times that much life.
 
 ### Precise
 If you do not have disadvantage on a ranged attack, you may choose to gain disadvantage on the attack and double its range.
@@ -106,6 +112,9 @@ Whenever you use your reaction, you may shift once.
 
 ### Spry
 After you hit a creature with a melee attack, you may shift into any empty tile that is the same distance as you currently are from them.
+
+### Swift
+You may use the Dodge reaction to attempt to completely evade Agility attacks (including Grapple attacks).
 
 ## Striker
 
