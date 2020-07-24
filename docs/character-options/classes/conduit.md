@@ -144,7 +144,7 @@ At level 15, you are a master of strange nonlinear paths. You are no longer prev
 At level 17, you learn to branch your magic, executing multiple targets in parallel. When you use your Buffer Overflow feature, you may choose to branch the chain at any point, affecting multiple creatures from the same source (including from yourself).
 
 ## Stack Overflow
-When you reach level 18, you have access to an incredible but diffuse repository of information, drawing upon the wisdom of those who have come before you. You are always treated as if you have a source of knowledge for the Research downtime activity. When you use the Splice downtime activity, you may instead choose to duplicate the original affix, leaving it intact on the original item.
+When you reach level 18, you have access to an incredible but diffuse repository of information, drawing upon the wisdom of those who have come before you. You are always treated as if you have a source of knowledge for the Enchant downtime activity. When you use the Splice downtime activity, you may instead choose to duplicate the original affix, leaving it intact on the original item.
 
 ## Overclock
 At level 20, the Conduit is capable of using a second, incredibly powerful prismatic enchantment without being melted by the intense magic. You may equip a total of two prismatic enchantments, rather than the standard limit of one, but they must be on different types of gear. For example, you cannot have two arms prismatic enchantments, but can have an arms and an armor prismatic enchantment.

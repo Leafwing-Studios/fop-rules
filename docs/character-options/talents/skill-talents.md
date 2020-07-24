@@ -1,7 +1,7 @@
 # Skill Talents
 
 ## Animism: Instinctive
-If you have access to a monster (or a piece of one) with the desired affix, you may Enchant items with that affix without learning it first using the Research downtime activity.
+You have advantage on skill checks made to learn more about monsters when using the Scan minor action.
 
 You have advantage on all skill checks made to use the Harvest downtime activity to gather essence crystals.
 
@@ -64,9 +64,9 @@ You have advantage on all Stealth skill checks made during chases.
 You have advantage on all Stealth checks made to hide while not moving.
 
 ## Tinkering: Inventive
-You can automatically reverse engineer affixes during the Research downtime activity if you have access to an item with that affix.
+You produce 1 more consumable whenever you use the Devise downtime activity.
 
-You have advantage on checks made during Prepared for Anything in order to gather parts for your creations.
+You have advantage on checks made during Prepared for Anything when attempting to create mechanical devices.
 
 ## Trickery: Devious
 You no longer suffer disadvantage on attempts made to steal an item that is closely guarded, such as those in a pocket. 

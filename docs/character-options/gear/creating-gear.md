@@ -32,7 +32,6 @@ Enchantments enhance the power of your gear, powered by the entwining of your ow
 * You must attune to a piece of gear before you can benefit from its enchantments.
 * The gear point total is limited by your proficiency bonus, rather than your Prowess.
 * Enchanted affixes are modified using the Enchant and Splice downtime activities, rather than the Craft downtime activity.
-* Affixes of a rarity higher than common must be learned using the Research downtime activity before you can Enchant them.
 
 <div class="infobox">
 
@@ -49,8 +48,7 @@ Interacting with the crafting system is done during downtime activities:
 * **Attune:** Tap into an item’s magical powers so you can use it freely.
 * **Craft:** Add, remove or modify innate affixes.
 * **Harvest:** Gather essence crystals.
-* **Research:** Learn the recipes to enchant new affixes.
-* **Enchant:** Spend essence crystals to add or modify magical affixes that you know the recipes for while at a font of power.
+* **Enchant:** While at a font of power, spend essence crystals to add or modify enchantment affixes.
 * **Disenchant:** Turn an item back into essence crystals.
 * **Splice:** Transfer an enchantment between two items.
 * **Devise:** Create consumables for your party to use.

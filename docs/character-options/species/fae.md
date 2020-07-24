@@ -51,7 +51,7 @@ Playful as the birds that sing in the forests, the people of the Spring Tribe to
 
 **Relentless Mockery:** As a minor action, you may make a Presence attack against a creature within 30 feet, applying crazed if you hit
 
-**Ceremony of the Blooming Flowers:** As a downtime activity, you may perform the Ceremony of the Blooming Flowers. All party members (including yourself) have advantage on skill checks made to perform the Research downtime activity during this rest.  Gain the benefit of the Research downtime activity.
+**Ceremony of the Blooming Flowers:** As a downtime activity, you may perform the Ceremony of the Blooming Flowers. All party members (including yourself) have advantage on skill checks made to perform the Splice downtime activity during this rest.  Gain the benefit of the Splice downtime activity.
 
 ## Summer’s Vitality
 Industrious as bees building up their hive, the people of the Summer Tribe welcome guests to their land.

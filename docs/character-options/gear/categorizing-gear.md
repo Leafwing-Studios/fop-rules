@@ -17,7 +17,7 @@ The second type of gear is **armor,** which you wear to protect yourself. We abs
 
 **Consumables** are single-use magical items designed to offer a temporary boost in power. They might be a potion of healing, a poison that coats your blade, a scroll with ancient magic or a devious trap. Consumables are created using the affix system and the Devise downtime activity, and used with the Activate minor action. Over-use of consumables can have serious consequences as your body is flooded with magical energy, suffering exhaustion due to essence overload.
 
-Affixes come in four different **rarities,** which reflect their in-game mechanical complexity and change how difficult they are to research and craft: **common, advanced, exotic,** and **prismatic.**
+Affixes come in four different **rarities,** which reflect their in-game mechanical complexity and change how difficult they are to craft: **common, advanced, exotic,** and **prismatic.**
 
 Prismatic affixes are incredibly rare and powerful, comparable to the **capstone** features that you receive upon reaching level 20 in a class. **You can only benefit from a single prismatic affix at a time, and must have a proficiency bonus of at least +5 in order to do so.**
 
