@@ -59,9 +59,7 @@
 |  20   |        +5         | Ascension                                              |
 
 ## Combination Strikes
-In battle, the Ascendant is an unstoppable martial force, striking their enemy with a flurry of chained blows from the improved body they have created. At level 1, whenever you hit a creature with an attack, you may spend one essence to immediately make another Strike, Grapple, Shove or Expose attack against them. At level 1, you may only use this feature once per round. The number of times per round that you can use this feature increases by one at levels 5, 9, 13 and 17.
-
-Secondary attacks, such as those made due to the imbued strikes affix do not trigger this feature, although this feature can self-trigger, allowing for long chains of attacks as long as you keep hitting. If your attack targets multiple creatures, such as due to the sweeping affix, you must hit at least half of them, rounded up, in order to trigger this ability.
+In battle, the Ascendant is an unstoppable martial force, striking their enemy with a flurry of chained blows from the improved body they have created. At level 1, whenever you hit a non-allied creature with an attack, you may spend one essence to immediately make another Strike, Grapple, Shove or Expose attack against them. At level 1, you may only use this feature once per round. The number of times per round that you can use this feature increases by one at levels 5, 9, 13 and 17.
 
 While you cannot usually spend essence while making attacks of opportunity, you can spend essence on Combination Strikes to follow up on attacks of opportunity that you land.
 
