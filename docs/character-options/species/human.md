@@ -38,7 +38,7 @@ The diversity of the human species is its greatest strength: no two are quite th
 
 ### Features {docsify-ignore}
 
-**Adaptable:** Treat your Prowess as if it were one higher for the sake of determining the innate gear point total of the arms and armor you can wield. At the end of each of your turns, you may gain the benefits of the Swap minor action.
+**Adaptable:** At the start of each of your turns, you may gain the benefit of the Swap minor action.
 
 **Natural Talent:** Choose another Combat Talent.
 
