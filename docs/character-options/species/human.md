@@ -42,6 +42,6 @@ The diversity of the human species is its greatest strength: no two are quite th
 
 **Natural Talent:** Choose another Combat Talent.
 
-**Hard Won Skill:** Choose another Skill Talent.
+**Hard-Won Skill:** Choose another Skill Talent.
 
 **Manual Dexterity:** You are proficient in Craftsmanship.
