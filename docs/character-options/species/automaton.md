@@ -75,9 +75,9 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 
 </div> 
 
-**Repurposed:** Your body is an effective weapon all on its own. Build a set of arms with a gear score equal to half (your Prowess plus one) that you have access to at all times. It gains the free hands affix but cannot have the thrown affix unless it also has the returning affix. When creating enchanted arms, you may choose to modify these arms instead, creating for example an extremely dangerous saw or flaming welding torch, rather than an enchanted sword. If your Prowess changes, you must also modify these arms.
+**Repurposed:** Create a set of arms using the standard rules. You are always attuned to these arms, and they do not count against your attunement limit.
 
-Whenever you make a basic attack, you may choose to use these arms in place of the arms you have equipped without the use of the Swap minor action.
+Whenever you make a basic attack, you may choose to use these arms instead. You do not swap which set of arms you have equipped, and once the basic attack is complete, you gain the benefits and drawbacks of your equipped arms instead.
 
 **Multitool:** Select three pieces of adventuring gear. They are built into your body. You do not need to roll the Supply die in order to access them.
 

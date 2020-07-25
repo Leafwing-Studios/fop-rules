@@ -29,13 +29,9 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 ### Features {docsify-ignore}
 
-**Backed into a Corner:** While you are at or below 20% of your maximum life you have advantage on all attacks.
+**Untamed:** Create a set of arms using the standard rules. You are always attuned to these arms, and they do not count against your attunement limit.
 
-**Untamed:** Your body is an effective weapon all on its own. Build a set of arms with a gear score equal to half your Prowess that you have access to at all times. It gains the free hands affix but cannot have the thrown affix unless it also has the returning affix. When creating enchanted arms, you may choose to modify these arms instead, creating for example magical tattoos or claw covers, rather than an enchanted sword. If your Prowess changes, you must also modify these arms.
-
-Whenever you make a basic attack, you may choose to use these arms in place of the arms you have equipped without the use of the Swap minor action.
-
-You may also build a set of armor in this way. If you do, gain its benefit at all times. It cannot be unequipped and you cannot equip other armor.
+Whenever you make a basic attack, you may choose to use these arms instead. You do not swap which set of arms you have equipped, and once the basic attack is complete, you gain the benefits and drawbacks of your equipped arms instead.
 
 **Natural Instinct:** You are proficient in Animism.
 

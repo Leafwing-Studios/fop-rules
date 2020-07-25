@@ -66,11 +66,11 @@ While you cannot usually spend essence while making attacks of opportunity, you 
 ## Natural Offense
 Each Ascendant customizes their body in unique ways, turning their body into a natural weapon. At level 1, the number of gear points that you can use for arms is now equal to your (Prowess + Presence) / 2, rather than simply your Prowess / 2. Any additional modifiers still apply.
 
-When you gain this feature, select common affixes that sum to (Prowess + Presence) / 2 as if building a set of arms to create a natural weapon that you can use to attack with at any time. Your body changes to accommodate these modifiers a way that is consistent with the modifiers selected: mutating, transforming or granting you superhuman abilities to allow you to perform feats such as grabbing your opponents with your beastly jaws, striking at them with a long scorpion tail, shooting spikes at them out of your hands or tripping enemies with incredible speed.
+When you gain this feature, create a set of arms using the standard rules. You are always attuned to these arms, and they do not count against your attunement limit.
 
-These arms cannot have the *thrown* affix unless they also have the *returning* affix.
+Whenever you make a basic attack, you may choose to use these arms instead. You do not swap which set of arms you have equipped, and once the basic attack is complete, you gain the benefits and drawbacks of your equipped arms instead.
 
-Whenever you make a basic attack, you may choose to use either your natural weapons or the set of arms that you are wielding, if any, without needing to use the Swap minor action. If you gain natural weapons in any other way, such as through the wild combat talent or as a species feature, build a second set of natural weapons that you may choose freely between each time you make a basic attack.
+Your body changes to accommodate these modifiers a way that is consistent with the modifiers selected: mutating, transforming or granting you superhuman abilities to allow you to perform feats such as grabbing your opponents with your beastly jaws, striking at them with a long scorpion tail, shooting spikes at them out of your hands or tripping enemies with incredible speed.
 
 If your Prowess or Presence changes, you must reselect the affixes used in this feature to ensure their gear point total is correct.
 
