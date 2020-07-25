@@ -51,6 +51,11 @@ Attacks are either **single target** or **multi target.** Many features are half
 
 There are several commonly used terms to describe the area of effect of powers; their meaning is described in the table below.
 
+## Weapon Modes
+Some sets of arms can be used in different **modes** (such as *thrown*, *radial*, *piercing*, or *cleaving*). 
+Whenever you make a basic attack with one of these weapons, you may choose a mode to use, in addition to the **standard mode** (which attacks a single target at full efficacy at the weapon's range).
+The mode of a weapon alters the base behaviour of the weapon, typically by altering its range, targets, efficacy or so on.
+
 <div class="infobox">
 
 **Faster area attacks**
