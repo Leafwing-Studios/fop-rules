@@ -56,6 +56,8 @@ Some sets of arms can be used in different **modes** (such as *thrown*, *radial*
 Whenever you make a basic attack with one of these weapons, you may choose a mode to use, in addition to the **standard mode** (which attacks a single target at full efficacy at the weapon's range).
 The mode of a weapon alters the base behaviour of the weapon, typically by altering its range, targets, efficacy or so on.
 
+Modes can be combined, multiplying together any changes to efficacy. For example, you might combine the *splashing* and *thrown* modes when making an attack with a vial of bubbling acid.
+
 <div class="infobox">
 
 **Faster area attacks**
