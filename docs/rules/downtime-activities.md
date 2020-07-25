@@ -22,7 +22,7 @@ When you attune to a collection of trinkets, you may attune to any number of ind
 
 As you gain experience and learn to control your own magic, you are able to safely use more powerful magical items. You can only attune to an item if:
 
-**sum of enchantment affixes ≤ proficiency bonus**
+**enchantment gear point total ≤ proficiency bonus**
 
 After you perform this downtime activity, you are particularly in touch with your magical items for a short period of time. One time before your next rest, you may modify the result of a roll after you see its outcome:
 * If you attuned to a set of arms, you may treat an attack that you made while you had these arms equipped as if you had rolled a 15.
