@@ -35,33 +35,38 @@
 
 # Class Features
 
-| Level | Proficiency Bonus | Features                                               |
-| :---: | :---------------: | ------------------------------------------------------ |
-|   1   |        +1         | Combination Strikes (1), Natural Offense               |
-|   2   |        +1         | Natural Defense, Meditation                            |
-|   3   |        +1         | Self-Improvement (2), Tranquility                      |
-|   4   |        +1         | Attribute Improvement                                  |
-|   5   |        +2         | Proficiency Bonus Improvement, Combination Strikes (2) |
-|   6   |        +2         | Discipline                                             |
-|   7   |        +2         | Blur                                                   |
-|   8   |        +2         | Attribute Improvement                                  |
-|   9   |        +3         | Proficiency Bonus Improvement, Combination Strikes (3) |
-|  10   |        +3         | Sublimation                                            |
-|  11   |        +3         | Self-Improvement (3)                                   |
-|  12   |        +3         | Attribute Improvement                                  |
-|  13   |        +4         | Proficiency Bonus Improvement, Combination Strikes (4) |
-|  14   |        +4         | Awareness                                              |
-|  15   |        +4         | Integrity                                              |
-|  16   |        +4         | Attribute Improvement                                  |
-|  17   |        +5         | Proficiency Bonus Improvement, Combination Strikes (5) |
-|  18   |        +5         | Reincarnation                                          |
-|  19   |        +5         | Attribute Improvement                                  |
-|  20   |        +5         | Ascension                                              |
+| Level | Proficiency Bonus | Features                                                       |
+| :---: | :---------------: | -------------------------------------------------------------- |
+|   1   |        +1         | Combination Strikes (1), Self-Improvement (1), Natural Offense |
+|   2   |        +1         | Self-Improvement (2), Natural Defense, Meditation              |
+|   3   |        +1         | Self-Improvement (3), Tranquility                              |
+|   4   |        +1         | Attribute Improvement                                          |
+|   5   |        +2         | Proficiency Bonus Improvement, Combination Strikes (2)         |
+|   6   |        +2         | Discipline                                                     |
+|   7   |        +2         | Blur                                                           |
+|   8   |        +2         | Attribute Improvement                                          |
+|   9   |        +3         | Proficiency Bonus Improvement, Combination Strikes (3)         |
+|  10   |        +3         | Sublimation                                                    |
+|  11   |        +3         | Self-Improvement (4)                                           |
+|  12   |        +3         | Attribute Improvement                                          |
+|  13   |        +4         | Proficiency Bonus Improvement, Combination Strikes (4)         |
+|  14   |        +4         | Awareness                                                      |
+|  15   |        +4         | Integrity                                                      |
+|  16   |        +4         | Attribute Improvement                                          |
+|  17   |        +5         | Proficiency Bonus Improvement, Combination Strikes (5)         |
+|  18   |        +5         | Reincarnation                                                  |
+|  19   |        +5         | Attribute Improvement                                          |
+|  20   |        +5         | Ascension                                                      |
 
 ## Combination Strikes
 In battle, the Ascendant is an unstoppable martial force, striking their enemy with a flurry of chained blows from the improved body they have created. At level 1, whenever you hit a non-allied creature with an attack, you may spend one essence to immediately make another Strike, Grapple, Shove or Expose attack against them. At level 1, you may only use this feature once per round. The number of times per round that you can use this feature increases by one at levels 5, 9, 13 and 17.
 
 While you cannot usually spend essence while making attacks of opportunity, you can spend essence on Combination Strikes to follow up on attacks of opportunity that you land.
+
+## Self-Improvement
+At level 1, you learn to augment your body with powerful magical abilities. Whenever you gain this feature, you may select non-prismatic arms or armor affixes that have a gear point total equal to the number associated with this feature. You gain their effects at all times.
+
+The gear point total of these affixes is one at level 1, two at level 2, and three at level 3, increasing to four at level 11.
 
 ## Natural Offense
 Each Ascendant customizes their body in unique ways, turning their body into a natural weapon. Your body changes to accommodate these modifiers a way that is consistent with the modifiers selected: mutating, transforming or granting you superhuman abilities to allow you to perform feats such as grabbing your opponents with your beastly jaws, striking at them with a long scorpion tail, shooting spikes at them out of your hands or tripping enemies with incredible speed.
@@ -85,11 +90,6 @@ If your Prowess or Presence changes, remember to reselect the affixes used in th
 When you reach level 2, you learn to sit in perfect tranquility, refreshing yourself even as battle rages around you. Whenever you take the Defend major action and have not yet spent movement or made an attack this turn, you may spend essence equal to twice your proficiency bonus to regain life equal to four times the essence spent. When you do, you cannot spend movement or make any attacks until the start of your next turn.
 
 You also gain access to the Meditate downtime activity, seeking to learn an inner truth. Make a difficulty 15 Focus (Insight) skill check. If you succeed, the party gains a Resolve.
-
-## Self-Improvement
-At level 3, you learn to augment your body with powerful magical abilities, gaining their effect at all times. Whenever you gain this feature, you may select non-prismatic arms or armor affixes that have a gear point total equal to the number associated with this feature. You gain their effects at all times.
-
-The gear point total of these affixes is two at level 3, increasing to three at level 11.
 
 ## Tranquility
 When you reach level 3, maintaining your tranquility in the face of danger only bolsters your spirit. Whenever you take the Defend major action, until the start of your next turn, regain 1 essence each time that a hostile creature misses you with an attack.
