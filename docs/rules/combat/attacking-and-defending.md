@@ -45,9 +45,10 @@ Attacks are either **melee** or **ranged.** You can always make melee attacks ag
 
 While you are in an enemy zone of control, ranged attacks that you make have disadvantage. The range of ranged attacks is specified in your ability’s description, or by the arms affixes of the weapon(s) you are using.
 
-## Single Target and Multi Target Attacks
+## Single-Target and Multi-Target Attacks
 
-Attacks are either **single target** or **multi target.** Many features are half as effective when used with multi target attacks, in order to preserve balance but still reward you for hitting many enemies at once.
+Attacks are either **single-target** or **multi-target.** 
+Many features are half as effective when used with multi-target attacks, in order to ensure their balance between hitting one versus many targets at once.
 
 There are several commonly used terms to describe the area of effect of powers; their meaning is described in the table below.
 
@@ -71,7 +72,7 @@ This has strange implications for the mechanics of combat even though the expect
 
 | Term     | Description                                                                                                                                                           |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cone     | A 90 degree cone, expanding out from the origin (typically the caster). This is measured as a 1/4 section of a sphere of the same radius. |
+| Cone     | A 90 degree cone, expanding out from the origin (typically the caster). This is measured as a 1/4 section of a sphere of the same radius.                             |
 | Cylinder | A tall cylinder centered around the chosen point.                                                                                                                     |
 | Line     | A line, typically beginning at the caster and affects all creatures within length specified. Lines wider than 5 feet expand out from both sides of the original line. |
-| Sphere   | A sphere centered around the chosen point. This is measured as all tiles reachable by spending that many feet of movement. |
+| Sphere   | A sphere centered around the chosen point. This is measured as all tiles reachable by spending that many feet of movement.                                            |
