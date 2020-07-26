@@ -74,13 +74,13 @@ Whenever you make an attack on your turn and have not spent movement yet this tu
 ### Coolheaded
 You no longer have disadvantage on ranged attacks due to being in an enemy zone of control.
 
-### Fierce
-The first time each round that you hit a creature with a basic attack, you may spend essence equal to your proficiency bonus to gain four times that much life.
-
-### Precise
+### Fastidious
 If you do not have disadvantage on a ranged attack, you may choose to gain disadvantage on the attack and double its range.
 
 Partial cover no longer causes your attacks to be made with disadvantage.
+
+### Fierce
+The first time each round that you hit a creature with a basic attack, you may spend essence equal to your proficiency bonus to gain four times that much life.
 
 ### Stubborn
 On your turn, if you have not yet spent movement, you may choose to gain advantage on all of your attacks until the start of your next turn. If you do, you may not spend movement until the start of your next turn.
