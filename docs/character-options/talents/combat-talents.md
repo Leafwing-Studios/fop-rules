@@ -29,11 +29,6 @@ You may use the Activate minor action one more time each rest before needing to 
 ### Versatile
 Learn two additional powers from your class.
 
-### Wild
-Create a set of arms using the standard rules. You are always attuned to these arms, and they do not count against your attunement limit.
-
-Whenever you make a basic attack, you may choose to use these arms instead. You do not swap which set of arms you have equipped, and once the basic attack is complete, you gain the benefits and drawbacks of your equipped arms instead.
-
 ## Frontline
 
 ### Dependable

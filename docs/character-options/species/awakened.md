@@ -29,9 +29,13 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 ### Features {docsify-ignore}
 
-**Untamed:** Create a set of arms using the standard rules. You are always attuned to these arms, and they do not count against your attunement limit.
+**Untamed:** Your body is an effective weapon all on its own: whether you have sharp teeth, piercing talons or incredible strength. Create a set of arms using the standard rules. You are always attuned to them, and they do not count against your attunement limit. These arms have the *desperate* affix, which does not count against their gear point total.
 
-Whenever you make a basic attack, you may choose to use these arms instead. You do not swap which set of arms you have equipped, and once the basic attack is complete, you gain the benefits and drawbacks of your equipped arms instead.
+<div class="inline-box">
+
+**Desperate (arms, advanced, 1):** While on Death's Door, your attacks are automatically criticals if they hit.
+
+</div>
 
 **Natural Instinct:** You are proficient in Animism.
 

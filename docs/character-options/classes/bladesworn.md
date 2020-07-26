@@ -85,7 +85,7 @@ You learn 3 counterattacks at level 1, selected from the counterattacks section 
 
 Bladesworn are sworn to a weapon that has been passed down in some fashion for generations. Virtually all of their power is gained by wielding or carrying it, drawing from its strength as they contribute their own. When you create a bladesworn, carefully think about this set of arms: the form it takes, its history, what special features it might possess, and the reason why it has been passed down. This set or arms need not literally be a blade: it could just as easily be a shield, a bow, a pair of daggers or so on.
 
-You are always attuned to the set of arms you are bound to, and cannot attune to any other set of arms, other than those which are part of your body such as those gained through the wild combat talent. Bladesworn who wish to use more than one type of arms in battle may also find the shifting arms affix quite appealing.
+You are always attuned to the set of arms you are bound to.
 
 Every blade belongs to a Lineage: the reason why a long line of people have carried this weapon before you. At level 1, choose a Lineage, which offers unique features as you level up.
 

@@ -75,9 +75,13 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 
 </div> 
 
-**Repurposed:** Create a set of arms using the standard rules. You are always attuned to these arms, and they do not count against your attunement limit.
+**Repurposed:** Your body is an effective weapon all on its own: industrial equipment is incredibly dangerous, if somewhat challenging to use in combat. Create a set of arms using the standard rules. You are always attuned to them, and they do not count against your attunement limit. These arms have the *wanton* affix, which does not count against their gear point total.
 
-Whenever you make a basic attack, you may choose to use these arms instead. You do not swap which set of arms you have equipped, and once the basic attack is complete, you gain the benefits and drawbacks of your equipped arms instead.
+<div class="inline-box">
+
+**Wanton (arms, common, 1):** Your basic attacks have disadvantage, but deal maximized damage.
+
+</div>
 
 **Multitool:** Select three pieces of adventuring gear. They are built into your body. You do not need to roll the Supply die in order to access them.
 
