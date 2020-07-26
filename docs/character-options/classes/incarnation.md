@@ -66,7 +66,7 @@ At the start of each of your turns while in combat and not transformed, gain 1 s
 The number of stacks of emotion you gain each turn increases as you level up. You gain 2 stacks at level 5, 3 stacks at level 9, 4 stacks at level 13 and 5 stacks at level 17.
 
 ## Grit
-At level 1, you are able to push through impairments through sheer force of will. At the start of each of your turns, make a difficulty 15 Presence (Endurance) skill check. If you succeed, remove one stack of a condition of your choice from yourself.
+At level 1, you are able to push through impairments through sheer force of will. At the start of each of your turns, make a difficulty 10 Presence (Endurance) skill check. If you succeed, remove one stack of a condition of your choice from yourself.
 
 ## Temperament
 Each Incarnation embodies a specific **Temperament;** focusing on those memories and emotions to manifest a fitting physical form. 
