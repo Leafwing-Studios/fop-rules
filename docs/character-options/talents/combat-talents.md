@@ -146,7 +146,7 @@ When you miss a creature with an attack while hidden, you remain hidden and any 
 ## Controller
 
 ### Burly
-You have advantage on skill checks made to maintain a grapple. You may move at full speed when dragging a creature you have grappled.
+You have advantage on skill checks made to maintain a grapple. When you spend movement to move yourself while you have another creature grappled, you may apply the same amount of forced movement to them in the same direction.
 
 ### Merciless
 After you apply at least one stack of a condition to a creature that already has a stack of that same condition, apply an additional stack of that condition. This effect does not trigger itself.
