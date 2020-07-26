@@ -175,7 +175,7 @@ You may use your Block reaction to prevent damage that would be dealt to any cre
 Enemies provoke an attack of opportunity whenever they enter your zone of control.
 
 ### Responsive
-You gain access to the First Aid reaction. After another allied creature within 10 feet of you is hit by an attack, you may use this reaction. When you do, you may use any major or minor action that does not cost essence and applies a boon to the creature that was hit.
+You gain access to the First Aid reaction. After another allied creature within 30 feet of you is hit by an attack, you may use this reaction. When you do, you may use any major or minor action that does not cost essence and applies a boon to the creature that was hit.
 
 ### Stable
 You are immune to the effects of critical hits. You no longer benefit from critical hits.
