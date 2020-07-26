@@ -138,7 +138,7 @@ You have disadvantage on attacks that you make against allied creatures.
 You have advantage on all skill checks made to use the Hide minor action in combat.
 
 ### Sadistic
-After you apply at least two stacks of an affliction, apply another stack of that same affliction.
+After you apply at least one stack of an affliction to a creature that already has a stack of that same condition, apply two additional stacks of that affliction. This effect does not trigger itself.
 
 ### Sneaky
 When you miss a creature with an attack while hidden, you remain hidden and any invisibility you may have is not broken if it normally would be.
