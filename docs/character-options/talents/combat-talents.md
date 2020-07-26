@@ -1,6 +1,8 @@
 # Combat Talents
 To make picking a combat talent easier, they are arranged below into categories below, matching either a **position** or a **role,** as defined in the introduction to the [Classes](character-options/classes/) chapter.
 
+Every combat talent is also available as an affix, with a gear point cost of 1.
+
 ## General
 
 ### Blind
