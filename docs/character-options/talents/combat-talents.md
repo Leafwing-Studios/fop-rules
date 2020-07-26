@@ -55,7 +55,7 @@ Enemies provoke an attack of opportunity whenever they leave your zone of contro
 You are proficient in a special defense of your choice. Gain resistance to a damage type of your choice other than physical.
 
 ### Staunch
-Whenever you take the Defend major action, ignore any stacks of conditions or afflictions that would be added to you until the start of your next turn.
+After you take the Defend major action, ignore any stacks of conditions or afflictions that would be added to you until the start of your next turn.
 
 ### Stout
 You may now use the Block reaction in response to attacks that only apply forced movement but do not deal damage. When you use the Block reaction, prevent all forced movement that would be applied by the attack blocked.
@@ -100,7 +100,7 @@ After you successfully use the Dodge reaction, you may make an attack of opportu
 Whenever you take the Dash minor action, attacks of opportunity against you have disadvantage until the end of the current turn.
 
 ### Demure
-Whenever you hit a creature with an attack, they cannot make attacks of opportunity against you until the start of your next turn.
+After you hit a creature with an attack, they cannot make attacks of opportunity against you until the start of your next turn.
 
 ### Dodgy
 You have advantage on Dodge rolls.
@@ -112,7 +112,7 @@ You may use Agility (Athletics) instead of Prowess (Athletics) to maintain a gra
 Your Dash minor action now grants you additional movement equal to your movement speed, rather than half of it.
 
 ### Shifty
-Whenever you use your reaction, you may shift once.
+After you use your reaction, you may shift once.
 
 ### Spry
 After you hit a creature with a melee attack, you may shift into any empty tile that is the same distance as you currently are from them.
@@ -126,7 +126,7 @@ You may use the Dodge reaction to attempt to completely evade Agility attacks (i
 The critical hit threshold for your attacks is reduced by 2. Whenever you roll a 1 while making an attack, something goes horribly wrong, and you suffer the attack’s effects instead.
 
 ### Bloodthirsty
-Whenever you reduce a non-allied creature to 0 life, attacks that you make are automatically criticals if they hit until the end of your next turn.
+After you reduce a non-allied creature to 0 life, attacks that you make are automatically criticals if they hit until the end of your next turn.
 
 ### Careful
 You have disadvantage on attacks that you make against allied creatures.
@@ -135,7 +135,7 @@ You have disadvantage on attacks that you make against allied creatures.
 You have advantage on all skill checks made to use the Hide minor action in combat.
 
 ### Sadistic
-Whenever you apply at least one stack of an affliction, apply another stack of that same affliction.
+After you apply at least two stacks of an affliction, apply another stack of that same affliction.
 
 ### Sneaky
 When you miss a creature with an attack while hidden, you remain hidden and any invisibility you may have is not broken if it normally would be.
@@ -149,10 +149,10 @@ You have advantage on skill checks made to maintain a grapple. You may move at f
 Whenever you roll a 1 on an attack roll or a skill check made during combat, reroll the attack or skill check. You must use the new result.
 
 ### Merciless
-Whenever you apply at least one stack of a condition to a creature that already has a stack of that same condition, apply an additional stack of that condition.
+After you apply at least one stack of a condition to a creature that already has a stack of that same condition, apply an additional stack of that condition. This effect does not trigger itself.
 
 ### Scheming
-Whenever you hit a creature with an attack, you may shift them once.
+After you hit a creature with an attack, you may shift them once.
 
 ### Rough
 When you hit a creature with a Shove attack, you may choose to push them into any empty tile that is adjacent to you, rather than a tile within 5 feet of their previous position.
@@ -163,10 +163,10 @@ When you hit a creature with a Shove attack, you may choose to push them into an
 You have advantage on skill checks made to use the Treat minor action.
 
 ### Darting
-Whenever you apply a boon to another creature, you may shift once.
+After you apply a boon to another creature, you may shift once.
 
 ### Encouraging
-Whenever you apply a boon to another creature, they may shift once.
+After you apply a boon to another creature, they may shift once.
 
 ### Protective
 You may use your Block reaction to prevent damage that would be dealt to any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well.
