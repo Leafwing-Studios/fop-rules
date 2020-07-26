@@ -1,29 +1,31 @@
 # Reclaimer
-Indiscriminate lovers of junk and treasure, the Reclaimers have an unending love for those things once discarded by society. Uniquely adapted to survive in very high-magic environments, they have a knack for crafting and using magical items.
+Indiscriminate lovers of junk and treasure, the Reclaimers follow in the wake of the great events of the fonts: chasing after clues and picking up the artifacts left behind.
+Uniquely resilient to the toxic effects of essence overload, they serve as scholars, archaeologists and adventurers, proudly showcasing their latest finds.
 
-Living in cluttered, rickety dens in the city, the Reclaimers compete ruthlessly among themselves to show off the very best bits of magic, knowledge, and art, both new and old. 
-Scrawny, with short fur, rat-like faces, and big, floppy ears, they make good use of every piece of discarded junk from the species they live with, and are a welcome, if sometimes exasperating, addition to virtually every city.
+Short and scrawny, bedecked in assorted piles of gear, the true appearance of the Reclaimers remains a mystery. 
+But everyone who has met oneremembers their glowing eyes: peeking out curiously from underneath oversized headgear.
+The color of their eyes betrays their favorite sort of magical item, drawn like moths to a flame to the memories that they hold.
 
 <div class="side-panel">
 
-| Roll | What do you enjoy collecting the most? |
-| ---- | -------------------------------------- |
-| 1    | Literal junk.                          |
-| 2    | Anything shiny.                        |
-| 3    | Mundane goods.                         |
-| 4    | Books.                                 |
-| 5    | Magical items.                         |
-| 6    | Essence crystals.                      |
+| Roll | What do you enjoy collecting the most?            |
+| ---- | ------------------------------------------------- |
+| 1    | Literal junk that has been neglected and unloved. |
+| 2    | Shiny objects that attract attention.             |
+| 3    | Mundane goods that were once beloved.             |
+| 4    | Books and scrolls that hold important knowledge.  |
+| 5    | Historically significant objects.                 |
+| 6    | Works of art, now forgotten.                      |
 
 
-| Roll | How do you feel about the competitive nature of your society? |
-| ---- | ------------------------------------------------------------- |
-| 1    | I hate everything about it.                                   |
-| 2    | I do my best to ignore it.                                    |
-| 3    | I simply put forward an earnest effort.                       |
-| 4    | I love seeing what others have to show.                       |
-| 5    | I thrive with the competition.                                |
-| 6    | I actively push for more competition.                         |
+| Roll | Why do you conceal your body with gear?                         |
+| ---- | --------------------------------------------------------------- |
+| 1    | I love the sensation.                                           |
+| 2    | There's so much to appreciate, so why not wear more?            |
+| 3    | Wearing all this equipment makes me feel connected to the past. |
+| 4    | It makes me feel safer to be surrounded like this.              |
+| 5    | This is a time-honored cultural tradition.                      |
+| 6    | I like the air of mystery it brings.                            |
 
 </div>
 
@@ -31,20 +33,35 @@ Scrawny, with short fur, rat-like faces, and big, floppy ears, they make good us
 
 **Insatiable Curiosity:** You may use the Activate minor action one more time each rest before needing to make a Focus (Arcana) skill check made to avoid essence overload.
 
-**Scavenger:** You have advantage on all skill checks made during the Disenchant downtime activity. Whenever you use a consumable, roll a d20. On an 11 or higher, it is not used up.
+**Scavenger:** You have advantage on all skill checks made during the Devise and Disenchant downtime activities.
+
+## Life-Bringer
+
+| Roll | What emotions does the life you create capture? |
+| ---- | ----------------------------------------------- |
+| 1    | Sheer, unbridled joy.                           |
+| 2    | Hungering ferocity.                             |
+| 3    | Serene beauty.                                  |
+| 4    | Ever-stretching ambition.                       |
+| 5    | Tragic loss.                                    |
+| 6    | Overweening pride.                              |
+
+**???:** ???
+	
+**Natural Historian:** You are proficient in Animism.
 
 ## Academy-Rat
 
-| Roll | What do you focus your academic research on?    |
-| ---- | ----------------------------------------------- |
-| 1    | The fundamental nature of magic.                |
-| 2    | The mysteries of the fonts of power.            |
-| 3    | The study of life and resurrection.             |
-| 4    | The invention of new enchantments.              |
-| 5    | The relationships between the elements.         |
-| 6    | The reason why souls produce essence over time. |
+| Roll | What do you focus your academic research on? |
+| ---- | -------------------------------------------- |
+| 1    | The fundamental nature of magic.             |
+| 2    | The mysteries of the fonts of power.         |
+| 3    | The study of life and resurrection.          |
+| 4    | The invention of new enchantments.           |
+| 5    | The relationships between the elements.      |
+| 6    | The means by which souls produce essence.    |
 
-**Overanalysis:** At the start of each of your turns while in combat, you may gain the benefits of the Scan minor action.
+**???:** ???
 	
 **Lore Seeker:** You are proficient in Arcana.
 
@@ -74,6 +91,6 @@ Scrawny, with short fur, rat-like faces, and big, floppy ears, they make good us
 | 5    | I’m too busy improving on my designs to actually use them for much. |
 | 6    | They make my life easier in mundane ways.                           |
 
-**Bleeding Edge:** The critical hit threshold for your attacks is reduced by 2. Whenever you roll a 1 while making an attack, something goes horribly wrong, and you suffer the attack’s effects instead.
+**??:** ??.
 
 **Mad Science:** You are proficient in Tinkering.
