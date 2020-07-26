@@ -163,10 +163,10 @@ When you hit a creature with a Shove attack, you may choose to push them into an
 You have advantage on skill checks made to use the Treat minor action.
 
 ### Darting
-After you apply a boon to another creature, you may shift once.
+After you apply a boon to another creature, you may shift once. This effect only triggers once per boon applied, even for multi-target boons.
 
 ### Encouraging
-After you apply a boon to another creature, they may shift once.
+After you apply a single-target boon to another creature, they may shift once.
 
 ### Protective
 You may use your Block reaction to prevent damage that would be dealt to any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well.
@@ -181,4 +181,4 @@ You gain access to the First Aid reaction. After another allied creature within 
 You are immune to the effects of critical hits. You no longer benefit from critical hits.
 
 ### Supportive
-Whenever you apply a boon to another creature they gain 2 absorption.
+Whenever you apply a single-target boon to another creature they gain 2 absorption. Whenever you apply a multi-target boon to another creature, they gain 1 absorption.
