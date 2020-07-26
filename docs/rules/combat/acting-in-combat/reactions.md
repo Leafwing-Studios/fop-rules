@@ -19,5 +19,5 @@ After you are hit with an attack that would deal damage, you may spend your reac
 This occurs after any non-damaging effects are applied, but before damage is prevented by absorption. As a result, you cannot typically block attacks which successfully apply the defenseless or lethargic conditions.
 
 ## Dodge
-Whenever you would be hit a basic attack, you may use the Dodge reaction. If you do, make a **Dodge roll,** adding a d20, your Agility and your proficiency bonus. If your result is greater than or equal to the basic attack roll that hit you, the attack misses instead.
+Whenever you would be hit a basic attack, you may use the Dodge reaction. If you do, make an Agility (Athletics) skill check. If your skill check result is greater than or equal to the basic attack roll that hit you, the attack misses instead.
 

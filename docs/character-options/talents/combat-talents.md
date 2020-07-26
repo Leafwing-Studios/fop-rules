@@ -101,7 +101,7 @@ Whenever you take the Dash minor action, attacks of opportunity against you have
 After you hit a creature with an attack, they cannot make attacks of opportunity against you until the start of your next turn.
 
 ### Dodgy
-You have advantage on Dodge rolls.
+You have advantage on Agility(Athletics) skill checks made as part of the Dodge reaction.
 
 ### Flexible
 You may use Agility (Athletics) instead of Prowess (Athletics) to maintain a grapple. You have advantage on all skill checks made to escape a grapple.
