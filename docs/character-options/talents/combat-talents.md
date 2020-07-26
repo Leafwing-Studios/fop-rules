@@ -152,7 +152,7 @@ You have advantage on skill checks made to maintain a grapple. You may move at f
 After you apply at least one stack of a condition to a creature that already has a stack of that same condition, apply an additional stack of that condition. This effect does not trigger itself.
 
 ### Scheming
-After you hit a creature with an attack, you may shift them once.
+After you hit a creature with a single-target attack, you may shift them once.
 
 ### Rough
 When you hit a creature with a Shove attack, you may choose to push them into any empty tile that is adjacent to you, rather than a tile within 5 feet of their previous position.
