@@ -55,7 +55,7 @@ Enemies provoke an attack of opportunity whenever they move from a tile that is 
 Enemies provoke an attack of opportunity whenever they leave your zone of control.
 
 ### Resilient
-You are proficient in a special defense of your choice. Gain resistance to a damage type of your choice other than physical.
+Choose an attribute. Special attacks made against you that target the specified attribute are made with disadvantage.
 
 ### Staunch
 After you take the Defend major action, ignore any stacks of conditions or afflictions that would be added to you until the start of your next turn.
