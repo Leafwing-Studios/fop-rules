@@ -11,6 +11,9 @@ You can no longer see in the usual fashion. Instead, you gain an innate awarenes
 ### Chosen
 Once per rest you may gain a benefit that would normally be earned by spending Resolve (other than to gain a rest).
 
+### Lucky
+Whenever you roll a 1 on an attack roll or a skill check made during combat, reroll the attack or skill check. You must use the new result.
+
 ### Nocturnal
 Objects in dim light are no longer obscured, and objects in darkness are now merely obscured, rather than invisible.
 
@@ -144,9 +147,6 @@ When you miss a creature with an attack while hidden, you remain hidden and any 
 
 ### Burly
 You have advantage on skill checks made to maintain a grapple. You may move at full speed when dragging a creature you have grappled.
-
-### Lucky
-Whenever you roll a 1 on an attack roll or a skill check made during combat, reroll the attack or skill check. You must use the new result.
 
 ### Merciless
 After you apply at least one stack of a condition to a creature that already has a stack of that same condition, apply an additional stack of that condition. This effect does not trigger itself.
