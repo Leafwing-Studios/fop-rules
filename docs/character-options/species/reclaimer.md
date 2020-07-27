@@ -1,10 +1,10 @@
 # Reclaimer
-Indiscriminate lovers of junk and treasure, the Reclaimers follow in the wake of the great events of the fonts: chasing after clues and picking up the artifacts left behind.
+Indiscriminate lovers of junk and treasure, the Reclaimers follow in the wake of the great events of the fonts: chasing after clues, preserving memories and picking up the artifacts left behind.
 Uniquely resilient to the toxic effects of essence overload, they serve as scholars, archaeologists and adventurers, proudly showcasing their latest finds.
 
 Short and scrawny, bedecked in assorted piles of gear, the true appearance of the Reclaimers remains a mystery. 
 But everyone who has met oneremembers their glowing eyes: peeking out curiously from underneath oversized headgear.
-The color of their eyes betrays their favorite sort of magical item, drawn like moths to a flame to the memories that they hold.
+The color of these eyes betrays their favorite sort of magical item, drawn to the memories that they hold.
 
 <div class="side-panel">
 
@@ -35,18 +35,18 @@ The color of their eyes betrays their favorite sort of magical item, drawn like 
 
 **Scavenger:** You have advantage on all skill checks made during the Devise and Disenchant downtime activities.
 
-## Life-Bringer
+## Life-Collector
 
-| Roll | What emotions does the life you create capture? |
-| ---- | ----------------------------------------------- |
-| 1    | Sheer, unbridled joy.                           |
-| 2    | Hungering ferocity.                             |
-| 3    | Serene beauty.                                  |
-| 4    | Ever-stretching ambition.                       |
-| 5    | Tragic loss.                                    |
-| 6    | Overweening pride.                              |
+| Roll | What sort of life do you collect? |
+| ---- | --------------------------------- |
+| 1    | Tiny plants.                      |
+| 2    | Alien gardens.                    |
+| 3    | Glowing fungi.                    |
+| 4    | Buzzing insects.                  |
+| 5    | Animal companions.                |
+| 6    | Pet rocks.                        |
 
-**???:** ???
+**Living Armor:** After you lose life, gain 4 absorption.
 	
 **Natural Historian:** You are proficient in Animism.
 
@@ -61,13 +61,13 @@ The color of their eyes betrays their favorite sort of magical item, drawn like 
 | 5    | The relationships between the elements.      |
 | 6    | The means by which souls produce essence.    |
 
-**???:** ???
+**Esteemed Regalia:** At the start of each of your turns, make a difficulty 10 Focus (Arcana) skill check. If you succeed, remove one stack of a condition of your choice from yourself.
 	
 **Lore Seeker:** You are proficient in Arcana.
 
 ## Font-Congregant
 
-| Roll | How do you feel about the gods you draw power from?                    |
+| Roll | How do you feel about the gods you pray to?                            |
 | ---- | ---------------------------------------------------------------------- |
 | 1    | I don’t think they actually exist, but I sure seem to get results.     |
 | 2    | I worship whoever is associated with the font of power I’m nearest to. |
@@ -76,7 +76,7 @@ The color of their eyes betrays their favorite sort of magical item, drawn like 
 | 5    | I think they’re all secretly one entity.                               |
 | 6    | They are all sacred and worthy of sincere worship.                     |
 
-**Syncretism:** Once per rest, you may pray to whatever god seems most fitting for the situation, gaining a benefit that would normally be earned by spending Resolve (other than to gain a rest).
+**Syncretic Vestments:** Your Dodge reaction uses Focus (Geomatics) rather than Agility (Athletics) for the skill check made. You may now use the Dodge reaction to avoid the effects of Focus attacks.
 
 **Devotee of the Lost Gods:** You are proficient in Geomatics.
 
@@ -91,6 +91,6 @@ The color of their eyes betrays their favorite sort of magical item, drawn like 
 | 5    | I’m too busy improving on my designs to actually use them for much. |
 | 6    | They make my life easier in mundane ways.                           |
 
-**??:** ??.
+**Indestructible Contraption:** At the start of each of your turns, gain 2 absorption for each unique condition that you have.
 
 **Mad Science:** You are proficient in Tinkering.
