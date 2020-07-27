@@ -12,6 +12,8 @@
 * Controller: Neutralize your foes with the curse cycle of prayers or shape the battlefield with the genesis cycle, completely swinging the whole tide of battlefield when your miracles come through. With the party’s help, you can play a slow, defensive style and pull off an impossibly powerful *portent* miracle, creating stories that will never be forgotten.
 * Guardian: Looks for prayers that grant boons to your allies, such as the *blessing* and *gift* cycles, then supercharge an ally with a miracle while you stay safe in the backline.
 
+<div class="side-panel">
+
 | Roll  | Why did you join your religion?           |
 | :---: | ----------------------------------------- |
 |   1   | I was born into it.                       |
@@ -44,6 +46,8 @@
 |  10   | Umbral - Shadows, Darkness, Dark Bargains          |
 |  11   | Electricity - Lightning, Spark of Life, Technology |
 |  12   | Corrosion - Acid, Destruction, Aging               |
+
+</div>
 
 # Class Features
 
@@ -183,7 +187,6 @@ At level 18, you finally learn to communicate directly with your deity and may o
 
 ## Favored
 When you reach level 20, you are a particular favorite of your deity, easily winning their approval. The first time during your turn in combat that you cast a prayer, your Favor increases by 2 rather than 1. In addition, the Ritual downtime activity now increases your Favor by 2 rather than 1 when you choose to increase your Favor.
-
 
 # Devotion
 

@@ -11,6 +11,8 @@
 * Controller: Hold your ground in the middle of the enemy’s line and select auras that affect your enemies and focus on keeping yourself alive. Grappling can be a great addition, letting you force enemies to stay in range of your auras.
 * Guardian: Plant your feet just in front of your backline, keeping your enemies from getting close to your allies as you enhance their effectiveness with your auras. Make sure they’re adjacent to you, so that you can use your incredibly powerful Block reaction to protect them should they get hit.
 
+<div class="side-panel">
+
 | Roll  | Why do you hold such strong ideals?                  |
 | :---: | ---------------------------------------------------- |
 |   1   | I witnessed a tragedy.                               |
@@ -28,6 +30,8 @@
 |   4   | My reputation.                                  |
 |   5   | Innocents who get in the way.                   |
 |   6   | My power.                                       |
+
+</div>
 
 # Class Features
 
@@ -75,7 +79,7 @@ When you reach level 2, your confidence and conviction is apparent to all you sp
 Also at level 2, your belief shields you from harm, granting additional protection when you use the Block reaction. Whenever you use the Block reaction (after you’ve seen how much damage the attack would deal and how much damage you would block), you may spend essence up to your proficiency bonus to increase the damage blocked. For every point of essence spent in this way, increase the damage blocked by 4.
 
 ## Intervention
-At level 3, you gain an unflinching willingness to step in front of blows meant for your allies. You may use your Block reaction to prevent damage that would be dealt to any creature within 5 feet of you, rather than just yourself. When you do so, you take any other effects of that attack in their place as well.
+At level 3, you gain an unflinching willingness to step in front of blows meant for your allies. You may use your Block reaction to prevent damage that would be dealt to any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well.
 
 ## Martyr
 Also at level 3, being wounded in the course of doing what is right only deepens your resolve. At the end of each turn in which you lost life, gain 1 essence and 2 absorption.

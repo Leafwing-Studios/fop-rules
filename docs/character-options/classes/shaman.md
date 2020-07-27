@@ -12,6 +12,8 @@
 * Controller: The *shaping* and *breath* manifestations are your best friends, especially when combined with either the *grasp* or *word* manifestations, letting you choke out your enemies options and control the whole battlefield from a distance.
 * Guardian: Try to pick up the *expel* and *shelter* manifestations to support your allies and protect them from your wrath. Selecting *shield* as your characteristic manifestation is another great choice, letting you block blows for your allies.
 
+<div class="side-panel">
+
 | Roll  | How was your bond with the land forged?        |
 | :---: | ---------------------------------------------- |
 |   1   | I was raised in the wild.                      |
@@ -29,6 +31,8 @@
 |   4   | I treat it with respect and advocate for its needs. |
 |   5   | I will do anything to protect it.                   |
 |   6   | I worship it as a sort of god.                      |
+
+</div>
 
 # Class Features
 
@@ -65,7 +69,6 @@ When a Manifestation is said to deal **elemental damage,** substitute the approp
 
 ## Surge
 When you use a manifestation, you may choose to spend additional essence to **Surge** it, up to your **Capacity**, which begins at 1. Every odd point of Surge increases the direct potency of the effect; every even point increases their power in a more subtle way.
-
 
 Every point of essence that you spend in this way increases your **Energy** by 1. If you Surge multiple manifestations in a single round, your Energy can exceed your Capacity. Unlike usual, you may spend essence to Surge your manifestations during attacks of opportunity.
 

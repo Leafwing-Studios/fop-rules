@@ -11,6 +11,8 @@
 * Striker: Ambition and Rage Incarnations can put out tons of damage, amplifying their basic attacks’ power through critical strikes with affixes like *keen* and *brutal victory*. Rely on superior mobility or ranged attacks to stay safe, or simply tank through the pain with affixes like undying.
 * Controller: Courage and Desire Incarnations are particularly adept at this role, taunting or charming your enemies. Augment this strength with weapons that apply conditions using the *imbued strikes* affix or focus on grappling with affixes like *grasping reach*.
 
+<div class="side-panel">
+
 | Roll  | How do you call out such strong emotions?                  |
 | :---: | ---------------------------------------------------------- |
 |   1   | I enter a trance of some sort.                             |
@@ -28,6 +30,8 @@
 |   4   | I am surrounded by a visible aura of power.                            |
 |   5   | I seem possessed.                                                      |
 |   6   | My emotions pour forth from me in a way that those around me can feel. |
+
+</div>
 
 ## Class Features
 
@@ -62,7 +66,7 @@ At the start of each of your turns while in combat and not transformed, gain 1 s
 The number of stacks of emotion you gain each turn increases as you level up. You gain 2 stacks at level 5, 3 stacks at level 9, 4 stacks at level 13 and 5 stacks at level 17.
 
 ## Grit
-At level 1, you are able to push through impairments through sheer force of will. At the start of each of your turns, make a difficulty 15 Presence (Endurance) skill check. If you succeed, remove one stack of a condition of your choice from yourself.
+At level 1, you are able to push through impairments through sheer force of will. At the start of each of your turns, make a difficulty 10 Presence (Endurance) skill check. If you succeed, remove one stack of a condition of your choice from yourself.
 
 ## Temperament
 Each Incarnation embodies a specific **Temperament;** focusing on those memories and emotions to manifest a fitting physical form. 

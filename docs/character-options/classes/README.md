@@ -36,7 +36,7 @@ When a playstyle is listed in *italics*, opting into that classification will re
 
 </div>
 
-### Ascendant
+### [Ascendant](character-options/classes/ascendant.md)
 
 With a singular focus on self-improvement, Ascendants focus their mind and hone their body into the perfect weapon, chaining together incredible combinations of attacks.
 
@@ -50,7 +50,7 @@ With a singular focus on self-improvement, Ascendants focus their mind and hone 
 
 </div>
 
-### Bladesworn
+### [Bladesworn](character-options/classes/bladesworn.md)
 
 The latest in a line of creatures bound to a sentient weapon, Bladesworn dance through the battlefield, answering their opponents every step, 
 
@@ -64,7 +64,7 @@ The latest in a line of creatures bound to a sentient weapon, Bladesworn dance t
 
 </div>
 
-### Conduit
+### [Conduit](character-options/classes/conduit.md)
 
 Channeling raw magic into their weapons, Conduits teleport to their foes before arcing the magic through their bodies.
 
@@ -78,7 +78,7 @@ Channeling raw magic into their weapons, Conduits teleport to their foes before 
 
 </div>
 
-### Devout
+### [Devout](character-options/classes/devout.md)
 
 Drawing on the power of a fickle god, Devout build up favor before working incredibly powerful miracles that last as long as their concentration holds.
 
@@ -92,7 +92,7 @@ Drawing on the power of a fickle god, Devout build up favor before working incre
 
 </div>
 
-### Elementalist
+### [Elementalist](character-options/classes/elementalist.md)
 
 A classic spellslinger, the Elementalist carefully balances pairs of elements against each other, living in the danger zone before the excess energy explodes.
 
@@ -106,7 +106,7 @@ A classic spellslinger, the Elementalist carefully balances pairs of elements ag
 
 </div>
 
-### Incarnation
+### [Incarnation](character-options/classes/incarnation.md)
 
 Biding their time and shrugging off ailments as their emotions grow in strength, Incarnations transform into an awe-inspiring embodiment of power.
 
@@ -120,7 +120,7 @@ Biding their time and shrugging off ailments as their emotions grow in strength,
 
 </div>
 
-### Paragon
+### [Paragon](character-options/classes/paragon.md)
 
 Standing firm in the heart of the battle, Paragons inspire their allies and demoralize their foes, blocking attack after attack as they fight for their ideals.
 
@@ -134,7 +134,7 @@ Standing firm in the heart of the battle, Paragons inspire their allies and demo
 
 </div>
 
-### Shaman
+### [Shaman](character-options/classes/shaman.md)
 
 Manifesting the natural elements with unparalleled versatility, Shamans wrestle with its intense and uncontrollable power as they devastate the battlefield.
 
@@ -148,7 +148,7 @@ Manifesting the natural elements with unparalleled versatility, Shamans wrestle 
 
 </div>
 
-### Soulbinder
+### [Soulbinder](character-options/classes/soulbinder.md)
 
 With a gentle touch or the tip of a blade, Soulbinders form a connection between their own soul and another, pulsing subtle and strange effects through the bond.
 
@@ -162,7 +162,7 @@ With a gentle touch or the tip of a blade, Soulbinders form a connection between
 
 </div>
 
-### Touched
+### [Touched](character-options/classes/touched.md)
 
 Two entities bound to the same form, the Touched must slowly learn to work together as they blend melee strikes, ranged attacks, and simple custom spells.
 
@@ -176,7 +176,7 @@ Two entities bound to the same form, the Touched must slowly learn to work toget
 
 </div>
 
-### Trickster
+### [Trickster](character-options/classes/trickster.md)
 
 Masters of luck itself, Tricksters play the odds as they roll the dice on huge attacks, take advantage of their foes’ openings and set off devious delayed-action tricks.
 
@@ -190,7 +190,7 @@ Masters of luck itself, Tricksters play the odds as they roll the dice on huge a
 
 </div>
 
-### Weaver
+### [Weaver](character-options/classes/weaver.md)
 
 Weaving together simple patterns into a brilliant tapestry, Weavers toy with the threads of reality itself as they serve as the puppet master for the entire encounter,
 

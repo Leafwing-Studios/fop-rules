@@ -12,6 +12,8 @@
 * Striker: Opt into the risky double-edged spells like roar of fire to maximize your output, then select armor affixes like *immunity* to mitigate their downsides.
 * Controller: Double down on your conditions, selecting affixes like *imbued strikes* and *merciless* to apply more of them and then amplify their effects with exotic affixes like *absolute zero*.
 
+<div class="side-panel">
+
 | Roll  | How do you channel your magic into objects?          |
 | :---: | ---------------------------------------------------- |
 |   1   | I understand every detail of their construction.     |
@@ -29,6 +31,8 @@
 |   4   | I want to unlock its secrets.              |
 |   5   | I want to be able to outfit an army.       |
 |   6   | I am obsessed with the artistry of it all. |
+
+</div>
 
 # Class Features
 
@@ -140,7 +144,7 @@ At level 15, you are a master of strange nonlinear paths. You are no longer prev
 At level 17, you learn to branch your magic, executing multiple targets in parallel. When you use your Buffer Overflow feature, you may choose to branch the chain at any point, affecting multiple creatures from the same source (including from yourself).
 
 ## Stack Overflow
-When you reach level 18, you have access to an incredible but diffuse repository of information, drawing upon the wisdom of those who have come before you. You are always treated as if you have a source of knowledge for the Research downtime activity. When you use the Splice downtime activity, you may instead choose to duplicate the original affix, leaving it intact on the original item.
+When you reach level 18, you have access to an incredible but diffuse repository of information, drawing upon the wisdom of those who have come before you. You are always treated as if you have a source of knowledge for the Enchant downtime activity. When you use the Splice downtime activity, you may instead choose to duplicate the original affix, leaving it intact on the original item.
 
 ## Overclock
 At level 20, the Conduit is capable of using a second, incredibly powerful prismatic enchantment without being melted by the intense magic. You may equip a total of two prismatic enchantments, rather than the standard limit of one, but they must be on different types of gear. For example, you cannot have two arms prismatic enchantments, but can have an arms and an armor prismatic enchantment.

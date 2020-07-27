@@ -3,7 +3,7 @@ As the party rests, characters can choose a downtime activity that they would li
 
 There are several well-defined downtime activities within the rules for players to select from, granting fairly general and tangible mechanical benefit. While the downtime activities that follow are the most common and generically useful options, they are not intended as an exhaustive list. Other downtime activities should offer similarly tangible benefits, in order to ensure that the choice stays meaningful.
 
-**Enchanting skill checks** made during Downtime Activities use Expertise with either Animism, Arcana, Geomatics or Tinkering. For the Enchant, Research and Splice downtime activities, the difficulty of this skill check is set by the rarity of the affix that you are modifying:
+**Enchanting skill checks** made during Downtime Activities use Expertise with either Animism, Arcana, Geomatics or Tinkering. For the Enchant and Splice downtime activities, the difficulty of this skill check is set by the rarity of the affix that you are modifying:
 * Common: difficulty 10
 * Advanced: difficulty 15
 * Exotic: difficulty 20
@@ -22,7 +22,7 @@ When you attune to a collection of trinkets, you may attune to any number of ind
 
 As you gain experience and learn to control your own magic, you are able to safely use more powerful magical items. You can only attune to an item if:
 
-**sum of enchantment affixes ≤ proficiency bonus**
+**enchantment gear point total ≤ proficiency bonus**
 
 After you perform this downtime activity, you are particularly in touch with your magical items for a short period of time. One time before your next rest, you may modify the result of a roll after you see its outcome:
 * If you attuned to a set of arms, you may treat an attack that you made while you had these arms equipped as if you had rolled a 15.
@@ -82,9 +82,15 @@ You may **recycle** existing consumables in this process. Add the total gear poi
 ## Enchant
 Enchant an item by adding or modifying one of its magical affixes. Creating new enchantments requires access to incredible energy: **you must be at a font of power in order to use the Enchant downtime activity.**
 
-Select a common affix, or another affix that you know the recipe for. During the enchantment process, 10 essence crystals per gear point of that affix (to a minimum of 5) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, you must use up 100 essence crystals instead.
+Select an affix. Successfully adding this affix to your gear, consumes 10 essence crystals per gear point of that affix (to a minimum of 5) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 100 essence crystals must be consumed instead.
 
 Make an enchanting skill check. If you succeed, add that affix to the item’s enchantment affixes.
+
+If you have access to a relevant **source of knowledge,** you have advantage on this skill check. Each crafting skill uses a different source of knowledge:
+* Animism: you have free access to a monster (or some trophy from that monster) who has the desired enchantment.
+* Arcana: you have free access to some sort of book, teacher or other documentation.
+* Geomatics: you are at a font of power that shares an element with the enchantment in question.
+* Tinkering: you have free access to an existing item with that affix.
 
 When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus. In addition, you may choose to immediately attune to the piece of gear you just enchanted, replacing your attunement to an existing piece of gear of the same type if needed.
 
@@ -101,24 +107,8 @@ Focus on rest and enjoy yourself.
 
 Remove an additional stack of exhaustion or restore half your maximum life.
 
-## Research
-Discover how to create a new affix. You must know the **recipe** for an affix in order to use it in the Enchant downtime activity, unless it is a common affix.
-
-When you use this downtime activity, select an affix, then: 
-1. Spend 5 essence crystals, consumed in the experimentation process.
-1. Make an enchanting skill check,
-1. If you succeed, you learn the recipe for this affix.
-
-If you have access to a relevant **source of knowledge,** you have advantage on this skill check and do not need to spend essence crystals. Each crafting skill uses a different source of knowledge:
-* Animism: you have free access to a monster (or some trophy from that monster) who has the desired enchantment.
-* Arcana: you have free access to some sort of book, teacher or other documentation.
-* Geomatics: you are at a font of power that shares an element with the enchantment in question.
-* Tinkering: you have free access to an existing item with that affix.
-
-You may use any source of knowledge regardless of crafting skill when learning new consumable affixes.
-
 ## Resupply
-Purchase supplies, borrow them from the locals or scavenge them from the surrounding environment. Reset the party’s Supplies die to a d8 and remove all existing adventuring gear that you have. The details of how and where you resupply influence the plausibility of having various useful pieces of equipment; it’s trivial to find firewood in the middle of a dark forest but quite hard to come across a new set of lockpicks.
+Purchase supplies, borrow them from the locals or scavenge them from the surrounding environment. Reset the party’s Supplies die to a d6 and remove all existing adventuring gear that you have. The details of how and where you resupply influence the plausibility of having various useful pieces of equipment; it’s trivial to find firewood in the middle of a dark forest but quite hard to come across a new set of lockpicks.
 
 See the Prepared for Anything section in the Gear chapter for more details on how Supply and adventuring gear works.
 

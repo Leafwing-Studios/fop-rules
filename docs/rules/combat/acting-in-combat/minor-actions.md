@@ -80,7 +80,7 @@ Make a Prowess attack against a creature within 5 feet of you. If you hit, you m
 You cannot shove creatures that are more than four times your size
 
 ## Swap
-Stow your current arms (or whatever else you may be holding) and take out another set of arms (or some other item).
+Change the set of arms that you currently have equipped. This also allows you to completely stow your arms (and have no arms equipped), or draw them when you do not have arms equipped.
 
 ## Treat
 Attempt to treat a creature within 5 feet’s injuries and ailments, curing a single condition or mitigating a single affliction of your choice.

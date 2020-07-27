@@ -1,6 +1,8 @@
 # Combat Talents
 To make picking a combat talent easier, they are arranged below into categories below, matching either a **position** or a **role,** as defined in the introduction to the [Classes](character-options/classes/) chapter.
 
+Every combat talent is also available as an affix, with a gear point cost of 1.
+
 ## General
 
 ### Blind
@@ -9,10 +11,8 @@ You can no longer see in the usual fashion. Instead, you gain an innate awarenes
 ### Chosen
 Once per rest you may gain a benefit that would normally be earned by spending Resolve (other than to gain a rest).
 
-### Gifted
-You possess a magical item that cannot be destroyed or persistently lost. You are always attuned to this item and it may have a gear point total equal to your proficiency bonus plus one, rather than your proficiency bonus. If the item you selected is a trinket (rather than a set of arms or armor), instead simply increase the gear point total of trinkets that you can attune to by one.
-
-At first level and whenever you level up, you may choose to add, remove or modify an non-prismatic affix on this item. You do not need to know the appropriate enchantment, spend essence crystals or make any skill checks in order to do so.
+### Lucky
+Whenever you roll a 1 on an attack roll or a skill check made during combat, reroll the attack or skill check. You must use the new result.
 
 ### Nocturnal
 Objects in dim light are no longer obscured, and objects in darkness are now merely obscured, rather than invisible.
@@ -29,20 +29,13 @@ You may use the Activate minor action one more time each rest before needing to 
 ### Versatile
 Learn two additional powers from your class.
 
-### Wild
-Your body is an effective weapon all on its own. Build a set of arms with a gear score equal to (Prowess + 1) / 2 that you have equipped at all times. It gains the free hands affix but cannot have the thrown affix unless it also has the returning affix. When creating enchanted arms, you may choose to modify these arms instead, creating for example magical tattoos or claw covers, rather than an enchanted sword. If your Prowess changes, you must also modify these arms.
-
-Whenever you make a basic attack, you may choose to use these arms in place of the arms you have equipped without the use of the Swap minor action.
-
-You may also build a set of armor in this way, with a gear score of your Prowess / 2. If you do, you gain its benefit at all times but it cannot be unequipped and you cannot gain the benefit of other armor.
-
 ## Frontline
+
+### Dependable
+You have advantage on rolls made to determine how much damage is absorbed when you use the Block reaction.
 
 ### Enduring
 You have advantage on Endurance skill checks made to Essence Tap and on concentration checks made while on Death’s Door. 
-
-### Daring
-Whenever you are hit by an attack, you may make an attack of opportunity against the creature that hit you.
 
 ### Hearty
 Remove two stacks of each condition from yourself at the end of each of your turns, rather than the usual one.
@@ -57,13 +50,19 @@ Enemies provoke an attack of opportunity whenever they move from a tile that is 
 Enemies provoke an attack of opportunity whenever they leave your zone of control.
 
 ### Resilient
-You are proficient in a special defense of your choice. Gain resistance to a damage type of your choice other than physical.
+Choose an attribute. Special attacks made against you that target the specified attribute are made with disadvantage.
 
-### Steadfast
-If you have not yet spent movement on your turn, you may take the Defend major action as a minor action. If you do so, you may not spend movement until the start of your next turn.
+### Staunch
+After you take the Defend major action, ignore any stacks of conditions or afflictions that would be added to you until the start of your next turn.
+
+### Stout
+You may now use the Block reaction in response to attacks that only apply forced movement but do not deal damage. When you use the Block reaction, prevent all forced movement that would be applied by the attack blocked.
 
 ### Upbeat
 Remove two stacks of each affliction from yourself at the end of each of your turns, rather than the usual one.
+
+### Vengeful
+After you are hit by an attack by a creature that is in your zone of control, you may spend your reaction to make an attack of opportunity against them.
 
 ## Backline
 
@@ -73,43 +72,51 @@ Whenever you make an attack on your turn and have not spent movement yet this tu
 ### Coolheaded
 You no longer have disadvantage on ranged attacks due to being in an enemy zone of control.
 
-
-### Immovable
-You are immune to forced movement.
-
-### Precise
+### Fastidious
 If you do not have disadvantage on a ranged attack, you may choose to gain disadvantage on the attack and double its range.
 
 Partial cover no longer causes your attacks to be made with disadvantage.
+
+### Fierce
+The first time each round that you hit a creature with a basic attack, you may spend essence equal to your proficiency bonus to gain four times that much life.
 
 ### Stubborn
 On your turn, if you have not yet spent movement, you may choose to gain advantage on all of your attacks until the start of your next turn. If you do, you may not spend movement until the start of your next turn.
 
 ### Timid
-At the start of your turn, if you are in an enemy zone of control, you may shift once. 
+At the start of your turn you may shift once. 
 
 ## Skirmisher
 
 ### Acrobatic
 You may move through the tiles of hostile creatures.
 
+### Daring
+After you successfully use the Dodge reaction, you may make an attack of opportunity against the creature whose attack you dodged without spending your reaction.
+
 ### Deft
-When you take the Dash minor action, attacks of opportunity against you have disadvantage until the end of this turn.
+Whenever you take the Dash minor action, attacks of opportunity against you have disadvantage until the end of the current turn.
 
 ### Demure
-Whenever you hit a creature with an attack, they cannot make attacks of opportunity against you until the start of your next turn.
+After you hit a creature with an attack, they cannot make attacks of opportunity against you until the start of your next turn.
+
+### Dodgy
+You have advantage on Agility(Athletics) skill checks made as part of the Dodge reaction.
 
 ### Flexible
 You may use Agility (Athletics) instead of Prowess (Athletics) to maintain a grapple. You have advantage on all skill checks made to escape a grapple.
 
 ### Nimble
-Your Dash minor action now grants you additional movement speed equal to your movement speed, rather than half of it.
+Your Dash minor action now grants you additional movement equal to your movement speed, rather than half of it.
 
 ### Shifty
-Whenever you use your reaction, you may shift once.
+After you use your reaction, you may shift once.
 
 ### Spry
-After you make a melee attack against a creature, you may shift into any empty tile that is the same distance as you currently are from them.
+After you hit a creature with a melee attack, you may shift into any empty tile that is the same distance as you currently are from them.
+
+### Swift
+You may use the Dodge reaction to attempt to completely evade Agility attacks (including Grapple attacks).
 
 ## Striker
 
@@ -117,7 +124,7 @@ After you make a melee attack against a creature, you may shift into any empty t
 The critical hit threshold for your attacks is reduced by 2. Whenever you roll a 1 while making an attack, something goes horribly wrong, and you suffer the attack’s effects instead.
 
 ### Bloodthirsty
-Whenever you reduce a non-allied creature to zero life, your critical hit threshold for all attacks is reduced to 1 until the end of your next turn.
+After you reduce a non-allied creature to 0 life, attacks that you make are automatically criticals if they hit until the end of your next turn.
 
 ### Careful
 You have disadvantage on attacks that you make against allied creatures.
@@ -126,7 +133,7 @@ You have disadvantage on attacks that you make against allied creatures.
 You have advantage on all skill checks made to use the Hide minor action in combat.
 
 ### Sadistic
-Whenever you apply at least one stack of an affliction, apply another stack of that same affliction.
+After you apply at least one stack of an affliction to a creature that already has a stack of that same affliction, apply two additional stacks of that affliction. This effect does not trigger itself.
 
 ### Sneaky
 When you miss a creature with an attack while hidden, you remain hidden and any invisibility you may have is not broken if it normally would be.
@@ -134,41 +141,39 @@ When you miss a creature with an attack while hidden, you remain hidden and any 
 ## Controller
 
 ### Burly
-You have advantage on skill checks made to maintain a grapple. You may move at full speed when dragging a creature you have grappled.
-
-### Lucky
-Whenever you roll a 1 on an attack roll, reroll the attack. You must use the new result.
-
-Your critical hit threshold is reduced by 1.
+You have advantage on skill checks made to maintain a grapple. When you spend movement to move yourself while you have another creature grappled, you may apply the same amount of forced movement to them in the same direction.
 
 ### Merciless
-Whenever you apply at least one stack of a condition to a creature that already has a stack of that same condition, apply an additional stack of that condition.
+After you apply at least one stack of a condition to a creature that already has a stack of that same condition, apply an additional stack of that condition. This effect does not trigger itself.
 
 ### Scheming
-The first time each round that you hit a creature with an attack, you may shift them once.
+After you hit a creature with a single-target attack, you may shift them once.
 
 ### Rough
-When you hit a creature with a Shove attack, you may choose to push them into any empty tile that is adjacent to you, rather than a tile within 5 feet of their previous position.
+When you hit a creature with a Shove attack, you may choose to push them into any empty tile within your zone of control, rather than a tile within 5 feet of their previous position.
 
 ## Guardian
 
+### Compassionate
+You have advantage on skill checks made to use the Treat minor action.
+
 ### Darting
-The first time each round that you apply a boon to another creature, you may shift once.
+After you apply a boon to another creature, you may shift once. This effect only triggers once per boon applied, even for multi-target boons.
 
 ### Encouraging
-The first time each round that you apply a boon to another creature, they may shift once.
+After you apply a single-target boon to another creature, they may shift once.
+
+### Protective
+You may use your Block reaction to prevent damage that would be dealt to any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well.
 
 ### Reactive
 Enemies provoke an attack of opportunity whenever they enter your zone of control.
 
 ### Responsive
-After another allied creature within 10 feet of you is hit by an attack, you may take the First Aid reaction. You may use any major or minor action at this time, so long as it does not cost essence and applies a boon to them.
+You gain access to the First Aid reaction. After another allied creature within 30 feet of you is hit by an attack, you may use this reaction. When you do, you may use any major or minor action that does not cost essence and applies a boon to the creature that was hit.
 
 ### Stable
 You are immune to the effects of critical hits. You no longer benefit from critical hits.
 
 ### Supportive
-The first time each round that you apply a boon to another creature they gain 4 absorption.
-
-### Vigilant
-You may use your Block reaction to absorb damage from attacks against any creature within 5 feet of you. The die size of your Block reaction is increased once.
+Whenever you apply a single-target boon to another creature they gain 2 absorption. Whenever you apply a multi-target boon to another creature, they gain 1 absorption.

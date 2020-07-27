@@ -11,6 +11,8 @@
 * Striker: Both stacking up afflictions and dealing direct damage can be effective routes to whittle your enemies down. If you choose to use a ranged weapon, be sure to pick counterattacks that you can reliably trigger to make sure you’re rarely left with excess reactions.
 * Control: The *reach* arms affix is your best friend, letting you control and respond to the battle more effectively. Carefully force your opponents to play around your counterattacks, augmented by affixes like *imbued strikes* and *catching* to increase the disabling power of every basic attack.
 
+<div class="side-panel">
+
 | Roll  | How did you encounter your weapon?                          |
 | :---: | ----------------------------------------------------------- |
 |   1   | I stumbled across it.                                       |
@@ -28,6 +30,8 @@
 |   4   | I revere them in some way.                              |
 |   5   | They are my closest friends.                            |
 |   6   | I feel myself becoming one with their collective.       |
+
+</div>
 
 # Class Features
 
@@ -81,7 +85,7 @@ You learn 3 counterattacks at level 1, selected from the counterattacks section 
 
 Bladesworn are sworn to a weapon that has been passed down in some fashion for generations. Virtually all of their power is gained by wielding or carrying it, drawing from its strength as they contribute their own. When you create a bladesworn, carefully think about this set of arms: the form it takes, its history, what special features it might possess, and the reason why it has been passed down. This set or arms need not literally be a blade: it could just as easily be a shield, a bow, a pair of daggers or so on.
 
-You are always attuned to the set of arms you are bound to, and cannot attune to any other set of arms, other than those which are part of your body such as those gained through the wild combat talent. Bladesworn who wish to use more than one type of arms in battle may also find the shifting arms affix quite appealing.
+You are always attuned to the set of arms you are bound to.
 
 Every blade belongs to a Lineage: the reason why a long line of people have carried this weapon before you. At level 1, choose a Lineage, which offers unique features as you level up.
 

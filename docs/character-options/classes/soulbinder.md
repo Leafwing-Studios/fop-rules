@@ -12,6 +12,8 @@
 * Guardian: Specialize in protecting and empowering a single ally with absorption and subtly supportive effects. Damageless ranged weapons (created by stacking the *defensive* affix twice) can be a great option for quickly swapping targets when they’re outside the range of your Treat minor action.
 * Striker: The soul burst pulse will be your bread and butter, encouraging you to blend your pulses with your enhanced basic attacks. Isolate a single target and then focus them down relentlessly, selecting pulses that remove their ability to defend themselves or rejoin the group.
 
+<div class="side-panel">
+
 | Roll  | How do you use your power over souls?                                                                     |
 | :---: | --------------------------------------------------------------------------------------------------------- |
 |   1   | I am a serene mystic.                                                                                     |
@@ -29,6 +31,8 @@
 |   4   | There is a burst of shared emotion.                                             |
 |   5   | Our fates are somehow bound in a tiny way.                                      |
 |   6   | A shiver runs down their spine.                                                 |
+
+</div>
 
 # Class Features
 | Level | Proficiency Bonus |                        Features                         | Pulses Known |

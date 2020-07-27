@@ -24,14 +24,19 @@ Unless there are particularly strange extenuating circumstances (such as if your
 
 If an effect tells you to select a creature within range, or something to that effect, you can always select yourself as the target unless there is some specific reason that you could not.
 
-## Critical Hits
-Whenever you roll a 20 on your d20 while making an attack (no matter what type of attack it is), your attack inflicts a **critical hit** (if it would otherwise land). When this happens:
-* Roll again for damage, adding it to the original damage rolled. If there are any flat bonuses to the damage, double them as well.
-* Apply twice as many stacks of afflictions as usual.
-* Apply twice as many stacks of conditions as usual.
-* Double the effects of forced movement.
+## Critical Hits and Efficacy
+Whenever you roll a 20 on your d20 while making an attack (no matter what type of attack it is), your attack inflicts a **critical hit** (if it would otherwise land). When this happens, the **efficacy** of your attack is doubled.
 
-Some effects (such as the Lucky talent or the keen arms affix) can lower the **critical hit threshold,** allowing you to extend the range of numbers rolled which result in a critical hit. For example, if your critical hit threshold is lowered by one, any attack that you hit with where you rolled a 19 or 20 deals damage twice. These effects stack with each other. Determining whether an attack would be a critical hit is seperate from determining if it hits: rolls that are at least your critical hit threshold do not automatically make contact with your target(s), but are critical hits if they land.
+Efficacy multiplies the following characteristics of attacks:
+* The damage dealt. You do not roll again; simply multiply the damage dealt.
+* The number of stacks of afflictions applied.
+* The number of stacks of conditions applied.
+* The amount of absorption applied.
+* The distances involved in forced movement.
+
+Multiple modifiers to efficacy (such as critical hits and Trickster's All In class feature) stack multiplicatively: if your attack would deal 7 damage, and then its efficacy was doubled twice, you would deal 28 damage instead. Like always, round down when computing the final effects after efficacy is applied, rounding movement down to the nearest 5 foot interval.
+
+Some effects (such as the *lucky* combat talent or the *keen* arms affix) can lower the **critical hit threshold,** allowing you to extend the range of numbers rolled which result in a critical hit. For example, if your critical hit threshold is lowered by one, any attack that you hit with where you rolled a 19 or 20 deals damage twice. These effects stack with each other. Determining whether an attack would be a critical hit is seperate from determining if it hits: rolls that are at least your critical hit threshold do not automatically make contact with your target(s), but are critical hits if they land.
 
 Some effects, such as the Devout’s Avatar cycle of miracles, cause your attacks to deal **maximized damage.** This means that you treat the result of each die rolled as if it were the highest possible outcome. For example, if you were to hit your opponent with an attack that deals 1d6 + 3 damage and the damage was maximized, you would inflict 6 + 3 = 9 damage to them. This effect stacks with critical hits: if you land a critical hit with an attack that deals maximized damage, you deal twice the normal maximum damage. 
 
@@ -40,11 +45,19 @@ Attacks are either **melee** or **ranged.** You can always make melee attacks ag
 
 While you are in an enemy zone of control, ranged attacks that you make have disadvantage. The range of ranged attacks is specified in your ability’s description, or by the arms affixes of the weapon(s) you are using.
 
-## Single Target and Multi Target Attacks
+## Single-Target and Multi-Target Attacks
 
-Attacks are either **single target** or **multi target.** Many features are half as effective when used with multi target attacks, in order to preserve balance but still reward you for hitting many enemies at once.
+Attacks are either **single-target** or **multi-target.** 
+Many features are half as effective when used with multi-target attacks, in order to ensure their balance between hitting one versus many targets at once.
 
 There are several commonly used terms to describe the area of effect of powers; their meaning is described in the table below.
+
+## Weapon Modes
+Some sets of arms can be used in different **modes** (such as *thrown*, *radial*, *piercing*, or *cleaving*). 
+Whenever you make a basic attack with one of these weapons, you may choose a mode to use, in addition to the **standard mode** (which attacks a single target at full efficacy at the weapon's range).
+The mode of a weapon alters the base behaviour of the weapon, typically by altering its range, targets, efficacy or so on.
+
+Modes can be combined, multiplying together any changes to efficacy. For example, you might combine the *splashing* and *thrown* modes when making an attack with a vial of bubbling acid.
 
 <div class="infobox">
 
@@ -57,9 +70,9 @@ This has strange implications for the mechanics of combat even though the expect
 
 **Types of area of effect**
 
-Term | Description
--- | --
-Cone | A 90 degree cone, expanding out from the origin (typically the caster).
-Cylinder | A tall cylinder centered around the chosen point.
-Line | A line, typically beginning at the caster and affects all creatures within length specified. Lines wider than 5 feet expand out from both sides of the original line.
-Sphere | A sphere centered around the chosen point.
+| Term     | Description                                                                                                                                                           |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cone     | A 90 degree cone, expanding out from the origin (typically the caster). This is measured as a 1/4 section of a sphere of the same radius.                             |
+| Cylinder | A tall cylinder centered around the chosen point.                                                                                                                     |
+| Line     | A line, typically beginning at the caster and affects all creatures within length specified. Lines wider than 5 feet expand out from both sides of the original line. |
+| Sphere   | A sphere centered around the chosen point. This is measured as all tiles reachable by spending that many feet of movement.                                            |

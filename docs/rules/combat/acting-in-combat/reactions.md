@@ -14,6 +14,10 @@ Attacks of opportunity occur before the triggering action is complete: if an ene
 Attacks which hit more than one creature can be used as attacks of opportunity so long as they meet the other requirements. However, you have disadvantage on any attack rolls made in this way against creatures other than the one who provoked the attack of opportunity.
 
 ## Block
-After you are hit with an attack that would deal damage, you may spend your reaction to attempt to block the attack. If you do, reduce the damage received by 1d4 plus your Agility, to a minimum of 0. 
+After you are hit with an attack that would deal damage, you may spend your reaction to attempt to block the attack. If you do, reduce the damage received by 1d4 + Agility.
 
 This occurs after any non-damaging effects are applied, but before damage is prevented by absorption. As a result, you cannot typically block attacks which successfully apply the defenseless or lethargic conditions.
+
+## Dodge
+Whenever you would be hit a basic attack, you may use the Dodge reaction. If you do, make an Agility (Athletics) skill check. If your skill check result is greater than or equal to the basic attack roll that hit you, the attack misses instead.
+

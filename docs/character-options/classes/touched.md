@@ -11,6 +11,8 @@
 * Skirmisher: Make sure to have versatile options for both ranged and melee, in both your weapons and powers. The *swapping*, *wild* and *shifting* affixes are particularly useful for making this painless. Focus on mobility and avoiding attacks of opportunity with affixes like *deft* or *shifty* and try to make sure you end every turn out of the immediate fray.
 * Frontline: Draw attention by diving deep into the backlines, then stick to your foes with attacks that limit mobility and the proactive combat talent. Back out when you drop low on health, and then heal back up with your Balance of Power: Host feature.
 
+<div class="side-panel">
+
 | Roll  | How did you and your companion become one?                          |
 | :---: | ------------------------------------------------------------------- |
 |   1   | I lost control of my magic, and now it has a mind of its own.       |
@@ -28,6 +30,8 @@
 |   4   | I long to lose myself to it, and give up my own identity.          |
 |   5   | I want to learn to work together.                                  |
 |   6   | I think we'd be better off if we merged and became one.            |
+
+</div>
 
 # Class Features
 
@@ -59,8 +63,6 @@
 Touched are formed by the union between a **Host** and their **Companion.** The interplay between the mundane and the supernatural two gives rise to tremendous capabilities as they learn to work together to exist and fight to survive in a shared body and mind.
 
 By manifesting their true form more strongly, your companion can use **powers:** bursts of magical power that can be used as a major action with no essence cost. Every power targets a single creature and involves an immediate attack roll. 
-
-Unlike usual, all effects of the Touched’s powers are doubled when they land a critical hit, rather than just the damage, conditions, afflictions and forced movement.
 
 Every companion is associated with two element types, which determine the type of damage that their abilities can do, as well as the type of utility features they gain access to through their Deviance class feature. Select these now, from the twelve standard elements.
 
@@ -157,7 +159,4 @@ While in your companion form, you:
 * gain immunity to the damage types corresponding to your companion
 * your deviance cap increases by 2. Select the new deviances to be used when you gain this feature.
 
-While blended, your critical hits are more powerful. Instead of doubling in effect, they:
-* deal triple damage, rolled three separate times
-* apply three times as many stacks of any conditions or afflictions
-* grant triple the benefit of any utility effect associated with your powers
+While blended, your critical hits are more powerful, tripling rather than doubling the efficacy of your attacks.
