@@ -2,9 +2,9 @@
 Indiscriminate lovers of junk and treasure, the Reclaimers follow in the wake of the great events of the fonts: chasing after clues, preserving memories and picking up the artifacts left behind.
 Uniquely resilient to the toxic effects of essence overload, they serve as scholars, archaeologists and adventurers, proudly showcasing their latest finds.
 
-Short and scrawny, bedecked in assorted piles of gear, the true appearance of the Reclaimers remains a mystery. 
-But everyone who has met oneremembers their glowing eyes: peeking out curiously from underneath oversized headgear.
-The color of these eyes betrays their favorite sort of magical item, drawn to the memories that they hold.
+Reclaimers appear short and scrawny, bedecked in assorted piles of scavenged gear. To many, their true appearance remains a mystery, hidden underneath dazzling carapaces of found treasures.
+But those who have met one remember their glowing eyes: peeking out curiously from their elaborate mobile homes.
+The color of these eyes portrays their favorite sort of magical item, drawn to the memories that they hold.
 
 <div class="side-panel">
 
@@ -47,7 +47,7 @@ The color of these eyes betrays their favorite sort of magical item, drawn to th
 | 6    | Pet rocks.                        |
 
 **Living Armor:** After you lose life, gain 4 absorption.
-	
+
 **Natural Historian:** You are proficient in Animism.
 
 ## Academy-Rat
@@ -62,7 +62,7 @@ The color of these eyes betrays their favorite sort of magical item, drawn to th
 | 6    | The means by which souls produce essence.    |
 
 **Esteemed Regalia:** At the start of each of your turns, make a difficulty 10 Focus (Arcana) skill check. If you succeed, remove one stack of a condition of your choice from yourself.
-	
+
 **Lore Seeker:** You are proficient in Arcana.
 
 ## Font-Congregant
