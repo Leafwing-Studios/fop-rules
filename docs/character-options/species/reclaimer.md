@@ -8,14 +8,14 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 
 <div class="side-panel">
 
-| Roll | What do you enjoy collecting the most?            |
-| ---- | ------------------------------------------------- |
-| 1    | Literal junk that has been neglected and unloved. |
-| 2    | Shiny objects that attract attention.             |
-| 3    | Mundane goods that were once beloved.             |
-| 4    | Books and scrolls that hold important knowledge.  |
-| 5    | Historically significant objects.                 |
-| 6    | Works of art, now forgotten.                      |
+| Roll | What type of memories are most appealing?                                             |
+| ---- | ------------------------------------------------------------------------------------- |
+| 1    | Those almost immediately forgotten, attached to literal junk.                         |
+| 2    | The memories of pride and greed, tied to the objects that shine boastfully.           |
+| 3    | Practical, earnest memories of developed skills, hard-won with honest tools.          |
+| 4    | The valuable teachings, deliberately committed to memory, found in books and scrolls. |
+| 5    | Memories of strife and conflict, bound up in the objects that defined history.        |
+| 6    | Those that taste of love and home, created in the quiet, fond moments.                |
 
 
 | Roll | Why do you conceal your body with gear?                         |
