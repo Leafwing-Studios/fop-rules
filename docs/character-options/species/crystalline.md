@@ -97,10 +97,10 @@ Consuming essence crystals does not risk essence overload but you may no longer 
 | Roll | How do you feel about the way Geodes are treated?                  |
 | :--: | ------------------------------------------------------------------ |
 |  1   | I am furious about our mistreatment.                               |
-|  2   | I am saddened by it, but accept it.                                |
-|  3   | I’m afraid they might be right.                                    |
+|  2   | I am saddened by it, but accept it as the way that things are.     |
+|  3   | I understand that it helps them cope with their own persecution.   |
 |  4   | I left for the surface to find acceptance among the other species. |
-|  5   | I wish they accepted us.                                           |
+|  5   | I long for acceptance, and hate that I must be different.          |
 |  6   | I want to change Crystalline society to fix it.                    |
 
 </div>
