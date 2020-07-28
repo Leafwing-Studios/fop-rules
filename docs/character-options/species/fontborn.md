@@ -2,29 +2,21 @@
 
 Magic breathes life into everything that it touches, and the fonts of power bubble with new forms of it: strange, alien and wonderous.
 
-Often called monsters by the people of the cities and farmlands, some of these creatures have fought against the fonts’ influence and control, becoming fully sentient people with hopes, dreams and ideals of their own.
+Often called monsters by the people of the cities and farmlands, some of these creatures have fought against the fonts’ influence and control.
+No longer a replacable, regenerating component of the vast pseudo-organism that is a font of power, the fontborn have become fully sentient people with hopes, dreams and ideals of their own.
 
 Banding together in a brilliant rainbow of diversity, these strange creatures live among the fonts of power themselves, still drawing on their energy for sustenance. Their small communities thrive in harsh and bizarre conditions where other species must fight for their very survival.
 
 <div class="side-panel">
 
-| Roll | What sort of mutation do you have?                                 |
-| :--: | ------------------------------------------------------------------ |
-|  1   | My body is specialized entirely to perform a single task.          |
-|  2   | I am a strange chimera of more than one kind of creature.          |
-|  3   | I embody elemental energy.                                         |
-|  4   | I have been marked as the chosen of some god.                      |
-|  5   | Essence crystals have begun to take over my body.                  |
-|  6   | My mind and body have been warped, giving me a unique perspective. |
-
-| Roll | How do you feel about your mutation?                                 |
-| :--: | -------------------------------------------------------------------- |
-|  1   | I hate it with every fibre of my being.                              |
-|  2   | I feel a quiet shame that I can’t quite explain.                     |
-|  3   | It reminds me of my kinship with the outcast and downtrodden.        |
-|  4   | It gives me comfort to know that there is no one else truly like me. |
-|  5   | I flaunt it, delighting in my strange nature.                        |
-|  6   | I embrace what it has to offer, using it to its full potential.      |
+| Roll | How do you feel about your monstrous kin who are still part of the fonts?                      |
+| :--: | ---------------------------------------------------------------------------------------------- |
+|  1   | They are but a mindless part of the whole, no more meaningful than a leaf or fruit.            |
+|  2   | I remember the stirrings of sentience from those days, and I'm unsure how to feel.             |
+|  3   | There will always be more: the individual is inconsequential.                                  |
+|  4   | I try to reach out to those who begin to express themselves.                                   |
+|  5   | I struggle to reconcile the need to manage the threats they pose with the monsters' potential. |
+|  6   | We need to awaken as many as we can, fighting against the fonts' corrupting power.             |
 
 </div>
 
@@ -96,6 +88,15 @@ Whether they were tragic victims of a magical accident or saved from the brink o
 | 4    | I was left for dead but saved by the fontborn.                         |
 | 5    | I was brought to the fonts to be saved by their energy.                |
 | 6    | I voluntarily mutated myself as part of a spiritual experience.        |
+
+| Roll | How do you feel about your mutation?                                 |
+| :--: | -------------------------------------------------------------------- |
+|  1   | I hate it with every fibre of my being.                              |
+|  2   | I feel a quiet shame that I can’t quite explain.                     |
+|  3   | It reminds me of my kinship with the outcast and downtrodden.        |
+|  4   | It gives me comfort to know that there is no one else truly like me. |
+|  5   | I flaunt it, delighting in my strange nature.                        |
+|  6   | I embrace what it has to offer, using it to its full potential.      |
 
 </div>
 
