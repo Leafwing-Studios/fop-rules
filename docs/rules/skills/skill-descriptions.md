@@ -2,7 +2,7 @@
 
 ## Anima
 
-Anima is the study of animals and monsters: their habits, biology and uses. Use Anima if you want to track a monster, determine what the mysterious scratches on the cave wall are, or try to see if you remember the weaknesses of the monster.
+Anima is the study of plants, animals and monsters: their habits, biology and uses. Use Anima if you want to track a monster, determine what the mysterious scratches on the cave wall are, or guess what eating this strange plant might do.
 
 At the beginning of each encounter with a monster which the players have not previously tested their knowledge on, the group may designate a character to make an Expertise (Anima) check to attempt to learn more about a monster (see the table below). This does not require an action. If more than one character in the party has proficiency in Anima, that check is made with advantage.
 
@@ -62,7 +62,7 @@ Endurance skill checks are almost always made using either Prowess or Focus. Pro
 
 ## Fontcraft
 
-Fontcraft is used to understand the world around you: the natural environment, fonts of power, and the flora of an area. If you want to look for herbs, read a map, or investigate a font of power, this is the skill to use.
+Fontcraft is used to understand the world around you: the natural environment, fonts of power, and the bushcraft skills needed to survive. If you want to look for herbs, read a map, or investigate a font of power, this is the skill to use.
 
 A common use of Fontcraft is to attempt to understand your surroundings. When you do so, your worldspeaker can use the table below as a guide to what information you might gain with various results.
 
