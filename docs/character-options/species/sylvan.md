@@ -24,14 +24,14 @@ Splendidly diverse, sylvan deliberately attempt to create novel forms and functi
 |  5   | I delight in the new breeds’ functions.                                            |
 |  6   | I personally experiment extensively.                                               |
 
-| Roll | How do you feel about colonizing new lands?                                    |
+| Roll | How do you feel about terraforming new lands?                                  |
 | :--: | ------------------------------------------------------------------------------ |
 |  1   | Nature is best left pristine.                                                  |
 |  2   | We need to work together with the existing ecosystems and inhabitants.         |
 |  3   | It’s important to be careful not to lose valuable biodiversity in the process. |
-|  4   | We should offer our services to other species.                                 |
-|  5   | We are clearly the most responsible stewards.                                  |
-|  6   | Dominion over the lands of the world is our birthright.                        |
+|  4   | Other species could certainly use our guidance.                                |
+|  5   | Nature needs a responsible steward.                                            |
+|  6   | These ecosystems could be so much more productive!                             |
 
 </div>
 
