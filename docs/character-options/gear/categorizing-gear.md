@@ -1,13 +1,15 @@
 # Categorizing Gear
-*Fonts of Power* splits gear into four different **types:** arms, armor, trinkets, and consumables. Every affix is categorized according to these types, which define the types of benefits offered.
+
+_Fonts of Power_ splits gear into four different **types:** arms, armor, trinkets, and consumables. Every affix is categorized according to these types, which define the types of benefits offered.
 
 **Arms** are the weapons and shield that you use in your hands, and determine your ability to attack or block. Basic attacks are made using a single attack roll with the arms that you have equipped, whether they are:
-* A single one-handed weapon
-* Two one-handed weapons
-* A single one-handed weapon and a shield
-* A two handed weapon
-* An enchanted book that improves your magical powers
-* Your ferocious claws
+
+- A single one-handed weapon
+- Two one-handed weapons
+- A single one-handed weapon and a shield
+- A two handed weapon
+- An enchanted book that improves your magical powers
+- Your ferocious claws
 
 Even if you never intend to make a basic attack, you can still equip and enchant arms in order to enhance or modify your magical powers.
 
@@ -19,7 +21,11 @@ The second type of gear is **armor,** which you wear to protect yourself. We abs
 
 Affixes come in four different **rarities,** which reflect their in-game mechanical complexity and change how difficult they are to craft: **common, advanced, exotic,** and **prismatic.**
 
-Prismatic affixes are incredibly rare and powerful, comparable to the **capstone** features that you receive upon reaching level 20 in a class. **You can only benefit from a single prismatic affix at a time, and must have a proficiency bonus of at least +5 in order to do so.**
+Prismatic affixes are incredibly rare and powerful, comparable to the **capstone** features that you receive upon reaching level 20 in a class. In order to benefit from a prismatic affix:
+
+- Your proficiency bonus must be +5.
+- Each piece of gear can only have at most one prismatic affix.
+- You can only equip one piece of gear that has a prismatic affix at a time.
 
 Affixes can be applied either as **innate affixes** or **enchanted affixes** (sometimes called **enchantments**). Innate affixes determine the basic properties of the gear, such as a weapon’s reach, or whether a set of armor is covered in lacerating spikes. **Innate affixes are restricted to the common rarity affixes, reflecting their simpler construction.**
 
