@@ -3,8 +3,6 @@ Enterprising to a fault, humans are a cosmopolitan species, taking advantage of 
 
 The diversity of the human species is its greatest strength: no two are quite the same, each with their own unique talents and perspectives.
 
-<div class="side-panel">
-
 | Roll  | How do you feel about the fonts of power?                                                  |
 | :---: | ------------------------------------------------------------------------------------------ |
 |   1   | Magic should be strictly controlled, and existing fonts eradicated.                        |
@@ -33,8 +31,6 @@ The diversity of the human species is its greatest strength: no two are quite th
 |   4   | Structures and sculptures of stone.             |
 |   5   | Clothing and objects made of leather and cloth. |
 |   6   | Works of art.                                   |
-
-</div>
 
 ### Features {docsify-ignore}
 

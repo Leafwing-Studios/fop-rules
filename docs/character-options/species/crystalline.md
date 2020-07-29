@@ -50,8 +50,6 @@ Consuming essence crystals does not risk essence overload but you may no longer 
 
 ## Raw
 
-<div class="side-panel">
-
 | Roll | Why do you choose to let your body grow free?                           |
 | :--: | ----------------------------------------------------------------------- |
 |  1   | I prefer the way it looks.                                              |
@@ -61,8 +59,6 @@ Consuming essence crystals does not risk essence overload but you may no longer 
 |  5   | I refuse to conform.                                                    |
 |  6   | It’s really just too much work to cut it into facets.                   |
 
-</div>
-
 **Raw Power:** Whenever you land a critical hit, refund the essence spent on that attack.
 
 **Regrowth:** Remove an additional stack of exhaustion when you complete a rest.
@@ -70,8 +66,6 @@ Consuming essence crystals does not risk essence overload but you may no longer 
 **Naturally Grown:** When you select this subspecies, choose a size between 0 and 4 tiles. You occupy this many tiles; see the rules on Creature Sizes in the Combat chapter for effects.
 
 ## Hewn
-
-<div class="side-panel">
 
 | Roll | Why do you choose to cut your body into facets? |
 | :--: | ----------------------------------------------- |
@@ -82,8 +76,6 @@ Consuming essence crystals does not risk essence overload but you may no longer 
 |  5   | I enjoy perfecting the art.                     |
 |  6   | I value the feeling of control it gives me.     |
 
-</div>
-
 **Resonance:** You have resistance to the type of elemental damage that you last took damage from.
 
 **Carefully Hewn:** The base basic defense in your Crystalline Structure feature is now 14, but your base movement speed is 30 feet like normal.
@@ -91,8 +83,6 @@ Consuming essence crystals does not risk essence overload but you may no longer 
 **Perfectionist:** You are proficient in Craftsmanship.
 
 ## Geode
-
-<div class="side-panel">
 
 | Roll | How do you feel about the way Geodes are treated?                  |
 | :--: | ------------------------------------------------------------------ |
@@ -102,8 +92,6 @@ Consuming essence crystals does not risk essence overload but you may no longer 
 |  4   | I left for the surface to find acceptance among the other species. |
 |  5   | I long for acceptance, and hate that I must be different.          |
 |  6   | I want to change Crystalline society to fix it.                    |
-
-</div>
 
 **Stony Patience:** Whenever you take the Defend major action, you have advantage on all attacks made before the end of your next turn.
 

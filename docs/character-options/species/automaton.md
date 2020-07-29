@@ -45,8 +45,6 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 
 ## Combat
 
-<div class="side-panel">
-
 | Roll | How do you feel about having been made as a weapon of war?     |
 | :--: | -------------------------------------------------------------- |
 |  1   | I was made to fight, and so that is what I shall do.           |
@@ -56,15 +54,11 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 |  5   | I’ve removed what I can of my original capabilities.           |
 |  6   | I hate that I was made to hurt people.                         |
 
-</div>
-
 **Lock-On:** Whenever you use the Scan minor action, select a creature. You gain advantage on attacks made against that creature until the end of your next turn.
 
 **Optimized:** You are proficient in Athletics.
 
 ## Industry
-
-<div class="side-panel">
 
 | Roll | Why were you originally created?                                        |
 | :--: | ----------------------------------------------------------------------- |
@@ -74,8 +68,6 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 |  4   | I was created to perform repetitive labor.                              |
 |  5   | I was created to serve as an employee.                                  |
 |  6   | I was created to act as a successor for a retiring master craftsperson. |
-
-</div>
 
 **Repurposed:** Your body is an effective weapon all on its own: industrial equipment is incredibly dangerous, if somewhat challenging to use in combat. Create a set of arms using the standard rules. You are always attuned to them, and they do not count against your attunement limit. These arms have the _wanton_ affix, which does not count against their gear point total.
 
@@ -89,8 +81,6 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 
 ## Service
 
-<div class="side-panel">
-
 | Roll | What field were you originally designed to work in? |
 | :--: | --------------------------------------------------- |
 |  1   | Domestic labour.                                    |
@@ -99,8 +89,6 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 |  4   | Companionship.                                      |
 |  5   | Secretarial work.                                   |
 |  6   | Politics.                                           |
-
-</div>
 
 **Lightweight:** Your movement speed is increased by 10 feet.
 

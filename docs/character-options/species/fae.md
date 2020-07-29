@@ -40,8 +40,6 @@ Confronted with the rise of both the thriving cities and the uncontrollable font
 
 Playful as the birds that sing in the forests, the kindred of the Spring toy with their visitors endlessly, taking great joy in the tricks that they play.
 
-<div class="side-panel">
-
 | Roll | What is your favorite type of trick?                                             |
 | :--: | -------------------------------------------------------------------------------- |
 |  1   | Subtle sabotage instills a delightful paranoia.                                  |
@@ -51,8 +49,6 @@ Playful as the birds that sing in the forests, the kindred of the Spring toy wit
 |  5   | Luring hapless adventurers into dangerous monsters is always a win-win scenario. |
 |  6   | I prefer to teach people a lesson by punishing them for their foibles.           |
 
-</div>
-
 **Relentless Mockery:** As a minor action, you may make a Presence attack against a creature within 30 feet, applying crazed if you hit
 
 **Ceremony of the Blooming Flowers:** As a downtime activity, you may perform the Ceremony of the Blooming Flowers. All party members (including yourself) have advantage on skill checks made to perform the Splice downtime activity during this rest. Gain the benefit of the Splice downtime activity.
@@ -60,8 +56,6 @@ Playful as the birds that sing in the forests, the kindred of the Spring toy wit
 ## Summer’s Vitality
 
 Industrious as bees building up their hive, the kindred of the Summer welcome guests to their land.
-
-<div class="side-panel">
 
 | Roll | What do you work hard at?                                              |
 | :--: | ---------------------------------------------------------------------- |
@@ -72,8 +66,6 @@ Industrious as bees building up their hive, the kindred of the Summer welcome gu
 |  5   | Building our homes and defenses.                                       |
 |  6   | Keeping the stories and culture of our people alive through retelling. |
 
-</div>
-
 **Honeyed Words:** As a minor action, you may make a Presence attack against a creature within 30 feet, applying pacified if you hit.
 
 **Ceremony of the Beating Sun:** As a downtime activity, you may perform the Ceremony of the Beating Sun. All party members (including yourself) have advantage on skill checks made as part of Attrition Scenes until the end of your next rest.
@@ -81,8 +73,6 @@ Industrious as bees building up their hive, the kindred of the Summer welcome gu
 ## Autumn’s Warning
 
 Calm as the trees that surround them, the kindred of the Autumn treat visitors to their land with guarded hospitality.
-
-<div class="side-panel">
 
 | Roll | How do you protect your people?                                                       |
 | :--: | ------------------------------------------------------------------------------------- |
@@ -93,8 +83,6 @@ Calm as the trees that surround them, the kindred of the Autumn treat visitors t
 |  5   | I handle the logistics, keeping our warriors fed and supplied.                        |
 |  6   | I serve as a diplomat and spy in equal parts.                                         |
 
-</div>
-
 **Bleak Rebuke:** As a minor action, you may make a Focus attack against a creature within 30 feet, applying withered if you hit
 
 **Ceremony of the Bountiful Harvest:** As a downtime activity, you may perform the Ceremony of the Bountiful Harvest. All party members (including yourself) have advantage on skill checks made to perform the Harvest downtime activity during this rest. Gain the benefit of the Harvest downtime activity.
@@ -102,8 +90,6 @@ Calm as the trees that surround them, the kindred of the Autumn treat visitors t
 ## Winter’s Stillness
 
 Haughty as a chilly breeze, the kindred of the Winter are completely uninterested in outsiders, preferring to reflect on the more important things in life.
-
-<div class="side-panel">
 
 | Roll | What do you reflect on?                    |
 | :--: | ------------------------------------------ |
@@ -113,8 +99,6 @@ Haughty as a chilly breeze, the kindred of the Winter are completely unintereste
 |  4   | The mysteries of the fonts of power.       |
 |  5   | The changes that are sweeping our lands.   |
 |  6   | The way forward.                           |
-
-</div>
 
 **Chilly Reproach:** As a minor action, you may make a Focus attack against a creature within 30 feet, applying chilled if you hit.
 

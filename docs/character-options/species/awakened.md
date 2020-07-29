@@ -44,8 +44,6 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 ## Carapaced
 
-<div class="side-panel">
-
 | Roll | What type of animal were you originally? |
 | :--: | ---------------------------------------- |
 |  1   | A turtle.                                |
@@ -55,15 +53,11 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |  5   | A scaled lizard.                         |
 |  6   | A great beast.                           |
 
-</div>
-
 **Harden:** Whenever you use the Defend major action, gain 4 absorption.
 
 **Tough:** You are proficient in Endurance.
 
 ## Climber
-
-<div class="side-panel">
 
 | Roll | What type of animal were you originally? |
 | :--: | ---------------------------------------- |
@@ -74,15 +68,11 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |  5   | A cat.                                   |
 |  6   | A mountain goat.                         |
 
-</div>
-
 **Climbing:** You can climb walls and ceilings without needing to make an Athletics skill check. You only need to spend ¼ of your movement to change height tiers.
 
 **Rebound:** You may stand from prone by spending only 5 feet of movement. You have resistance to physical damage taken due to falling.
 
 ## Flyer
-
-<div class="side-panel">
 
 | Roll | What type of animal were you originally? |
 | :--: | ---------------------------------------- |
@@ -93,15 +83,11 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |  5   | An owl.                                  |
 |  6   | A bird of prey.                          |
 
-</div>
-
 **Born to Fly:** You can fly. It costs you twice as much movement as normal to move while not flying, and you have disadvantage on all attacks while not flying.
 
 **Keen-Eyed:** You are proficient in Perception.
 
 ## Predator
-
-<div class="side-panel">
 
 | Roll | What type of animal were you originally? |
 | :--: | ---------------------------------------- |
@@ -112,15 +98,11 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |  5   | A toad.                                  |
 |  6   | A bird of prey.                          |
 
-</div>
-
 **Carry Off:** You have advantage on skill checks made to maintain a grapple. When you spend movement to move yourself while you have another creature grappled, you may apply the same amount of forced movement to them in the same direction.
 
 **What Big Teeth You Have:** You have advantage on Charm skill checks made to intimidate creatures.
 
 ## Prey
-
-<div class="side-panel">
 
 | Roll | What type of animal were you originally? |
 | :--: | ---------------------------------------- |
@@ -131,15 +113,11 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |  5   | A farm animal.                           |
 |  6   | A house pet.                             |
 
-</div>
-
 **Sprint:** When you take the Dash minor action, gain extra movement equal to your base movement speed, rather than half of it.
 
 **Scent:** You can detect nearby creatures by scent using a Focus (Perception) check. You can detect all creatures within 5 times your skill check result feet this way, unless they are behind a sealed door or wall. If you have smelled the creature (or the creature’s clothing) before, you can identify it by smell.
 
 ## Herd
-
-<div class="side-panel">
 
 | Roll | What type of animal were you originally? |
 | :--: | ---------------------------------------- |
@@ -149,8 +127,6 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |  4   | A social bird.                           |
 |  5   | A primate.                               |
 |  6   | A pack hunter.                           |
-
-</div>
 
 **One for All:** Whenever a creature within 5 feet is hit by an attack, you may use your reaction to Block the attack. You take all effects of that hit instead of them if you do so.
 

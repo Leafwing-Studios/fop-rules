@@ -47,8 +47,6 @@ This creates an uneasy tension between the living and undead: once beloved parts
 
 Sometimes other souls inhabit the bodies of those now dead. They come back with their original personalities and memories but a new, unchanging body. At first glance Risen appear as a member of another species. But closer inspection reveals strange and unique characteristics about them: perhaps an unblinking gaze, the lack of a heartbeat, or a youthful face with haunting eyes.
 
-<div class="side-panel">
-
 | Roll | How do you feel about your new body?             |
 | :--: | ------------------------------------------------ |
 |  1   | I just wish it was alive.                        |
@@ -58,13 +56,9 @@ Sometimes other souls inhabit the bodies of those now dead. They come back with 
 |  5   | This was my original body.                       |
 |  6   | This new form is what I’d always wished to be.   |
 
-</div>
-
 Gain the features of another base species of your choice instead of any subspecies features. If you select human, gain their Adaptable and Manual Dexterity features.
 
 ## Skeleton
-
-<div class="side-panel">
 
 | Roll | How do you feel about being visibly undead?                |
 | :--: | ---------------------------------------------------------- |
@@ -74,8 +68,6 @@ Gain the features of another base species of your choice instead of any subspeci
 |  4   | I seek to build acceptance of the undead.                  |
 |  5   | I embrace it as part of a rebellious aesthetic.            |
 |  6   | I love to play spooky pranks on small children.            |
-
-</div>
 
 **Blindsight:** Lacking eyeballs, you can no longer see in the usual fashion. Instead, you gain an innate awareness of the 30 feet around your skull as if you could see in bright light. Within this radius, you are immune to the blinded condition and light and heavy shroud effects. Outside of this radius, you are treated as if you were suffering from the blinded condition.
 
@@ -92,8 +84,6 @@ Gain the features of another base species of your choice instead of any subspeci
 
 ## Spectre
 
-<div class="side-panel">
-
 | Roll | What’s holding you to this world?         |
 | :--: | ----------------------------------------- |
 |  1   | I don’t know, but I can’t leave.          |
@@ -102,8 +92,6 @@ Gain the features of another base species of your choice instead of any subspeci
 |  4   | I am obsessed with my craft.              |
 |  5   | I want to right a wrong.                  |
 |  6   | My loved ones.                            |
-
-</div>
 
 **Intangible:** You may pass through enemy tiles freely, and you are no longer considered to occupy tiles. As a major action, you may choose to pass through solid objects (but not weapons or effects) until the start of your next turn, gaining one stack of exhaustion when you do so.
 

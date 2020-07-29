@@ -34,8 +34,6 @@ Freshly forged in the places of great magic, the primordial fontborn form a motl
 
 Still nascent and unstable, the fate and form of these creatures is in their own hands. Every fontborn must answer: who and what do I want to become?
 
-<div class="side-panel">
-
 | Roll | What do you dream of becoming?    |
 | ---- | --------------------------------- |
 | 1    | An unstoppable force.             |
@@ -45,8 +43,6 @@ Still nascent and unstable, the fate and form of these creatures is in their own
 | 5    | A scholar of the great unknown.   |
 | 6    | A fearless font-delver.           |
 
-</div>
-
 **Elemental Infusion:** After you lose life due to taking elemental damage, remove one stack of a condition of your choice from yourself.
 
 **One of Us:** You are proficient in Fontcraft. You have advantage on all Focus (Fontcraft) skill checks made to resurrect creatures as fontborn.
@@ -54,8 +50,6 @@ Still nascent and unstable, the fate and form of these creatures is in their own
 ## Ethereal
 
 As fontborn age, they begin to fade into the mists, slowly becoming one with the elemental energies that gave birth to them. The elders of the fontborn, the Ethereal, are strange, otherworldly creatures who serve as respected, if eccentric, advisors to the communities that they grew up in.
-
-<div class="side-panel">
 
 | Roll | What meaning do you find in your existence?                                       |
 | ---- | --------------------------------------------------------------------------------- |
@@ -66,8 +60,6 @@ As fontborn age, they begin to fade into the mists, slowly becoming one with the
 | 5    | I work to right the wrongs that I see, large or small.                            |
 | 6    | I am fascinated by the mysteries of the world, and seek to unlock and share them. |
 
-</div>
-
 **Disincorporate:** Whenever you take the Defend major action, you transform into a fine mist of elemental energy. Apply two stacks of banished to yourself. Tiles that you occupy while banished are lightly shrouded, and you may pass through even small cracks while in this form.
 
 **Elemental Composition:** Choose an element when you gain this feature. You are immune to damage of that type, and vulnerable to damage of the opposite element.
@@ -77,8 +69,6 @@ As fontborn age, they begin to fade into the mists, slowly becoming one with the
 ## Mutant
 
 Whether they were tragic victims of a magical accident or saved from the brink of death by the strange energy of the fonts, other species end up mutated by the fonts more often than you might expect. Whether they rejoin their families and communities or choose to start fresh among the other fontborn, fontborn mutants forever bear the unique mark of their brush with power.
-
-<div class="side-panel">
 
 | Roll | How did you become mutated?                                            |
 | ---- | ---------------------------------------------------------------------- |
@@ -97,8 +87,6 @@ Whether they were tragic victims of a magical accident or saved from the brink o
 |  4   | It gives me comfort to know that there is no one else truly like me. |
 |  5   | I flaunt it, delighting in my strange nature.                        |
 |  6   | I embrace what it has to offer, using it to its full potential.      |
-
-</div>
 
 While they may share the basic features of the species they once were, every mutant must live with the powers they have gained for the rest of their life.
 
