@@ -66,16 +66,16 @@ Attempt to gain information about your surroundings using one of your skills. Th
 - an Expertise (Humanities) skill check to determine the tactics being used by your opponent
 - an Insight skill check to urgently search for clues about your predicament
 - an Focus (Anima) skill check to try to understand an ability or feature of your opponent
-- a Focus (Medicine) skill check to estimate the current life and essence of a creature, according to the following table
-- an Expertise (Arcana) skill check to determine the nature of a magical effect, according to the following table
+- a Focus (Medicine) skill check to estimate the current life and essence of a creature, according to the table below
+- an Expertise (Arcana) skill check to determine the nature of a magical effect, according to the table below
 
-| Expertise (Medicine) check result | Information gained                                                            |
-| --------------------------------- | ----------------------------------------------------------------------------- |
-| 5                                 | Is the creature above or below half life? Does it have any essence remaining? |
-| 10                                | What percentage of life and essence are they at, rounded to the nearest 25%?  |
-| 15                                | What percentage of life and essence are they at, rounded to the nearest 10%?  |
-| 20                                | What percentage of life and essence are they at, rounded to the nearest 5%?   |
-| 25                                | What is their current and total maximum life and essence?                     |
+| Focus (Medicine) check result | Information gained                                                            |
+| ----------------------------- | ----------------------------------------------------------------------------- |
+| 5                             | Is the creature above or below half life? Does it have any essence remaining? |
+| 10                            | What percentage of life and essence are they at, rounded to the nearest 25%?  |
+| 15                            | What percentage of life and essence are they at, rounded to the nearest 10%?  |
+| 20                            | What percentage of life and essence are they at, rounded to the nearest 5%?   |
+| 25                            | What is their current and total maximum life and essence?                     |
 
 | Expertise (Arcana) check result | Information Gained                                 |
 | ------------------------------- | -------------------------------------------------- |
