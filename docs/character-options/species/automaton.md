@@ -54,7 +54,7 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 |  5   | I’ve removed what I can of my original capabilities.           |
 |  6   | I hate that I was made to hurt people.                         |
 
-**Lock-On:** Whenever you use the Scan minor action, select a creature. You gain advantage on attacks made against that creature until the end of your next turn.
+**Lock-On:** You gain access to the Aim minor action. When you use this action, select a creature. You gain advantage on all single-target attacks made against that creature until the end of your next turn.
 
 **Optimized:** You are proficient in Athletics.
 
