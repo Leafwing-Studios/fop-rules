@@ -37,6 +37,8 @@
 
 # Class Features
 
+<div class="class-table">
+
 | Level | Proficiency Bonus |                              Features                              | Spells Known |
 | :---: | :---------------: | :----------------------------------------------------------------: | :----------: |
 |   1   |        +1         |                  Conduit Casting, Mastery: Weapon                  |      4       |
@@ -59,6 +61,8 @@
 |  18   |        +5         |                           Stack Overflow                           |      8       |
 |  19   |        +5         |                       Attribute Improvement                        |      9       |
 |  20   |        +5         |                             Overclock                              |      9       |
+
+</div>
 
 ## Conduit Casting
 

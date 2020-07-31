@@ -38,6 +38,8 @@
 
 # Class Features
 
+<div class="class-table">
+
 | Level | Proficiency Bonus |                  Features                  | Manifestations Known |
 | :---: | :---------------: | :----------------------------------------: | :------------------: |
 |   1   |        +1         |     Domain, Manifestations, Surge (1)      |          3           |
@@ -60,6 +62,8 @@
 |  18   |        +5         |             Speak for the Land             |          7           |
 |  19   |        +5         |           Attribute Improvement            |          8           |
 |  20   |        +5         |                 Wild Magic                 |          8           |
+
+</div>
 
 ## Manifestations
 

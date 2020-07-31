@@ -36,6 +36,33 @@
 
 # Class Features
 
+<div class="class-table">
+
+| Level | Proficiency Bonus |                     Features                    | Spells Known |
+|:-----:|:-----------------:|-------------------------------------------------|:------------:|
+|   1   |         +1        | Spellcasting, Duality: First Pairing,           |       2      |
+|   2   |         +1        | Element Twisting (Minor), Equilibrium           |       2      |
+|   3   |         +1        | Detonation, Power Siphon                        |       2      |
+|   4   |         +1        | Attribute Improvement                           |       3      |
+|   5   |         +2        | Proficiency Bonus Improvement, Spell Mirror (2) |       3      |
+|   6   |         +2        | Elemental Intuition                             |       3      |
+|   7   |         +2        | Duality: Second Pairing                         |       5      |
+|   8   |         +2        | Attribute Improvement                           |       6      |
+|   9   |         +3        | Proficiency Bonus Improvement, Spell Mirror (3) |       6      |
+|   10  |         +3        | Element Twisting (Major)                        |       6      |
+|   11  |         +3        | Shaped Charge                                   |       6      |
+|   12  |         +3        | Attribute Improvement                           |       7      |
+|   13  |         +4        | Proficiency Bonus Improvement, Spell Mirror (4) |       7      |
+|   14  |         +4        | Elemental Crafting                              |       7      |
+|   15  |         +4        | Spell Prism                                     |       7      |
+|   16  |         +4        | Attribute Improvement                           |       8      |
+|   17  |         +5        | Proficiency Bonus Improvement, Spell Mirror (5) |       8      |
+|   18  |         +5        | Element Twisting (Grand)                        |       8      |
+|   19  |         +5        | Attribute Improvement                           |       9      |
+|   20  |         +5        | Fusion                                          |       9      |
+
+</div>
+
 ## Spellcasting
 The elementalist is a master of magic, shaping the raw elements into tangible form to blast their foes to smithereens. Elementalist **spells** always take a major action and cost 1 essence.
 

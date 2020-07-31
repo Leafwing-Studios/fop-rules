@@ -53,6 +53,33 @@
 
 # Class Features
 
+<div class="class-table">
+
+| Level | Proficiency Bonus |                     Features                    | Prayers Known |
+|:-----:|:-----------------:|-------------------------------------------------|:-------------:|
+|   1   |         +1        | Prayer, Offering, Devotion: Consequences        |       4       |
+|   2   |         +1        | Rituals, Benediction                            |       4       |
+|   3   |         +1        | Rebuke, Respite                                 |       4       |
+|   4   |         +1        | Attribute Improvement                           |       5       |
+|   5   |         +2        | Proficiency Bonus Improvement, Good Deeds       |       5       |
+|   6   |         +2        | Devotion: Augury                                |       5       |
+|   7   |         +2        | As a Lamb Among Wolves                          |       5       |
+|   8   |         +2        | Attribute Improvement                           |       6       |
+|   9   |         +3        | Proficiency Bonus Improvement, Steadfast        |       6       |
+|   10  |         +3        | Ritual Leader                                   |       6       |
+|   11  |         +3        | Desperate Plea                                  |       6       |
+|   12  |         +3        | Attribute Improvement                           |       7       |
+|   13  |         +4        | Proficiency Bonus Improvement, Combined Miracle |       7       |
+|   14  |         +4        | Evangelism                                      |       7       |
+|   15  |         +4        | Chastise                                        |       7       |
+|   16  |         +4        | Attribute Improvement                           |       8       |
+|   17  |         +5        | Proficiency Bonus Improvement, Inscrutable      |       8       |
+|   18  |         +5        | Privileged Information                          |       8       |
+|   19  |         +5        | Attribute Improvement                           |       9       |
+|   20  |         +5        | Favored                                         |       9       |
+
+</div>
+
 ## Prayer
 
 The Devout gains access to incredible power by praying to higher beings, who may or may not decide to grant it. Devout channel the magic of their gods through **prayers**, which always take a major action to cast and never cost essence.
