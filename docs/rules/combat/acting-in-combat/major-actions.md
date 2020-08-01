@@ -4,7 +4,7 @@
 Attacks against you have disadvantage until the start of your next turn.
 
 ## Grapple
-Make an Agility attack against them. If you hit them, they are affected by the grappled status, and you gain the grappling status.
+Make an Agility attack against a single creature of your choice within your zone of control. If you hit them, they are affected by the grappled status, and you gain the grappling status.
 
 You may not make Grapple attacks while you have the grappled or grappling statuses.
 
