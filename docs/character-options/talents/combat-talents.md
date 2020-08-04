@@ -176,6 +176,10 @@ You have disadvantage on attacks that you make against allied creatures.
 
 You have advantage on all skill checks made to use the Hide minor action in combat.
 
+### Reckless
+
+Whenever you make an attack, you may choose to gain advantage on the attack made. When you do, damage dealt to you cannot be prevented by absorption, and you cannot use the Dodge or Block reaction until the start of your next turn.
+
 ### Sadistic
 
 After you apply at least one stack of an affliction to a creature that already has a stack of that same affliction, apply two additional stacks of that affliction. This effect does not trigger itself.
