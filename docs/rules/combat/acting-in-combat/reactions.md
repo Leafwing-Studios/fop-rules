@@ -17,7 +17,7 @@ Attacks which hit more than one creature can be used as attacks of opportunity s
 
 ## Block
 
-After you are hit with an attack that would deal damage, you may spend your reaction to attempt to block the attack. If you do, reduce the damage received by 1d4 + Agility.
+Whenever you are hit with an attack that would deal damage, you may spend your reaction to attempt to block the attack. If you do, roll 1d4 + Agility. Until the start of your next turn, whenever you would take damage, reduce the damage that you would take by that amount.
 
 This occurs after any non-damaging effects are applied, but before damage is prevented by absorption. As a result, you cannot typically block attacks which successfully apply the defenseless or lethargic conditions.
 
