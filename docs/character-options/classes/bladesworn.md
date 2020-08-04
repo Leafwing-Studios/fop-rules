@@ -35,6 +35,8 @@
 
 # Class Features
 
+<div class="class-table">
+
 | Level | Proficiency Bonus | Features                                                                            | Counterattacks Known |
 | :---: | :---------------: | ----------------------------------------------------------------------------------- | :------------------: |
 |   1   |        +1         | Rhythm of Battle, Counterattacks, Lineage: Rhythmic Intensity, Lineage: Weapon Bond |          3           |
@@ -57,6 +59,8 @@
 |  18   |        +5         | Infallible                                                                          |          7           |
 |  19   |        +5         | Attribute Improvement                                                               |          8           |
 |  20   |        +5         | Lineage: Rhythmic Possession                                                        |          8           |
+
+</div>
 
 ## Rhythm of Battle
 

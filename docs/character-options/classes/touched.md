@@ -35,6 +35,8 @@
 
 # Class Features
 
+<div class="class-table">
+
 | Level | Proficiency Bonus |                      Features                       | Powers Known |
 | :---: | :---------------: | :-------------------------------------------------: | :----------: |
 |   1   |        +1         |                  Companion, Unison                  |      3       |
@@ -58,6 +60,7 @@
 |  19   |        +5         |                Attribute Improvement                |      8       |
 |  20   |        +5         |                  Perfect Imbalance                  |      8       |
 
+</div>
 
 ## Companion
 Touched are formed by the union between a **Host** and their **Companion.** The interplay between the mundane and the supernatural two gives rise to tremendous capabilities as they learn to work together to exist and fight to survive in a shared body and mind.

@@ -133,6 +133,15 @@ p + ol,
 	column-width: 1000px;
 }
 
+/* more bandaids for class tables */
+.class-table th:nth-last-of-type(1) {
+	column-width: auto;
+}
+
+.class-table th:nth-last-of-type(2) {
+	column-width: 1000px;
+}
+
 /* sidebar spacing fixes */
 .sidebar li {
 	margin: 0px 0px 0px 5px;

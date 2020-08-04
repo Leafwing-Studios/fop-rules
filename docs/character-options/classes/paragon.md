@@ -35,6 +35,8 @@
 
 # Class Features
 
+<div class="class-table">
+
 | Level | Proficiency Bonus |                   Features                   | Auras Known |
 | :---: | :---------------: | :------------------------------------------: | :---------: |
 |   1   |        +1         |      Auras, Bulwark, Cause: Inspiration      |      3      |
@@ -57,6 +59,8 @@
 |  18   |        +5         |              Ward of the Cause               |      7      |
 |  19   |        +5         |            Attribute Improvement             |      8      |
 |  20   |        +5         |               Undeniable Aura                |      8      |
+
+</div>
 
 ## Auras
 Paragons radiate confidence to all around them: **auras** are the tangible manifestation of this. At level 1, you learn to **Prime** an aura as a minor action. The first time during your turn that you hit a creature with an attack, you may spend 1 essence to trigger it, providing an effect to either all allies or all enemies within 10 feet of you. The effects caused by auras are either instant or last until the end of your next turn. Priming a new aura replaces your previous one.

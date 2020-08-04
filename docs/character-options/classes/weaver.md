@@ -36,6 +36,8 @@
 
 # Class Features
 
+<div class="class-table">
+
 | Level | Proficiency Bonus | Features                                          | Patterns Known |
 | :---: | :---------------: | ------------------------------------------------- | :------------: |
 |   1   |        +1         | Weave Magic, Guild: Signature Pattern             |       4        |
@@ -58,6 +60,8 @@
 |  18   |        +5         | Guild: Warp the Weave                             |       8        |
 |  19   |        +5         | Attribute Improvement                             |       9        |
 |  20   |        +5         | Masterpiece                                       |       9        |
+
+</div>
 
 ## Weave Magic
 As a Weaver, you manipulate the very fabric of magic, carefully shifting and crafting the arcane threads. Beginning at level 1, you learn to weave **patterns,** magical spells which can be sustained to create lasting effects so long as your concentration holds, depleting essence over time. You learn 4 patterns at level 1, and learn a new one at levels 4, 8, 12, 16 and 19.

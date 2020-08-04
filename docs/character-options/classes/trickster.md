@@ -44,6 +44,8 @@
 
 # Class Features
 
+<div class="class-table">
+
 | Level | Proficiency Bonus |                       Features                        | Tricks Known |
 | :---: | :---------------: | :---------------------------------------------------: | :----------: |
 |   1   |        +1         | Just Lucky, Winning Streak, Trickery, Flair: Low Blow |      3       |
@@ -66,6 +68,8 @@
 |  18   |        +5         |                    Push Your Luck                     |      7       |
 |  19   |        +5         |                 Attribute Improvement                 |      8       |
 |  20   |        +5         |                 Reversal of Fortunes                  |      8       |
+
+</div>
 
 ## Just Lucky
 At level 1, you are able to subtly bend fortune to your whims, helping you land blow after blow with impressive consistency.

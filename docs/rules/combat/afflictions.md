@@ -15,7 +15,7 @@ This leaves you with two options:
 1. Continue your escape, and trigger the bleeding as you spend movement, taking 3 points of decay damage.
 2. Stop moving, and avoid the damage due to bleeding.
 
-</infobox>
+</div>
 
 ## Aflame
 At the end of your turn (before the stacks of this affliction are reduced), if you are in the same tile that you began your turn in, take fire damage equal to the number of stacks of this affliction.
