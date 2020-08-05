@@ -13,7 +13,7 @@ Unsurprisingly, you only gain the benefit of gear that you have equipped. The de
 To deterimine which pieces of gear you can effectively equip, you need to look at their affixes.
 Each of these affixes has a cost, in terms of **gear points,** and the sum of these costs (the item’s innate or enchantment **gear point total**) determines whether or not you can equip it and gain its benefits.
 
-<div class="side-panel">
+<div class="infobox">
 
 **Unconventional Equipment**
 
