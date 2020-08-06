@@ -63,7 +63,7 @@
 		* [Touched](character-options/classes/touched.md)
 		* [Trickster](character-options/classes/trickster.md)
     	* [Weaver](character-options/classes/weaver.md)
-    * [Powers](character-options/powers)
+    * [Powers](character-options/powers/)
       * [Bladesworn](character-options/powers/bladesworn.md)
       * [Conduit](character-options/powers/conduit.md)
       * [Devout](character-options/powers/devout.md)
