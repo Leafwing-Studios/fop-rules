@@ -1,9 +1,10 @@
 # Quirks
+
 Every piece of gear has a particular **quirk** to it: something simple and distinctive about it. Quirks should give items memorable flavor and might occasionally be relevant outside of combat, similar in utility to a piece of adventuring gear.
 
-Which quirks an item might have is determined by the fashion in which it was created. In game terms, this is the skill used to create or enchant it. 
+Which quirks an item might have is determined by the fashion in which it was created. In game terms, this is the skill used to create or enchant it.
 
-At any point, a player may choose to **discover** the quirk of an item. Quirks define an item’s identity: once discovered, a quirk is fixed in place and cannot be changed by any means. When you want to discover the quirk of an item, use the table below and either select a Craftsmanship quirk of your choice, or 4 quirks corresponding to the enchanting skill of the item: one of Animism, Arcana, Geomatics or Tinkering. Then, roll a d4 to determine which quirk the unpredictable magic gave to your item.
+At any point, a player may choose to **discover** the quirk of an item. Quirks define an item’s identity: once discovered, a quirk is fixed in place and cannot be changed by any means. When you want to discover the quirk of an item, use the table below and either select a Craftsmanship quirk of your choice, or 4 quirks corresponding to the enchanting skill of the item: one of Anima, Arcana, Fontcraft or Tinkering. Then, roll a d4 to determine which quirk the unpredictable magic gave to your item.
 
 Feel free to design new quirks to fit your item’s story or concept! However, combat-relevant effects should be reserved exclusively for affixes in order to preserve game balance.
 
@@ -22,7 +23,7 @@ Feel free to design new quirks to fit your item’s story or concept! However, c
 | 9    | Nonlethal    | This item cannot kill creatures.                                                                                                            |
 | 10   | Camouflaged  | You have advantage on Stealth skill checks made to hide yourself while in a particular environment, but disadvantage in other environments. |
 
-**Animism Quirks**
+**Anima Quirks**
 
 | Roll | Name        | Effect                                                                                                                       |
 | ---- | ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +51,7 @@ Feel free to design new quirks to fit your item’s story or concept! However, c
 | 8    | Erratic   | This item’s appearance changes unexpectedly every time you complete a rest.                                                                                                                                 |
 | 9    | Resizing  | This item resizes itself perfectly to fit any user attuned to it.                                                                                                                                           |
 
-**Geomatics Quirks**
+**Fontcraft Quirks**
 
 | Roll | Name           | Effect                                                                                                                                                |
 | ---- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |

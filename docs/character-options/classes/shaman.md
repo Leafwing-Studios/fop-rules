@@ -1,4 +1,5 @@
 # Shaman
+
 **Source of Power:** Drawing magical power from the land itself, Shamans manifest these primal energies with uncontrolled destructive force.
 
 **Core Mechanic:** While Shamans are capable of spending essence at an unparalleled rate to empower their flexible manifestations, they risk being overloaded with elemental energy in return, suffering intense, unpredictable elemental damage whenever they exceed their capacity.
@@ -8,33 +9,36 @@
 **Approach to Exploration:** Shamans’ connection to nature gives them the ability to speak to the wildlife, plants and eventually even land around them. By tapping into the earth itself, they also gain the power to map their surroundings at a distance, making them exceptionally useful when exploring dangerous new places.
 
 **Build Fundamentals:** With the help of their incredibly versatile manifestations, shamans can just as easily be powerful strikers hurling raw elemental force, subtle controllers of the battlefield, or ally-warding guardians:
-* Striker: Focus on either the *blade* or *blast* manifestation to ensure you can put out consistent damage, then lay down a *storm* to funnel your enemies exactly where you want them.
-* Controller: The *shaping* and *breath* manifestations are your best friends, especially when combined with either the *grasp* or *word* manifestations, letting you choke out your enemies options and control the whole battlefield from a distance.
-* Guardian: Try to pick up the *expel* and *shelter* manifestations to support your allies and protect them from your wrath. Selecting *shield* as your characteristic manifestation is another great choice, letting you block blows for your allies.
+
+- Striker: Focus on either the _blade_ or _blast_ manifestation to ensure you can put out consistent damage, then lay down a _storm_ to funnel your enemies exactly where you want them.
+- Controller: The _shaping_ and _breath_ manifestations are your best friends, especially when combined with either the _grasp_ or _word_ manifestations, letting you choke out your enemies options and control the whole battlefield from a distance.
+- Guardian: Try to pick up the _expel_ and _shelter_ manifestations to support your allies and protect them from your wrath. Selecting _shield_ as your characteristic manifestation is another great choice, letting you block blows for your allies.
 
 <div class="side-panel">
 
-| Roll  | How was your bond with the land forged?        |
-| :---: | ---------------------------------------------- |
-|   1   | I was raised in the wild.                      |
-|   2   | I was trained as a shaman.                     |
-|   3   | It chose me of its own accord.                 |
-|   4   | I heard the land cry out.                      |
-|   5   | I connected to it in search of power.          |
-|   6   | I barely survived an encounter with its might. |
+| Roll | How was your bond with the land forged?        |
+| :--: | ---------------------------------------------- |
+|  1   | I was raised in the wild.                      |
+|  2   | I was trained as a shaman.                     |
+|  3   | It chose me of its own accord.                 |
+|  4   | I heard the land cry out.                      |
+|  5   | I connected to it in search of power.          |
+|  6   | I barely survived an encounter with its might. |
 
-| Roll  | How do you feel about the land you are bound to?    |
-| :---: | --------------------------------------------------- |
-|   1   | I resent the connection that I have with it.        |
-|   2   | I strive to conquer it.                             |
-|   3   | I seek to work with it for the good of my people.   |
-|   4   | I treat it with respect and advocate for its needs. |
-|   5   | I will do anything to protect it.                   |
-|   6   | I worship it as a sort of god.                      |
+| Roll | How do you feel about the land you are bound to?    |
+| :--: | --------------------------------------------------- |
+|  1   | I resent the connection that I have with it.        |
+|  2   | I strive to conquer it.                             |
+|  3   | I seek to work with it for the good of my people.   |
+|  4   | I treat it with respect and advocate for its needs. |
+|  5   | I will do anything to protect it.                   |
+|  6   | I worship it as a sort of god.                      |
 
 </div>
 
 # Class Features
+
+<div class="class-table">
 
 | Level | Proficiency Bonus |                  Features                  | Manifestations Known |
 | :---: | :---------------: | :----------------------------------------: | :------------------: |
@@ -59,41 +63,52 @@
 |  19   |        +5         |           Attribute Improvement            |          8           |
 |  20   |        +5         |                 Wild Magic                 |          8           |
 
+</div>
+
 ## Manifestations
+
 The elemental power wielded by the Shaman is a product of their deeply personal relationship with the land; no two Shaman’s are truly alike. At level 1, you learn your first two **manifestations,** which allow you to shape and wield the elements in powerful but dangerous ways. Select these from the list of Manifestations that follows the list of class features.
 
 ## Domain
+
 Every Shaman has a special connection to a particular type of place, and the elemental energy that embodies it. At level 1, select your **Domain** from the list given at the end of this class section. Your choice determines the type of damage they deal, the details of some of their manifestations, and the types of places they are most familiar with.
- 
+
 When a Manifestation is said to deal **elemental damage,** substitute the appropriate elemental damage type specified by your Domain.
 
 ## Surge
+
 When you use a manifestation, you may choose to spend additional essence to **Surge** it, up to your **Capacity**, which begins at 1. Every odd point of Surge increases the direct potency of the effect; every even point increases their power in a more subtle way.
 
 Every point of essence that you spend in this way increases your **Energy** by 1. If you Surge multiple manifestations in a single round, your Energy can exceed your Capacity. Unlike usual, you may spend essence to Surge your manifestations during attacks of opportunity.
 
-At the end of each of your turns, reset your Energy to 0. For each point of Energy removed in this way above your Capacity, take 1d12 elemental damage.  You cannot become immune to the type of damage associated with your Domain, or change the type of damage dealt by this effect.
+At the end of each of your turns, reset your Energy to 0. For each point of Energy removed in this way above your Capacity, take 1d12 elemental damage. You cannot become immune to the type of damage associated with your Domain, or change the type of damage dealt by this effect.
 
 Your Capacity increases by 1 at level 5, 9, 13 and 17.
 
 # Speak for the Beasts
+
 At level 2, you learn to speak on behalf of the voiceless beasts of the world, communicating with them directly so you can understand their concerns. You are able to communicate verbally with any creature that would not normally be capable of language. These creatures may not be very intelligent, and do not become unusually friendly to you as a result of this ability.
 
 In addition, you now have advantage on any skill checks made that involve working directly with animals (but not monsters), including social skill checks made to influence them.
 
 ## Regeneration
+
 Also at level 2, the energy created through the use of your abilities revitalizes you as you reabsorb it. When you reset your Energy at the end of your turn (before any damage would be dealt due to exceeding your Capacity), gain 2 life and 2 absorption for each point of Energy removed in this way.
 
 ## Characteristic Manifestation
+
 At level 3, you have developed a particular affinity for one particular form of manifesting your power. Select a manifestation that you know. This manifestation becomes more versatile, as detailed in the Characteristic Manifestation section of its description.
 
 ## Energy Cycle
+
 Also at level 3, you learn to absorb magical power directed at you, fueling your abilities. Whenever you lose life due to damage from the element associated with your Domain, gain essence equal to the life lost, up to a maximum of your proficiency bonus.
 
 ## Attribute Improvement
+
 When you reach level 4, 8, 12, 16 and 19 you become tangibly more talented, and can increase one Attribute of your choice by 1. As normal, you can’t increase your score above +5 in this way.
 
 ## Proficiency Bonus Improvement
+
 At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the table below.
 
 | Level | Proficiency Bonus |
@@ -107,35 +122,44 @@ At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the
 See the Leveling Up section in the Narrative Mechanics chapter for a reminder of the factors that change when this occurs.
 
 ## Lay of the Land
+
 At level 6, you are able to infer the geography of your surroundings from the patterns in the earth, by placing your hand to the ground. Once per rest when you use the Scan minor action, you may touch the ground (or the surface of a body of water) to gain information about your surroundings. You learn the approximate location of any structures, bodies of water, hills and cavern systems (natural or manmade), within a mile of you. You also learn of the existence, location, and element type(s) of any fonts of power within that range.
 
 You may use this feature again after its initial use is expended, but gain 1 stack of exhaustion each time you do so.
 
 ## Cascade
+
 At level 7, you can use extra energy that you absorb to fuel the strength of your magic. Whenever you lose life due to taking damage from your element, gain advantage on the next attack you make before the end of your next turn.
 
 ## Speak for the Trees
-At level 10, you gain the ability to speak to the trees and fungi of the world, learning of their plights and sharing in their contentment. You are able to communicate verbally with any form of plant life or fungi, listening to their chemical signals and quiet rustling. These creatures have quite limited senses and intelligence, but are typically quite helpful and able to answer questions about what has occurred in their limited vicinity, and eager to share any difficulties they might be having. 
+
+At level 10, you gain the ability to speak to the trees and fungi of the world, learning of their plights and sharing in their contentment. You are able to communicate verbally with any form of plant life or fungi, listening to their chemical signals and quiet rustling. These creatures have quite limited senses and intelligence, but are typically quite helpful and able to answer questions about what has occurred in their limited vicinity, and eager to share any difficulties they might be having.
 
 You also gain advantage on any Craftsmanship skill checks to grow or harvest plants.
 
 ## Elemental Mastery
+
 At level 11, you are intimately familiar with the workings of the element you are attuned to. Ignore resistance to the damage type associated with your Domain, and treat immunities to it as if they were only resistance. In addition, you gain resistance to this type of damage.
 
 ## Lay of the Locale
+
 At level 14, you are able to carefully discern the contents of areas on the other side of solid material. When you use your Lay of the Land feature, you may instead choose to gain knowledge about the detailed contents on the other side of a wall, floor or ceiling. You can detect creatures, objects and the general geometry up to 120 feet away, clearly seeing the shapes that they form but gaining no other information.
 
 ## Energy Buffer
+
 At level 15, you learn how to carefully come down from incredible highs through carefully buffering the energy to be dealt with later. At the end of each turn, you may choose how much to reduce your Energy by, to a minimum of half your current Energy (rounded down like usual).
 
 ## Speak for the Land
-At level 18, you learn to speak with the land itself, as it tells you of its troubles and shares its memories. You gain access to the Commune downtime activity. When you speak with the land using this feature, you may attempt a difficulty 20 Presence (Geomatics) check to gain detailed information about any event that has occurred within the last year and within 10 miles of your current location.
+
+At level 18, you learn to speak with the land itself, as it tells you of its troubles and shares its memories. You gain access to the Commune downtime activity. When you speak with the land using this feature, you may attempt a difficulty 20 Presence (Fontcraft) check to gain detailed information about any event that has occurred within the last year and within 10 miles of your current location.
 
 ## Wild Magic
+
 At level 20, your magic becomes even more powerful but harder to control. Whenever you spend essence to Surge a manifestation, roll a d4. The Surge level used changes according to the following rules:
-* **1:** The Surge level is one less than the essence spent.
-* **2:** The Surge level is equal to the essence spent.
-* **3:** The Surge level is one more than the essence spent.
-* **4:** The Surge level is two more than the essence spent.
+
+- **1:** The Surge level is one less than the essence spent.
+- **2:** The Surge level is equal to the essence spent.
+- **3:** The Surge level is one more than the essence spent.
+- **4:** The Surge level is two more than the essence spent.
 
 Roll to determine the Surge level after you have confirmed that you are using the manifestation but before you select targets.

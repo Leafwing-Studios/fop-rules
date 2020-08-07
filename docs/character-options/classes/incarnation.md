@@ -35,6 +35,8 @@
 
 ## Class Features
 
+<div class="class-table">
+
 | Level | Proficiency Bonus |                     Features                      | Maximum Fervor |
 | :---: | :---------------: | :-----------------------------------------------: | :------------: |
 |   1   |        +1         |       Rising Emotion (1), Grid, Temperament       |       -        |
@@ -57,6 +59,8 @@
 |  18   |        +5         |                Limits of Exertion                 |       5        |
 |  19   |        +5         |               Attribute Improvement               |       6        |
 |  20   |        +5         |                 Lingering Emotion                 |       6        |
+
+</div>
 
 ## Rising Emotion
 Drawing on their emotion to fuel their powers, the Incarnation deliberately hone the intensity of their feelings as they fight.

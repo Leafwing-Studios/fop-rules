@@ -35,6 +35,9 @@
 </div>
 
 # Class Features
+
+<div class="class-table">
+
 | Level | Proficiency Bonus |                        Features                         | Pulses Known |
 | :---: | :---------------: | :-----------------------------------------------------: | :----------: |
 |   1   |        +1         |            Pulse, Qualia: Distinctive Pulse             |      1       |
@@ -57,6 +60,8 @@
 |  18   |        +5         |                     Lingering Taste                     |      5       |
 |  19   |        +5         |                  Attribute Improvement                  |      6       |
 |  20   |        +5         |                    Qualia: Soulbound                    |      6       |
+
+</div>
 
 ## Soul Binding
 When a Soulbinder touches a creature, a fleeting connection is forged, linking their souls together in a way that the soulbinder can use to help or harm their target.

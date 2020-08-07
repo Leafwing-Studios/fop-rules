@@ -1,4 +1,5 @@
 # Reclaimer
+
 Indiscriminate lovers of junk and treasure, the Reclaimers follow in the wake of the great events of the fonts: chasing after clues, preserving memories and picking up the artifacts left behind.
 Uniquely resilient to the toxic effects of essence overload, they serve as scholars, archaeologists and adventurers, proudly showcasing their latest finds.
 
@@ -16,7 +17,6 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 | 4    | The valuable teachings, deliberately committed to memory, found in books and scrolls. |
 | 5    | Memories of strife and conflict, bound up in the objects that defined history.        |
 | 6    | Those that taste of love and home, created in the quiet, fond moments.                |
-
 
 | Roll | Why do you conceal your body with gear?                         |
 | ---- | --------------------------------------------------------------- |
@@ -48,7 +48,7 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 
 **Living Armor:** After you lose life, gain 4 absorption.
 
-**Natural Historian:** You are proficient in Animism.
+**Natural Historian:** You are proficient in Anima.
 
 ## Academy-Rat
 
@@ -76,9 +76,9 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 | 5    | I think they’re all secretly one entity.                               |
 | 6    | They are all sacred and worthy of sincere worship.                     |
 
-**Syncretic Vestments:** Your Dodge reaction uses Focus (Geomatics) rather than Agility (Athletics) for the skill check made. You may now use the Dodge reaction to avoid the effects of Focus attacks.
+**Syncretic Vestments:** Your Dodge reaction uses Focus (Fontcraft) rather than Agility (Athletics) for the skill check made. You may now use the Dodge reaction to avoid the effects of Focus attacks.
 
-**Devotee of the Lost Gods:** You are proficient in Geomatics.
+**Devotee of the Lost Gods:** You are proficient in Fontcraft.
 
 ## City-Scrapper
 
