@@ -111,6 +111,11 @@ p + ol,
 	margin: 0px;
 }
 
+/* tight margin class */
+.tight p {
+	margin: 0px;
+}
+
 /* table sizing */
 .markdown-section table {
 	margin: 0 auto 1rem auto;
