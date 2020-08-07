@@ -17,6 +17,8 @@
 **Duration:** Instant
 </div>
 
+</div>
+
 Tainted dark essence clouds the mind of your foe, manifesting as an ominous aura. Make a Focus attack against a creature of your choice within range. If you hit, apply one stack of cursed and one stack of  crazed.
 
 ## Bitter Cold
