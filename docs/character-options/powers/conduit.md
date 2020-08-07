@@ -2,6 +2,8 @@
 
 ## Baleful Jinx
 
+<div class="tight">
+
 **Action:** Minor action
 
 **Cost:** 1
@@ -13,6 +15,8 @@
 **Attack:** Focus
 
 **Duration:** Instant
+
+</div>
 
 Tainted dark essence clouds the mind of your foe, manifesting as an ominous aura. Make a Focus attack against a creature of your choice within range. If you hit, apply one stack of cursed and one stack of  crazed.
 
