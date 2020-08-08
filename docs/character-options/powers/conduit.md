@@ -8,9 +8,9 @@
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Focus
 
@@ -29,9 +29,9 @@ Tainted dark essence clouds the mind of your foe, manifesting as an ominous aura
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Agility
 
@@ -49,9 +49,9 @@ Harrowing cold surrounds you as ice forms on your eyelashes, rushing towards you
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Agility
 
@@ -69,9 +69,9 @@ Cold blue fire swirls around your hand before launching in a blast at your foe, 
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Agility
 
@@ -89,9 +89,9 @@ Ice flecked with darkness flows from your fist, draining the energy from all tha
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Agility
 
@@ -109,9 +109,9 @@ A strange dark energy flows through your fingers, disorienting those that it tou
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Agility
 
@@ -129,9 +129,9 @@ Incredible power flows through your finger, surging towards your foe and sickeni
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Focus
 
@@ -149,9 +149,9 @@ Dark and light energy fuse together, swirling as they flood your target, laying 
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Expertise
 
@@ -159,7 +159,7 @@ Dark and light energy fuse together, swirling as they flood your target, laying 
 
 </div>
 
-A strange beam surrounds your target as they suddenly find themselves somewhere new. Make an Expertise attack against a creature or object of your choice within range other than yourself. If you hit, teleport them to an empty tile of your choice up to 15 feet away from their current location.
+A strange beam surrounds your target as they suddenly find themselves somewhere new. Make an Expertise attack against a creature or object of your choice within range other than yourself. If you hit, teleport them to an empty tile of your choice up to Ranged, 15 feet away from their current location.
 
 ## Glacial Burst
 
@@ -169,9 +169,9 @@ A strange beam surrounds your target as they suddenly find themselves somewhere 
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Prowess
 
@@ -179,7 +179,7 @@ A strange beam surrounds your target as they suddenly find themselves somewhere 
 
 </div>
 
-A terrible blast of cold pours forth from your palms, knocking back your foe. Make a Prowess attack against a creature of your choice within range. If you hit, deal 1d4  + Presence water damage and knock them back 15 feet away from you. When used with your Buffer Overflow class feature, the creature is knocked away from the immediately preceding creature in the chain, rather than yourself. This location is calculated before any movement from this chained spell occurs.
+A terrible blast of cold pours forth from your palms, knocking back your foe. Make a Prowess attack against a creature of your choice within range. If you hit, deal 1d4  + Presence water damage and knock them back Ranged, 15 feet away from you. When used with your Buffer Overflow class feature, the creature is knocked away from the immediately preceding creature in the chain, rather than yourself. This location is calculated before any movement from this chained spell occurs.
 
 ## Grasping Shadows
 
@@ -189,9 +189,9 @@ A terrible blast of cold pours forth from your palms, knocking back your foe. Ma
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Prowess
 
@@ -199,7 +199,7 @@ A terrible blast of cold pours forth from your palms, knocking back your foe. Ma
 
 </div>
 
-Shadows emanate from your hands, grasping and pulling, suddenly tangible. Make a Prowess attack against a creature of your choice within range. If you hit, deal 1d4 + Presence umbral damage and pull them 15 feet towards you. When used with your Buffer Overflow class feature, the creature is pulled towards the immediately preceding creature in the chain, rather than yourself. This location is calculated before any movement from this chained spell occurs.
+Shadows emanate from your hands, grasping and pulling, suddenly tangible. Make a Prowess attack against a creature of your choice within range. If you hit, deal 1d4 + Presence umbral damage and pull them Ranged, 15 feet towards you. When used with your Buffer Overflow class feature, the creature is pulled towards the immediately preceding creature in the chain, rather than yourself. This location is calculated before any movement from this chained spell occurs.
 
 ## Light of Judgement
 
@@ -209,9 +209,9 @@ Shadows emanate from your hands, grasping and pulling, suddenly tangible. Make a
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** ???
 
@@ -229,9 +229,9 @@ Intense, and pure radiant light surrounds you and pours into your foe, overwhelm
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Agility
 
@@ -253,9 +253,9 @@ When used with your Buffer Overflow class feature, the creature is tethered to t
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Presence
 
@@ -273,9 +273,9 @@ Fire flickers from your fingertips, crawling towards your foe and mocking them a
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Focus
 
@@ -293,9 +293,9 @@ A beam of light pulses from your hand, methodically stripping your foe of their 
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Focus
 
@@ -313,9 +313,9 @@ A terrible darkness surrounds you, creeping towards your foe as you both suffer 
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Focus
 
@@ -333,9 +333,9 @@ Pure magical energy swirls around you, flickering with the colors of the rainbow
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Focus
 
@@ -353,9 +353,9 @@ Crackling lighting surround you, engulfing both you and your foe in their wrath.
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Expertise
 
@@ -377,9 +377,9 @@ If there are more stacks than can be transferred, you may choose which afflictio
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Agility
 
@@ -397,9 +397,9 @@ Raging flames cover your entire body, before roaring towards your foe in a scorc
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Focus
 
@@ -417,9 +417,9 @@ A warm glow shields and calms those that it touches. Make a Focus attack against
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Focus
 
@@ -437,9 +437,9 @@ An eerie light pours forth from your hands, causing those it touches to be overw
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Expertise
 
@@ -457,9 +457,9 @@ Your hands glow with strange light that suddenly disappears with a flash as anot
 
 **Cost:** 1
 
-**Range:** 15 feet
+**Range:** Ranged, 15 feet
 
-**Targets:** Single target
+**Targets:** Single-target
 
 **Attack:** Agility
 
