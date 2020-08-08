@@ -5,7 +5,7 @@
 
 **The painful details of afflictions**
 
-Each type of affliction can only trigger at most once each turn.
+Afflictions, by design, may only trigger once for each turn that a creature takes. Sometimes however, the timing can get a bit tricky.
 
 Many afflictions (such as *bleeding* or *temperance*) specify that they trigger "the first time during your turn that [you perform a certain action]". However, if you gain an affliction during your turn and have not yet triggered that affliction this turn, you can still trigger it later in the turn (even if it's not literally the first time in the turn that you've taken that action). As an example, consider the following situation:
 1. You have no stacks of bleeding and spend movement to attempt to retreat from an enemy.
