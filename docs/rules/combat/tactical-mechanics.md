@@ -44,6 +44,9 @@ Whenever you would be forcibly moved into an occupied tile, you are instead plac
 
 Forced movement never provokes attacks of opportunity.
 
+Modifiers to the strength of forced movement stack multiplicatively, but modifiers due to powers, affixes or any other passive features can never result in a change in the effectiveness of forced movement that more than doubles the effect of forced movement. 
+This can however be combined with the increased effect of critical hits, resulting in an absolute cap of quadruple effect of the listed forced movement.
+
 ## Shifts
 Various effects allow you to carefully move across the battlefield. When you shift, you may move into an adjacent empty tile of your choice. This does not cost movement and never provokes attacks of opportunity.
 
