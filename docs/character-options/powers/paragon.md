@@ -178,7 +178,7 @@ When you trigger this aura, make a Presence attack against all enemies within ra
 **Duration:** Instant
 </div>
 
-When you trigger this aura, grant each ally within range 3 + ½ your Presence absorption.
+When you trigger this aura, grant each ally within range 3 + ½ Presence absorption.
 
 ## Aura of Purity
 <div class="tight">
