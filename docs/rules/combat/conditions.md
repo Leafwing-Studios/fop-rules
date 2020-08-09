@@ -45,7 +45,7 @@ Damage dealt to you cannot be prevented by absorption or the Block reaction.
 
 ## Frightened
 
-You have disadvantage on all special attacks. You cannot willingly move closer to the source of your fear if you know where it is. If a different source applies frightened to you, the source of your fear changes.
+You have disadvantage on all special attacks. You cannot willingly move closer to the source of your fear if you know where it is. If a different source applies frightened to you, the object of your fear changes to the most recent source.
 
 ## Lethargic
 
@@ -63,7 +63,7 @@ You cannot spend movement.
 
 ## Taunted
 
-You cannot make attacks unless they target the creature who taunted you. You must take attacks of opportunities against that creature if able. If a different source applies taunted to you, the source of your ire changes.
+You have disadvantage on attacks that do not target the creature who applied this condition to you. You must take attacks of opportunities against that creature if able. If a different source applies taunted to you, the object of your ire changes to the most recent source.
 
 ## Withered
 
