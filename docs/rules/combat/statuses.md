@@ -67,10 +67,6 @@ You may voluntarily go prone by spending 5 feet of movement.
 
 You have disadvantage on basic attacks. Basic attacks against you have advantage. You cannot spend movement.
 
-## Stunned
-
-You may not take major actions, minor actions or reactions. You cannot spend movement. You do not have a zone of control.
-
 ## Unconscious
 
 You may not take major actions, minor actions or reactions. You cannot spend movement. You do not have a zone of control. You cannot benefit from any of your senses.
