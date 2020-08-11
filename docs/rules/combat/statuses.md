@@ -2,10 +2,6 @@
 
 Statuses represent things that might occur to the creatures in the game, but do not follow the same rules as conditions or afflictions.
 
-## Asleep
-
-You cannot move or take actions and do not have a zone of control. When you first fall asleep, you become prone unless there is something holding you up. If you lose life, this effect immediately ends. At the end of each of your turns if you are in a loud environment (such as an active combat), you may defend against the effect which caused sleep, waking up if the attack misses. If the sleep is natural, you must pass a difficulty 10 Focus (Perception) skill check to wake up. The Treat minor action also wakes you.
-
 ## Grappled
 
 You cannot spend movement.
