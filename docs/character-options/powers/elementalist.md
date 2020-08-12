@@ -1448,9 +1448,9 @@ If you have at least 4 stacks of umbral exposure, you have disadvantage on the a
 
 </div>
 
-A swirling barrier of wind wards your ally. Select a creature within range. They gain 6 + Presence absorption and are immune to radiant damage until the end of your next turn.
+A swirling barrier of glowing green energy wards your ally. Select a creature within range. They gain 6 + Presence absorption and are immune to primal damage until the end of your next turn.
 
-If you have at least 4 stacks of primal exposure, the absorption granted increases to 10 + Presence but they also become vulnerable to earth damage until the end of your next turn.
+If you have at least 4 stacks of primal exposure, the absorption granted increases to 10 + Presence but they also become vulnerable to decay damage until the end of your next turn.
 
 ### Life Bolt
 
@@ -1464,13 +1464,13 @@ If you have at least 4 stacks of primal exposure, the absorption granted increas
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Attack:** None
 
 **Duration:** Instant
 
 </div>
 
-A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence radiant damage and knock them back 15 feet.
+A glowing bolt of invigorating energy shoots forth from your weapon, momentarily protecting everything in its path. Grant 6 + Presence absorption to every creature in a 5 foot wide by 120 foot long line.
 
 If you have at least 4 stacks of primal exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
 
@@ -1492,7 +1492,7 @@ If you have at least 4 stacks of primal exposure, the elemental energy bounces o
 
 </div>
 
-A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence radiant damage. If you miss, they suffer the effects at half efficacy.
+A glowing green ball of vital energy whizzes through the air before exploding in an overwhelming surge. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence primal damage. Creatures that you miss still take half as much damage.
 
 If you have at least 4 stacks of primal exposure, the radius of the burst increases to 20 feet instead.
 
@@ -1514,7 +1514,7 @@ If you have at least 4 stacks of primal exposure, the radius of the burst increa
 
 </div>
 
-Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the end of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within 20 feet of you. If you hit, knock them back 20 feet. Those that you miss are still knocked back 10 feet. Multiple copies of this effect increase both the initial radius of this effect and the distance creates are knocked back.
+A regenerating barrier of vital force swirls tightly around you as you focus your magic completely upon your own defense. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, gain 6 + Presence absorption after losing life.
 
 If you have at least 4 stacks of primal exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -1530,13 +1530,13 @@ If you have at least 4 stacks of primal exposure, the absorption gained increase
 
 **Targets:** Multi-target
 
-**Attack:** Expertise
+**Attack:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 15 foot radius cone. If you hit, deal 1d4 + Presence radiant damage and apply a stack of defenseless.
+As you fan your hands, a wave of overwhelming life energy pours forth from your fingertips, rapidly healing ailments in a rather painful fashion. Make a Focus attack against each creature within a 15 foot radius cone. If you hit, remove a condition of your choice from them. If you do, deal 1d12 + Presence primal damage to them. Otherwise, deal 1d8 + Presence primal damage to them.
 
 If you have at least 4 stacks of primal exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
 
@@ -1558,9 +1558,9 @@ If you have at least 4 stacks of primal exposure, make an attack against each ot
 
 </div>
 
-Vanishing into thin air, you appear a short distance away with a burst of air. Teleport up to 15 feet into an empty tile of your choice and make a Prowess attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
+Vanishing into thin air, you appear a short distance away, granting glowing green barriers to all nearby. Teleport up to 15 feet into an empty tile of your choice and grant 3 + ½ Presence absorption. to all other creatures within 5 feet of that tile.
 
-If you have at least 4 stacks of primal exposure, you can only teleport up to 5 feet, but you have advantage on the attack made after you teleport.
+If you have at least 4 stacks of primal exposure, you can only teleport up to 5 feet, but grant 6 + Presence absorption after you teleport instead.
 
 ### Life Tendrils
 
@@ -1580,9 +1580,9 @@ If you have at least 4 stacks of primal exposure, you can only teleport up to 5 
 
 </div>
 
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of aloft.
+Powerful tendrils of glowing green energy wrap your foe in place. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of rooted.
 
-If you have at least 4 stacks of primal exposure, this spell becomes multi-target, and targets all creatures in a 5 foot radius within range instead.
+If you have at least 4 stacks of primall exposure, apply three stacks of rooted to that creature and two stacks to yourself instead if you hit.
 
 ### Life Touch
 
@@ -1602,9 +1602,9 @@ If you have at least 4 stacks of primal exposure, this spell becomes multi-targe
 
 </div>
 
-Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence radiant damage and knock them prone.
+Your hand glows with invigorating energy, throwing a creature into an uncontrollable frenzy as you touch them. Make an Agility attack against a creature of your choice within range. If you hit, apply 6 + Presence stacks of rage.
 
-If you have at least 4 stacks of decay exposure, you have disadvantage on the attack but it is automatically a critical hit if your attack hits.
+If you have at least 4 stacks of primal exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
 ## Decay
 
@@ -1626,9 +1626,9 @@ If you have at least 4 stacks of decay exposure, you have disadvantage on the at
 
 </div>
 
-A swirling barrier of wind wards your ally. Select a creature within range. They gain 6 + Presence absorption and are immune to decay damage until the end of your next turn.
+A swirling barrier of grim energy wards your ally. Select a creature within range. They gain 6 + Presence absorption and are immune to decay damage until the end of your next turn.
 
-If you have at least 4 stacks of decay exposure, the absorption granted increases to 10 + Presence but they also become vulnerable to earth damage until the end of your next turn.
+If you have at least 4 stacks of decay exposure, the absorption granted increases to 10 + Presence but they also become vulnerable to primal damage until the end of your next turn.
 
 ### Death Bolt
 
@@ -1648,7 +1648,7 @@ If you have at least 4 stacks of decay exposure, the absorption granted increase
 
 </div>
 
-A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence decay damage and knock them back 15 feet.
+A draining bolt of negative energy shoots forth from your weapon, sapping the life force from everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d6 + Presence decay damage. This attack deals twice as much damage to absorption. Creatures that you miss still take half as much damage.
 
 If you have at least 4 stacks of decay exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
 
@@ -1670,7 +1670,7 @@ If you have at least 4 stacks of decay exposure, the elemental energy bounces of
 
 </div>
 
-A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence decay damage. If you miss, they suffer the effects at half efficacy.
+A dark ball of negative energy whizzes through the air before exploding in an exhausting burst. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence decay damage. Creatures that you miss still take half as much damage.
 
 If you have at least 4 stacks of decay exposure, the radius of the burst increases to 20 feet instead.
 
@@ -1686,13 +1686,13 @@ If you have at least 4 stacks of decay exposure, the radius of the burst increas
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Attack:** Focus
 
 **Duration:** Until the end of your next turn
 
 </div>
 
-Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the end of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within 20 feet of you. If you hit, knock them back 20 feet. Those that you miss are still knocked back 10 feet. Multiple copies of this effect increase both the initial radius of this effect and the distance creates are knocked back.
+Dark magic swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, make a Focus attack against all creatures within 10 feet of you. If you hit, apply one stack of cursed.
 
 If you have at least 4 stacks of primal exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -1708,13 +1708,13 @@ If you have at least 4 stacks of primal exposure, the absorption gained increase
 
 **Targets:** Multi-target
 
-**Attack:** Expertise
+**Attack:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 15 foot radius cone. If you hit, deal 1d4 + Presence decay damage and apply a stack of defenseless.
+As you fan your hands, terrible necrotic energy pours forth from your fingertips, worsening the ailments of your foes. Make a Prowess attack against each creature within a 15 foot radius cone. If you hit, apply one stack of each condition they are already suffering from to them.
 
 If you have at least 4 stacks of decay exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
 
@@ -1730,15 +1730,15 @@ If you have at least 4 stacks of decay exposure, make an attack against each oth
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Attack:** Focus
 
 **Duration:** Instant
 
 </div>
 
-Vanishing into thin air, you appear a short distance away with a burst of air. Teleport up to 15 feet into an empty tile of your choice and make a Prowess attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
+Vanishing into thin air, you appear a short distance away, powered by the life force of those you left behind. Make a Focus attack against all creatures within 5 feet of you. If you hit, deal 1d4 + Presence decay damage. Teleport to an empty tile of your choice. The distance that you can teleport in this way is 15 feet plus 5 feet for each creature you struck with your initial attack.
 
-If you have at least 4 stacks of decay exposure, you can only teleport up to 5 feet, but you have advantage on the attack made after you teleport.
+If you have at least 4 stacks of decay exposure, the base distance telported is reduced to 5 feet, but you have advantage on the attack made before you teleport.
 
 ### Death Tendrils
 
@@ -1752,15 +1752,15 @@ If you have at least 4 stacks of decay exposure, you can only teleport up to 5 f
 
 **Targets:** Single-target
 
-**Attack:** None
+**Attack:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of aloft.
+Grasping tendrils of decay surround your foe as they sap away their energy. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of withered.
 
-If you have at least 4 stacks of decay exposure, this spell becomes multi-target, and targets all creatures in a 5 foot radius within range instead.
+If you have at least 4 stacks of decay exposure, apply three stacks of withered to that creature and two stacks to yourself instead if you hit.
 
 ### Death Touch
 
@@ -1774,15 +1774,15 @@ If you have at least 4 stacks of decay exposure, this spell becomes multi-target
 
 **Targets:** Single-target
 
-**Attack:** None
+**Attack:** Agility
 
 **Duration:** Until the end of your next turn
 
 </div>
 
-Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence decay damage and knock them prone.
+Your hand pulses with dark energy as you pull your foe closer to death with a single touch. Make an Agility attack against an adjacent creature of your choice. If you hit, deal 1d6 + Presence decay damage. This damage is increased to 1d12 + Presence if they are below half of their maximum life.
 
-If you have at least 4 stacks of decay exposure, you have disadvantage on the attack but it is automatically a critical hit if your attack hits.
+If you have at least 4 stacks of decay exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
 ## Electric
 
@@ -1804,9 +1804,9 @@ If you have at least 4 stacks of decay exposure, you have disadvantage on the at
 
 </div>
 
-A swirling barrier of wind wards your ally. Select a creature within range. They gain 6 + Presence absorption and are immune to electric damage until the end of your next turn.
+A swirling barrier of electricity wards your ally. Select a creature within range. They gain 6 + Presence absorption and are immune to electric damage until the end of your next turn.
 
-If you have at least 4 stacks of electric exposure, the absorption granted increases to 10 + Presence but they also become vulnerable to earth damage until the end of your next turn.
+If you have at least 4 stacks of electric exposure, the absorption granted increases to 10 + Presence but they also become vulnerable to corrosive damage until the end of your next turn.
 
 ### Lightning Bolt
 
@@ -1820,13 +1820,13 @@ If you have at least 4 stacks of electric exposure, the absorption granted incre
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Attack:** Agility
 
 **Duration:** Instant
 
 </div>
 
-A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence electric damage and knock them back 15 feet.
+An electrifying bolt of lightning shoots forth from your weapon, shocking everything in its path. Make an Agility attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d8 + Presence electric damage. Your critical hit threshold is reduced by 2 for this attack.
 
 If you have at least 4 stacks of electric exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
 
@@ -1848,7 +1848,7 @@ If you have at least 4 stacks of electric exposure, the elemental energy bounces
 
 </div>
 
-A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence electric damage. If you miss, they suffer the effects at half efficacy.
+A crackling ball of electricity whizzes through the air before exploding in a shower of sparks. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence electric damage. Creatures that you miss still take half as much damage.
 
 If you have at least 4 stacks of electric exposure, the radius of the burst increases to 20 feet instead.
 
@@ -1862,15 +1862,15 @@ If you have at least 4 stacks of electric exposure, the radius of the burst incr
 
 **Range:** Self
 
-**Targets:** Multi-target
+**Targets:** None
 
-**Attack:** Prowess
+**Attack:** None
 
 **Duration:** Until the end of your next turn
 
 </div>
 
-Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the end of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within 20 feet of you. If you hit, knock them back 20 feet. Those that you miss are still knocked back 10 feet. Multiple copies of this effect increase both the initial radius of this effect and the distance creates are knocked back.
+Lightning swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, immediately teleport up to 15 feet to an empty tile of your choice. Stacking this effect allows you to teleport multiple times.
 
 If you have at least 4 stacks of electric exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -1886,13 +1886,13 @@ If you have at least 4 stacks of electric exposure, the absorption gained increa
 
 **Targets:** Multi-target
 
-**Attack:** Expertise
+**Attack:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 15 foot radius cone. If you hit, deal 1d4 + Presence electric damage and apply a stack of defenseless.
+As you fan your hands, a sheet of lightning pours forth from your fingertips, zapping your foes. Make a Focus attack against each creature within a 15 foot radius cone. If you hit, deal 1d4 + Presence electric damage and apply one stack of lethargic.
 
 If you have at least 4 stacks of electric exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
 
@@ -1908,15 +1908,15 @@ If you have at least 4 stacks of electric exposure, make an attack against each 
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Attack:** Agility
 
 **Duration:** Instant
 
 </div>
 
-Vanishing into thin air, you appear a short distance away with a burst of air. Teleport up to 15 feet into an empty tile of your choice and make a Prowess attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
+Vanishing into thin air, you appear a short distance away, riding a crackling trail of lightning. Teleport up to 15 feet into an empty tile of your choice and make an Agility attack against all other creatures in a line between where you teleported. If you hit, deal 1d6 + Presence electric damage.
 
-If you have at least 4 stacks of electric exposure, you can only teleport up to 5 feet, but you have advantage on the attack made after you teleport.
+If you have at least 4 stacks of electric exposure, you can only teleport into tiles that would result in an attack being made against at least one other creature, but you have advantage on the attack made during your teleportation.
 
 ### Lightning Tendrils
 
@@ -1936,9 +1936,9 @@ If you have at least 4 stacks of electric exposure, you can only teleport up to 
 
 </div>
 
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of aloft.
+Grasping tendrils of lightning dull your foes attacks. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of blunted.
 
-If you have at least 4 stacks of electric exposure, this spell becomes multi-target, and targets all creatures in a 5 foot radius within range instead.
+If you have at least 4 stacks of electric exposure, apply three stacks of blunted to that creature and two stacks to yourself instead if you hit.
 
 ### Lightning Touch
 
@@ -1952,15 +1952,15 @@ If you have at least 4 stacks of electric exposure, this spell becomes multi-tar
 
 **Targets:** Single-target
 
-**Attack:** None
+**Attack:** Agility
 
 **Duration:** Until the end of your next turn
 
 </div>
 
-Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence electric damage and knock them prone.
+Your hand crackles with electricity as you electrocute a nearby foe with a single touch. Make an Agility attack against an adjacent creature of your choice. If you hit, deal 1d6 + Presence electric damage and apply one stack of lethargic.
 
-If you have at least 4 stacks of electric exposure, you have disadvantage on the attack but it is automatically a critical hit if your attack hits.
+If you have at least 4 stacks of electric exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
 ## Corrosive
 
@@ -1982,9 +1982,9 @@ If you have at least 4 stacks of electric exposure, you have disadvantage on the
 
 </div>
 
-A swirling barrier of wind wards your ally. Select a creature within range. They gain 6 + Presence absorption and are immune to corrosive damage until the end of your next turn.
+A swirling barrier of acid wards your ally. Select a creature within range. They gain 6 + Presence absorption and are immune to corrosive damage until the end of your next turn.
 
-If you have at least 4 stacks of corrosive exposure, the absorption granted increases to 10 + Presence but they also become vulnerable to earth damage until the end of your next turn.
+If you have at least 4 stacks of corrosive exposure, the absorption granted increases to 10 + Presence but they also become vulnerable to electric damage until the end of your next turn.
 
 ### Acid Bolt
 
@@ -2004,7 +2004,7 @@ If you have at least 4 stacks of corrosive exposure, the absorption granted incr
 
 </div>
 
-A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence corrosive damage and knock them back 15 feet.
+A blistering bolt of acid shoots forth from your weapon, eating through everything in its path. Make an Agility attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d8 + Presence corrosive damage. The efficacy of this attack is tripled, rather than doubled, on a critical hit.
 
 If you have at least 4 stacks of corrosive exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
 
@@ -2026,7 +2026,7 @@ If you have at least 4 stacks of corrosive exposure, the elemental energy bounce
 
 </div>
 
-A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence corrosive damage. If you miss, they suffer the effects at half efficacy.
+A dripping ball of acid whizzes through the air before exploding in a corrosive shower. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence corrosive damage. Creatures that you miss still take half as much damage.
 
 If you have at least 4 stacks of corrosive exposure, the radius of the burst increases to 20 feet instead.
 
@@ -2042,13 +2042,13 @@ If you have at least 4 stacks of corrosive exposure, the radius of the burst inc
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Attack:** Agility
 
 **Duration:** Until the end of your next turn
 
 </div>
 
-Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the end of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within 20 feet of you. If you hit, knock them back 20 feet. Those that you miss are still knocked back 10 feet. Multiple copies of this effect increase both the initial radius of this effect and the distance creates are knocked back.
+Oozing acid swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, explode in a shower of acid. Make an Agility attack against all other creatures within 10 feet of you. Apply one stack of blinded if you hit.
 
 If you have at least 4 stacks of corrosive exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -2070,7 +2070,7 @@ If you have at least 4 stacks of corrosive exposure, the absorption gained incre
 
 </div>
 
-As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 15 foot radius cone. If you hit, deal 1d4 + Presence corrosive damage and apply a stack of defenseless.
+As you fan your hands, burning acid pours forth from your fingertips, stripping away their defenses. Make an Agility attack against each creature within a 15 foot radius cone. If you hit, deal 1d8 + Presence corrosive damage. This attack deals double damage to absorption.
 
 If you have at least 4 stacks of corrosive exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
 
@@ -2092,7 +2092,7 @@ If you have at least 4 stacks of corrosive exposure, make an attack against each
 
 </div>
 
-Vanishing into thin air, you appear a short distance away with a burst of air. Teleport up to 15 feet into an empty tile of your choice and make a Prowess attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
+Vanishing into thin air, you appear a short distance away with a splash of acid. Teleport up to 15 feet into an empty tile of your choice and make an Agility attack against all other creatures within 5 feet of that tile. If you hit, deal 1d6 + Presence corrosive damage.
 
 If you have at least 4 stacks of corrosive exposure, you can only teleport up to 5 feet, but you have advantage on the attack made after you teleport.
 
@@ -2114,7 +2114,7 @@ If you have at least 4 stacks of corrosive exposure, you can only teleport up to
 
 </div>
 
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of aloft.
+Grasping tendrils of acid surround your foe, eating away at their defenses. Make an Agility attack against a creature of your choice within range. If you hit, apply two stacks of defenseless.
 
 If you have at least 4 stacks of corrosive exposure, this spell becomes multi-target, and targets all creatures in a 5 foot radius within range instead.
 
@@ -2136,6 +2136,6 @@ If you have at least 4 stacks of corrosive exposure, this spell becomes multi-ta
 
 </div>
 
-Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence corrosive damage and knock them prone.
+Your hand drips with acid as you eat away at a nearby foe with a single touch. Make an Agility attack against an adjacent creature of your choice. If you hit, apply 6 + Presence stacks of fragile.
 
 If you have at least 4 stacks of corrosive exposure, you have disadvantage on the attack but it is automatically a critical hit if your attack hits.
