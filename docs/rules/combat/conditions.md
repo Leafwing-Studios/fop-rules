@@ -17,6 +17,8 @@ While aloft:
 
 You are sent to a strange, alternate plane of existence. While banished, you can only interact with other banished creatures. Creatures who are not banished can occupy and move through the same tile as you and vice versa.
 
+Other creatures may use the Treat minor action (or other effects which remove conditions) to remove the banished condition, even if they are not themselves banished.
+
 When this condition ends, reappear in the nearest empty tile. You can still perceive things normally in both worlds while banished, and you can still be seen by creatures in the normal world.
 
 ## Blinded
