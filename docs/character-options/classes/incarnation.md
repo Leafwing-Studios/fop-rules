@@ -292,13 +292,13 @@ You may Transform as a minor action, which costs essence equal to your current s
 - You have resistance to physical damage.
 - Any stacks of rage that you may have are not removed at the end of each of your turns or via your Grit class feature while transformed.
 - You are immune to the pacified condition.
-- At the end of each of your turns, you lose 1 stack of emotion and gain 1 stack of rage. When you reach 0 stacks of emotion the transformation ends.
+- At the end of each of your turns, you lose 1 stack of emotion. When you reach 0 stacks of emotion the transformation ends.
 
 ### Outburst: Frothing Rage
 
 At level 11, you learn to feed others rage as you spread your own anger.
 
-While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, make a Presence attack against all other creatures within 10 feet of you. If you hit, apply a number of stacks of rage equal to your current stacks of rage.
+While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, make a Presence attack against all other creatures within 10 feet of you. If you hit, apply 6 + Presence stacks of rage.
 
 ### Impunity: Rage Beyond Death
 
