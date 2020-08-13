@@ -62,7 +62,7 @@ Enemies provoke an attack of opportunity whenever they move from a tile that is 
 
 ### Proactive
 
-Enemies provoke an attack of opportunity whenever they leave your zone of control.
+Enemies provoke an attack of opportunity whenever they would spend movement to leave your zone of control.
 
 ### Resilient
 
