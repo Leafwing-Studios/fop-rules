@@ -19,7 +19,7 @@ Attacks which hit more than one creature can be used as attacks of opportunity s
 
 Whenever you would take damage, you may spend your reaction to attempt to block. If you do, roll 1d4 + Agility. Until the start of your next turn, whenever you would take damage, reduce the damage that you would take by that amount.
 
-This occurs after any non-damaging effects are applied, but before damage is prevented by absorption. As a result, you cannot typically block attacks which successfully apply the defenseless or lethargic conditions.
+This occurs after any non-damaging effects are applied, but before damage is prevented by absorption. As a result, you cannot typically block attacks which successfully apply the defenseless or lethargic conditions. If you Block several times in one round (such as by using the Patient combat talent), this effect does not stack with itself, and the highest value is used instead.
 
 ## Dodge
 
