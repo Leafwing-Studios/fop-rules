@@ -49,7 +49,7 @@
 |   6   |        +2         | Second Thought                                                                          |          4           |
 |   7   |        +2         | Battle Dancing                                                                          |          4           |
 |   8   |        +2         | Attribute Improvement                                                                   |          5           |
-|   9   |        +3         | Proficiency Bonus Improvement, Lineage: Rhythmic Intensity (2),                         |          5           |
+|   9   |        +3         | Proficiency Bonus Improvement, Lineage: Rhythmic Intensity (2)                          |          5           |
 |  10   |        +3         | Hidden Talent                                                                           |          5           |
 |  11   |        +3         | Lineage: Signature Technique                                                            |          5           |
 |  12   |        +3         | Attribute Improvement                                                                   |          6           |
