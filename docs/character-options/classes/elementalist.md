@@ -40,28 +40,28 @@
 
 <div class="class-table">
 
-| Level | Proficiency Bonus | Features                                             | Spells Known |
-| :---: | :---------------: | ---------------------------------------------------- | :----------: |
-|   1   |        +1         | Spellcasting, Duality: First Pairing, Elemental Edge |      2       |
-|   2   |        +1         | Element Twisting (Minor), Equilibrium                |      2       |
-|   3   |        +1         | Detonation, Power Siphon                             |      2       |
-|   4   |        +1         | Attribute Improvement                                |      3       |
-|   5   |        +2         | Proficiency Bonus Improvement, Spell Mirror (2)      |      3       |
-|   6   |        +2         | Elemental Intuition                                  |      3       |
-|   7   |        +2         | Duality: Second Pairing                              |      5       |
-|   8   |        +2         | Attribute Improvement                                |      6       |
-|   9   |        +3         | Proficiency Bonus Improvement, Spell Mirror (3)      |      6       |
-|  10   |        +3         | Element Twisting (Major)                             |      6       |
-|  11   |        +3         | Shaped Charge                                        |      6       |
-|  12   |        +3         | Attribute Improvement                                |      7       |
-|  13   |        +4         | Proficiency Bonus Improvement, Spell Mirror (4)      |      7       |
-|  14   |        +4         | Elemental Crafting                                   |      7       |
-|  15   |        +4         | Spell Prism                                          |      7       |
-|  16   |        +4         | Attribute Improvement                                |      8       |
-|  17   |        +5         | Proficiency Bonus Improvement, Spell Mirror (5)      |      8       |
-|  18   |        +5         | Element Twisting (Grand)                             |      8       |
-|  19   |        +5         | Attribute Improvement                                |      9       |
-|  20   |        +5         | Fusion                                               |      9       |
+| Level | Proficiency Bonus | Features                                               | Spells Known |
+| :---: | :---------------: | ------------------------------------------------------ | :----------: |
+|   1   |        +1         | Spellcasting, Duality: First Pairing, Unbridled Energy |      2       |
+|   2   |        +1         | Element Twisting (Minor), Equilibrium                  |      2       |
+|   3   |        +1         | Detonation, Power Siphon                               |      2       |
+|   4   |        +1         | Attribute Improvement                                  |      3       |
+|   5   |        +2         | Proficiency Bonus Improvement, Spell Mirror (2)        |      3       |
+|   6   |        +2         | Elemental Intuition                                    |      3       |
+|   7   |        +2         | Duality: Second Pairing                                |      5       |
+|   8   |        +2         | Attribute Improvement                                  |      6       |
+|   9   |        +3         | Proficiency Bonus Improvement, Spell Mirror (3)        |      6       |
+|  10   |        +3         | Element Twisting (Major)                               |      6       |
+|  11   |        +3         | Shaped Charge                                          |      6       |
+|  12   |        +3         | Attribute Improvement                                  |      7       |
+|  13   |        +4         | Proficiency Bonus Improvement, Spell Mirror (4)        |      7       |
+|  14   |        +4         | Elemental Crafting                                     |      7       |
+|  15   |        +4         | Spell Prism                                            |      7       |
+|  16   |        +4         | Attribute Improvement                                  |      8       |
+|  17   |        +5         | Proficiency Bonus Improvement, Spell Mirror (5)        |      8       |
+|  18   |        +5         | Element Twisting (Grand)                               |      8       |
+|  19   |        +5         | Attribute Improvement                                  |      9       |
+|  20   |        +5         | Fusion                                                 |      9       |
 
 </div>
 
@@ -114,23 +114,27 @@ In addition, whenever you select a new pairing, you learn a _meld_ spell that co
 
 Whenever you cast a _meld_ spell (after you learn whether it is a critical hit or not), your exposure moves towards the center. If you are at 0 exposure, you may choose which direction your exposure changes by instead. Multiple copies of a _meld_ spell created using your Spell Mirror always move your exposure in the same direction as the initial cast.
 
+## Unbridled Energy
+
+At level 1, elemental energy begins to leak out of you as you struggle to control its energy. At the end of each of your turns while your exposure to an element is 4, 5 or 6, cast a spell of your choice that belongs to that element. This does not cost essence or an action. When you gain access to your second pairing, if your exposure to two seperate elements is 4, 5 or 6, you may choose to cast a spell that belongs to either element.
+
 ## Element Twisting
 
 When you reach level 2, you learn to manipulate the elements around you in ways that help you solve problems outside of combat. The _twisting_ spells associated with each pairing are listed in the Pairings section below. Twisting spells do not count against the number of spells that you know.
 
 When you reach level 7 and gain access to your second pairing, you also learn the _twisting_ spells associated with those elements. Every _twisting_ spell increases in power at level 10 and 18.
 
-## Power Draw
+## Equilibrium
 
-Also at level 2, you can call on the power of the elements to close your wounds, literally patching your body with elemental substances. As a minor action while your exposure is at 0, you may spend any amount of essence up to your proficiency bonus to gain four times that much life. Gain exposure equal to the essence spent to an element of your choosing.
+Also at level 2, you can call on the power of the elements to close your wounds, literally patching your body with elemental substances as you hold the forces within yourself in perfect opposition. At the end of each of your turns while your exposure is exactly 0 to all elements, gain the benefit of the Defend major action and spend essence equal to twice your proficiency bonus. Regain life equal to eight times your proficiency bonus.
 
 ## Detonation
 
-At level 3, your elemental energy builds up, exploding in a powerful burst when it overwhelms you. Whenever you reach 7 stacks of exposure, you Detonate. All creatures within 10 feet of you suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Reduce your exposure associated with that element to zero.
+At level 3, your elemental energy builds up, exploding in a powerful burst when it overwhelms you.
 
-When you gain your Spell Mirror feature at level 5, it becomes possible to Detonate in the middle of a set of copies. In this case, Detonate always resolves immediately. This means that you will detonate in the middle of the chain of copied spells.
+At the end of each of your turns, if your exposure to an element is 7 or more, you Detonate. All creatures within 10 feet of you suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Then, reduce your exposure associated with that element to zero.
 
-When you gain your second pairing of elements at level 7, you can Detonate each pair of elements independently, with no effect on the other stack of exposure.
+When you gain your second pairing of elements at level 7, each pair of elements independently (possibly on the same turn), with no effect on the other stack of exposure. When this happens, you may choose which order the Detonation resolves in.
 
 ## Power Siphon
 
