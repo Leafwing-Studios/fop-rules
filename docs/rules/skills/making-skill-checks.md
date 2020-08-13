@@ -22,7 +22,7 @@ Random chance is incorporated by rolling a d20: this can represent everything fr
 
 Next up is to determine how raw talent comes into play. For this, you must select one of the five attributes to use for the skill check. Prowess is used for feats of strength and physical endurance. Agility is for careful movement and manual skill. Expertise is for learned knowledge and tasks of memory. Focus is used for mental endurance and attention to detail. And finally, Presence is for personal conviction and social skills.
 
-The next step is to determine which skill comes into play. Skills reflect learned knowledge and expertise, and the skill descriptions below describe the domains covered by each skill. If you are proficient in a skill, add your proficiency bonus to the results of your skill check. As a result, solving problems in a fashion that reflects your character’s strength (and stepping back to let your party members take over when you’re out of depth) is critical to success.
+The next step is to determine which skill comes into play. Skills reflect learned knowledge and expertise, and the skill descriptions [on the next page](rules/skills/skill-descriptions.md) describe the domains covered by each skill. If you are proficient in a skill, add your proficiency bonus to the results of your skill check. As a result, solving problems in a fashion that reflects your character’s strength (and stepping back to let your party members take over when you’re out of depth) is critical to success.
 
 All skill checks have an associated attribute and skill. If you’re not sure which choice is most fitting, allow the acting player to choose from the plausible options.
 
