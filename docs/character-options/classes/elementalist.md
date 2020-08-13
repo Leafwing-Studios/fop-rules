@@ -1,4 +1,5 @@
 # Elementalist
+
 **Source of Power:** Through careful study, Elementalists learn to balance the fundamental forces against each other in careful opposition, invoking elemental power to terrible effect.
 
 **Core Mechanic:** As they mirror their spells, Elementalists must balance their elemental exposure carefully. As it rises, their power grows and they can no longer shield themselves from the intense elements. Left to grow unchecked, the elements detonate, unleashing massive power to everyone nearby.
@@ -8,29 +9,30 @@
 **Approach to Exploration:** Elementalists gain access to powerful and unique element-focused utility spells and are unmatched in their knowledge of the elements they work with.
 
 **Build Fundamentals:** Elementalists are easily built as strikers, but with the right choices they can serve as controllers or guardians instead:
-* Striker: Double-down on critical strikes to get off detonation after detonation and blast everything to smithereens. Dash and Guard will be your most useful minor actions.
-* Controller:  Focus on your conditions and forced movement, taking combat talents like *merciless* or *blowhard* and keep your exposure in the danger zone by alternating elements. The *telekinesis* affix lets you use the Shove minor action at long range, giving you more control from a safe distance, while the *patient* combat talent lets you get off more attacks of opportunity with your weapons to recover essence.
-* Guardian: The barrier cycle of spells lets you give absorption to your allies; amplify its effectiveness with combat talents like *encouraging* or *supportive*. You’ll often find yourself using the Treat minor action, consider investing in affixes like *combat medic* to make it more effective.
+
+- Striker: Double-down on critical strikes to get off detonation after detonation and blast everything to smithereens. Dash and Guard will be your most useful minor actions.
+- Controller: Focus on your conditions and forced movement, taking combat talents like _merciless_ or _blowhard_ and keep your exposure in the danger zone by alternating elements. The _telekinesis_ affix lets you use the Shove minor action at long range, giving you more control from a safe distance, while the _patient_ combat talent lets you get off more attacks of opportunity with your weapons to recover essence.
+- Guardian: The barrier cycle of spells lets you give absorption to your allies; amplify its effectiveness with combat talents like _encouraging_ or _supportive_. You’ll often find yourself using the Treat minor action, consider investing in affixes like _combat medic_ to make it more effective.
 
 <div class="side-panel">
 
-| Roll  | How are you tied to the elements?                |
-| :---: | ------------------------------------------------ |
-|   1   | I carefully study them out of academic interest. |
-|   2   | .I draw power from the fonts.                    |
-|   3   | They are essential to my spirituality.           |
-|   4   | I have been somehow altered by them.             |
-|   5   | I use them to bond with the natural world.       |
-|   6   | I was born with an unusual talent.               |
+| Roll | How are you tied to the elements?                |
+| :--: | ------------------------------------------------ |
+|  1   | I carefully study them out of academic interest. |
+|  2   | .I draw power from the fonts.                    |
+|  3   | They are essential to my spirituality.           |
+|  4   | I have been somehow altered by them.             |
+|  5   | I use them to bond with the natural world.       |
+|  6   | I was born with an unusual talent.               |
 
-| Roll  | How does the intense exposure to the elements affect you? |
-| :---: | --------------------------------------------------------- |
-|   1   | It slowly mutates me.                                     |
-|   2   | I must push through intense pain.                         |
-|   3   | The energy invigorates me.                                |
-|   4   | I just let it wash over me as the cycles continue.        |
-|   5   | I can feel myself changing with the elemental tides.      |
-|   6   | I can't get enough of the sensation.                      |
+| Roll | How does the intense exposure to the elements affect you? |
+| :--: | --------------------------------------------------------- |
+|  1   | It slowly mutates me.                                     |
+|  2   | I must push through intense pain.                         |
+|  3   | The energy invigorates me.                                |
+|  4   | I just let it wash over me as the cycles continue.        |
+|  5   | I can feel myself changing with the elemental tides.      |
+|  6   | I can't get enough of the sensation.                      |
 
 </div>
 
@@ -38,86 +40,92 @@
 
 <div class="class-table">
 
-| Level | Proficiency Bonus |                     Features                    | Spells Known |
-|:-----:|:-----------------:|-------------------------------------------------|:------------:|
-|   1   |         +1        | Spellcasting, Duality: First Pairing,           |       2      |
-|   2   |         +1        | Element Twisting (Minor), Equilibrium           |       2      |
-|   3   |         +1        | Detonation, Power Siphon                        |       2      |
-|   4   |         +1        | Attribute Improvement                           |       3      |
-|   5   |         +2        | Proficiency Bonus Improvement, Spell Mirror (2) |       3      |
-|   6   |         +2        | Elemental Intuition                             |       3      |
-|   7   |         +2        | Duality: Second Pairing                         |       5      |
-|   8   |         +2        | Attribute Improvement                           |       6      |
-|   9   |         +3        | Proficiency Bonus Improvement, Spell Mirror (3) |       6      |
-|   10  |         +3        | Element Twisting (Major)                        |       6      |
-|   11  |         +3        | Shaped Charge                                   |       6      |
-|   12  |         +3        | Attribute Improvement                           |       7      |
-|   13  |         +4        | Proficiency Bonus Improvement, Spell Mirror (4) |       7      |
-|   14  |         +4        | Elemental Crafting                              |       7      |
-|   15  |         +4        | Spell Prism                                     |       7      |
-|   16  |         +4        | Attribute Improvement                           |       8      |
-|   17  |         +5        | Proficiency Bonus Improvement, Spell Mirror (5) |       8      |
-|   18  |         +5        | Element Twisting (Grand)                        |       8      |
-|   19  |         +5        | Attribute Improvement                           |       9      |
-|   20  |         +5        | Fusion                                          |       9      |
+| Level | Proficiency Bonus | Features                                             | Spells Known |
+| :---: | :---------------: | ---------------------------------------------------- | :----------: |
+|   1   |        +1         | Spellcasting, Duality: First Pairing, Elemental Edge |      2       |
+|   2   |        +1         | Element Twisting (Minor), Equilibrium                |      2       |
+|   3   |        +1         | Detonation, Power Siphon                             |      2       |
+|   4   |        +1         | Attribute Improvement                                |      3       |
+|   5   |        +2         | Proficiency Bonus Improvement, Spell Mirror (2)      |      3       |
+|   6   |        +2         | Elemental Intuition                                  |      3       |
+|   7   |        +2         | Duality: Second Pairing                              |      5       |
+|   8   |        +2         | Attribute Improvement                                |      6       |
+|   9   |        +3         | Proficiency Bonus Improvement, Spell Mirror (3)      |      6       |
+|  10   |        +3         | Element Twisting (Major)                             |      6       |
+|  11   |        +3         | Shaped Charge                                        |      6       |
+|  12   |        +3         | Attribute Improvement                                |      7       |
+|  13   |        +4         | Proficiency Bonus Improvement, Spell Mirror (4)      |      7       |
+|  14   |        +4         | Elemental Crafting                                   |      7       |
+|  15   |        +4         | Spell Prism                                          |      7       |
+|  16   |        +4         | Attribute Improvement                                |      8       |
+|  17   |        +5         | Proficiency Bonus Improvement, Spell Mirror (5)      |      8       |
+|  18   |        +5         | Element Twisting (Grand)                             |      8       |
+|  19   |        +5         | Attribute Improvement                                |      9       |
+|  20   |        +5         | Fusion                                               |      9       |
 
 </div>
 
 ## Spellcasting
+
 The elementalist is a master of magic, shaping the raw elements into tangible form to blast their foes to smithereens. Elementalist **spells** always take a major action and cost 1 essence.
 
 As you cast spells, you build up **exposure** to the element you are working with. You can limit this exposure by casting spells of the opposing element. As you get stronger, you learn more strategies for controlling your exposure.
 
 Your exposure ranges from 7 in one element, to 7 in the opposed element, balancing at 0 exposure to either element in the middle. It changes in the following ways:
-Whenever you cast a spell, your exposure shifts towards that element by 1. 
-If it is a critical hit, the exposure changes by 2 instead. 
+Whenever you cast a spell, your exposure shifts towards that element by 1.
+If it is a critical hit, the exposure changes by 2 instead.
 Effects which can hit multiple creatures only change your exposure once for each time they are cast.
 
 You cannot cast spells that would increase your exposure above 7 in any element. Once you gain access to the Detonation feature at level 3, you Detonate at 7 stacks instead.
 
-Whenever your exposure to an element is 4 or more, your spells of that element (other than *twisting* spells) are more powerful but gain a drawback. However, the critical hit threshold for spells of the opposite element is reduced by 4. *Meld* spells gain both of these benefits, as they count as both elements. Your stacks of exposure reset 10 minutes after you last cast a spell.
+Whenever your exposure to an element is 4 or more, your spells of that element (other than _twisting_ spells) are more powerful but gain a drawback. However, the critical hit threshold for spells of the opposite element is reduced by 4. _Meld_ spells gain both of these benefits, as they count as both elements. Your stacks of exposure reset 10 minutes after you last cast a spell.
 
 <div class="infobox">
 
 **Tracking Exposure**
 
-If you’re playing an elementalist during a physical game of *Fonts of Power*, we recommend tracking your exposure with a physical object, as it is both important and changes rapidly. Some suggestions:
-* a 15 x 15 table or two 15 x 1 charts, combined with a token to mark your current exposure
-* sets of differently colored beads
-* two (later four) d8s that you manipulate independently
-* a small abacus
+If you’re playing an elementalist during a physical game of _Fonts of Power_, we recommend tracking your exposure with a physical object, as it is both important and changes rapidly. Some suggestions:
+
+- a 15 x 15 table or two 15 x 1 charts, combined with a token to mark your current exposure
+- sets of differently colored beads
+- two (later four) d8s that you manipulate independently
+- a small abacus
 
 </div>
 
 You may select 3 spells of your choice at level 1, and learn more spells at levels 4, 7, 8, 12, 16 and 19. The spells for Elementalist are listed at the end of the class description. You may only select spells that are associated with elements in your pairing(s), and you must always know at least one spell from each of the elements in your pairings.
 
 ## Duality
+
 Elementalists manipulate the elements in pairs, using the natural opposition of the elements to manage their Exposure to the overwhelming magical energy.
 
 Each of the 12 elements has a natural opposite, creating the following six pairings:
-* Sandstorm (air and earth)
-* Frostfire (fire and water)
-* Thoughtscour (arcane and eldritch)
-* Darklight (radiant and umbral)
-* Lifeforce (primal and decay)
-* Surgebreaker (electric and corrosive)
+
+- Sandstorm (air and earth)
+- Frostfire (fire and water)
+- Thoughtscour (arcane and eldritch)
+- Darklight (radiant and umbral)
+- Lifeforce (primal and decay)
+- Surgebreaker (electric and corrosive)
 
 You select a pairing at level 1, and then select a second pairing at level 7. You must always know at least one spell from each of the elements in your pairings.
 
-In addition, whenever you select a new pairing, you learn a *meld* spell that combines the power of both elements in your pairing. *Meld* spells do not count against the number of spells that you know.
+In addition, whenever you select a new pairing, you learn a _meld_ spell that combines the power of both elements in your pairing. _Meld_ spells do not count against the number of spells that you know.
 
-Whenever you cast a *meld* spell (after you learn whether it is a critical hit or not), your exposure moves towards the center. If you are at 0 exposure, you may choose which direction your exposure changes by instead. Multiple copies of a *meld* spell created using your Spell Mirror always move your exposure in the same direction as the initial cast.
-
+Whenever you cast a _meld_ spell (after you learn whether it is a critical hit or not), your exposure moves towards the center. If you are at 0 exposure, you may choose which direction your exposure changes by instead. Multiple copies of a _meld_ spell created using your Spell Mirror always move your exposure in the same direction as the initial cast.
 
 ## Element Twisting
-When you reach level 2, you learn to manipulate the elements around you in ways that help you solve problems outside of combat. The *twisting* spells associated with each pairing are listed in the Pairings section below. Twisting spells do not count against the number of spells that you know.
 
-When you reach level 7 and gain access to your second pairing, you also learn the *twisting* spells associated with those elements. Every *twisting* spell increases in power at level 10 and 18.
+When you reach level 2, you learn to manipulate the elements around you in ways that help you solve problems outside of combat. The _twisting_ spells associated with each pairing are listed in the Pairings section below. Twisting spells do not count against the number of spells that you know.
+
+When you reach level 7 and gain access to your second pairing, you also learn the _twisting_ spells associated with those elements. Every _twisting_ spell increases in power at level 10 and 18.
 
 ## Power Draw
+
 Also at level 2, you can call on the power of the elements to close your wounds, literally patching your body with elemental substances. As a minor action while your exposure is at 0, you may spend any amount of essence up to your proficiency bonus to gain four times that much life. Gain exposure equal to the essence spent to an element of your choosing.
 
 ## Detonation
+
 At level 3, your elemental energy builds up, exploding in a powerful burst when it overwhelms you. Whenever you reach 7 stacks of exposure, you Detonate. All creatures within 10 feet of you suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Reduce your exposure associated with that element to zero.
 
 When you gain your Spell Mirror feature at level 5, it becomes possible to Detonate in the middle of a set of copies. In this case, Detonate always resolves immediately. This means that you will detonate in the middle of the chain of copied spells.
@@ -125,12 +133,15 @@ When you gain your Spell Mirror feature at level 5, it becomes possible to Deton
 When you gain your second pairing of elements at level 7, you can Detonate each pair of elements independently, with no effect on the other stack of exposure.
 
 ## Power Siphon
+
 Also at level 3, you gain the ability to leech magical power from those you attack. The first time each round that you hit an enemy with a basic attack, restore 1 essence. If it was a critical hit, restore 2 essence instead.
 
 ## Attribute Improvement
+
 When you reach level 4, 8, 12, 16 and 19 you become tangibly more talented, and can increase one Attribute of your choice by 1. As normal, you can’t increase your score above +5 in this way.
 
 ## Proficiency Bonus Improvement
+
 At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the table below.
 
 | Level | Proficiency Bonus |
@@ -144,37 +155,46 @@ At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the
 See the Leveling Up section in the Narrative Mechanics chapter for a reminder of the factors that change when this occurs.
 
 ## Spell Mirror
+
 When you reach level 5, you learn the ability to mirror the spells you cast. Whenever you cast a spell, you may copy it some number of times based on your level. For each copy you cast, you must spend one essence and may choose a new target. These copies resolve in the order of your choice and casting multiple copies affects your exposure multiple times, as you would expect. Whenever you cast a spell, you can create a total number of copies of it equal to your proficiency bonus, at the cost of 1 essence per copy.
 
 ## Elemental Intuition
+
 At level 6, your intuition allows you to innately sense the elements around you. You automatically detect any source or usage of your chosen elements within 60 feet of you, and understand approximately what it is being used for. Additionally, you have advantage on any Arcana checks to understand or modify magic that uses your chosen elements.
 
 ## Spell Prism
+
 When you reach level 11, you are able to refract different elements and spells when mirroring them, using your skill to find common factors between each spell. When you use your Spell Mirror feature, you can pick different spells, as long as one of the following conditions is true:
-* All of the spells you selected share the same element (meld spells count as both elements)
-* All of the spells you selected are part of the same cycle (for example, all the *meld* or *spray* spells form a cycle)
+
+- All of the spells you selected share the same element (meld spells count as both elements)
+- All of the spells you selected are part of the same cycle (for example, all the _meld_ or _spray_ spells form a cycle)
 
 ## Elemental Crafting
+
 At level 14, your knowledge of the push and pull of elemental forces allows you to balance them in the physical objects around you. You have advantage on all skill checks made to Enchant, Disenchant or Splice affixes as a downtime activity as long as the affix has at least one of the elements in your pairings as a tag.
 
 ## Shaped Charge
+
 At level 15, you are able to carefully focus your outbursts of magical energy. When you use your Detonation feature, select one of the following shapes for the effect:
-* a 10-foot radius sphere centered on yourself
-* a 20-foot cone centered on yourself, in a direction of your choosing
-* a 40-foot x 5 foot line, starting at yourself, in a direction of your choosing
+
+- a 10-foot radius sphere centered on yourself
+- a 20-foot cone centered on yourself, in a direction of your choosing
+- a 40-foot x 5 foot line, starting at yourself, in a direction of your choosing
 
 ## Fusion
 
 When you reach level 20, you learn to combine your spells in a spectacular fashion, blending them together fluidly. When you use your Spell Mirror class feature, you gain one of the following benefits, depending on the relation between the spells copied:
-* If the spells are identical: After you land a critical hit with a copy of the spell, all subsequent spells are automatically a critical if they hit.
-* If the spells share an element but are not identical: After you finish casting these spells, set your exposure in that element to any value between 0 and 7.
-* If the spells are part of the same cycle but are not identical: Your spells deal hybrid damage of all the elemental damage types that would be dealt.
+
+- If the spells are identical: After you land a critical hit with a copy of the spell, all subsequent spells are automatically a critical if they hit.
+- If the spells share an element but are not identical: After you finish casting these spells, set your exposure in that element to any value between 0 and 7.
+- If the spells are part of the same cycle but are not identical: Your spells deal hybrid damage of all the elemental damage types that would be dealt.
 
 # Pairings
 
 ## Sandstorm
 
 ### Sandstorm Meld
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -190,6 +210,7 @@ If you have at least 4 stacks of air exposure, knock yourself 10 feet away from 
 If you have at least 4 stacks of earth exposure, knock the creature prone as well but apply two stacks of rooted to yourself.
 
 ### Wind Twisting
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -205,6 +226,7 @@ If you are level 10 or higher, the duration of this spell is increased to 10 min
 If you are level 18 or higher, the duration of this spell is increased to one day.
 
 ### Stone Twisting
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -213,7 +235,7 @@ If you are level 18 or higher, the duration of this spell is increased to one da
 
 **Duration:** Instant
 
-Twisting and warping stone, you bend it to your will. Select up to 4 contingent tiles of your  choice within range that are made in either whole or part of stone (including brick and so on). They permanently become difficult terrain. You may also use this spell to eliminate difficult terrain if it is caused by uneven stony ground or a similar phenomenon.
+Twisting and warping stone, you bend it to your will. Select up to 4 contingent tiles of your choice within range that are made in either whole or part of stone (including brick and so on). They permanently become difficult terrain. You may also use this spell to eliminate difficult terrain if it is caused by uneven stony ground or a similar phenomenon.
 
 You may also use this spell to slowly carve away at stone, at the cost of 3 uses of this spell per five foot cube altered. This can be used to create stairs, slowly dig a tunnel or a hole through a wall. You have advantage on any Craftsmanship skill check when you use this spell to help you shape stone.
 
@@ -222,13 +244,15 @@ If you are level 10 or higher, you can also slowly create stone, up to a five-fo
 If you are level 18 or higher, you can twist stone much more quickly, literally moving mountains with enough time. You may affect up to 9 tiles at once with a single use of this spell. You may now add or remove stone from up to 5 five foot cubes per use of this spell, letting you create elaborate structures as a downtime activity.
 
 ### Detonation: Sandstorm Detonation
+
 When you reach 7 stacks of air exposure, you explode with a huge burst of air. Make a Prowess attack against all other creatures within 10 feet of you. If you hit, knock them back 50 feet. If you miss, knock them back 25 feet instead.
 
-When you reach 7 stacks of earth exposure, rocks explode from your body. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 2d6 + 2 * Presence earth damage and knock them prone.
+When you reach 7 stacks of earth exposure, rocks explode from your body. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 2d6 + 2 \* Presence earth damage and knock them prone.
 
 ## Frostfire
 
 ### Frostfire Meld
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -244,6 +268,7 @@ If you have at least 4 stacks of fire exposure, set both you and the creature yo
 If you have at least 4 stacks of cold exposure, apply two stacks of chilled to both yourself and your target instead of only applying a single stack to your target.
 
 ### Fire Twisting
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -256,11 +281,12 @@ With a flick of the wrist, you are able to spread or control fires at will. If t
 
 You may also extinguish a small fire of your choice within range that affects up to a 5 foot cube with this spell. If you use this spell on a creature, they are no longer aflame.
 
-If you are level 10 or higher, you can cause a fire that you target or spread in this way to burn indefinitely, no longer requiring fuel although it can still be deliberately extinguished. 
+If you are level 10 or higher, you can cause a fire that you target or spread in this way to burn indefinitely, no longer requiring fuel although it can still be deliberately extinguished.
 
 If you are level 18 or higher, you can cause a fire that you target or spread in this way to become extremely hard to put out. Extinguishing the fire (including to end the aflame status on a creature) now requires success on a contested Presence (Arcana) skill check against you.
 
 ### Frost Twisting
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -271,7 +297,7 @@ If you are level 18 or higher, you can cause a fire that you target or spread in
 
 With a pointed finger, you can freeze water solid, allowing you to walk on formerly solid bodies of water or turn puddles into ice slicks. Each time you use this spell, you may cause a 5 foot cube of solid water to turn to ice, or cause up to 4 contiguous tiles that have shallow water on them to turn into an ice slick.
 
-Whenever a creature attempts to spend movement to enter a tile within this ice for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on this ice, the effects of all forced movement other than teleportation is doubled. For example, if you were hit by a blast of wind while on this ice that would normally push you back 10 feet, you travel 20 feet instead. This ability has no effect on flying creatures. 
+Whenever a creature attempts to spend movement to enter a tile within this ice for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on this ice, the effects of all forced movement other than teleportation is doubled. For example, if you were hit by a blast of wind while on this ice that would normally push you back 10 feet, you travel 20 feet instead. This ability has no effect on flying creatures.
 
 The ice remains frozen until after you complete your next rest.
 
@@ -279,13 +305,14 @@ If you are level 10 or higher, you can sculpt ice into useful, if temporary obje
 
 If you are level 18 or higher, you can cause the water in the air to condense, and no longer need a source of water to create this effect.
 Detonation: Frostfire Detonation
-When you reach 7 stacks of fire exposure, the air itself catches fire. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 2d6 + 2 * Presence fire damage. Hit or miss, they are set aflame.
+When you reach 7 stacks of fire exposure, the air itself catches fire. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 2d6 + 2 \* Presence fire damage. Hit or miss, they are set aflame.
 
 When you reach 7 stacks of water exposure, a terrible burst of cold emanates from you. Make a Prowess attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of chilled. If you miss, apply 1 stack of chilled instead.
 
 ## Thoughtscour
 
 ### Thoughtscour Meld
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -301,6 +328,7 @@ If you have at least 4 stacks of arcane exposure, apply two stacks of banished t
 If you have at least 4 stacks of eldritch exposure, apply two stacks of crazed to both you and your target instead of pacifying them.
 
 ### Essence Twisting
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -318,6 +346,7 @@ If you are level 10 or higher, you have advantage on skill checks made to create
 If you are level 18 or higher, you have advantage on skill checks made to create permanent magical items when you use this spell to help in the process..
 
 ### Mind Twisting
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -339,6 +368,7 @@ When you reach 7 stacks of eldritch exposure, a bizarre and intense psionic wave
 ## Darklight
 
 ### Darklight Meld
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -354,6 +384,7 @@ If you have at least 4 stacks of radiant exposure, apply 3 additional stacks of 
 If you have at least 4 stacks of umbral exposure apply 3 additional stacks of anguish to both you and your target.
 
 ### Brilliant Twisting
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -362,7 +393,6 @@ If you have at least 4 stacks of umbral exposure apply 3 additional stacks of an
 
 **Duration:** Instant
 
-
 Twisting and shaping a source of light, you cause it to glow brilliantly. Select a light source of your choice within range. Until you complete a rest, the radius of the bright and dim light cast by this light source is doubled. You can affect the same light source up to three times with this spell, doubling the light radius each time. You can end this effect at any time as a minor action.
 
 If you are level 10 or higher, magical items and effects in the amplified light sparkle and glimmer in an obvious fashion as the light catches on threads of the Weave.
@@ -370,6 +400,7 @@ If you are level 10 or higher, magical items and effects in the amplified light 
 If you are level 18 or higher, everything seems somehow clearer while in this light. Perception and Insight skill checks made using vision have advantage when attempting to look at something under this light.
 
 ### Shadow Twisting
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -385,6 +416,7 @@ If you are level 10 or higher, the light source you extinguish cannot be relit u
 If you are level 18 or higher, you can cause shadow to grow and spread. Whenever you cast this spell, you can spread an existing area of darkness within range up to four adjacent tiles. This darkness cannot be lit by any means, and the area is heavily shrouded. It persists until you next complete a rest.
 
 ### Detonation: Darklight Detonation
+
 When you reach 7 stacks of radiant exposure, you explode in a burst of soothing light. Make a Presence attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of pacified. If you miss, apply 1 stack of pacified instead.
 
 When you reach 7 stacks of umbral exposure, you disappear into the shadows. Become invisible until the end of your next turn. This effect does not break after you make an attack.
@@ -392,6 +424,7 @@ When you reach 7 stacks of umbral exposure, you disappear into the shadows. Beco
 ## Lifeforce
 
 ### Lifeforce Meld
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -407,6 +440,7 @@ If you have at least 4 stacks of primal exposure, you and your target gain 6 + P
 If you have at least 4 stacks of decay exposure, you and your target lose 6 + Presence absorption before the damage takes effect.
 
 ### Life Twisting
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -422,6 +456,7 @@ If you are level 10 or higher, you remove an additional stack of exhaustion (or 
 If you are level 18 or higher, you may use this spell to apply the effects of a consumable that grants a boon. When you do so, you have advantage on the Focus (Medicine) skill check made to determine how much life is restored.
 
 ### Death Twisting
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -439,9 +474,11 @@ Detonation: Lifeforce Detonation
 When you reach 7 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within 10 feet of you. If you hit, remove all conditions and afflictions from them. For each stack of affliction removed in this way, deal 1 primal damage to the creature you removed it from and gain 1 absorption. For each stack of a condition removed in this way, deal 2 primal damage to the creature you removed it from and gain 2 absorption.
 
 When you reach 7 stacks of decay exposure, you drain the energy from those around you. Make a Focus attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of withered and transfer all absorption that they have to yourself..
+
 ## Surgebreaker
 
 ### Surgebreaker Meld
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -457,6 +494,7 @@ If you have at least 4 stacks of electric exposure, deal an additional 1d4 + Pre
 If you have at least 4 stacks of corrosive exposure, apply two stacks of defenseless to both yourself and your target instead of only applying one stack to your target.
 
 ### Lightning Twisting
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -474,6 +512,7 @@ If you are level 10 or higher, you may activate consumable items or trinkets tha
 If you are level 18 or higher, you are able to carefully manipulate essence and fine tools with this magic. You may make Arcana, Artifice, Tinkering or Trickery skill checks at a distance when you use this spell.
 
 ### Acid Twisting
+
 **Cost:** 1
 
 **Casting time:** Major action
@@ -489,6 +528,7 @@ If you are level 10 or higher, you can slowly eat away at nonliving material tha
 If you are level 18 or higher, it takes only a single copy of this spell to obliterate a 5-foot cube of material.
 
 ### Detonation: Surgebreaker Detonation
+
 When you reach 7 stacks of electric exposure, a disabling pulse of electricity emanates from you. Make an Agility attack against all other creatures within 10 feet of you. If you hit, apply 2 stacks of lethargic and knock them prone. If you miss, apply 1 stack of lethargic instead.
 
-When you reach 7 stacks of corrosive exposure, you explode in a shower of acid. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 3d6 + 3 * Presence corrosive damage. Deal half as much damage if you miss.
+When you reach 7 stacks of corrosive exposure, you explode in a shower of acid. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 3d6 + 3 \* Presence corrosive damage. Deal half as much damage if you miss.
