@@ -1,35 +1,37 @@
 # Bladesworn
+
 **Source of Power:** Irrevocably bound to a sentient weapon, Bladesworn draw on the accumulated knowledge and skill of its past wielders, slowly contributing bits of their own soul back into the collective.
 
-**Core Mechanic:** As the Bladesworn land attacks, responding to the shifting battlefield with powerful counterattacks, they fall deeper and deeper into the Rhythm of battle, accepting their weapon’s power as their blows land with increasing impact. 
+**Core Mechanic:** As the Bladesworn land attacks, responding to the shifting battlefield with powerful counterattacks, they fall deeper and deeper into the Rhythm of battle, accepting their weapon’s power as their blows land with increasing impact.
 
 **Specialization:** Every weapon belongs to a proud Lineage: defining its reason for existence. This choice dictates how the Bladesworn’s Rhythm improves their attacks, eventually granting access to a unique counterattack and a powerful capstone that grants them unbelievable power while at 5 or more stacks of Rhythm.
 
-**Approach to Exploration:** Drawing on the accumulated knowledge of the past wielders, Bladesworn make for exceptional jack-of-all-trades, improving the results of their skill checks in a way that surpasses their personal proficiency. 
+**Approach to Exploration:** Drawing on the accumulated knowledge of the past wielders, Bladesworn make for exceptional jack-of-all-trades, improving the results of their skill checks in a way that surpasses their personal proficiency.
 
 **Build Fundamentals:** Bladesworn make natural strikers, but can opt into the control roles with the right choices:
-* Striker: Both stacking up afflictions and dealing direct damage can be effective routes to whittle your enemies down. If you choose to use a ranged weapon, be sure to pick counterattacks that you can reliably trigger to make sure you’re rarely left with excess reactions.
-* Control: The *reach* arms affix is your best friend, letting you control and respond to the battle more effectively. Carefully force your opponents to play around your counterattacks, augmented by affixes like *imbued strikes* and *catching* to increase the disabling power of every basic attack.
+
+- Striker: Both stacking up afflictions and dealing direct damage can be effective routes to whittle your enemies down. If you choose to use a ranged weapon, be sure to pick counterattacks that you can reliably trigger to make sure you’re rarely left with excess reactions.
+- Control: The _reach_ arms affix is your best friend, letting you control and respond to the battle more effectively. Carefully force your opponents to play around your counterattacks, augmented by affixes like _imbued strikes_ and _catching_ to increase the disabling power of every basic attack.
 
 <div class="side-panel">
 
-| Roll  | How did you encounter your weapon?                          |
-| :---: | ----------------------------------------------------------- |
-|   1   | I stumbled across it.                                       |
-|   2   | It’s been handed down in my family for generations.         |
-|   3   | It was given to me by the last owner in their dying breath. |
-|   4   | I stole it.                                                 |
-|   5   | I found it locked away.                                     |
-|   6   | It was given to me by a mysterious stranger.                |
+| Roll | How did you encounter your weapon?                          |
+| :--: | ----------------------------------------------------------- |
+|  1   | I stumbled across it.                                       |
+|  2   | It’s been handed down in my family for generations.         |
+|  3   | It was given to me by the last owner in their dying breath. |
+|  4   | I stole it.                                                 |
+|  5   | I found it locked away.                                     |
+|  6   | It was given to me by a mysterious stranger.                |
 
-| Roll  | How do you feel about the connection to the past users? |
-| :---: | ------------------------------------------------------- |
-|   1   | I dread the day that I will join them.                  |
-|   2   | They may be handy, but do they have to be so annoying?  |
-|   3   | I am grateful for their knowledge and skill.            |
-|   4   | I revere them in some way.                              |
-|   5   | They are my closest friends.                            |
-|   6   | I feel myself becoming one with their collective.       |
+| Roll | How do you feel about the connection to the past users? |
+| :--: | ------------------------------------------------------- |
+|  1   | I dread the day that I will join them.                  |
+|  2   | They may be handy, but do they have to be so annoying?  |
+|  3   | I am grateful for their knowledge and skill.            |
+|  4   | I revere them in some way.                              |
+|  5   | They are my closest friends.                            |
+|  6   | I feel myself becoming one with their collective.       |
 
 </div>
 
@@ -37,28 +39,28 @@
 
 <div class="class-table">
 
-| Level | Proficiency Bonus | Features                                                                            | Counterattacks Known |
-| :---: | :---------------: | ----------------------------------------------------------------------------------- | :------------------: |
-|   1   |        +1         | Rhythm of Battle, Counterattacks, Lineage: Rhythmic Intensity, Lineage: Weapon Bond |          3           |
-|   2   |        +1         | Skill Memory, Thrill of Battle                                                      |          3           |
-|   3   |        +1         | Rhythmic Precision, Consolation                                                     |          3           |
-|   4   |        +1         | Attribute Improvement                                                               |          4           |
-|   5   |        +2         | Proficiency Bonus Improvement, Joint Effort                                         |          4           |
-|   6   |        +2         | Second Thought                                                                      |          4           |
-|   7   |        +2         | Battle Dancing                                                                      |          4           |
-|   8   |        +2         | Attribute Improvement                                                               |          5           |
-|   9   |        +3         | Proficiency Bonus Improvement, Steel Tempest                                        |          5           |
-|  10   |        +3         | Hidden Talent                                                                       |          5           |
-|  11   |        +3         | Lineage: Signature Technique                                                        |          5           |
-|  12   |        +3         | Attribute Improvement                                                               |          6           |
-|  13   |        +4         | Proficiency Bonus Improvement, Unshakable                                           |          6           |
-|  14   |        +4         | Lineage: Direction                                                                  |          6           |
-|  15   |        +4         | Rhythmic Blur                                                                       |          6           |
-|  16   |        +4         | Attribute Improvement                                                               |          7           |
-|  17   |        +5         | Proficiency Bonus Improvement, Proactivity                                          |          7           |
-|  18   |        +5         | Infallible                                                                          |          7           |
-|  19   |        +5         | Attribute Improvement                                                               |          8           |
-|  20   |        +5         | Lineage: Rhythmic Possession                                                        |          8           |
+| Level | Proficiency Bonus | Features                                                                                | Counterattacks Known |
+| :---: | :---------------: | --------------------------------------------------------------------------------------- | :------------------: |
+|   1   |        +1         | Rhythm of Battle, Counterattacks, Lineage: Rhythmic Intensity (1), Lineage: Weapon Bond |          3           |
+|   2   |        +1         | Skill Memory, Thrill of Battle                                                          |          3           |
+|   3   |        +1         | Rhythmic Precision, Consolation                                                         |          3           |
+|   4   |        +1         | Attribute Improvement                                                                   |          4           |
+|   5   |        +2         | Proficiency Bonus Improvement, Joint Effort (1)                                         |          4           |
+|   6   |        +2         | Second Thought                                                                          |          4           |
+|   7   |        +2         | Battle Dancing                                                                          |          4           |
+|   8   |        +2         | Attribute Improvement                                                                   |          5           |
+|   9   |        +3         | Proficiency Bonus Improvement, Lineage: Rhythmic Intensity (2),                         |          5           |
+|  10   |        +3         | Hidden Talent                                                                           |          5           |
+|  11   |        +3         | Lineage: Signature Technique                                                            |          5           |
+|  12   |        +3         | Attribute Improvement                                                                   |          6           |
+|  13   |        +4         | Proficiency Bonus Improvement, Joint Effort (2)                                         |          6           |
+|  14   |        +4         | Lineage: Direction                                                                      |          6           |
+|  15   |        +4         | Rhythmic Blur                                                                           |          6           |
+|  16   |        +4         | Attribute Improvement                                                                   |          7           |
+|  17   |        +5         | Proficiency Bonus Improvement, Lineage: Rhythmic Intensity (3)                          |          7           |
+|  18   |        +5         | Infallible                                                                              |          7           |
+|  19   |        +5         | Attribute Improvement                                                                   |          8           |
+|  20   |        +5         | Lineage: Rhythmic Possession                                                            |          8           |
 
 </div>
 
@@ -70,18 +72,18 @@ In order to ensure that your attacks land reliably, **add half your Presence to 
 
 Rhythm grants you various bonuses, and changes in the following ways:
 
--   Each time you hit a creature with a basic attack or one of your counterattacks, your Rhythm goes up by 1. This occurs before your attack is resolved.
--   Whenever you miss with a basic attack or one of your counterattacks, your Rhythm is reset to 0.
--   If you end your turn without having made a basic attack, your Rhythm goes down by 1 (to a minimum of 0).
--   Your Rhythm is reset to 0 at the end of each combat.
+- Each time you hit a creature with a basic attack (including those made as part of a counterattack), your Rhythm goes up by 1. This occurs before your attack is resolved.
+- Whenever you miss with a basic attack or one of your counterattacks, your Rhythm is reset to 0.
+- If you end your turn without having made a basic attack, your Rhythm goes down by 1 (to a minimum of 0).
+- Your Rhythm is reset to 0 at the end of each combat.
 
-If you make multiple attacks as part of the same action or reaction, only the first one counts for this feature. Your Rhythm does not increase multiple times and you only activate any triggered effects once.
+If you make a multitarget basic attack (such as those gained through the _cleaving_ affix), the attack is a hit if any creature is hit, and a miss otherwise. Your Rhythm only changes once, no matter how many creatures were targeted.
 
 ## Counterattacks
 
 At level 1, your blade seems to act with a mind of its own, tugging you toward weaknesses in your opponents’ technique. You learn to use **counterattacks,** special combat techniques that grant you the ability to react to unusual circumstances with elaborate tactical attacks.
 
-These are attacks of opportunity with unique triggers and effects: they are made as a special attack but resolved as if you had struck with a weapon attack, and gain an additional effect if you hit. These use your weapon(s): they are melee if your weapon is melee and ranged if your weapon is ranged, and two-weapon fighting choices can be made as normal. Any effect which modifies basic attacks, or triggers upon landing a basic attack, such as arms affixes like snaring or knockback, also apply to counterattacks. Each counterattack costs 1 essence.
+These are attacks of opportunity with unique triggers and effects: they are made as a special attack but resolved as if you had struck with a basic attack (often using a unique mode). Counterattacks use your weapon(s): they are melee if your weapon is melee and ranged if your weapon is ranged. Counterattacks do not cost essence.
 
 You learn 3 counterattacks at level 1, selected from the counterattacks section at the end of this class description. You learn an additional counterattack at level 4, 8, 12, 16, and 19.
 
@@ -95,7 +97,9 @@ Every blade belongs to a Lineage: the reason why a long line of people have carr
 
 ### Rhythmic Intensity
 
-At level 1, your strikes grow in power as you lose yourself to the flow of battle. Your basic attacks and counterattacks gain a benefit based on the number of stacks of Rhythm that you currently have.
+At level 1, your strikes grow in power as you lose yourself to the flow of battle. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack), and gain an additional benefit based on the number of stacks of Rhythm that you currently have.
+
+You may use this feature twice per round at level 9, and three times per round at level 17.
 
 ### Weapon Bond
 
@@ -121,7 +125,7 @@ After you fail the Presence (Charm) skill check to use this ability you cannot u
 
 ## Thrill of Battle
 
-Also at level 2, you revel in the frenzy of battle. Whenever you strike with a basic attack, you may choose to spend an amount of essence up to your rhythm to gain four times that much life.
+Also at level 2, you revel in the frenzy of battle. Whenever you hit a creature with a basic attack, you may choose to spend 1 essence to regain 4 life.
 
 ## Rhythmic Precision
 
@@ -129,12 +133,14 @@ At level 3, you dance with the music of battle, hypnotizing your foe with a flur
 
 ## Consolation
 
-Also at level 3, the collective memories of the blade bolster you, giving you hope even when you fail. Whenever you miss with a basic attack or one of your counterattacks, regain 1 essence.
+Also at level 3, the collective memories of the blade bolster you, giving you hope even when you fail. Whenever you miss with a basic attack, regain 1 essence.
 
 ## Attribute Improvement
+
 When you reach level 4, 8, 12, 16 and 19 you become tangibly more talented, and can increase one Attribute of your choice by 1. As normal, you can’t increase your score above +5 in this way.
 
 ## Proficiency Bonus Improvement
+
 At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the table below.
 
 | Level | Proficiency Bonus |
@@ -149,7 +155,9 @@ See the Leveling Up section in the Narrative Mechanics chapter for a reminder of
 
 ## Joint Effort
 
-At level 5, the blade you are sworn to watches out for you in battle, communicating when it detects threats or openings. You may take two reactions per round, instead of just one. You can only spend one reaction per triggering event, like usual, even if you were to use different abilities.
+At level 5, the blade you are sworn to watches out for you in battle, communicating when it detects threats or openings. Once per round after you spend your reaction, you may spend 1 essence to recover it.
+
+At level 13, you may use this feature twice per round.
 
 ## Second Thought
 
@@ -159,25 +167,13 @@ At level 6, the weapon you are bound to is more alert, and able to guide you whe
 
 At level 7, you learn to flawlessly dart in and out of the fray, leaving no opening for your opponents. While you are at 2 or more Rhythm, you do not provoke attacks of opportunity when you use the Dash minor action.
 
-## Unshakable
-
-At level 9, you are incredibly hard to deter or throw off, even when things go poorly. Once per round when you miss with a basic attack or counterattack, you may spend 1 essence to prevent it from resetting your Rhythm counter.
-
 ## Hidden Talent
 
 At level 10, you learn to dig deep into the shared memories, accessing exceptional talents and hidden knowledge. Once per rest, you may choose to automatically succeed on the Presence (Charm) skill check made to use your Skill Memory class feature.
 
-## Steel Tempest
-
-At level 13, you attack and defend in a whirling flurry of steel. You may now take three reactions per round.
-
 ## Rhythmic Blur
 
 At level 15, as your tempo grows, you tear through the battlefield in a beautiful dance of steel. When your Rhythm is 3 or more, your movement speed is doubled.
-
-## Proactivity
-
-At level 17, you learn to tweak your counterattack techniques to create openings from your enemy, rather than just waiting for them to appear. When you take the Strike major action, you may also spend 1 essence to gain the benefit of a counterattack that you know.
 
 ## Infallible
 
@@ -191,7 +187,11 @@ Possessing talent beyond that of any mortal, the Virtuoso bladesworn live for th
 
 ### Rhythmic Intensity: Deadly Performance
 
-At level 1, you dance across the battlefield in a beautiful whirlwind of deadly steel. Whenever you hit a creature with a basic attack (or one of your counterattacks), deal additional damage to it equal to your Rhythm. The damage type is the same as the original attack, using the majority damage type if it is mixed (choosing in the event of a tie).
+At level 1, you dance across the battlefield in a beautiful whirlwind of deadly steel. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack).
+
+When you use this feature, your enhanced basic attacks deal 3 \* Rhythm + Presence additional damage. This damage is the same type as the original attack, and like usual, is doubled on a critical hit.
+
+You may use this feature twice per round at level 9, and three times per round at level 17.
 
 ### Weapon Bond: Summoning
 
@@ -203,7 +203,7 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 #### Parry
 
-**Cost:** 1
+**Cost:** 0
 
 **Casting time:** Reaction
 
@@ -211,7 +211,9 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 **Duration:** Instant
 
-Whenever a creature tries to make an attack of opportunity against you, you may spend a reaction to use this counterattack. Make an Expertise attack against that creature. If you hit, deal damage and apply effects as if you had landed a basic attack and their attack of opportunity automatically misses.
+This attack of opportunity triggers whenever another creature attempts to make an attack of opportunity against you.
+
+If you hit, the target suffers the effect of a basic attack from you at half efficacy and you gain the benefit of the Dodge reaction.
 
 ### Direction: Challenge
 
@@ -227,7 +229,11 @@ Inescapably bound to their wielder, the Cursed Blade thirsts for blood, whisperi
 
 ### Rhythmic Intensity: Bloodlust
 
-At level 1, you cut your way through the battlefield in an increasingly brutal fashion. The critical hit threshold for your basic attacks (and counterattacks) is reduced by your Rhythm.
+At level 1, you cut your way through the battlefield in an increasingly brutal fashion. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack).
+
+When you use this feature, the critical hit threshold for your enhanced basic attacks is reduced by your Rhythm + Presence. You decide whether or not to use this feature after you see your attack roll.
+
+You may use this feature twice per round at level 9, and three times per round at level 17.
 
 ### Weapon Bond: Inescapable Curse
 
@@ -239,7 +245,7 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 #### Thirst
 
-**Cost:** 1
+**Cost:** 0
 
 **Casting time:** Reaction
 
@@ -247,7 +253,9 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 **Duration:** Instant
 
-Whenever you reduce a creature to 0 life, you may spend a reaction to use this counterattack. Make a Focus attack against another creature of your choice within range of your weapon. If you hit, deal damage and apply effects as if you had landed a basic attack and regain 1d6 life.
+This attack of opportunity triggers whenever you reduce a creature to 0 life.
+
+Make a Focus attack against another creature of your choice within range of your weapon. If you hit, the target suffers the effect of a basic attack from you at half efficacy and regain life equal to the damage dealt by that attack.
 
 ### Direction: Reaper
 
@@ -265,7 +273,9 @@ Proud bearers of the revered armaments of their lineage (genetic or otherwise), 
 
 ### Rhythmic Intensity: Stand Your Ground
 
-At level 1, you stand firm in the face of overwhelming odds, bolstered by the heft of your blows. Whenever you hit a creature with a basic attack (or one of your counterattacks), gain absorption equal to your Rhythm. If your attack was a critical hit, gain absorption equal to twice your Rhythm instead.
+At level 1, you stand firm in the face of overwhelming odds, bolstered by the heft of your blows. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack).
+
+When you use this feature, your enhanced basic attacks grant yu 3 \* Rhythm + Presence absorption. Like usual, this absorption gain is doubled on a critical hit.
 
 ### Weapon Bond: Spirit Weapon
 
@@ -277,7 +287,7 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 #### Intervene
 
-**Cost:** 1
+**Cost:** 0
 
 **Casting time:** Reaction
 
@@ -285,7 +295,9 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 **Duration:** Instant
 
-Whenever an ally is hit by an attack, you may spend a reaction to use this counterattack. Make an Agility attack against the creature who struck your ally. If you hit, deal damage and apply effects as if you had landed a basic attack, and your opponent must reroll the attack roll they just made. Your opponent uses the new result, hit or miss.
+This attack of opportunity triggers whenever an ally within your zone of control would take damage from an enemy.
+
+Make an Agility attack against the enemy that would damage your ally. If you hit, the target suffers the effect of a basic attack from you at half efficacy and your ally gains the benefit of your Block reaction.
 
 ### Direction: Feud
 
