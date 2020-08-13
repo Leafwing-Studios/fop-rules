@@ -7,7 +7,7 @@ Unsurprisingly, you only gain the benefit of gear that you have equipped. The de
   - While you have no arms equipped, your basic attacks deal 1d4 physical damage on hit at melee range.
 - You may have up to one set of set of armor equipped at any time.
   - You cannot change the set of armor you have equipped while in combat.
-  - While you are not wearing armor, your basic defense is calculated as 12 + Prowess + Agility.
+  - While you are not wearing armor, your basic defense is calculated as 10 + Prowess + Agility.
 - The collection of trinkets that you are attuned to is always equipped.
 
 To deterimine which pieces of gear you can effectively equip, you need to look at their affixes.

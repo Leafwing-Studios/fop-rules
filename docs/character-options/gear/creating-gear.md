@@ -20,10 +20,10 @@ The base used for arms is:
 
 The base used for armor is:
 
-- Basic defense: 12 + Agility
+- Basic defense: 10 + Agility
 - Gear points: 0
 
-While you are not wearing armor, your basic defense is 12 + Prowess + Agility.
+While you are not wearing armor, your basic defense is 10 + Prowess + Agility.
 
 **Trinkets use a piece of adventuring gear as their base, and do not have innate affixes.** Adventuring is a very broad category: anything with some out of combat use, from a bundle of rope to a torch to a spyglass to an heirloom necklace works fine. See the [Prepared for Anything](rules/narrative-mechanics/prepared-for-anything.md) section in the [Narrative Mechanics](rules/narrative-mechanics/) chapter for more ideas.
 

@@ -37,7 +37,7 @@ Finally, finish your character sheet by computing your **vital statistics:**
 - **Proficiency bonus:** +1 at level 1
 - **Movement speed:** 30 feet (but commonly modified by armor)
 - Determine your defenses:
-  _ **Basic defense:** 12 + Prowess + Agility, or 12 + Agility + any relevant armor affixes
+  _ **Basic defense:** 10 + Prowess + Agility, or 10 + Agility + any relevant armor affixes
   _ **Proficient special defenses:** 10 + proficiency bonus + the corresponding attribute \* **Other special defenses:** 10 + (proficiency bonus / 2) + the corresponding attribute
 - **Basic attack bonus:** proficiency bonus + Agility
 - **Special attack bonus:** proficiency bonus + Expertise

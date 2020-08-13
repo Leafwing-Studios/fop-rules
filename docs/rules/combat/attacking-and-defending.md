@@ -8,7 +8,7 @@ Attacks use either your **basic attack bonus** (proficiency bonus + Agility), or
 
 **Basic attacks** are attempts to strike your opponent directly, and use the mundane properties of your currently equipped set of arms. This might be a classic sword or bow and arrows, but it could also be a set of claws, a flaming torch, or simple magic emanating from an ancient tome.
 
-Basic attacks are always made against the defender’s **basic defense.** This reflects the effectiveness of their armor and their ability to dodge or parry blows. A player’s basic defense is, by default, 12 + Prowess + Agility, but wearing armor replaces the Prowess component with its own basic defense (which is determined by the affixes of the armor instead).
+Basic attacks are always made against the defender’s **basic defense.** This reflects the effectiveness of their armor and their ability to dodge or parry blows. A player’s basic defense is, by default, 10 + Prowess + Agility, but wearing armor replaces the Prowess component with its own basic defense (which is determined by the affixes of the armor instead).
 
 **Special** attacks are used for unusual effects and magical spells: attempting to trip your opponent, light them on fire, banish them to another realm or so on in ways that armor won’t help defend them from.
 
