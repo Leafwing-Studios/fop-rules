@@ -189,7 +189,7 @@ Possessing talent beyond that of any mortal, the Virtuoso bladesworn live for th
 
 At level 1, you dance across the battlefield in a beautiful whirlwind of deadly steel. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack).
 
-When you use this feature, your enhanced basic attacks deal 3 \* Rhythm + Presence additional damage. This damage is the same type as the original attack, and like usual, is doubled on a critical hit.
+When you use this feature, your enhanced basic attacks deal 3 \* Rhythm + Presence additional damage. This damage is the same type as the original attack, and like usual, is doubled on a critical hit. This effect is not halved if you use a counterattack that halves efficacy, but is affected by changes to efficacy caused by various weapon modes.
 
 You may use this feature twice per round at level 9, and three times per round at level 17.
 
@@ -275,7 +275,7 @@ Proud bearers of the revered armaments of their lineage (genetic or otherwise), 
 
 At level 1, you stand firm in the face of overwhelming odds, bolstered by the heft of your blows. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack).
 
-When you use this feature, your enhanced basic attacks grant yu 3 \* Rhythm + Presence absorption. Like usual, this absorption gain is doubled on a critical hit.
+When you use this feature, your enhanced basic attacks grant yu 3 \* Rhythm + Presence absorption. Like usual, this absorption gain is doubled on a critical hit. This effect is not halved if you use a counterattack that halves efficacy, or by changes to efficacy caused by various weapon modes.
 
 ### Weapon Bond: Spirit Weapon
 
