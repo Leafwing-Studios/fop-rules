@@ -83,7 +83,7 @@ If you make a multitarget basic attack (such as those gained through the _cleavi
 
 At level 1, your blade seems to act with a mind of its own, tugging you toward weaknesses in your opponents’ technique. You learn to use **counterattacks,** special combat techniques that grant you the ability to react to unusual circumstances with elaborate tactical attacks.
 
-These are attacks of opportunity with unique triggers and effects: they are made as a special attack but resolved as if you had struck with a basic attack (often using a unique mode). Counterattacks use your weapon(s): they are melee if your weapon is melee and ranged if your weapon is ranged. Counterattacks do not cost essence.
+These are attacks of opportunity with unique triggers and effects: they are made as a special attack but resolved as if you had struck with a basic attack. Counterattacks use your weapon(s): they are melee if your weapon is melee and ranged if your weapon is ranged. Counterattacks do not cost essence. You cannot use counterattacks for ordinary attack of opportunities: they can only be used when their trigger is met.
 
 You learn 3 counterattacks at level 1, selected from the counterattacks section at the end of this class description. You learn an additional counterattack at level 4, 8, 12, 16, and 19.
 
@@ -203,17 +203,25 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 #### Parry
 
-**Cost:** 0
+<div class="tight">
 
-**Casting time:** Reaction
+**Action:** Reaction
+
+**Cost:** 0 essence
 
 **Range:** Weapon
 
+**Targets:** Single-target
+
+**Attack:** Expertise
+
 **Duration:** Instant
 
-This attack of opportunity triggers whenever another creature attempts to make an attack of opportunity against you.
+</div>
 
-If you hit, the target suffers the effect of a basic attack from you at half efficacy and you gain the benefit of the Dodge reaction.
+Deftly parrying, you bait the foe into trying to take advantage of an opening before retaliating in turn as you step out of the way. This attack of opportunity triggers whenever another creature within range attempts to make an attack of opportunity against you.
+
+Make an Expertise attack against that creature. If you hit, the target suffers the effect of a basic attack from you at half efficacy and you gain the benefit of the Dodge reaction.
 
 ### Direction: Challenge
 
@@ -245,15 +253,23 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 #### Thirst
 
-**Cost:** 0
+<div class="tight">
 
-**Casting time:** Reaction
+**Action:** Reaction
+
+**Cost:** 0 essence
 
 **Range:** Weapon
 
+**Targets:** Single-target
+
+**Attack:** Focus
+
 **Duration:** Instant
 
-This attack of opportunity triggers whenever you reduce a creature to 0 life.
+</div>
+
+Letting the rage of battle consume you, you drop foe after foe as you feast on their life force. This attack of opportunity triggers whenever you reduce a creature to 0 life.
 
 Make a Focus attack against another creature of your choice within range of your weapon. If you hit, the target suffers the effect of a basic attack from you at half efficacy and regain life equal to the damage dealt by that attack.
 
@@ -287,15 +303,23 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 #### Intervene
 
-**Cost:** 0
+<div class="tight">
 
-**Casting time:** Reaction
+**Action:** Reaction
+
+**Cost:** 0 essence
 
 **Range:** Weapon
 
+**Targets:** Single-target
+
+**Attack:** Agility
+
 **Duration:** Instant
 
-This attack of opportunity triggers whenever an ally within your zone of control would take damage from an enemy.
+</div>
+
+Dashing to the rescue, you retaliate on behalf of an ally as you shield them from harm. This attack of opportunity triggers whenever an ally within your zone of control would take damage from an enemy within range.
 
 Make an Agility attack against the enemy that would damage your ally. If you hit, the target suffers the effect of a basic attack from you at half efficacy and your ally gains the benefit of your Block reaction.
 
