@@ -132,13 +132,13 @@ Also at level 2, you can call on the power of the elements to close your wounds,
 
 At level 3, your elemental energy builds up, exploding in a powerful burst when it overwhelms you.
 
-At the end of each of your turns, if your exposure to an element is 7 or more, you Detonate. All creatures within 10 feet of you suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Then, reduce your exposure associated with that element to zero.
+At the end of each of your turns, if your exposure to an element is 7 or more, you Detonate. All creatures within 10 feet of you suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Then, reduce your exposure associated with that element to 0.
 
-When you gain your second pairing of elements at level 7, each pair of elements independently (possibly on the same turn), with no effect on the other stack of exposure. When this happens, you may choose which order the Detonation resolves in.
+When you gain your second pairing of elements at level 7, each pair of elements detonates independently (possibly on the same turn), with no effect on the other stack of exposure. When this happens, you may choose which order the Detonation resolves in.
 
 ## Power Siphon
 
-Also at level 3, you gain the ability to leech magical power from those you attack. The first time each round that you hit an enemy with a basic attack, restore 1 essence. If it was a critical hit, restore 2 essence instead.
+Also at level 3, you gain the ability to leech magical power from those you attack. Whenever you hit an enemy with a basic attack, restore 1 essence. If it was a critical hit, restore 2 essence instead.
 
 ## Attribute Improvement
 
