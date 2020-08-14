@@ -126,10 +126,6 @@ After you successfully use the Dodge reaction, you may make an attack of opportu
 
 Whenever you take the Dash minor action, attacks of opportunity against you have disadvantage until the end of the current turn.
 
-### Demure
-
-After you hit a creature with an attack, they cannot make attacks of opportunity against you until the start of your next turn.
-
 ### Dodgy
 
 You have advantage on Agility(Athletics) skill checks made as part of the Dodge reaction.
