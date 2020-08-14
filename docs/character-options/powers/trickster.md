@@ -111,15 +111,16 @@ Creatures cannot take damage from this effect.
 The trick explodes in a flash of light as suddenly two copies of each creature appear, leaving everyone uncertain about which one is real. When detonated:
 Make an illusory copy of each creature within 10 feet of the trick, which appears in empty tile(s) adjacent to the creature that they’re copying.
 
-Illusory copies act according to the wishes of the creature they are copying on their turns, and are capable of all of the same actions. 
+Illusory copies act according to the wishes of the creature they are copying on their turns, and are capable of all of the same actions.
 
 Roll a d20 the first time that an affected creature or its illusory double:
-* succeeds on a skill check
-* lands an attack (after damage was rolled and the choice to use the Block or Dodge reaction was made)
-* is hit by an attack
-* takes damage
 
-On a result of 11 or higher, the illusory copy was targeted or made the attack, and the attack or skill has no effect.  Regardless of the results of this roll, the illusion disappears, leaving only the real creature behind. As a party, you may spend a Resolve to modify the outcome of this d20.
+- succeeds on a skill check
+- lands an attack (after damage was rolled and the choice to use the Block or Dodge reaction was made)
+- is hit by an attack
+- takes damage
+
+On a result of 11 or higher, the illusory copy was targeted or made the attack, and the attack or skill has no effect. Regardless of the results of this roll, the illusion disappears, leaving only the real creature behind. As a party, you may spend a Resolve to modify the outcome of this d20.
 
 At the end of this effect, if the illusion has not yet been revealed, the affected creature may choose which copy was real all along, and the other illusory copy disappears.
 
@@ -161,7 +162,7 @@ A strange substance wafts forth from the trick, driving everyone nearby into a r
 
 </div>
 
-The trick explodes in a shower of slippery grease, coating the ground around it as. When detonated, a 10 foot radius around the trick becomes coated with slippery grease ground effect for the duration of this trick. Whenever a creature attempts to spend movement to enter a tile within this grease for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on this grease, the effects of all forced movement other than teleportation is doubled.
+The trick explodes in a shower of slippery grease, coating the ground around it as. When detonated, a 10 foot radius around the trick becomes coated with slippery grease as a ground effect for the duration of this trick. Whenever a creature attempts to spend movement to enter a tile within this grease for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on this grease, the effects of all forced movement other than teleportation is doubled.
 
 ## Instant Disguise
 

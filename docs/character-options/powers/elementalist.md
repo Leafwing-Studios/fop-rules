@@ -664,7 +664,7 @@ If you have at least 4 stacks of water exposure, make an attack against each oth
 
 </div>
 
-Vanishing into thin air, you appear a short distance away, leaving a slick of ice behind. Teleport up to 15 feet into an empty tile of your choice. Then, create a patch of ice ground effect in a 5 foot radius around the tile that you left behind. Whenever a creature starts their turn on this ice or enters it for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on the ice, the effects of forced movement applied are doubled.
+Vanishing into thin air, you appear a short distance away, leaving a slick of ice behind. Teleport up to 15 feet into an empty tile of your choice. Then, create a patch of ice as a ground effect in a 5 foot radius around the tile that you left behind. Whenever a creature starts their turn on this ice or enters it for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on the ice, the effects of forced movement are doubled.
 
 This ice disappears at the end of your next turn.
 
