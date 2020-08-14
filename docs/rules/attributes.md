@@ -42,7 +42,7 @@ When making skill checks, Focus would be used to spot a hidden monster, activate
 
 Attacks against your Focus defense include being overloaded with magical energy that flows through you or your soul being slowly drained from you.
 
-In combat, your Focus determines the amount of essence you have, which is consumed whenever you use a powerful ability. You can regain essence using the Essence Tap major action, whose effectiveness also depends on Focus.
+In combat, your Focus determines the amount of essence you have, which is consumed whenever you use a powerful ability. You can regain essence using the Essence Tap minor action, whose effectiveness also depends on Focus.
 
 ## Presence
 
