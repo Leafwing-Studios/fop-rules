@@ -16,29 +16,29 @@ With this seed in place, you can begin to flesh out your character, and fill out
 - Five ** kill proficiencies,** which capture their background knowledge and training.
   - You add your proficiency bonus to skill checks you are proficient with. \* You always get to choose between a setback and an opportunity when you fail skill checks that you are proficient in.
 - The unique **talents** that start to define them.
-  _ A skill talent.
-  _ A combat talent.
+  - A skill talent.
+  - A combat talent.
 - The **attributes** that describe their natural aptitudes. Either:
-  _ They sum to +5.
-  _ Roll 1d6 - 1d6 five times. These are your attributes, in order. Reroll if the sum is more than +10 or less than 0.
+  - They sum to +5.
+  - Roll 1d6 - 1d6 five times. These are your attributes, in order. Reroll if the sum is more than +10 or less than 0.
 - The **gear** that they begin the game with.
-  _ Create two sets of **arms,** with a gear score total equal to your half your Prowess.
-  _ Create a set of **armor,** with a gear score total equal to your half your Prowess.
+  - Create two sets of **arms,** each with an innate gear score total equal to your half your Prowess.
+  - Create a set of **armor,** with an innate gear score total equal to your half your Prowess.
 
 Next, work with your party and the worldspeaker to determine how your character fits into the world, recording:
 
 - Their **ideals,** which describe their personal moral code. \* Assign each of the five ideals a value between 0 and 5.
 - Their **backstory,** outlining their life before the game began.
 - Their **appearance,** which captures what others first impressions might be.
-- Their **name!**
+- Their **name.**
 
 Finally, finish your character sheet by computing your **vital statistics:**
 
 - **Proficiency bonus:** +1 at level 1
 - **Movement speed:** 30 feet (but commonly modified by armor)
 - Determine your defenses:
-  _ **Basic defense:** 10 + Prowess + Agility, or 10 + Agility + any relevant armor affixes
-  _ **Proficient special defenses:** 10 + proficiency bonus + the corresponding attribute \* **Other special defenses:** 10 + (proficiency bonus / 2) + the corresponding attribute
+  - **Basic defense:** 10 + Prowess + Agility, or 10 + Agility + any relevant armor affixes
+  - **Special defenses:** 10 + proficiency bonus + the corresponding attribute
 - **Basic attack bonus:** proficiency bonus + Agility
 - **Special attack bonus:** proficiency bonus + Expertise
 - **Maximum life:** (5 + level) × 5
@@ -120,11 +120,11 @@ The table should **set the initial Supplies die** for the party to reflect their
 
 Everyone has a different idea of what it means to be a good person. We use the following five ideals in our standard setting:
 
-- **Equality:** | In diversity, strength.
-- **Harmony:** | Peace and prosperity, hand in hand.
-- **Integrity:** | My honor is my shield; my word is my bond.
-- **Liberty:** | The courage to act; the freedom to choose.
-- **Progress:** | Towards a brighter tomorrow.
+- **Equality:** In diversity, strength.
+- **Harmony:** Peace and prosperity, hand in hand.
+- **Integrity:** My honor is my shield; my word is my bond.
+- **Liberty:** The courage to act; the freedom to choose.
+- **Progress:** Towards a brighter tomorrow.
 
 You can learn more about exactly what these ideals represent in the standard setting in the Ideals section of the Narrative Mechanics chapter.
 
