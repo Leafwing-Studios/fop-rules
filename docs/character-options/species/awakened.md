@@ -34,7 +34,7 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 <div class="inline-box">
 
-**Desperate (arms, advanced, 1):** While on Death's Door, your attacks are automatically criticals if they hit.
+**Desperate (arms, advanced, 1):** While at death's door, your attacks are automatically criticals if they hit.
 
 </div>
 
