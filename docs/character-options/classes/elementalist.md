@@ -265,11 +265,11 @@ When you reach 7 stacks of earth exposure, rocks explode from your body. Make an
 
 **Duration:** Instant
 
-A cold flame gushes forth from you, lighting your target on fire while you chill them. Make an Agility attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid fire and water and apply a stack of chilled.
+A cold flame gushes forth from you, lighting your target on fire while you chill them. Make an Agility attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid fire and water damage.
 
-If you have at least 4 stacks of fire exposure, set both you and the creature you hit aflame as well.
+If you have at least 4 stacks of fire exposure, apply 3 + ½ Presence stacks of aflame to both yourself and the creature you hit.
 
-If you have at least 4 stacks of cold exposure, apply two stacks of chilled to both yourself and your target instead of only applying a single stack to your target.
+If you have at least 4 stacks of cold exposure, apply 2 stacks of chilled to both yourself and the creature you hit.
 
 ### Fire Twisting
 
@@ -325,11 +325,11 @@ When you reach 7 stacks of water exposure, a terrible burst of cold emanates fro
 
 **Duration:** Instant
 
-Blending together pure energy with psionic force, you wipe the mind of your target. Make a Presence attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid arcane and eldritch damage, and apply one stack of pacified to them.
+Blending together pure energy with psionic force, you wipe the mind of your target. Make an Presence attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid arcane and eldritch damage.
 
-If you have at least 4 stacks of arcane exposure, apply two stacks of banished to both you and your target instead of pacifying them.
+If you have at least 4 stacks of arcane exposure, apply 2 stacks of banished to both yourself and the creature you hit.
 
-If you have at least 4 stacks of eldritch exposure, apply two stacks of crazed to both you and your target instead of pacifying them.
+If you have at least 4 stacks of eldritch exposure, apply 2 stacks of crazed to both yourself and the creature you hit.
 
 ### Essence Twisting
 
@@ -381,11 +381,11 @@ When you reach 7 stacks of eldritch exposure, a bizarre and intense psionic wave
 
 **Duration:** Instant
 
-Shadow and light swirling together, you cast a beam of terrible energy at your foe. Make a Focus attack against a creature or object of your choice within range. If you hit, deal 1d4 + Presence hybrid radiant and umbral damage, and apply 3 stacks of temperance and 3 stacks of anguish to them.
+Shadow and light swirling together, you cast a beam of terrible energy at your foe. Make an Focus attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid radiant and umbral damage.
 
-If you have at least 4 stacks of radiant exposure, apply 3 additional stacks of temperance to both you and your target.
+If you have at least 4 stacks of arcane exposure, apply 3 + ½ Presence stacks of temperance to both yourself and the creature you hit.
 
-If you have at least 4 stacks of umbral exposure apply 3 additional stacks of anguish to both you and your target.
+If you have at least 4 stacks of eldritch exposure, apply 3 + ½ Presence stacks of anguish to both yourself and the creature you hit.
 
 ### Brilliant Twisting
 
@@ -437,7 +437,7 @@ When you reach 7 stacks of umbral exposure, you disappear into the shadows. Beco
 
 **Duration:** Instant
 
-You drain the lifeforce from your foe in a strange pulsating beam. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid primal and decay damage, and heal 2 life. Critical hits double the amount of life gained.
+You drain the lifeforce from your foe in a strange pulsating beam. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid primal and decay damage.
 
 If you have at least 4 stacks of primal exposure, you and your target gain 6 + Presence absorption after the damage takes effect.
 
@@ -491,11 +491,11 @@ When you reach 7 stacks of decay exposure, you drain the energy from those aroun
 
 **Duration:** Instant
 
-A beam of swirling destructive energy pulses out from you as it strips away your foe’s defenses. Make a Presence attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid electric and corrosive damage, and apply one stack of defenseless.
+A beam of swirling destructive energy pulses out from you as it strips away your foe’s defenses. Make an Expertise attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid electric and corrosive damage.
 
-If you have at least 4 stacks of electric exposure, deal an additional 1d4 + Presence electric damage to you, your target, and all creatures in a line between you.
+If you have at least 4 stacks of arcane exposure, apply 2 stacks of lethargic to both yourself and the creature you hit.
 
-If you have at least 4 stacks of corrosive exposure, apply two stacks of defenseless to both yourself and your target instead of only applying one stack to your target.
+If you have at least 4 stacks of eldritch exposure, apply 3 + ½ Presence stacks of brittle to both yourself and the creature you hit.
 
 ### Lightning Twisting
 
