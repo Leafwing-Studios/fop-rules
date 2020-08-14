@@ -38,7 +38,7 @@ Their cities are vast and wonderous, composed of bubble-like structures attached
 
 ### Features {docsify-ignore}
 
-**Amorphous:** Your body is a stretchy, pliable, translucent ball of slime. You may shape it as you please, including to carry items, interact with objects or wield arms, but you’re still visibly made out of slime and your total volume stays constant.
+**Squishy:** Your body is a stretchy, pliable, translucent ball of slime. You may shape it as you please, including to carry items, interact with objects or wield arms, but you’re still visibly made out of slime and your total volume stays constant.
 
 While prone, you collapse into a puddle. As a puddle, you may slide under doors and through narrow cracks so long as they are at least half an inch wide. Your gear and other bulky items that you are carrying magically squeeze through with you.
 
