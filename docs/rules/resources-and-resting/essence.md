@@ -6,10 +6,6 @@ Essence is spent to power your class features, allowing you to cast spells or pe
 
 Each player character has proficiency bonus × (6 + Focus) essence, which can be restored by resting or using the Essence Tap minor action.
 
-## Essence Draw
-
 Magic is your very life force: your concern should not be running out of essence, but whether overusing your powers will leave you drained beyond saving or accidentally kill you.
 
-When you attempt to spend essence that you do not have, immediately regain essence equal to twice your proficiency bonus. Make a difficulty 15 Focus (Endurance) skill check. If you fail, gain one stack of exhaustion.
-
-When monsters Essence Draw, they gain 2 stacks of exhaustion on a successful skill check, and 4 stacks on a failure.
+You can recover essence by using the Essence Tap minor action, replenishing your essence at the risk of exhaustion. When you attempt to spend more essence than you currently have, you automatically and immediately gain the benefits of the Essence Tap minor action, but only restore essence equal to twice your profiency bonus.

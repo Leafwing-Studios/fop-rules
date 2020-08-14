@@ -38,6 +38,8 @@ Gain movement equal to half your movement speed.
 
 Regain essence equal to three times your proficiency bonus. Make a difficulty 15 Focus (Endurance) skill check, gaining one stack of exhaustion if you fail.
 
+When you attempt to spend more essence than you currently have, you automatically and immediately gain the benefits of the Essence Tap minor action, but only restore essence equal to twice your profiency bonus.
+
 When monsters Essence Tap, they gain 2 stacks of exhaustion on a successful skill check, and 4 stacks on a failure.
 
 ## Expose
