@@ -79,15 +79,16 @@ Sacrificing part of your own existence, the Weave begins to unravel, hastening a
 You wrap the Weave around an object or set of arms within range that is not being held or worn, allowing you to manipulate it at a distance. You may use the Interact and Activate minor action in this way, manipulating objects at range by using this pattern.
 
 If you animated a set of arms:
-* You may only animate the set of arms you currently have equipped. 
-* When you use your Thread Twisting minor action (gained at level 3), you gain the benefit of the Swap minor action, and may equip arms up to 30 feet away from you.
-* The arms get their own token.
-* The arms share your defenses and any other effects that are active on you, other than conditions or statuses. They cannot take damage, gain absorption or gain afflictions or any other status. They can gain their own conditions, which clear independently.
-* The arms are flying.
-* At the end of each of your turns for the duration of this effect, you may move the object up to 30 feet. This is not increased if you have multiple copies of this pattern active.
-* After you move the object, you may make a basic attack using these arms. If you have multiple copies of this pattern active, you may make one basic attack per copy of this pattern.
-* Your zone of control surrounds these arms, rather than your own character. You may make attacks of opportunity using the Strike major action using these arms.
-* You have disadvantage on ranged basic attacks made in this fashion while the arms are in an enemy zone of control.
+
+- You may only animate the set of arms you currently have equipped.
+- When you use your Thread Twisting minor action (gained at level 3), you gain the benefit of the Swap minor action, and may equip arms up to 30 feet away from you.
+- The arms get their own token.
+- The arms share your defenses and any other effects that are active on you, other than conditions or statuses. They cannot take damage, gain absorption or gain afflictions or any other status. They can gain their own conditions, which clear independently.
+- The arms are flying.
+- At the end of each of your turns for the duration of this effect, you may move the object up to 30 feet. This is not increased if you have multiple copies of this pattern active.
+- After you move the object, you may make a basic attack using these arms. If you have multiple copies of this pattern active, you may make one basic attack per copy of this pattern.
+- Your zone of control surrounds these arms, rather than your own character. You may make attacks of opportunity using the Strike major action using these arms.
+- You have disadvantage on ranged basic attacks made in this fashion while the arms are in an enemy zone of control.
 
 # Pattern of Augmentation
 
@@ -107,7 +108,7 @@ If you animated a set of arms:
 
 </div>
 
-The Weave wraps tightly around the weapons of a creature of your choice, causing them to glow faintly with an arcane aura. For the duration of this effect, they have advantage on basic attacks and rolls to determine how much damage is prevented when using the Block reaction.
+The Weave wraps tightly around the weapons of a creature of your choice, causing them to glow faintly with an arcane aura. For the duration of this effect, they have advantage on basic attacks and roll with advantage to determine how much damage is prevented when using the Block reaction.
 
 # Pattern of Binding
 
@@ -195,7 +196,7 @@ While within the bubble, a creature may attempt to roll the bubble, spending twi
 
 You wrap the Weave around your target, buffering it from the world like a thick ball of cotton. Select a creature or object within range. At the end of each of your turns for the duration of this effect, make a Focus attack against them. If you hit, the efficacy of all attacks made and boons applied by and against this creature are halved until the end of your next turn.
 
-This effect does not stack with itself, and applies to boons applied to oneself (such as absorption gained through the *absorptive* armor affix). When this pattern is sustained, the efficacy changes persist until after the new Focus attack is made.
+This effect does not stack with itself, and applies to boons applied to oneself (such as absorption gained through the _absorptive_ armor affix). When this pattern is sustained, the efficacy changes persist until after the new Focus attack is made.
 
 # Pattern of Disintegration
 
@@ -360,8 +361,9 @@ You may grapple any number of creatures in this way. When this pattern ends, the
 </div>
 
 You twist the Weave into a terrible knot around your foes, causing their afflictions to mysteriously worsen. Select a creature within range. At the end of each of your turns, make an Expertise attack against them. If you hit, choose one:
-* apply 3 + ½ Presence stacks of an affliction of your choice to them.
-* apply one stack of each of their current afflictions to them.
+
+- apply 3 + ½ Presence stacks of an affliction of your choice to them.
+- apply one stack of each of their current afflictions to them.
 
 # Pattern of Illusions
 
@@ -584,11 +586,12 @@ The Weave holds a creature or object of your choice within range aloft, gently t
 </div>
 
 Time around you slows to a crawl as you twist and tangle the Weave. A 10 foot radius around you is affected by the following effects:
-* Whenever a creature begins its turn in this area or enters it for the first time on their turn, make an Expertise attack against them. If you hit, apply chilled.
-* Basic attacks and Agility attacks made by creatures within the area, or which pass through the area have disadvantage.
-* Basic attacks and Agility attacks against creatures within the area have advantage (this cancels out the effect above if they are both within the area).
-* Creatures within the area must spend twice as much movement as usual in order to move. Like usual, this stacks multiplicatively with effects such as chilled, withered or difficult terrain.
-* Creatures within the area cannot take reactions in response to events caused by creatures outside the area.
+
+- Whenever a creature begins its turn in this area or enters it for the first time on their turn, make an Expertise attack against them. If you hit, apply chilled.
+- Basic attacks and Agility attacks made by creatures within the area, or which pass through the area have disadvantage.
+- Basic attacks and Agility attacks against creatures within the area have advantage (this cancels out the effect above if they are both within the area).
+- Creatures within the area must spend twice as much movement as usual in order to move. Like usual, this stacks multiplicatively with effects such as chilled, withered or difficult terrain.
+- Creatures within the area cannot take reactions in response to events caused by creatures outside the area.
 
 These effects apply to yourself as well. If you are affected by multiple copies of this pattern, the radius increases by 10 feet for each copy.
 
