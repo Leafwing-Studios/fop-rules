@@ -254,7 +254,7 @@ Make a Focus attack against that enemy. If you hit, the target suffers the effec
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Expertise
 
 **Duration:** Instant
 
@@ -284,7 +284,7 @@ Make an Expertise attack against the creature who gained absorption. If you hit,
 
 Mocking your foes' caution, you provoke them to take the offensive against you. This attack of opportunity triggers whenever an enemy creature within range uses an action that is not an attack.
 
-Make a Presence attack against ??. If you hit, the target suffers the effect of a basic attack from you ?at half efficacy? and ??.
+Make a Presence attack against that creature. If you hit, the target suffers the effect of a basic attack from you at half efficacy and apply 3 + ½ Presence stacks of rage.
 
 ## Riposte
 
@@ -298,7 +298,7 @@ Make a Presence attack against ??. If you hit, the target suffers the effect of 
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Expertise
 
 **Duration:** Instant
 
