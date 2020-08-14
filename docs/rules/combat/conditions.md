@@ -35,7 +35,7 @@ You lose your minor action each turn, but like normal may spend your major actio
 
 ## Crazed
 
-Whenever you would make an attack, the target is chosen randomly from those within range of that attack. You must spend your major action to make an attack, before spending any movement or taking your minor action. You are treated as an enemy for all other creatures and vice versa. You must take attacks of opportunity when presented with the option to do so.
+Whenever you would make an attack, the target is chosen randomly from those within range of that attack, excluding yourself. You must spend your major action to make an attack, before spending any movement or taking your minor action. You are treated as an enemy for all other creatures and vice versa. You must take attacks of opportunity when presented with the option to do so.
 
 ## Cursed
 
