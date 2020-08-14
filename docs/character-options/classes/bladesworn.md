@@ -155,7 +155,7 @@ See the Leveling Up section in the Narrative Mechanics chapter for a reminder of
 
 ## Joint Effort
 
-At level 5, the blade you are sworn to watches out for you in battle, communicating when it detects threats or openings. Once per round after you spend your reaction, you may spend 1 essence to recover it.
+At level 5, the blade you are sworn to watches out for you in battle, communicating when it detects threats or openings. Once per round when you could spend a reaction but have no reactions remaining, you may spend 1 essence to recover it.
 
 At level 13, you may use this feature twice per round.
 
