@@ -44,7 +44,7 @@ When monsters Essence Tap, they gain 2 stacks of exhaustion on a successful skil
 
 ## Expose
 
-Make a melee Expertise attack against an enemy of your choice within range of your currently equipped arms. This attack does not deal damage or apply any other effects, but if it hits, an ally of your choice (other than yourself) may make an attack of opportunity against that enemy.
+Make a melee Expertise attack against an enemy of your choice. If it hits, an ally of your choice (other than yourself) may make an attack of opportunity against that enemy.
 
 ## Guard
 
