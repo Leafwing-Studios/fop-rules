@@ -109,7 +109,7 @@ At level 2, the intense flow of magical energy runs through you, knitting your w
 
 ## Warded by the Weave
 
-At level 3, you wrap the threads of magic around you, distorting the fabric of space to protect you from blows. Whenever you use the Block reaction, gain absorption equal to the roll of your Block reaction.
+At level 3, you wrap the threads of magic around you, distorting the fabric of space to protect you from blows. After you use the Block reaction (and take the triggering damage), gain absorption equal to the roll of your Block reaction.
 
 ## Thread Twisting.
 
