@@ -165,7 +165,7 @@ At level 6, the weapon you are bound to is more alert, and able to guide you whe
 
 ## Battle Dancing
 
-At level 7, you learn to flawlessly dart in and out of the fray, leaving no opening for your opponents. While you are at 2 or more Rhythm, you do not provoke attacks of opportunity when you use the Dash minor action.
+At level 7, you learn to flawlessly dart in and out of the fray, leaving no opening for your opponents. While you are at 2 or more Rhythm, after you take the Dash minor action, spending movement does not provoke attacks of opportunity until the end of the current turn.
 
 ## Hidden Talent
 
