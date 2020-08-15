@@ -215,48 +215,6 @@ If you are benefitting from multiple copies of this pattern, the number of times
 
 At level 18, your mastery over the threads of fate is so great that you are able to take destiny itself into your own hands, succeeding against all odds time and again. Whenever the party spends a Resolve, make a difficulty 20 Focus (Arcana) skill check. If you succeed, recover that Resolve.
 
-### Unmaker
-
-The most feared of the guilds, the Unmakers specialize in severing the threads holding together reality. Their teachings hold that flaws in the tapestry are an inevitable and unfortunate occurrence: when they occur, it is the Unmaker’s job to cut them out of the fabric of existence.
-
-Working as ruthless monster hunters or inscrutable assassins, their footsteps echo with whispers wherever they travel. From the outside, their purposes seem unknowable and their power terrible. But to the members of the guild, it is simple. Mistakes must be corrected.
-
-Every so often, an Unmaker loses touch with reality, and goes rogue. Such guild members, when they have reached this state, begin to see reality itself as that which must be unmade, and present a major threat to civilization. They, of course, are merely yet another flaw in the tapestry.
-
-### Signature Pattern: Pattern of Banishment
-
-At level 1 when you select this Guild, gain access to the following Signature Pattern.
-
-#### Pattern of Banishment
-
-Cost: 0
-Casting time: Major action
-Range: 30 feet
-Duration: Until the start of your next turn
-
-Your target begins to slip from existence, their threads slowly unwinding. Select a creature or object within range. At the end of each of your turns, make a Focus attack against them. If you hit, apply two stacks of banished.
-
-### Reality Weaving: Unweave
-
-At 6th level, you learn to carefully unwind matter, erasing it as if it had never even existed. You gain access to the Unweave downtime activity. When you use this, you may permanently annihilate any nonliving matter that you can freely work on, as long as it fits in a 30 foot cube. This is a careful and deliberate process: you could use this to annihilate a chest but not its contents, a door but not the supporting wall, or even create sculptures with it.
-
-In addition, you have advantage on all skill checks made during the Disenchant downtime activity.
-
-### Elaborate Pattern: Pattern of Unravelling
-
-At level 11, gain access to the following Elaborate Pattern for your Guild.
-
-#### Pattern of Unravelling
-
-Cost: 0
-Casting time: Major action
-Range: 30 feet
-Duration: Until the start of your next turn
-
-Threads of magic begin to come undone as the Weave shies away from a creature of your choice within range. At the end of each of your turns, make a Focus attack against them. If you hit, apply two stacks of cursed..
-World Weaving: Mass Annihilation
-At level 18, your ability to carefully unweave existence is terrifying and world-shaking, letting you snip whole buildings or locations out of the fabric of reality. You may now affect up to a 300 foot cube of material with your Unweave downtime activity.
-
 ## Maker
 
 An optimistic guild open to any who might display signs of this talent, they ply their crafts as the most expert craftspeople in the entire realm. Working with the very fabric of reality, they toil to create splendours, both magical and mundane for the love of art, the good of the people or unimaginable wealth.
@@ -279,7 +237,9 @@ Duration: Instant
 As you open a rift in the Weave, strange assorted junk, once banished but now forgotten, comes pouring forth, cluttering the battlefield. At the end of each of your turns, choose 3 adjacent tiles within range, which become flooded with junk. Tiles filled with junk are difficult terrain and grant partial cover.
 
 Creatures in tiles that are flooded with junk suffer no harmful effects. Clearing a tile full of junk takes a minute of dedicated work.
-Reality Weaving: Create
+
+### Reality Weaving: Create
+
 At 6th level, you learn to carefully unwind matter, erasing it as if it had never even existed. You gain access to the Create downtime activity. When you use this, you may freely create nonliving, nonmagical matter of any sort that you desire, as long as it fits in a 30 foot cube. Making items that require a degree of skill, such as glass, weapons, structural masonry or the like requires an appropriate Expertise (Craftsmanship) skill check.
 
 In addition, you have advantage on all skill checks made during the Craft downtime activity and never need to roll on the supplies die during it.
@@ -367,3 +327,45 @@ When this pattern ends, the affected creature is able to choose freely which cop
 ### World Weaving: Shared Reality
 
 At level 18, you are able to impart a whole set of beliefs or view of the world as you tell your tales. When you use your Tapestry of Tales downtime activity, you may convince the audience of up to three separate facts instead.
+
+### Unmaker
+
+The most feared of the guilds, the Unmakers specialize in severing the threads holding together reality. Their teachings hold that flaws in the tapestry are an inevitable and unfortunate occurrence: when they occur, it is the Unmaker’s job to cut them out of the fabric of existence.
+
+Working as ruthless monster hunters or inscrutable assassins, their footsteps echo with whispers wherever they travel. From the outside, their purposes seem unknowable and their power terrible. But to the members of the guild, it is simple. Mistakes must be corrected.
+
+Every so often, an Unmaker loses touch with reality, and goes rogue. Such guild members, when they have reached this state, begin to see reality itself as that which must be unmade, and present a major threat to civilization. They, of course, are merely yet another flaw in the tapestry.
+
+### Signature Pattern: Pattern of Banishment
+
+At level 1 when you select this Guild, gain access to the following Signature Pattern.
+
+#### Pattern of Banishment
+
+Cost: 0
+Casting time: Major action
+Range: 30 feet
+Duration: Until the start of your next turn
+
+Your target begins to slip from existence, their threads slowly unwinding. Select a creature or object within range. At the end of each of your turns, make a Focus attack against them. If you hit, apply two stacks of banished.
+
+### Reality Weaving: Unweave
+
+At 6th level, you learn to carefully unwind matter, erasing it as if it had never even existed. You gain access to the Unweave downtime activity. When you use this, you may permanently annihilate any nonliving matter that you can freely work on, as long as it fits in a 30 foot cube. This is a careful and deliberate process: you could use this to annihilate a chest but not its contents, a door but not the supporting wall, or even create sculptures with it.
+
+In addition, you have advantage on all skill checks made during the Disenchant downtime activity.
+
+### Elaborate Pattern: Pattern of Unravelling
+
+At level 11, gain access to the following Elaborate Pattern for your Guild.
+
+#### Pattern of Unravelling
+
+Cost: 0
+Casting time: Major action
+Range: 30 feet
+Duration: Until the start of your next turn
+
+Threads of magic begin to come undone as the Weave shies away from a creature of your choice within range. At the end of each of your turns, make a Focus attack against them. If you hit, apply two stacks of cursed..
+World Weaving: Mass Annihilation
+At level 18, your ability to carefully unweave existence is terrifying and world-shaking, letting you snip whole buildings or locations out of the fabric of reality. You may now affect up to a 300 foot cube of material with your Unweave downtime activity.
