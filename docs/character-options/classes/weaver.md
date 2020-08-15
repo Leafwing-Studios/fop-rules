@@ -109,7 +109,7 @@ At level 2, the intense flow of magical energy runs through you, knitting your w
 
 ## Warded by the Weave
 
-At level 3, you wrap the threads of magic around you, distorting the fabric of space to protect you from blows. After you use the Block reaction, gain absorption equal to the roll of your Block reaction.
+At level 3, you wrap the threads of magic around you, distorting the fabric of space to protect you from blows. Whenever you use the Block reaction, gain absorption equal to the roll of your Block reaction.
 
 ## Thread Twisting.
 
@@ -139,7 +139,7 @@ When you reach level 5, you learn to mirror the motions you are making with the 
 
 ## Step through the Weave
 
-When you reach level 7, you gain the ability to step through the Weave itself, teleporting a short distance. Whenever you take the Dash minor action, you instead teleport a distance up to the amount of movement that you would have gained.
+When you reach level 7, you gain the ability to step through the Weave itself, teleporting a short distance. You no longer gain movement when you take the Dash minor action. Instead, declare a tile within a range equal to twice the movement that you would have gained from your Dash. At the start of your next turn, teleport into that tile. Any creatures occupying that tile are pushed into the nearest empty tile of their choice.
 
 ## Split Focus
 
