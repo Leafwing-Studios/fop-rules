@@ -152,6 +152,10 @@ You may use the Dodge reaction to attempt to completely evade Agility attacks (i
 
 ## Striker
 
+### Ambivalent
+
+Once after you have rolled to see how much damage one of your attacks would do, you may reroll the damage dealt. You must use the new results.
+
 ### Audacious
 
 The critical hit threshold for your attacks is reduced by 2. Whenever you roll a 1 while making an attack, something goes horribly wrong, and you suffer the attack’s effects instead.
