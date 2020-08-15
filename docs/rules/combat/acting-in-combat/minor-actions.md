@@ -91,7 +91,7 @@ Attempt to gain information about your surroundings using one of your skills. Th
 
 Make a Prowess attack against a creature within 5 feet of you. If you hit, you may choose to either knock them prone or push them 5 feet into an empty tile of your choice.
 
-You cannot shove creatures that are more than four times your size
+You cannot shove creatures that are more than four times your size.
 
 ## Swap
 
