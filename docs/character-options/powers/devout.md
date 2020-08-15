@@ -40,7 +40,7 @@ Your blade swirls with wind, slicing through your foes’ defenses. Make a basic
 
 </div>
 
-Your body is held aloft by a furious tempest as you embody the power of air. For the duration of this effect, all damage you deal with basic attacks is maximized. Additionally, whenever you enter and leave a creature's zone of control in the same turn, apply one stack of aloft to them.
+Your body is held aloft by a furious tempest as you embody the power of air. For the duration of this effect, your basic attacks are automatically criticals if they hit. Additionally, whenever you enter and leave a creature's zone of control in the same turn, apply one stack of aloft to them.
 
 ### Blessing of Wings
 
@@ -240,7 +240,7 @@ With a whispered prayer you transform into the wind for a moment, before reappea
 
 </div>
 
-Nothing occurs when you first cast this miracle, although a strange breeze begins to blow over your allies. Select up to 6 allied creatures within range when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect. 
+Nothing occurs when you first cast this miracle, although a strange breeze begins to blow over your allies. Select up to 6 allied creatures within range when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
 While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and you and your allies are carried away as you become one with the four winds.
 
@@ -286,7 +286,7 @@ A tiny tornado forms, wreaking small-scale devastation. Select a tile within ran
 
 A giant tornado forms from the heavens, touching down on the ground and violently tossing around all that it hits. Select a tile within range and create a 10 foot radius tornado centered on the chosen tile. While summoned, you may spend a minor action to move it up to 30 feet in a path of your choice.
 
-Whenever a creature starts their turn within the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, deal 3d6 + 3 * Presence air damage to them and apply two stacks of aloft. If you miss, they suffer the effects at half efficacy.
+Whenever a creature starts their turn within the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, deal 3d6 + 3 \* Presence air damage to them and apply two stacks of aloft. If you miss, they suffer the effects at half efficacy.
 
 ## Earth
 
@@ -328,7 +328,7 @@ Your blade hardens to stone, crushing your enemies. Make a basic attack against 
 
 </div>
 
-Your body hardens to stone as you are granted incredible strength. For the duration of this effect, all damage you deal with basic attacks is maximized, you have advantage on all Prowess (Athletics) checks, and you gain 4 absorption at the start of each of your turns.
+Your body hardens to stone as you are granted incredible strength. For the duration of this effect, your basic attacks are automatically criticals if they hit. you have advantage on all Prowess (Athletics) checks, and you gain 4 absorption at the start of each of your turns.
 
 ### Blessing of Diamonds
 
@@ -389,13 +389,13 @@ You ally's skin turns to solid diamond, sparkling and durable. Select a creature
 </div>
 
 With a single glance you turn your enemy to stone. Make a Focus attack against a creature within range. This attack automatically misses against creatures suffering from the blinded condition. If you hit, they are petrified for the duration of this effect:
-	* Damage
-	* Forced movement
-	* Boons
-	* Conditions
-	* Afflictions
-* The target cannot take actions, reactions, or spend movement
-* The target is conscious and can use all of their senses normally
+_ Damage
+_ Forced movement
+_ Boons
+_ Conditions \* Afflictions
+
+- The target cannot take actions, reactions, or spend movement
+- The target is conscious and can use all of their senses normally
 
 ### Curse of Stone - Miracle
 
@@ -416,14 +416,14 @@ With a single glance you turn your enemy to stone. Make a Focus attack against a
 </div>
 
 Your gaze pierces the very fiber of your enemies, turning them to stone. At the beginning of each of your turns, make a Focus attack against a creature within range. This attack automatically misses against creatures suffering from the blinded condition. If you hit, they are petrified until the end of their next turn:
-* The target is immune to all effects, including:
-	* Damage
-	* Forced movement
-	* Boons
-	* Conditions
-	* Afflictions
-* The target cannot take actions, reactions, or spend movement
-* The target is conscious and can use all of their senses normally
+
+- The target is immune to all effects, including:
+  _ Damage
+  _ Forced movement
+  _ Boons
+  _ Conditions \* Afflictions
+- The target cannot take actions, reactions, or spend movement
+- The target is conscious and can use all of their senses normally
 
 ### Gift of the Sands
 
@@ -443,9 +443,9 @@ Your gaze pierces the very fiber of your enemies, turning them to stone. At the 
 
 </div>
 
-A minor sandstorm surrounds your ally, blinding those nearby as your ally is kept safe within its eye. Surround a creature of your choice within range with a sandstorm that moves with them. This affects all tiles adjacent to that creature, but not the tile(s) that the creature takes up. If a creature takes up zero tiles, it affects all tiles adjacent to the tile they are in instead. 
+A minor sandstorm surrounds your ally, blinding those nearby as your ally is kept safe within its eye. Surround a creature of your choice within range with a sandstorm that moves with them. This affects all tiles adjacent to that creature, but not the tile(s) that the creature takes up. If a creature takes up zero tiles, it affects all tiles adjacent to the tile they are in instead.
 
-Whenever a creature starts their turn in this sandstorm or enters it for the first time on their turn, make a Focus attack against them. If you hit, apply one stack of blinded. 
+Whenever a creature starts their turn in this sandstorm or enters it for the first time on their turn, make a Focus attack against them. If you hit, apply one stack of blinded.
 
 ### Gift of the Sands - Miracle
 
@@ -465,9 +465,9 @@ Whenever a creature starts their turn in this sandstorm or enters it for the fir
 
 </div>
 
-A swirling sand devil engulfs your ally, slashing brutally at those nearby as your ally is kept safe within its eye. Surround a creature of your choice within range with a sandstorm that moves with them. This affects all tiles adjacent to that creature, but not the tile(s) that the creature takes up. If a creature takes up zero tiles, it affects all tiles adjacent to the tile they are in instead. 
+A swirling sand devil engulfs your ally, slashing brutally at those nearby as your ally is kept safe within its eye. Surround a creature of your choice within range with a sandstorm that moves with them. This affects all tiles adjacent to that creature, but not the tile(s) that the creature takes up. If a creature takes up zero tiles, it affects all tiles adjacent to the tile they are in instead.
 
-Creatures within the sandstorm are heavily shrouded, except to other creatures within the eye. For the duration of this effect, whenever another creature starts their turn in the sandstorm or enters it for the first time on their turn, make a Focus attack against them. If you hit, deal 2d6 + 2 * Presence earth damage to them, and 2 stacks of defenseless. If you miss, they suffer the effects at half efficacy.
+Creatures within the sandstorm are heavily shrouded, except to other creatures within the eye. For the duration of this effect, whenever another creature starts their turn in the sandstorm or enters it for the first time on their turn, make a Focus attack against them. If you hit, deal 2d6 + 2 \* Presence earth damage to them, and 2 stacks of defenseless. If you miss, they suffer the effects at half efficacy.
 
 ### Genesis of Mountains
 
@@ -507,7 +507,7 @@ Earth roils and stone warps under your power. Select a tile within range. A 10 f
 
 </div>
 
-Solid rock springs forth from the ground, jutting roughly and suddenly. Create up to 36 5-foot cubes of roughly hewn rock in the arrangement of your choice, so long as they are in empty tiles within range and above either the ground or another cube. Each cube has 30 + 5 times your Presence life points, crumbling harmlessly when destroyed. These cubes grant full cover to any creature behind them, and each level counts as its own height tier. 
+Solid rock springs forth from the ground, jutting roughly and suddenly. Create up to 36 5-foot cubes of roughly hewn rock in the arrangement of your choice, so long as they are in empty tiles within range and above either the ground or another cube. Each cube has 30 + 5 times your Presence life points, crumbling harmlessly when destroyed. These cubes grant full cover to any creature behind them, and each level counts as its own height tier.
 
 ### Portent of the Meteor
 
@@ -527,7 +527,7 @@ Solid rock springs forth from the ground, jutting roughly and suddenly. Create u
 
 </div>
 
-With a prophetic flourish, you foresee the falling of a meteor. Select a tile of your choice within range. At the beginning of your next turn, make an Agility attack against all creatures 5 foot radius centered on this tile as a small meteor falls from the sky. If you hit, deal 2d8 + 2 * Presence earth damage and knock them prone. If you miss, deal 1d8 + Presence earth damage instead.
+With a prophetic flourish, you foresee the falling of a meteor. Select a tile of your choice within range. At the beginning of your next turn, make an Agility attack against all creatures 5 foot radius centered on this tile as a small meteor falls from the sky. If you hit, deal 2d8 + 2 \* Presence earth damage and knock them prone. If you miss, deal 1d8 + Presence earth damage instead.
 
 ### Portent of the Meteor - Miracle
 
@@ -547,13 +547,13 @@ With a prophetic flourish, you foresee the falling of a meteor. Select a tile of
 
 </div>
 
-Nothing occurs when you first cast this miracle, although those who glance up at the sky see a shooting star begin to fall, slowly growing closer. Select a tile within range. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect. 
+Nothing occurs when you first cast this miracle, although those who glance up at the sky see a shooting star begin to fall, slowly growing closer. Select a tile within range. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
 While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and a huge meteor falls from the sky.
 
-All creatures within a 15 foot radius of the previously selected tile are crushed by the meteor, and take 20d6 + 20 * Presence earth damage. They are completely covered by the meteor, prone and cannot spend movement unless they are able to slip out from underneath it in some way. Any creature trapped in this way, or their allies, must succeed on a difficulty 25 Prowess (Athletics) skill check to break free, or destroy the part of the meteor that is trapping them. The meteor is an inanimate object with 30 life per tile-covering section and gains 10 absorption at the start of each of your turns.
+All creatures within a 15 foot radius of the previously selected tile are crushed by the meteor, and take 20d6 + 20 \* Presence earth damage. They are completely covered by the meteor, prone and cannot spend movement unless they are able to slip out from underneath it in some way. Any creature trapped in this way, or their allies, must succeed on a difficulty 25 Prowess (Athletics) skill check to break free, or destroy the part of the meteor that is trapping them. The meteor is an inanimate object with 30 life per tile-covering section and gains 10 absorption at the start of each of your turns.
 
-Creatures outside of the 15 foot radius but within a 120 foot radius are hit by the shockwave caused by the meteor. Make a Prowess attack against each of them. If you hit, deal 10d6 + 10 * Presence air damage to all those hit, knock them prone, and push them 30 feet directly away from the point of impact. If you miss, they suffer the effects at half efficacy.
+Creatures outside of the 15 foot radius but within a 120 foot radius are hit by the shockwave caused by the meteor. Make a Prowess attack against each of them. If you hit, deal 10d6 + 10 \* Presence air damage to all those hit, knock them prone, and push them 30 feet directly away from the point of impact. If you miss, they suffer the effects at half efficacy.
 
 ### Wrath of the Earth
 
@@ -595,7 +595,7 @@ The earth rumbles ominously underfoot. Select a tile within range. Make an Agili
 
 The earth quakes and roars with the might of a god. Select a tile within range. An earthquake begins in a 15 foot radius centered at that tile. This area permanently becomes difficult terrain. This is a ground effect, and does not affect creatures with flying or who are suffering from the aloft condition.
 
-For the duration of this effect, whenever a creature starts their turn in the earthquake or enters it for the first time on their turn, make an Agility attack against them. If you hit, deal 4d6 + 4 * Presence earth damage. If you miss, they suffer the effects at half efficacy.
+For the duration of this effect, whenever a creature starts their turn in the earthquake or enters it for the first time on their turn, make an Agility attack against them. If you hit, deal 4d6 + 4 \* Presence earth damage. If you miss, they suffer the effects at half efficacy.
 
 ## Fire
 

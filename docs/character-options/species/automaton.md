@@ -73,7 +73,7 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 
 <div class="inline-box">
 
-**Wanton (arms, common, 1):** Your basic attacks have disadvantage, but deal maximized damage.
+**Wanton (arms, common, 1):** Your basic attacks have disadvantage, but deal 1d8 extra damage.
 
 </div>
 

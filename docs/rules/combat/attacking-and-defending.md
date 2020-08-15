@@ -42,8 +42,6 @@ Multiple modifiers to efficacy (such as critical hits and Trickster's All In cla
 
 Some effects (such as the _audacious_ combat talent or the _keen_ arms affix) can lower the **critical hit threshold,** allowing you to extend the range of numbers rolled which result in a critical hit. For example, if your critical hit threshold is lowered by one, any attack that you hit with where you rolled a 19 or 20 deals damage twice. These effects stack with each other. Determining whether an attack would be a critical hit is seperate from determining if it hits: rolls that are at least your critical hit threshold do not automatically make contact with your target(s), but are critical hits if they land.
 
-Some effects, such as the Devout’s Avatar cycle of miracles, cause your attacks to deal **maximized damage.** This means that you treat the result of each die rolled as if it were the highest possible outcome. For example, if you were to hit your opponent with an attack that deals 1d6 + 3 damage and the damage was maximized, you would inflict 6 + 3 = 9 damage to them. This effect stacks with critical hits: if you land a critical hit with an attack that deals maximized damage, you deal twice the normal maximum damage.
-
 ## Melee and Ranged Attacks
 
 Attacks are either **melee** or **ranged.** You can always make melee attacks against creatures within your zone of control, but no further.

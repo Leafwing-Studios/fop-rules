@@ -288,7 +288,7 @@ At level 1, you learn to embody the spirit of rage, smashing everything around y
 
 You may Transform as a minor action, which costs essence equal to your current stacks of emotion. While transformed:
 
-- Your attacks deal maximized damage.
+- Your attacks are automatically criticals if they hit.
 - You have resistance to physical damage.
 - Any stacks of rage that you may have are not removed at the end of each of your turns or via your Grit class feature while transformed.
 - You are immune to the pacified condition.
