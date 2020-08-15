@@ -1,4 +1,6 @@
-# Pattern of Absorption
+# Weaver Patterns
+
+## Pattern of Absorption
 
 <div class="tight">
 
@@ -10,7 +12,7 @@
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** None
 
 **Duration:** Until the the start of your next turn
 
@@ -18,7 +20,7 @@
 
 The Weave wraps around a creature of your choice, shielding them from harm. At the end of each of your turns for the duration of this effect, they gain 6 + Presence absorption.
 
-# Pattern of Amplitude
+## Pattern of Amplitude
 
 <div class="tight">
 
@@ -38,7 +40,7 @@ The Weave wraps around a creature of your choice, shielding them from harm. At t
 
 The Weave itself ripples as a pulsing wave of magical force emanates from you, unmooring those around you. At the end of each of your turns for the duration of this effect, make an Expertise attack against all other creatures within 10 feet of you. If you hit, deal 1d4 + Presence arcane damage and knock them prone. If they are already prone, apply 3 + ½ Presence stacks of unstable to them instead.
 
-# Pattern of Annihilation
+## Pattern of Annihilation
 
 <div class="tight">
 
@@ -58,7 +60,7 @@ The Weave itself ripples as a pulsing wave of magical force emanates from you, u
 
 Sacrificing part of your own existence, the Weave begins to unravel, hastening a creature's ultimate return to dust. At the end of each of your turns for the duration of this effect, make an Expertise attack against the affected creature. If you hit, trigger their afflictions. Hit or miss, trigger your own afflictions.
 
-# Pattern of Animation
+## Pattern of Animation
 
 <div class="tight">
 
@@ -90,7 +92,7 @@ If you animated a set of arms:
 - Your zone of control surrounds these arms, rather than your own character. You may make attacks of opportunity using the Strike major action using these arms.
 - You have disadvantage on ranged basic attacks made in this fashion while the arms are in an enemy zone of control.
 
-# Pattern of Augmentation
+## Pattern of Augmentation
 
 <div class="tight">
 
@@ -110,7 +112,7 @@ If you animated a set of arms:
 
 The Weave wraps tightly around the weapons of a creature of your choice, causing them to glow faintly with an arcane aura. For the duration of this effect, they have advantage on basic attacks and roll with advantage to determine how much damage is prevented when using the Block reaction.
 
-# Pattern of Binding
+## Pattern of Binding
 
 <div class="tight">
 
@@ -130,7 +132,7 @@ The Weave wraps tightly around the weapons of a creature of your choice, causing
 
 The Weave binds a creature tightly in place as threads of magic wind around them. At the end of each of your turns, make a Prowess attack against the affected creature. If you hit, apply two stacks of rooted.
 
-# Pattern of Concealment
+## Pattern of Concealment
 
 <div class="tight">
 
@@ -150,7 +152,7 @@ The Weave binds a creature tightly in place as threads of magic wind around them
 
 The Weave bends around a creature or object of your choice that fits within a single tile, rendering them invisible for the duration of this effect. This effect ends immediately after they make an attack.
 
-# Pattern of Containment
+## Pattern of Containment
 
 <div class="tight">
 
@@ -176,7 +178,7 @@ At the end of each of your turns for the duration of the effect, make a Prowess 
 
 While within the bubble, a creature may attempt to roll the bubble, spending twice as much movement as usual to move. The first time each turn that they try to do so, they must make a difficulty 10 Agility (Acrobatics) skill check. If they fail, they fall prone. The bubble naturally rolls down slopes if not held in place, moving 15 feet (30 feet if it is a particularly steep slope) at the start of the trapped creature’s turn down the slope. You cannot move up stairs or the like while in this bubble.
 
-# Pattern of Dampening
+## Pattern of Dampening
 
 <div class="tight">
 
@@ -198,7 +200,7 @@ You wrap the Weave around your target, buffering it from the world like a thick 
 
 This effect does not stack with itself, and applies to boons applied to oneself (such as absorption gained through the _absorptive_ armor affix). When this pattern is sustained, the efficacy changes persist until after the new Focus attack is made.
 
-# Pattern of Disintegration
+## Pattern of Disintegration
 
 <div class="tight">
 
@@ -210,15 +212,15 @@ This effect does not stack with itself, and applies to boons applied to oneself 
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Focus
 
-**Duration:** Until the ?? of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
 A creature or object of your choice within range begins to disintegrate as their essence becomes unwoven. At the end of each of your turns for the duration of your effect, make a Focus attack against them. If you hit, deal 1d10 + Presence arcane damage.
 
-# Pattern of Displacement
+## Pattern of Displacement
 
 <div class="tight">
 
@@ -238,7 +240,7 @@ A creature or object of your choice within range begins to disintegrate as their
 
 Magical energy crackles and pops as tiny rifts in the Weave appear around a creature of your choice. At the end of each of your turns for the duration of this effect, make an Expertise attack against the affected creature. If you hit, teleport the affected creature up to 15 feet into an empty tile of your choice.
 
-# Pattern of Empoweremnt
+## Pattern of Empoweremnt
 
 <div class="tight">
 
@@ -258,7 +260,7 @@ Magical energy crackles and pops as tiny rifts in the Weave appear around a crea
 
 You lend your magical strength to another creature within range, magic pulsing through the threads that connect you to them. For the duration of this effect, they have advantage on special attacks and they ignore resistance to damage that they deal.
 
-# Pattern of Feedback
+## Pattern of Feedback
 
 <div class="tight">
 
@@ -278,7 +280,7 @@ You lend your magical strength to another creature within range, magic pulsing t
 
 The Weave rebels against a creature of your choice, becoming progressively unruly as they try to wrest it under their control. For the duration of this effect, whenever the affected creature spends essence, make a Focus attack against them. If it hits, apply 6 + Presence stacks of unstable.
 
-# Pattern of Flickering
+## Pattern of Flickering
 
 <div class="tight">
 
@@ -298,7 +300,7 @@ The Weave rebels against a creature of your choice, becoming progressively unrul
 
 As you toy with the threads tying a creature to existence, they pop in and out of reality at random. Select a creature within range. For the duration of this effect, roll a d20 at the end of each of their turns. On a roll of 11 or higher, make an Expertise attack against them. If you hit, apply one stack of banished to them, then at the start of their next turn, remove one stack of banished from them.
 
-# Pattern of Forbiddance
+## Pattern of Forbiddance
 
 <div class="tight">
 
@@ -320,7 +322,7 @@ You create a forbidding rift in the Weave that is noticeably uncomfortable to cr
 
 When you use your Thread Twisting minor action, you may freely reposition this rift within range.
 
-# Pattern of Grasping
+## Pattern of Grasping
 
 <div class="tight">
 
@@ -342,7 +344,7 @@ Threads of the Weave wrap your target tight as you wrestle them under your contr
 
 You may grapple any number of creatures in this way. When this pattern ends, the grappled status immediately ends on all creatures you were grappling in this way (and the grappling status also ends on yourself).
 
-# Pattern of Intensification
+## Pattern of Intensification
 
 <div class="tight">
 
@@ -365,7 +367,7 @@ You twist the Weave into a terrible knot around your foes, causing their afflict
 - apply 3 + ½ Presence stacks of an affliction of your choice to them.
 - apply one stack of each of their current afflictions to them.
 
-# Pattern of Illusions
+## Pattern of Illusions
 
 <div class="tight">
 
@@ -387,7 +389,7 @@ You shape the Weave into a small, fleeting illusion. You create a sound, image, 
 
 Creatures can use the Scan minor action to attempt to examine the effect, realizing the truth of the illusion with a successful Focus (Insight) check contested by your Expertise (Arcana). If they fail, they remain convinced that it is real, and devise alternative explanations for any oddities. Each time they learn a new piece of contradictory information, they may attempt a new contested skill check. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature and they have advantage on all skill checks made to detect further illusions from you until you complete a rest.
 
-# Pattern of Madness
+## Pattern of Madness
 
 <div class="tight">
 
@@ -407,7 +409,7 @@ Creatures can use the Scan minor action to attempt to examine the effect, realiz
 
 The Weave enters the mind of a creature of your choice within range, driving them into a bizarre frenzy. At the end of each of your turns for the duration of this effect, make a Presence attack against them, applying two stacks of crazed if you hit.
 
-# Pattern of Mooring
+## Pattern of Mooring
 
 <div class="tight">
 
@@ -419,15 +421,15 @@ The Weave enters the mind of a creature of your choice within range, driving the
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Expertise
 
-**Duration:** Until the ?? of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
-You tangle the threads of the Weave around an object or creature, anchoring them to their current place in space and time. AAt the end of each of your turns for the duration of this effect. If you hit, apply two stacks of chilled to them. In addition, if you hit, they are immune to falling damage and forced movement until the end of your next turn.
+You tangle the threads of the Weave around an object or creature, anchoring them to their current place in space and time. At the end of each of your turns for the duration of this effect, amke an Expertise attack against them. If you hit, apply two stacks of chilled to them. In addition, if you hit, they are immune to falling damage and forced movement until the end of your next turn.
 
-# Pattern of Prolonging
+## Pattern of Prolonging
 
 <div class="tight">
 
@@ -439,15 +441,15 @@ You tangle the threads of the Weave around an object or creature, anchoring them
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Expertise
 
-**Duration:** Until the ?? of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
 As the Weave wraps around your foe, time seems to slow down for them, preventing them from recovering like usual. Select a creature within range. At the end of each of your turns for the duration of this effect, make an Expertise attack against that creature. If you hit, apply one stack of each of their current conditions to them.
 
-# Pattern of Purification
+## Pattern of Purification
 
 <div class="tight">
 
@@ -459,15 +461,15 @@ As the Weave wraps around your foe, time seems to slow down for them, preventing
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** None
 
-**Duration:** Until the ?? of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
 The Weave washes over a creature of your choice, cleansing them of their ailments and impediments. At the end of each of your turns for the duration of this effect, gain the benefit of the Treat minor action targeting that creature. You have advantage on the Focus (Medicine) skill check made.
 
-# Pattern of Quickening
+## Pattern of Quickening
 
 <div class="tight">
 
@@ -487,7 +489,7 @@ The Weave washes over a creature of your choice, cleansing them of their ailment
 
 The Weave accelerates the actions of a creature you can see, hastening their movements as time itself distorts around them. For the duration of this effect, they may take an additional major action on each of their turns. They cannot spend essence as part of this extra action.
 
-# Pattern of Sanctuary
+## Pattern of Sanctuary
 
 <div class="tight">
 
@@ -501,13 +503,13 @@ The Weave accelerates the actions of a creature you can see, hastening their mov
 
 **Attack:** None
 
-**Duration:** Until the ?? of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
 The Weave shelters a creature you can see, making them seem somehow not entirely there. For the duration of this effect, all special attacks made against them have disadvantage. Whenever a creature would make an attack against the warded creature, make a Presence attack against them. If you hit, the attacker must retarget the same attack to ensure the warded creature is not struck or waste their action completely.
 
-# Pattern of Sight
+## Pattern of Sight
 
 <div class="tight">
 
@@ -519,15 +521,15 @@ The Weave shelters a creature you can see, making them seem somehow not entirely
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** None
 
-**Duration:** Until the ?? of your next turn
+**Duration:** Until the end of your next turn
 
 </div>
 
 By weaving this Pattern, you grant a creature of your choice the ability to sense the invisible lines of the fabric of reality. For the duration of this effect, the affected creature is unimpeded by any shroud or invisbility effects.
 
-# Pattern of Soothing
+## Pattern of Soothing
 
 <div class="tight">
 
@@ -539,15 +541,15 @@ By weaving this Pattern, you grant a creature of your choice the ability to sens
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Presence
 
-**Duration:** Until the ?? of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
 The Weave gently caresses a creature of your choice within range, convincing them that there is no reason to fight. At the end of each of your turns for the duration of this effect, make a Presence attack against that creature, applying two stacks of pacified if you hit.
 
-# Pattern of Suspension
+## Pattern of Suspension
 
 <div class="tight">
 
@@ -559,15 +561,15 @@ The Weave gently caresses a creature of your choice within range, convincing the
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Prowess
 
-**Duration:** Until the ?? of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
-The Weave holds a creature or object of your choice within range aloft, gently tumbling them with its threads. At the end of each of your turns for the duration of this effect, make a Presence attack against that creature, applying two stacks of aloft if you hit.
+The Weave holds a creature or object of your choice within range aloft, gently tumbling them with its threads. At the end of each of your turns for the duration of this effect, make a Prowess attack against that creature, applying two stacks of aloft if you hit.
 
-# Pattern of Torpor
+## Pattern of Torpor
 
 <div class="tight">
 
@@ -595,7 +597,7 @@ Time around you slows to a crawl as you twist and tangle the Weave. A 10 foot ra
 
 These effects apply to yourself as well. If you are affected by multiple copies of this pattern, the radius increases by 10 feet for each copy.
 
-# Pattern of Warding
+## Pattern of Warding
 
 <div class="tight">
 
@@ -615,7 +617,7 @@ These effects apply to yourself as well. If you are affected by multiple copies 
 
 The Weave shields a creature you can see from harm with a crackling forcefield. For the duration of this effect, basic attacks against the affected creature have disadvantage. The first time each round that they are struck by an attack the energy discharges. When it discharges, make a Focus attack against all creatures within 5 feet of the warded creature, dealing 1d4 + Presence arcane damage on a hit.
 
-# Pattern of Warping
+## Pattern of Warping
 
 <div class="tight">
 
@@ -627,9 +629,9 @@ The Weave shields a creature you can see from harm with a crackling forcefield. 
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Focus
 
-**Duration:** Until the ?? of your next turn
+**Duration:** Until the end of your next turn
 
 </div>
 
