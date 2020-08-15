@@ -67,7 +67,7 @@ You cannot spend movement.
 
 ## Taunted
 
-You have disadvantage on attacks that do not target the creature who applied this condition to you. You must take attacks of opportunities against that creature if able. If a different source applies taunted to you, the object of your ire changes to the most recent source.
+Attacks that you make must target the creature that applied this condition to you. You must take attacks of opportunities against that creature if able. If a different source applies taunted to you, the object of your ire changes to the most recent source.
 
 ## Withered
 
