@@ -55,7 +55,7 @@ If their motivation is between -3 and 0, the NPC is willing to **renegotiate,** 
 Players can influence the outcome of a deal by using their skills and resources in several ways
 
 ### Assess
-As a group, make a Presence (Insight) skill check to learn the loyalty that the NPC in question has towards your party. If your result is at least 10, you learn whether it is positive, negative or zero. If it is 15 or higher, you learn the exact value.
+As a group, make a Presence (Insight) skill check to learn the loyalty that the NPC in question has towards your party. If your result is 10 or higher, you learn whether it is positive, negative or zero. If it is 15 or higher, you learn the exact value.
 
 ### Call in a Favor
 If the party desperately needs a favor, they can sacrifice the loyalty they have earned. Each point of loyalty they spend increases the motivation by 1, stacking with the original bonus due to their loyalty. However, once used, this loyalty is permanently lost and must be rebuilt. You can only spend loyalty in this way if the resulting loyalty would be at least zero.
