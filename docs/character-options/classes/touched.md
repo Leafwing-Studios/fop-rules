@@ -72,7 +72,7 @@ By manifesting their true form more strongly, your companion can use **powers:**
 
 Every companion is associated with two element types, which determine the type of damage that their abilities can do, as well as the type of utility features they gain access to through their Deviance class feature. Select these now, from the twelve standard elements.
 
-Many of the Touched’s features rely on the distinction and interplay between melee and ranged attacks, which are said to belong to the two different **range categories** of the same name. While you are wielding a melee set of arms, the range of your melee powers is the same as the range of those arms. Otherwise, they have a 5 foot range. While you are wielding a ranged set of arms, the range of your ranged powers is the same as the range of those arms. Otherwise they have a range of 6 tiles.
+Many of the Touched’s features rely on the distinction and interplay between melee and ranged attacks, which are said to belong to the two different **range categories** of the same name. While you are wielding a melee set of arms, the range of your melee powers is the same as the range of those arms. Otherwise, they have a range of 1 tile. While you are wielding a ranged set of arms, the range of your ranged powers is the same as the range of those arms. Otherwise they have a range of 6 tiles.
 
 Unlike other classes, the powers available to Touched are built from scratch for each character using a simple set of rules, rather than being selected from a list. See the Powers section at the end of the class description for the rules on doing so.
 

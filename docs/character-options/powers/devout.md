@@ -200,7 +200,7 @@ With the power of your god, you call a sudden gust of wind into creation. Make a
 
 </div>
 
-You summon an incredible wind which throws creatures around uncontrollably, sending them tumbling across the battlefield. When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 15 foot wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. Whenever a creature starts their turn in this wind or enters it for the first time on their turn, make a Prowess attack against them. If you hit, they are knocked prone and pushed 6 tiles in the direction of the wind. If you miss, they are pushed 3 tiles instead.
+You summon an incredible wind which throws creatures around uncontrollably, sending them tumbling across the battlefield. When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 3 tile wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. Whenever a creature starts their turn in this wind or enters it for the first time on their turn, make a Prowess attack against them. If you hit, they are knocked prone and pushed 6 tiles in the direction of the wind. If you miss, they are pushed 3 tiles instead.
 
 ### Portent of the Four Winds
 
@@ -264,7 +264,7 @@ The creatures selected immediately disappear into puffs of wind. Choose an outdo
 
 </div>
 
-A tiny tornado forms, wreaking small-scale devastation. Select a tile within range and create a 5 foot radius tornado centered on the chosen tile. Whenever a creature starts their turn in the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, apply one stack of aloft to them.
+A tiny tornado forms, wreaking small-scale devastation. Select a tile within range and create a 1-tile radius tornado centered on the chosen tile. Whenever a creature starts their turn in the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, apply one stack of aloft to them.
 
 ### Wrath of the Cyclone - Miracle
 
@@ -284,7 +284,7 @@ A tiny tornado forms, wreaking small-scale devastation. Select a tile within ran
 
 </div>
 
-A giant tornado forms from the heavens, touching down on the ground and violently tossing around all that it hits. Select a tile within range and create a 10 foot radius tornado centered on the chosen tile. While summoned, you may spend a minor action to move it up to 6 tiles in a path of your choice.
+A giant tornado forms from the heavens, touching down on the ground and violently tossing around all that it hits. Select a tile within range and create a 2-tile radius tornado centered on the chosen tile. While summoned, you may spend a minor action to move it up to 6 tiles in a path of your choice.
 
 Whenever a creature starts their turn within the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, deal 3d6 + 3 \* Presence air damage to them and apply two stacks of aloft. If you miss, they suffer the effects at half efficacy.
 
@@ -487,7 +487,7 @@ Creatures within the sandstorm are heavily shrouded, except to other creatures w
 
 </div>
 
-Earth roils and stone warps under your power. Select a tile within range. A 10 foot radius sphere centered at that tile becomes difficult terrain.
+Earth roils and stone warps under your power. Select a tile within range. A 2 tile radius sphere centered at that tile becomes difficult terrain.
 
 ### Genesis of Mountains - Miracle
 
@@ -507,7 +507,7 @@ Earth roils and stone warps under your power. Select a tile within range. A 10 f
 
 </div>
 
-Solid rock springs forth from the ground, jutting roughly and suddenly. Create up to 36 5-foot cubes of roughly hewn rock in the arrangement of your choice, so long as they are in empty tiles within range and above either the ground or another cube. Each cube has 30 + 5 times your Presence life points, crumbling harmlessly when destroyed. These cubes grant full cover to any creature behind them, and each level counts as its own height tier.
+Solid rock springs forth from the ground, jutting roughly and suddenly. Create up to 36 one-tile cubes of roughly hewn rock in the arrangement of your choice, so long as they are in empty tiles within range and above either the ground or another cube. Each cube has 30 + 5 times your Presence life points, crumbling harmlessly when destroyed. These cubes grant full cover to any creature behind them, and each level counts as its own height tier.
 
 ### Portent of the Meteor
 
@@ -527,7 +527,7 @@ Solid rock springs forth from the ground, jutting roughly and suddenly. Create u
 
 </div>
 
-With a prophetic flourish, you foresee the falling of a meteor. Select a tile of your choice within range. At the beginning of your next turn, make an Agility attack against all creatures 5 foot radius centered on this tile as a small meteor falls from the sky. If you hit, deal 2d8 + 2 \* Presence earth damage and knock them prone. If you miss, deal 1d8 + Presence earth damage instead.
+With a prophetic flourish, you foresee the falling of a meteor. Select a tile of your choice within range. At the beginning of your next turn, make an Agility attack against all creatures one-tile radius centered on this tile as a small meteor falls from the sky. If you hit, deal 2d8 + 2 \* Presence earth damage and knock them prone. If you miss, deal 1d8 + Presence earth damage instead.
 
 ### Portent of the Meteor - Miracle
 
@@ -551,9 +551,9 @@ Nothing occurs when you first cast this miracle, although those who glance up at
 
 While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and a huge meteor falls from the sky.
 
-All creatures within a 15 foot radius of the previously selected tile are crushed by the meteor, and take 20d6 + 20 \* Presence earth damage. They are completely covered by the meteor, prone and cannot spend movement unless they are able to slip out from underneath it in some way. Any creature trapped in this way, or their allies, must succeed on a difficulty 25 Prowess (Athletics) skill check to break free, or destroy the part of the meteor that is trapping them. The meteor is an inanimate object with 30 life per tile-covering section and gains 10 absorption at the start of each of your turns.
+All creatures within a 3 tile radius of the previously selected tile are crushed by the meteor, and take 20d6 + 20 \* Presence earth damage. They are completely covered by the meteor, prone and cannot spend movement unless they are able to slip out from underneath it in some way. Any creature trapped in this way, or their allies, must succeed on a difficulty 25 Prowess (Athletics) skill check to break free, or destroy the part of the meteor that is trapping them. The meteor is an inanimate object with 30 life per tile-covering section and gains 10 absorption at the start of each of your turns.
 
-Creatures outside of the 15 foot radius but within a 120 foot radius are hit by the shockwave caused by the meteor. Make a Prowess attack against each of them. If you hit, deal 10d6 + 10 \* Presence air damage to all those hit, knock them prone, and push them 6 tiles directly away from the point of impact. If you miss, they suffer the effects at half efficacy.
+Creatures outside of the 3 tile radius but within a 24 tile radius are hit by the shockwave caused by the meteor. Make a Prowess attack against each of them. If you hit, deal 10d6 + 10 \* Presence air damage to all those hit, knock them prone, and push them 6 tiles directly away from the point of impact. If you miss, they suffer the effects at half efficacy.
 
 ### Wrath of the Earth
 
@@ -573,7 +573,7 @@ Creatures outside of the 15 foot radius but within a 120 foot radius are hit by 
 
 </div>
 
-The earth rumbles ominously underfoot. Select a tile within range. Make an Agility attack against all creatures in a 10 foot radius centered at that tile. If you hit, knock them prone. This is a ground effect, and does not affect creatures with flying or who are suffering from the aloft condition.
+The earth rumbles ominously underfoot. Select a tile within range. Make an Agility attack against all creatures in a 2 tile radius centered at that tile. If you hit, knock them prone. This is a ground effect, and does not affect creatures with flying or who are suffering from the aloft condition.
 
 ### Wrath of the Earth - Miracle
 
@@ -593,7 +593,7 @@ The earth rumbles ominously underfoot. Select a tile within range. Make an Agili
 
 </div>
 
-The earth quakes and roars with the might of a god. Select a tile within range. An earthquake begins in a 15 foot radius centered at that tile. This area permanently becomes difficult terrain. This is a ground effect, and does not affect creatures with flying or who are suffering from the aloft condition.
+The earth quakes and roars with the might of a god. Select a tile within range. An earthquake begins in a 3 tile radius centered at that tile. This area permanently becomes difficult terrain. This is a ground effect, and does not affect creatures with flying or who are suffering from the aloft condition.
 
 For the duration of this effect, whenever a creature starts their turn in the earthquake or enters it for the first time on their turn, make an Agility attack against them. If you hit, deal 4d6 + 4 \* Presence earth damage. If you miss, they suffer the effects at half efficacy.
 

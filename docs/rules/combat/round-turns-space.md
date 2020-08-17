@@ -37,8 +37,8 @@ Whenever you **enter and leave an opponent’s zone of control in the same turn,
 
 You can improve your ability to control space with various arms affixes, such as:
 
-- _reach:_ The range of your melee basic attacks is increased to 2 tiles, and your zone of control is increased to a 10 foot radius.
+- _reach:_ Your zone of control is increased by 1 tile.
 - _proactive:_ Enemies provoke an attack of opportunity whenever they leave your zone of control.
 - _reactive:_ Enemies provoke an attack of opportunity whenever they enter your zone of control.
 - _opportunistic:_ Enemies provoke an attack of opportunity whenever they move from a tile that is within your zone of control into another tile that is within your zone of control.
-- _zoning:_ Your zone of control is increased to a 10 foot radius, but you can no longer use basic attacks, Shove or Grapple attacks for attacks of opportunity.
+- _zoning_: The radius of your zone of control is increased by 2 tiles. You can not use melee attacks as attacks of opportunity.

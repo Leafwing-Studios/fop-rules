@@ -55,7 +55,7 @@ These resources are replenished when you **rest** overnight, during which you:
 
 The party can also spend **Resolve,** earned by **opting into risk,** to immediately gain the benefits of a rest (other than downtime activities) while out of combat.
 
-During combat, creatures (as well as important objects and terrain in the scene, and any effects created) have a precise position on the **battlemap:** a square or hexagonal 5-foot grid that keeps track of relative positions and allows for the measurement of distances.
+During combat, creatures (as well as important objects and terrain in the scene, and any effects created) have a precise position on the **battlemap:** a square or hexagonal grid that keeps track of relative positions and allows for the measurement of distances.
 
 <div class="infobox">
 

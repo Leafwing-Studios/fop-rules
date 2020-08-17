@@ -385,7 +385,7 @@ You twist the Weave into a terrible knot around your foes, causing their afflict
 
 </div>
 
-You shape the Weave into a small, fleeting illusion. You create a sound, image, smell or other sensory effect that lasts for the duration. Sounds may be of any volume you can personally make, and images must fit within a 10 foot cube.
+You shape the Weave into a small, fleeting illusion. You create a sound, image, smell or other sensory effect that lasts for the duration. Sounds may be of any volume you can personally make, and images must fit within a 2 tile cube.
 
 Creatures can use the Scan minor action to attempt to examine the effect, realizing the truth of the illusion with a successful Focus (Insight) check contested by your Expertise (Arcana). If they fail, they remain convinced that it is real, and devise alternative explanations for any oddities. Each time they learn a new piece of contradictory information, they may attempt a new contested skill check. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature and they have advantage on all skill checks made to detect further illusions from you until you complete a rest.
 
@@ -587,7 +587,7 @@ The Weave holds a creature or object of your choice within range aloft, gently t
 
 </div>
 
-Time around you slows to a crawl as you twist and tangle the Weave. A 10 foot radius around you is affected by the following effects:
+Time around you slows to a crawl as you twist and tangle the Weave. A 2 tile radius around you is affected by the following effects:
 
 - Whenever a creature begins its turn in this area or enters it for the first time on their turn, make an Expertise attack against them. If you hit, apply chilled.
 - Basic attacks and Agility attacks made by creatures within the area, or which pass through the area have disadvantage.
@@ -635,6 +635,6 @@ The Weave shields a creature you can see from harm with a crackling forcefield. 
 
 </div>
 
-You bend the Weave around yourself, shaping it into a strange, reality warping bubble that covers a 5 foot radius around you. Whenever a creature begins their turn in the bubble, or enters the bubble on their turn, make a Focus attack against them. If you hit, teleport them to an empty square of your choice within 3 tiles of you that is outside the 5 foot bubble. Unlike many similar effects, creatures can be affected by this bubble multiple times in a single turn if they keep re-entering the bubble.
+You bend the Weave around yourself, shaping it into a strange, reality warping bubble that covers a 1 tile radius around you. Whenever a creature begins their turn in the bubble, or enters the bubble on their turn, make a Focus attack against them. If you hit, teleport them to an empty square of your choice within 3 tiles of you that is outside the 1 tile bubble. Unlike many similar effects, creatures can be affected by this bubble multiple times in a single turn if they keep re-entering the bubble.
 
 If you are affected by multiple copies of this effect at once, the radius increases by 1 tile and the distance you can teleport them increases by 3 tiles for each copy.

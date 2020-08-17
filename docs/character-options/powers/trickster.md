@@ -42,7 +42,7 @@ At the end of the duration of this effect, or if you miss with your attack, they
 
 </div>
 
-A deafening bang explodes from the trick, sending those nearby reeling. When detonated, make a Prowess attack against all creatures with a 10 foot radius around the trick. Knock each creature hit prone and apply one stack of lethargic to them.
+A deafening bang explodes from the trick, sending those nearby reeling. When detonated, make a Prowess attack against all creatures with a 2 tile radius around the trick. Knock each creature hit prone and apply one stack of lethargic to them.
 
 ## Cold Shower
 
@@ -62,7 +62,7 @@ A deafening bang explodes from the trick, sending those nearby reeling. When det
 
 </div>
 
-Freezing cold water bursts forth from the trick, soaking those around it. When detonated, make an Agility attack against all creatures with a 10 foot radius around the trick. If you hit, apply two stacks of chilled.
+Freezing cold water bursts forth from the trick, soaking those around it. When detonated, make an Agility attack against all creatures with a 2 tile radius around the trick. If you hit, apply two stacks of chilled.
 
 ## Convenient Fiction
 
@@ -82,7 +82,7 @@ Freezing cold water bursts forth from the trick, soaking those around it. When d
 
 </div>
 
-As your trick detonates, the air shimmers before it seems to snap back into place as a brand new scene takes its place. When detonated, a 10 foot radius around the trick becomes filled with an illusory scene of your choice for the duration of this trick, filled with the sights, sounds and smells of your choice.
+As your trick detonates, the air shimmers before it seems to snap back into place as a brand new scene takes its place. When detonated, a 2 tile radius around the trick becomes filled with an illusory scene of your choice for the duration of this trick, filled with the sights, sounds and smells of your choice.
 
 Creatures observing this scene can use the Scan minor action to examine the hallucination, making a Focus (Insight) check contested by your Expertise (Arcana) skill. If the check succeeds, the target realizes that the scene is an illusion, and it becomes translucent to them. The first time any creature observes this illusion, they make a contested skill check of this sort automatically. Creatures who are told that this scene is an illusion automatically succeed on these skill checks.
 
@@ -142,7 +142,7 @@ At the end of this effect, if the illusion has not yet been revealed, the affect
 
 </div>
 
-A strange substance wafts forth from the trick, driving everyone nearby into a reckless fury. When it is detonated, make a Focus attack against all creatures in a 10 foot radius of the trick. Apply one stack of defenseless and 3 + ½ Presence stacks of rage to all those that you hit.
+A strange substance wafts forth from the trick, driving everyone nearby into a reckless fury. When it is detonated, make a Focus attack against all creatures in a 2 tile radius of the trick. Apply one stack of defenseless and 3 + ½ Presence stacks of rage to all those that you hit.
 
 ## Grease Trap
 
@@ -162,7 +162,7 @@ A strange substance wafts forth from the trick, driving everyone nearby into a r
 
 </div>
 
-The trick explodes in a shower of slippery grease, coating the ground around it as. When detonated, a 10 foot radius around the trick becomes coated with slippery grease as a ground effect for the duration of this trick. Whenever a creature attempts to spend movement to enter a tile within this grease for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on this grease, the effects of all forced movement other than teleportation is doubled.
+The trick explodes in a shower of slippery grease, coating the ground around it as. When detonated, a 2 tile radius around the trick becomes coated with slippery grease as a ground effect for the duration of this trick. Whenever a creature attempts to spend movement to enter a tile within this grease for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on this grease, the effects of all forced movement other than teleportation is doubled.
 
 ## Instant Disguise
 
@@ -182,7 +182,7 @@ The trick explodes in a shower of slippery grease, coating the ground around it 
 
 </div>
 
-As the air shimmers, the appearance of the creatures hear the trick's explosion suddenly take on new appearances. When detonated, all creatures within a 10 foot radius around the trick take on the appearance of your choice for the duration of this effect. This cannot change the sound, scent or general shape or size of the affected creature, but is impossible to detect via visual inspection. You must succeed on a Presence (Charm) skill check, typically opposed by Focus (Humanities) or Focus (Insight), in order to convince people of your new identity if you speak or are observed for any extended period of time.
+As the air shimmers, the appearance of the creatures hear the trick's explosion suddenly take on new appearances. When detonated, all creatures within a 2 tile radius around the trick take on the appearance of your choice for the duration of this effect. This cannot change the sound, scent or general shape or size of the affected creature, but is impossible to detect via visual inspection. You must succeed on a Presence (Charm) skill check, typically opposed by Focus (Humanities) or Focus (Insight), in order to convince people of your new identity if you speak or are observed for any extended period of time.
 
 You must hit unwilling creatures with an Expertise attack in order to disguise them.
 
@@ -204,7 +204,7 @@ You must hit unwilling creatures with an Expertise attack in order to disguise t
 
 </div>
 
-The trick explodes in a shower of invisible fluid, damp and messy that renders anything that it touches invisible as well. When detonated, all creatures and objects within a 10 foot radius around the trick become invisible for the duration of this trick. This effect breaks on all creatures affected immediately after any creature affected makes an attack.
+The trick explodes in a shower of invisible fluid, damp and messy that renders anything that it touches invisible as well. When detonated, all creatures and objects within a 2 tile radius around the trick become invisible for the duration of this trick. This effect breaks on all creatures affected immediately after any creature affected makes an attack.
 
 ## Now You Don't
 
@@ -224,7 +224,7 @@ The trick explodes in a shower of invisible fluid, damp and messy that renders a
 
 </div>
 
-With a small puff of smoke, every creature near your trick suddenly vanishes, before reappearing moments later somewhere completely different. When detonated, make an Expertise attack against all creatures with a 10 foot radius around the trick. Creatures that you hit are teleported to a location of your choice within 6 tiles, with the same positioning relative to other creatures in the group. Creatures teleported in this way also become invisible until the start of your next turn. This invisibility breaks on each creature separately immediately after they make an attack.
+With a small puff of smoke, every creature near your trick suddenly vanishes, before reappearing moments later somewhere completely different. When detonated, make an Expertise attack against all creatures with a 2 tile radius around the trick. Creatures that you hit are teleported to a location of your choice within 6 tiles, with the same positioning relative to other creatures in the group. Creatures teleported in this way also become invisible until the start of your next turn. This invisibility breaks on each creature separately immediately after they make an attack.
 
 ## Over Here!
 
@@ -264,7 +264,7 @@ With a puff of smoke you vanish, suddenly reappearing where your trick detonated
 
 </div>
 
-The trick explodes in a blinding flash of light, causing those nearby to drop their guard for just a moment. When detonated, make an Expose attack against all creatures with a 10 foot radius around the trick. You may be the beneficiary of any Expose attacks made in this manner. The worldspeaker may select the beneficiary of any Expose attacks that you land on your allies in this way.
+The trick explodes in a blinding flash of light, causing those nearby to drop their guard for just a moment. When detonated, make an Expose attack against all creatures with a 2 tile radius around the trick. You may be the beneficiary of any Expose attacks made in this manner. The worldspeaker may select the beneficiary of any Expose attacks that you land on your allies in this way.
 
 ## Poof!
 
@@ -284,7 +284,7 @@ The trick explodes in a blinding flash of light, causing those nearby to drop th
 
 </div>
 
-With a shower of sparkles, all creatures near where your trick was momements before vanish into thin air, before returning to reality a few seconds later. When detonated, make an Expertise attack against all creatures with a 10 foot radius around the trick. If you hit, apply two stacks of banished.
+With a shower of sparkles, all creatures near where your trick was momements before vanish into thin air, before returning to reality a few seconds later. When detonated, make an Expertise attack against all creatures with a 2 tile radius around the trick. If you hit, apply two stacks of banished.
 
 ## Pure Chaos
 
@@ -304,7 +304,7 @@ With a shower of sparkles, all creatures near where your trick was momements bef
 
 </div>
 
-A wild explosion of baffling emotions and senseless frustration bursts forth from the trick, sparking fights all around it. When detonated, make a Presence attack against all creatures with a 10 foot radius around the trick. If you hit, apply two stacks of crazed.
+A wild explosion of baffling emotions and senseless frustration bursts forth from the trick, sparking fights all around it. When detonated, make a Presence attack against all creatures with a 2 tile radius around the trick. If you hit, apply two stacks of crazed.
 
 ## Pyrotechnics
 
@@ -324,7 +324,7 @@ A wild explosion of baffling emotions and senseless frustration bursts forth fro
 
 </div>
 
-Magical fire ignites from the trick, covering the floor in a brilliant blaze. When detonated, a 10 foot radius around the trick is set ablaze for the duration of this trick. The area is filled with bright light for the duration of the effect, and an additional 20 foot radius around it is filled with dim light. Whenever a creature begins their turn in this firey ground effect, or enters it for the first time in their turn, apply 3 + ½ Presence stacks of aflame to them.
+Magical fire ignites from the trick, covering the floor in a brilliant blaze. When detonated, a 2 tile radius around the trick is set ablaze for the duration of this trick. The area is filled with bright light for the duration of the effect, and an additional 4 tile radius around it is filled with dim light. Whenever a creature begins their turn in this firey ground effect, or enters it for the first time in their turn, apply 3 + ½ Presence stacks of aflame to them.
 
 ## Smelling Salts
 
@@ -344,7 +344,7 @@ Magical fire ignites from the trick, covering the floor in a brilliant blaze. Wh
 
 </div>
 
-A bitter smell wafts forth from the trick, curing nearby creatures of temporary ailments. When detonated, gain the benefit of the Treat minor action targeting all creatures within a 10 foot radius around the trick. You do not have disadvantage on this skill check due to using the Treat minor action on yourself.
+A bitter smell wafts forth from the trick, curing nearby creatures of temporary ailments. When detonated, gain the benefit of the Treat minor action targeting all creatures within a 2 tile radius around the trick. You do not have disadvantage on this skill check due to using the Treat minor action on yourself.
 
 ## Smoke Bomb
 
@@ -364,7 +364,7 @@ A bitter smell wafts forth from the trick, curing nearby creatures of temporary 
 
 </div>
 
-A thick cloud of colored smoke pours forth from this trick, lingering as it blocks all vision of the area. When detonated, a 10 foot radius around the trick becomes heavily shrouded for the duration of this trick.
+A thick cloud of colored smoke pours forth from this trick, lingering as it blocks all vision of the area. When detonated, a 2 tile radius around the trick becomes heavily shrouded for the duration of this trick.
 
 ## Soothing Vapours
 
@@ -384,7 +384,7 @@ A thick cloud of colored smoke pours forth from this trick, lingering as it bloc
 
 </div>
 
-Calming pink fog pours forth from the trick, creating an intensely restful sensation for all nearby. When detonated, make a Focus attack against all creatures with a 10 foot radius around the trick. If you hit, apply two stacks of pacified.
+Calming pink fog pours forth from the trick, creating an intensely restful sensation for all nearby. When detonated, make a Focus attack against all creatures with a 2 tile radius around the trick. If you hit, apply two stacks of pacified.
 
 ## Spikestravaganza
 
@@ -404,7 +404,7 @@ Calming pink fog pours forth from the trick, creating an intensely restful sensa
 
 </div>
 
-The trick explodes in a dangerous shower of spiky caltrops, forcing anyone passing through the area they land in to walk incredibly carefully or suffer serious harm. When detonated, a 10 foot radius around the trick becomes covered in caltrops for the duration of this trick. The first time during their turn that a creature attempts to spend movement to pass through this ground effect, make an Agility attack against them. If you hit, apply 6 + Presence stacks of bleeding to them.
+The trick explodes in a dangerous shower of spiky caltrops, forcing anyone passing through the area they land in to walk incredibly carefully or suffer serious harm. When detonated, a 2 tile radius around the trick becomes covered in caltrops for the duration of this trick. The first time during their turn that a creature attempts to spend movement to pass through this ground effect, make an Agility attack against them. If you hit, apply 6 + Presence stacks of bleeding to them.
 
 ## Superior Glue
 
@@ -424,7 +424,7 @@ The trick explodes in a dangerous shower of spiky caltrops, forcing anyone passi
 
 </div>
 
-An incredibly durable and sticky glue spills forth from the trip, coating everything nearby. When detonated, a 10 foot radius around the trick becomes covered in glue for the duration of this trick and is partially obscured. Whenever a creature begins their turn in this ground effect or enters it for the first time in their turn, make a Prowess attack against them. If you hit, apply one stack of rooted to them.
+An incredibly durable and sticky glue spills forth from the trip, coating everything nearby. When detonated, a 2 tile radius around the trick becomes covered in glue for the duration of this trick and is partially obscured. Whenever a creature begins their turn in this ground effect or enters it for the first time in their turn, make a Prowess attack against them. If you hit, apply one stack of rooted to them.
 
 ## Surprise!
 
@@ -444,7 +444,7 @@ An incredibly durable and sticky glue spills forth from the trip, coating everyt
 
 </div>
 
-A huge burst of air explodes from your trick, knocking those nearby back with incredible force. When detonated, make a Prowess attack against all creatures in a 10 foot radius around the trick. If you hit, knock the affected creature back 4 tiles away from the trick. Creatures caught within the blast that you missed are knocked back 2 tiles instead.
+A huge burst of air explodes from your trick, knocking those nearby back with incredible force. When detonated, make a Prowess attack against all creatures in a 2 tile radius around the trick. If you hit, knock the affected creature back 4 tiles away from the trick. Creatures caught within the blast that you missed are knocked back 2 tiles instead.
 
 ## Trick-or-Treat
 
@@ -464,4 +464,4 @@ A huge burst of air explodes from your trick, knocking those nearby back with in
 
 </div>
 
-A horrifying illusion pops forth from your trick, terrifying those nearby. When detonated, make an Expertise attack against all creatures with a 10 foot radius around the trick. If you hit, apply two stacks of frightened, with the previous location of the trick as the object of the fear.
+A horrifying illusion pops forth from your trick, terrifying those nearby. When detonated, make an Expertise attack against all creatures with a 2 tile radius around the trick. If you hit, apply two stacks of frightened, with the previous location of the trick as the object of the fear.

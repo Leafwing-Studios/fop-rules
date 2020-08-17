@@ -42,7 +42,7 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 </div>
 
-A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
+A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile wide by 24 tile long line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
@@ -108,9 +108,9 @@ If you have at least 4 stacks of air exposure, the absorption gained increases t
 
 </div>
 
-As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 15 foot radius cone. If you hit, deal 1d4 + Presence air damage and apply one stack of defenseless.
+As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence air damage and apply one stack of defenseless.
 
-If you have at least 4 stacks of air exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
+If you have at least 4 stacks of air exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 
 ### Wind Step
 

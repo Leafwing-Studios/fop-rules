@@ -74,7 +74,7 @@ Each set of arms may only hold one charged spell at a time. Casting any further 
 
 You learn 4 spells at level 1, each of which takes a minor action and costs 1 essence. You learn an additional spell at level 4, 8, 12, 16 and 19. Select these from the Spells section at the end of this class description.
 
-These spells can also be cast on their own, directly at the target, with a 20 foot range, and using the attack roll specified in the spell description.
+These spells can also be cast on their own, directly at the target, with a 4 tile range, and using the attack roll specified in the spell description.
 
 ## Mastery: Weaponry
 

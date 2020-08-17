@@ -181,9 +181,9 @@ At level 14, your knowledge of the push and pull of elemental forces allows you 
 
 At level 15, you are able to carefully focus your outbursts of magical energy. When you use your Detonation feature, select one of the following shapes for the effect:
 
-- a 10-foot radius sphere centered on yourself
-- a 20-foot cone centered on yourself, in a direction of your choosing
-- a 40-foot x 5 foot line, starting at yourself, in a direction of your choosing
+- a 2 tile radius sphere centered on yourself
+- a 4 tile cone centered on yourself, in a direction of your choosing
+- a 8 tile by 1 tile line, starting at yourself, in a direction of your choosing
 
 ## Fusion
 
@@ -265,11 +265,11 @@ If you are level 18 or higher, the duration of this spell is increased to one da
 
 Twisting and warping stone, you bend it to your will. Select up to 4 contingent tiles of your choice within range that are made in either whole or part of stone (including brick and so on). They permanently become difficult terrain. You may also use this spell to eliminate difficult terrain if it is caused by uneven stony ground or a similar phenomenon.
 
-You may also use this spell to slowly carve away at stone, at the cost of 3 uses of this spell per five foot cube altered. This can be used to create stairs, slowly dig a tunnel or a hole through a wall. You have advantage on any Craftsmanship skill check when you use this spell to help you shape stone.
+You may also use this spell to slowly carve away at stone, at the cost of 3 uses of this spell per one-tile cube altered. This can be used to create stairs, slowly dig a tunnel or a hole through a wall. You have advantage on any Craftsmanship skill check when you use this spell to help you shape stone.
 
-If you are level 10 or higher, you can also slowly create stone, up to a five-foot cube per 3 uses of this spell. This might be a barricade, repairing a bridge or creating a small defensive structure as a downtime activity.
+If you are level 10 or higher, you can also slowly create stone, up to one-tile cube per 3 uses of this spell. This might be a barricade, repairing a bridge or creating a small defensive structure as a downtime activity.
 
-If you are level 18 or higher, you can twist stone much more quickly, literally moving mountains with enough time. You may affect up to 9 tiles at once with a single use of this spell. You may now add or remove stone from up to 5 five foot cubes per use of this spell, letting you create elaborate structures as a downtime activity.
+If you are level 18 or higher, you can twist stone much more quickly, literally moving mountains with enough time. You may affect up to 9 tiles at once with a single use of this spell. You may now add or remove stone from up to 5 five one-tile cubes per use of this spell, letting you create elaborate structures as a downtime activity.
 
 ### Detonation: Sandstorm Detonation
 
@@ -323,7 +323,7 @@ If you have at least 4 stacks of cold exposure, apply 2 stacks of chilled to bot
 
 With a flick of the wrist, you are able to spread or control fires at will. If there is an open source of flame within range, you can spread it to another object or creature within range. If you select a creature, you must make an Agility attack against them, applying 6 + Presence stacks of aflame to them if you hit.
 
-You may also extinguish a small fire of your choice within range that affects up to a 5 foot cube with this spell. If you use this spell on a creature, remove all stacks of aflame from that creature.
+You may also extinguish a small fire of your choice within range that affects up to a one-tile cube with this spell. If you use this spell on a creature, remove all stacks of aflame from that creature.
 
 If you are level 10 or higher, you can cause a fire that you target or spread in this way to burn indefinitely, no longer requiring fuel although it can still be deliberately extinguished.
 
@@ -347,13 +347,13 @@ If you are level 18 or higher, you can cause a fire that you target or spread in
 
 </div>
 
-With a pointed finger, you can freeze water solid, allowing you to walk on formerly solid bodies of water or turn puddles into ice slicks. Each time you use this spell, you may cause a 5 foot cube of solid water to turn to ice, or cause up to 3 contiguous tiles that have water on them to turn into an ice slick.
+With a pointed finger, you can freeze water solid, allowing you to walk on formerly solid bodies of water or turn puddles into ice slicks. Each time you use this spell, you may cause a one-tile cube of solid water to turn to ice, or cause up to 3 contiguous tiles that have water on them to turn into an ice slick.
 
 When you do so, create a patch of ice as a ground effect. Whenever a creature starts their turn on this ice or enters it for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on the ice, the effects of forced movement are doubled.
 
 The ice remains frozen until after you complete your next rest.
 
-If you are level 10 or higher, you can sculpt ice into useful, if temporary objects. Doing so requires a successful Expertise (Craftsmanship) skill check. You may create any mundane object that could plausibly be made of ice when you cast this spell (for example, you cannot create rope, torches, chalk, medicinal herbs or a key that you have no idea what it looks like). You can only sculpt up to a 5 foot cube of ice per casting of this spell.
+If you are level 10 or higher, you can sculpt ice into useful, if temporary objects. Doing so requires a successful Expertise (Craftsmanship) skill check. You may create any mundane object that could plausibly be made of ice when you cast this spell (for example, you cannot create rope, torches, chalk, medicinal herbs or a key that you have no idea what it looks like). You can only sculpt up to a one-tile cube of ice per casting of this spell.
 
 If you are level 18 or higher, you can cause the water in the air to condense, and no longer need a source of water to create this effect.
 
@@ -673,9 +673,9 @@ If you are level 18 or higher, you are able to carefully manipulate essence and 
 
 Acid drips and bubbles as it reveals weaknesses of all sorts. Select a creature or object within range. When you use this spell against a creature, make an Expose attack against them with advantage. When you use this spell against an object, you have advantage on the next skill check made in the next ten minutes to break or destroy it.
 
-If you are level 10 or higher, you can slowly eat away at nonliving material that is not being held or worn by any creature, causing it to sizzle into dust. It takes five casts of this spell to obliterate a single 5-foot cube of solid material.
+If you are level 10 or higher, you can slowly eat away at nonliving material that is not being held or worn by any creature, causing it to sizzle into dust. It takes five casts of this spell to obliterate a single one-tile cube of solid material.
 
-If you are level 18 or higher, it takes only a single copy of this spell to obliterate a 5-foot cube of material.
+If you are level 18 or higher, it takes only a single copy of this spell to obliterate a one-tile cube of material.
 
 ### Detonation: Surgebreaker Detonation
 

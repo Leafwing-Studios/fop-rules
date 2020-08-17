@@ -240,7 +240,7 @@ Creatures in tiles that are flooded with junk suffer no harmful effects. Clearin
 
 ### Reality Weaving: Create
 
-At 6th level, you learn to carefully unwind matter, erasing it as if it had never even existed. You gain access to the Create downtime activity. When you use this, you may freely create nonliving, nonmagical matter of any sort that you desire, as long as it fits in a 30 foot cube. Making items that require a degree of skill, such as glass, weapons, structural masonry or the like requires an appropriate Expertise (Craftsmanship) skill check.
+At 6th level, you learn to carefully unwind matter, erasing it as if it had never even existed. You gain access to the Create downtime activity. When you use this, you may freely create nonliving, nonmagical matter of any sort that you desire, as long as it fits in a 6 tile cube. Making items that require a degree of skill, such as glass, weapons, structural masonry or the like requires an appropriate Expertise (Craftsmanship) skill check.
 
 In addition, you have advantage on all skill checks made during the Craft downtime activity and never need to roll on the supplies die during it.
 
@@ -261,7 +261,7 @@ If a creature wishes to destroy this object, they must spend a minor action and 
 
 ### World Weaving: A Whole New World
 
-At level 18, you are able to weave incredible creations into existence, creating whole buildings overnight, or the food to feed a whole population. You may now affect up to a 300 foot cube of material with your Create downtime activity.
+At level 18, you are able to weave incredible creations into existence, creating whole buildings overnight, or the food to feed a whole population. You may now affect up to a 60 tile cube of material with your Create downtime activity.
 
 ## Tapestry
 
@@ -351,7 +351,7 @@ Your target begins to slip from existence, their threads slowly unwinding. Selec
 
 ### Reality Weaving: Unweave
 
-At 6th level, you learn to carefully unwind matter, erasing it as if it had never even existed. You gain access to the Unweave downtime activity. When you use this, you may permanently annihilate any nonliving matter that you can freely work on, as long as it fits in a 30 foot cube. This is a careful and deliberate process: you could use this to annihilate a chest but not its contents, a door but not the supporting wall, or even create sculptures with it.
+At 6th level, you learn to carefully unwind matter, erasing it as if it had never even existed. You gain access to the Unweave downtime activity. When you use this, you may permanently annihilate any nonliving matter that you can freely work on, as long as it fits in a 6-tile cube. This is a careful and deliberate process: you could use this to annihilate a chest but not its contents, a door but not the supporting wall, or even create sculptures with it.
 
 In addition, you have advantage on all skill checks made during the Disenchant downtime activity.
 
@@ -368,4 +368,4 @@ Duration: Until the start of your next turn
 
 Threads of magic begin to come undone as the Weave shies away from a creature of your choice within range. At the end of each of your turns, make a Focus attack against them. If you hit, apply two stacks of cursed..
 World Weaving: Mass Annihilation
-At level 18, your ability to carefully unweave existence is terrifying and world-shaking, letting you snip whole buildings or locations out of the fabric of reality. You may now affect up to a 300 foot cube of material with your Unweave downtime activity.
+At level 18, your ability to carefully unweave existence is terrifying and world-shaking, letting you snip whole buildings or locations out of the fabric of reality. You may now affect up to a 60-tile cube of material with your Unweave downtime activity.

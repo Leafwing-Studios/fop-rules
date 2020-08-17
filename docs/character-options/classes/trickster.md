@@ -89,7 +89,7 @@ This effect can recur indefinitely. If you are rolling multiple dice, you do not
 
 At level 1, Tricksters learn to use tricks, which create strange and useful short-range magical effects.
 
-You may lob or place a selected trick at a location within 3 tiles as a minor action. It detonates at the start of your next turn, typically affecting a 10 foot radius around itself.
+You may lob or place a selected trick at a location within 3 tiles as a minor action. It detonates at the start of your next turn, typically affecting a 2 tile radius around itself.
 
 Immediately after you use a trick, make a difficulty 10 Presence (Trickery) skill check with advantage. If you fail, your bag of tricks is empty and you cannot use this feature again until you complete a rest.
 

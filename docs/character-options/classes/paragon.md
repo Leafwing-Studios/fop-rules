@@ -118,7 +118,7 @@ See the Leveling Up section in the Narrative Mechanics chapter for a reminder of
 
 ## Sanctify
 
-At level 6, you are able to call for an enforced peace through the strength of your belief. You gain access to the Sanctify downtime activity, and can cause a 60 foot radius centered at your location to become the site of an enforced peace. Until the end of your next rest, all attacks made by or against creatures within this area automatically miss, as if repelled by an invisible force.
+At level 6, you are able to call for an enforced peace through the strength of your belief. You gain access to the Sanctify downtime activity, and can cause a 12 tile radius centered at your location to become the site of an enforced peace. Until the end of your next rest, all attacks made by or against creatures within this area automatically miss, as if repelled by an invisible force.
 
 ## Stand Proud
 
