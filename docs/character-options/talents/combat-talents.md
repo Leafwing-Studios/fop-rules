@@ -200,7 +200,7 @@ After you hit a creature with a single-target attack, you may shift them once.
 
 ### Rough
 
-When you hit a creature with a Shove attack, you may choose to push them into any empty tile within your zone of control, rather than a tile within 5 feet of their previous position.
+When you hit a creature with a Shove attack, you may push them up to two tiles instead of one.
 
 ## Guardian
 
