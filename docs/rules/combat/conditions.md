@@ -6,6 +6,7 @@ Conditions stack in duration. While you have at least one stack of a particular 
 
 While aloft:
 
+- You do not take falling damage.
 - Melee attacks that you make have disadvantage.
 - The efficacy of forced movement applied to you is doubled.
 - You can pass through enemy tiles, and enemies can pass through your tiles.

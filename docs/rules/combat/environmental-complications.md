@@ -1,14 +1,17 @@
 # Environmental Complications
 
 ## Ground Effects
+
 Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground. These are collectively referred to as **ground effects.** As you might expect, flying creatures ignore ground effects.
 
 The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions or unsteady footing or the like. While on difficult terrain:
-* It costs twice as much movement as usual to travel.
-* Forced movement against you is half as effective.
-Forced movement (other than teleportation) is half as effective on difficult terrain. Due to the standard rounding rules, forced movement that only moves creatures 5 feet does not move them at all if they are on a tile that contains difficult terrain.
+
+- It costs twice as much movement as usual to travel.
+- Forced movement against you is half as effective.
+  Forced movement (other than teleportation) is half as effective on difficult terrain. Due to the standard rounding rules, forced movement that only moves creatures 5 feet does not move them at all if they are on a tile that contains difficult terrain.
 
 ## Visibility and Cover
+
 In Fonts of Power, there are three levels of **visibility** that describe how well you can see other creatures or objects: **clear, obscured** and **invisible.** These descriptors are determined on the basis of both the character attempting to see and the target that is being seen: covering your eyes with your hands makes everyone else invisible to you, but not to anyone else.
 
 If your target is clear, everything works normally. If they are obscured, you have disadvantage on all skill checks involving sight (typically Focus (Perception)). If they are invisible, you automatically fail any skill checks involving sight, have disadvantages on all basic attacks against them and they have advantage on all basic attacks against you. In addition, if you do not have another way to tell where an invisible creature is (such as the fact that they are making noise or shooting arrows), you must guess which tile they are in. You may use the Scan minor action to make a Focus (Perception) skill check opposed by their Agility (Stealth) skill in order to attempt to determine this if they are attempting to conceal their position (and you have any reasonable way to work this out.
@@ -24,27 +27,34 @@ Intervening creatures do not grant cover unless they are at least one tile large
 In general, when a creature is behind partial cover, they are obscured to you, and when a creature is behind full cover, they are also invisible to you. Transparent objects, such as windows or shimmering walls of force are an obvious exception to this. Unless specifically stated, you do not need to be able to see creatures in order to target them with an attack.
 
 ## Height Tiers
+
 Sometimes, cover takes the form of objects that can be climbed on, such as boulders, furniture or terraced gardens. When this is the case, treat these environments as having several tiers of height.
 
 Creatures must spend half their movement to travel safely between adjacent **height tiers.**
-* Creatures that are flying only need to spend one quarter of their movement to travel between height tiers. 
-* Teleportation between tiers incurs no extra cost.
 
-Attacks have different types of cover depending on the relative positioning of the combatants. 
+- Creatures that are flying only need to spend one quarter of their movement to travel between height tiers.
+- Teleportation between tiers incurs no extra cost.
+
+Attacks have different types of cover depending on the relative positioning of the combatants.
 
 When a higher tier is in-between the two combatants:
-* If the defender is prone, they have full cover.
-* If the obstacle is one tier higher than the attacker’s position, the defender has partial cover.
-* If the obstacle is two or more tiers higher than the attacker’s position, the defender has full cover.
+
+- If the defender is prone, they have full cover.
+- If the obstacle is one tier higher than the attacker’s position, the defender has partial cover.
+- If the obstacle is two or more tiers higher than the attacker’s position, the defender has full cover.
 
 When the combatants are at different height tiers:
-* Melee attacks between adjacent height tiers have disadvantage.
-* Melee attacks between non-adjacent height tiers are impossible.
-* When the creature on the higher tier is on the relevant edge of their tier, no cover is granted. 
-* When the creature on the higher tier is one tile back from the relevant edge of their tier, both creatures have partial cover.
-* When the creature on the higher tier is one tile back from the relevant edge of their tier, both creatures have full cover.
+
+- Melee attacks between adjacent height tiers have disadvantage.
+- Melee attacks between non-adjacent height tiers are impossible.
+- When the creature on the higher tier is on the relevant edge of their tier, no cover is granted.
+- When the creature on the higher tier is one tile back from the relevant edge of their tier, both creatures have partial cover.
+- When the creature on the higher tier is one tile back from the relevant edge of their tier, both creatures have full cover.
 
 ### Falling {docsify-ignore}
+
 When falling from a higher tier to a lower one, characters take damage based on the height fallen. Jumping down to another tier inflicts falling damage but does not cost extra movement.
 
 Falling deals 3d6 physical damage for each height tier that you fall, reduced by the result of an Agility (Athletics) skill check. For example, falling from the 3rd tier in an area, to the bottom (0th) tier would incur 9d6 physical damage. If you rolled a 13 on your skill check, the total damage would be 9d6 - 13.
+
+Creatures that are flying or aloft do not take falling damage.
