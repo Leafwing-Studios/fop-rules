@@ -90,6 +90,6 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 |  5   | Secretarial work.                                   |
 |  6   | Politics.                                           |
 
-**Lightweight:** Your movement speed is increased by 10 feet.
+**Lightweight:** Your movement speed is increased by 2 tiles.
 
 **Tactful:** You are proficient in Charm.

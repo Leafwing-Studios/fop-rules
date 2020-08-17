@@ -66,7 +66,7 @@
 
 ## Auras
 
-Paragons radiate confidence to all around them: **auras** are the tangible manifestation of this. At level 1, you learn to **Prime** an aura as a minor action. The first time during your turn that you hit a creature with an attack, you may spend 1 essence to trigger it, providing an effect to either all allies or all enemies within 10 feet of you. The effects caused by auras are either instant or last until the end of your next turn. Priming a new aura replaces your previous one.
+Paragons radiate confidence to all around them: **auras** are the tangible manifestation of this. At level 1, you learn to **Prime** an aura as a minor action. The first time during your turn that you hit a creature with an attack, you may spend 1 essence to trigger it, providing an effect to either all allies or all enemies within 2 tiles of you. The effects caused by auras are either instant or last until the end of your next turn. Priming a new aura replaces your previous one.
 
 ## Cause
 
@@ -122,7 +122,7 @@ At level 6, you are able to call for an enforced peace through the strength of y
 
 ## Stand Proud
 
-At 7th level, Paragons stand above the fray, drawing enemy attention with their leadership and pride. As a minor action at the cost of 1 essence, you may attempt to Provoke a creature of your choice within 30 feet of you, making a Presence attack against it. If you hit, apply a number of stacks of the taunted condition equal to your Presence (minimum of 1).
+At 7th level, Paragons stand above the fray, drawing enemy attention with their leadership and pride. As a minor action at the cost of 1 essence, you may attempt to Provoke a creature of your choice within 6 tiles of you, making a Presence attack against it. If you hit, apply a number of stacks of the taunted condition equal to your Presence (minimum of 1).
 
 ## Unassailable
 
@@ -139,7 +139,7 @@ At level 11, your blows inspire and guide your allies, highlighting weaknesses i
 
 ## Battlefield Beacon
 
-Upon reaching 13th level, you are able to project your force of belief across the entire battlefield, extending the range of your auras. Whenever you activate an aura, you may pay 1 additional essence, causing it to affect creatures within 60 feet, rather than the usual 10 feet.
+Upon reaching 13th level, you are able to project your force of belief across the entire battlefield, extending the range of your auras. Whenever you activate an aura, you may pay 1 additional essence, causing it to affect creatures within 12 tiles, rather than the usual 2 tiles.
 
 ## Armistice
 
@@ -147,7 +147,7 @@ At level 14, you are able to immediately put an end to combat, and force the com
 
 ## Stand with Me
 
-At level 15, your allies share in your strength as you hold the line against impossible odds. Whenever you use your Hold Your Ground subclass feature by sacrificing your movement for the turn, allies within 10 feet may choose to give up their movement until the end of their next turn in order to also gain its benefit.
+At level 15, your allies share in your strength as you hold the line against impossible odds. Whenever you use your Hold Your Ground subclass feature by sacrificing your movement for the turn, allies within 2 tiles may choose to give up their movement until the end of their next turn in order to also gain its benefit.
 
 ## Together as One
 

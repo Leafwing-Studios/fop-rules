@@ -55,28 +55,28 @@
 
 <div class="class-table">
 
-| Level | Proficiency Bonus |                     Features                    | Prayers Known |
-|:-----:|:-----------------:|-------------------------------------------------|:-------------:|
-|   1   |         +1        | Prayer, Offering, Devotion: Consequences        |       4       |
-|   2   |         +1        | Rituals, Benediction                            |       4       |
-|   3   |         +1        | Rebuke, Respite                                 |       4       |
-|   4   |         +1        | Attribute Improvement                           |       5       |
-|   5   |         +2        | Proficiency Bonus Improvement, Good Deeds       |       5       |
-|   6   |         +2        | Devotion: Augury                                |       5       |
-|   7   |         +2        | As a Lamb Among Wolves                          |       5       |
-|   8   |         +2        | Attribute Improvement                           |       6       |
-|   9   |         +3        | Proficiency Bonus Improvement, Steadfast        |       6       |
-|   10  |         +3        | Ritual Leader                                   |       6       |
-|   11  |         +3        | Desperate Plea                                  |       6       |
-|   12  |         +3        | Attribute Improvement                           |       7       |
-|   13  |         +4        | Proficiency Bonus Improvement, Combined Miracle |       7       |
-|   14  |         +4        | Evangelism                                      |       7       |
-|   15  |         +4        | Chastise                                        |       7       |
-|   16  |         +4        | Attribute Improvement                           |       8       |
-|   17  |         +5        | Proficiency Bonus Improvement, Inscrutable      |       8       |
-|   18  |         +5        | Privileged Information                          |       8       |
-|   19  |         +5        | Attribute Improvement                           |       9       |
-|   20  |         +5        | Favored                                         |       9       |
+| Level | Proficiency Bonus | Features                                        | Prayers Known |
+| :---: | :---------------: | ----------------------------------------------- | :-----------: |
+|   1   |        +1         | Prayer, Offering, Devotion: Consequences        |       4       |
+|   2   |        +1         | Rituals, Benediction                            |       4       |
+|   3   |        +1         | Rebuke, Respite                                 |       4       |
+|   4   |        +1         | Attribute Improvement                           |       5       |
+|   5   |        +2         | Proficiency Bonus Improvement, Good Deeds       |       5       |
+|   6   |        +2         | Devotion: Augury                                |       5       |
+|   7   |        +2         | As a Lamb Among Wolves                          |       5       |
+|   8   |        +2         | Attribute Improvement                           |       6       |
+|   9   |        +3         | Proficiency Bonus Improvement, Steadfast        |       6       |
+|  10   |        +3         | Ritual Leader                                   |       6       |
+|  11   |        +3         | Desperate Plea                                  |       6       |
+|  12   |        +3         | Attribute Improvement                           |       7       |
+|  13   |        +4         | Proficiency Bonus Improvement, Combined Miracle |       7       |
+|  14   |        +4         | Evangelism                                      |       7       |
+|  15   |        +4         | Chastise                                        |       7       |
+|  16   |        +4         | Attribute Improvement                           |       8       |
+|  17   |        +5         | Proficiency Bonus Improvement, Inscrutable      |       8       |
+|  18   |        +5         | Privileged Information                          |       8       |
+|  19   |        +5         | Attribute Improvement                           |       9       |
+|  20   |        +5         | Favored                                         |       9       |
 
 </div>
 
@@ -269,7 +269,7 @@ Seeking power at any cost, those devoted to Malevolent entities are both respect
 
 ### Consequences: Power at a Price
 
-At level 1, when the Devout of a Malevolent deity fails a Favor check, they are granted the power they seek but at a great cost. You cast the Miracle version of the prayer you selected, but a hostile or adversarial creature of the worldspeaker’s choice within 60 feet also gains the benefit of an identical prayer as well.
+At level 1, when the Devout of a Malevolent deity fails a Favor check, they are granted the power they seek but at a great cost. You cast the Miracle version of the prayer you selected, but a hostile or adversarial creature of the worldspeaker’s choice within 12 tiles also gains the benefit of an identical prayer as well.
 
 Like usual, they must maintain their concentration. If there is no appropriate adversary within range, nothing happens.
 

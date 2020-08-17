@@ -8,7 +8,7 @@
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -18,7 +18,7 @@
 
 </div>
 
-A strange thought takes root in the mind of those near your trick. When detonated, make a Presence attack against all creatures within 10 feet of the trick. You have disadvantage on this attack if you are in combat. If you hit, for the duration of this effect they are unshakably convinced that a single fact is true.
+A strange thought takes root in the mind of those near your trick. When detonated, make a Presence attack against all creatures within 2 tiles of the trick. You have disadvantage on this attack if you are in combat. If you hit, for the duration of this effect they are unshakably convinced that a single fact is true.
 
 Whenever the creature is presented with solid evidence that this fact is false, they may make a Focus (Insight) check opposed by your Expertise (Arcana) skill check to end the effect and recognize the truth. They have advantage on this skill check if they are in combat, and may make a new skill check whenever they are hit by an attack. This effect cannot modify or remove existing memories, but instead convinces the target to seek some alternate explanation for any discordant facts that they may know.
 
@@ -32,7 +32,7 @@ At the end of the duration of this effect, or if you miss with your attack, they
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -52,7 +52,7 @@ A deafening bang explodes from the trick, sending those nearby reeling. When det
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -72,7 +72,7 @@ Freezing cold water bursts forth from the trick, soaking those around it. When d
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -98,7 +98,7 @@ Creatures cannot take damage from this effect.
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -109,7 +109,7 @@ Creatures cannot take damage from this effect.
 </div>
 
 The trick explodes in a flash of light as suddenly two copies of each creature appear, leaving everyone uncertain about which one is real. When detonated:
-Make an illusory copy of each creature within 10 feet of the trick, which appears in empty tile(s) adjacent to the creature that they’re copying.
+Make an illusory copy of each creature within 2 tiles of the trick, which appears in empty tile(s) adjacent to the creature that they’re copying.
 
 Illusory copies act according to the wishes of the creature they are copying on their turns, and are capable of all of the same actions.
 
@@ -132,7 +132,7 @@ At the end of this effect, if the illusion has not yet been revealed, the affect
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -152,7 +152,7 @@ A strange substance wafts forth from the trick, driving everyone nearby into a r
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -172,7 +172,7 @@ The trick explodes in a shower of slippery grease, coating the ground around it 
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -194,7 +194,7 @@ You must hit unwilling creatures with an Expertise attack in order to disguise t
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -214,7 +214,7 @@ The trick explodes in a shower of invisible fluid, damp and messy that renders a
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -224,7 +224,7 @@ The trick explodes in a shower of invisible fluid, damp and messy that renders a
 
 </div>
 
-With a small puff of smoke, every creature near your trick suddenly vanishes, before reappearing moments later somewhere completely different. When detonated, make an Expertise attack against all creatures with a 10 foot radius around the trick. Creatures that you hit are teleported to a location of your choice within 30 feet, with the same positioning relative to other creatures in the group. Creatures teleported in this way also become invisible until the start of your next turn. This invisibility breaks on each creature separately immediately after they make an attack.
+With a small puff of smoke, every creature near your trick suddenly vanishes, before reappearing moments later somewhere completely different. When detonated, make an Expertise attack against all creatures with a 10 foot radius around the trick. Creatures that you hit are teleported to a location of your choice within 6 tiles, with the same positioning relative to other creatures in the group. Creatures teleported in this way also become invisible until the start of your next turn. This invisibility breaks on each creature separately immediately after they make an attack.
 
 ## Over Here!
 
@@ -234,7 +234,7 @@ With a small puff of smoke, every creature near your trick suddenly vanishes, be
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** None
 
@@ -254,7 +254,7 @@ With a puff of smoke you vanish, suddenly reappearing where your trick detonated
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -274,7 +274,7 @@ The trick explodes in a blinding flash of light, causing those nearby to drop th
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -294,7 +294,7 @@ With a shower of sparkles, all creatures near where your trick was momements bef
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -314,7 +314,7 @@ A wild explosion of baffling emotions and senseless frustration bursts forth fro
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -334,7 +334,7 @@ Magical fire ignites from the trick, covering the floor in a brilliant blaze. Wh
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -354,7 +354,7 @@ A bitter smell wafts forth from the trick, curing nearby creatures of temporary 
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -374,7 +374,7 @@ A thick cloud of colored smoke pours forth from this trick, lingering as it bloc
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -394,7 +394,7 @@ Calming pink fog pours forth from the trick, creating an intensely restful sensa
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -414,7 +414,7 @@ The trick explodes in a dangerous shower of spiky caltrops, forcing anyone passi
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -434,7 +434,7 @@ An incredibly durable and sticky glue spills forth from the trip, coating everyt
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -444,7 +444,7 @@ An incredibly durable and sticky glue spills forth from the trip, coating everyt
 
 </div>
 
-A huge burst of air explodes from your trick, knocking those nearby back with incredible force. When detonated, make a Prowess attack against all creatures in a 10 foot radius around the trick. If you hit, knock the affected creature back 20 feet away from the trick. Creatures caught within the blast that you missed are knocked back 10 feet instead.
+A huge burst of air explodes from your trick, knocking those nearby back with incredible force. When detonated, make a Prowess attack against all creatures in a 10 foot radius around the trick. If you hit, knock the affected creature back 4 tiles away from the trick. Creatures caught within the blast that you missed are knocked back 2 tiles instead.
 
 ## Trick-or-Treat
 
@@ -454,7 +454,7 @@ A huge burst of air explodes from your trick, knocking those nearby back with in
 
 **Cost:** 0 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 

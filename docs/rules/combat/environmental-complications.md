@@ -8,7 +8,7 @@ The most common ground effect is **difficult terrain,** which is difficult to cr
 
 - It costs twice as much movement as usual to travel.
 - Forced movement against you is half as effective.
-  Forced movement (other than teleportation) is half as effective on difficult terrain. Due to the standard rounding rules, forced movement that only moves creatures 5 feet does not move them at all if they are on a tile that contains difficult terrain.
+  Forced movement (other than teleportation) is half as effective on difficult terrain. Due to the standard rounding rules, forced movement that only moves creatures 1 tile does not move them at all if they are on a tile that contains difficult terrain.
 
 ## Visibility and Cover
 

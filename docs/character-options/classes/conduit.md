@@ -122,7 +122,7 @@ See the Leveling Up section in the Narrative Mechanics chapter for a reminder of
 
 Once you reach level 5, you learn to chain energy through your enemies as the magic leaps between them. Once per round when you use your Conduit Casting class feature and hit with an imbued basic attack or spell that was cast directly, you may choose to spend 1 additional essence to cause the magic to chain into another nearby target.
 
-Each new target must be within 10 feet of the previous one, and the chain can contain up to two targets total. Creatures can only be part of each chain once; you cannot return to them. You must hit targets beyond the first that the magic jumps to with the special attack specified in the spell description, even if you use this feature as part of an imbued basic attack.
+Each new target must be within 2 tiles of the previous one, and the chain can contain up to two targets total. Creatures can only be part of each chain once; you cannot return to them. You must hit targets beyond the first that the magic jumps to with the special attack specified in the spell description, even if you use this feature as part of an imbued basic attack.
 
 The total number of creatures hit in this chain increases to 3 at level 9, 4 at level 13 and 5 at level 17. You must pay one essence for each jump made.
 
@@ -152,7 +152,7 @@ When you reach level 11, you learn to recover gracefully from unexpected failure
 
 ## Arcing
 
-At level 13, your magic flows more readily between your targets. Your spells may now chain between creatures that are up to 20 feet away from the last creature in the chain, rather than being limited to 10 feet when you use the Buffer Overflow class feature.
+At level 13, your magic flows more readily between your targets. Your spells may now chain between creatures that are up to 4 tiles away from the last creature in the chain, rather than being limited to 2 tiles when you use the Buffer Overflow class feature.
 Mastery: Trinket
 Once you reach level 14, you learn to master a particular form of magical trinket, using it effortlessly. Choose a trinket with a gear point total of 1. You are attuned to it and gain its benefits without it counting against the gear point total of your trinkets.
 

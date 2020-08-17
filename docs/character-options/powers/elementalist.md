@@ -10,7 +10,7 @@
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -32,7 +32,7 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 120 feet
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -42,9 +42,9 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 </div>
 
-A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence air damage and knock them back 15 feet.
+A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
 
-If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
+If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
 ### Wind Burst
 
@@ -54,7 +54,7 @@ If you have at least 4 stacks of air exposure, the elemental energy bounces off 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -66,7 +66,7 @@ If you have at least 4 stacks of air exposure, the elemental energy bounces off 
 
 A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. If you miss, they suffer the effects at half efficacy.
 
-If you have at least 4 stacks of air exposure, the radius of the burst increases to 20 feet instead.
+If you have at least 4 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Wind Shell
 
@@ -86,7 +86,7 @@ If you have at least 4 stacks of air exposure, the radius of the burst increases
 
 </div>
 
-Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the end of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within 20 feet of you. If you hit, knock them back 20 feet. Those that you miss are still knocked back 10 feet. Multiple copies of this effect increase both the initial radius of this effect and the distance creates are knocked back.
+Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the end of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within 4 tiles of you. If you hit, knock them back 4 tiles. Those that you miss are still knocked back 2 tiles. Multiple copies of this effect increase both the initial radius of this effect and the distance creates are knocked back.
 
 If you have at least 4 stacks of air exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -98,7 +98,7 @@ If you have at least 4 stacks of air exposure, the absorption gained increases t
 
 **Cost:** 1 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -120,7 +120,7 @@ If you have at least 4 stacks of air exposure, make an attack against each other
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -130,9 +130,9 @@ If you have at least 4 stacks of air exposure, make an attack against each other
 
 </div>
 
-Vanishing into thin air, you appear a short distance away with a burst of air. Teleport up to 15 feet into an empty tile of your choice and make a Prowess attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
+Vanishing into thin air, you appear a short distance away with a burst of air. Teleport up to 3 tiles into an empty tile of your choice and make a Prowess attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
 
-If you have at least 4 stacks of air exposure, you can only teleport up to 5 feet, but you have advantage on the attack made after you teleport.
+If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport.
 
 ### Wind Tendrils
 
@@ -142,7 +142,7 @@ If you have at least 4 stacks of air exposure, you can only teleport up to 5 fee
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -188,7 +188,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -210,7 +210,7 @@ If you have at least 4 stacks of earth exposure, the absorption granted increase
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 120 feet
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -222,7 +222,7 @@ If you have at least 4 stacks of earth exposure, the absorption granted increase
 
 A crushing bolt of stone shoots forth from your weapon, flattening everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence earth damage and knock the creature hit prone.
 
-If you have at least 4 stacks of earth exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
+If you have at least 4 stacks of earth exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
 ### Stone Burst
 
@@ -232,7 +232,7 @@ If you have at least 4 stacks of earth exposure, the elemental energy bounces of
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -244,7 +244,7 @@ If you have at least 4 stacks of earth exposure, the elemental energy bounces of
 
 A heavy ball of stone whizzes through the air before exploding in a shower of rock. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence earth damage. If you miss, they suffer the effects at half efficacy.
 
-If you have at least 4 stacks of earth exposure, the radius of the burst increases to 20 feet instead.
+If you have at least 4 stacks of earth exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Stone Shell
 
@@ -276,7 +276,7 @@ If you have at least 4 stacks of earth exposure, the absorption gained increases
 
 **Cost:** 1 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -298,7 +298,7 @@ If you have at least 4 stacks of earth exposure, make an attack against each oth
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -308,9 +308,9 @@ If you have at least 4 stacks of earth exposure, make an attack against each oth
 
 </div>
 
-Vanishing into thin air, you appear a short distance away, surrounded by an earthen barrier. Teleport up to 15 feet into an empty tile of your choice and gain 3 + ½ Presence absorption.
+Vanishing into thin air, you appear a short distance away, surrounded by an earthen barrier. Teleport up to 3 tiles into an empty tile of your choice and gain 3 + ½ Presence absorption.
 
-If you have at least 4 stacks of earth exposure, you can only teleport up to 5 feet, but gain 6 + Presence absorption instead.
+If you have at least 4 stacks of earth exposure, you can only teleport up to 1 tile, but gain 6 + Presence absorption instead.
 
 ### Stone Tendrils
 
@@ -320,7 +320,7 @@ If you have at least 4 stacks of earth exposure, you can only teleport up to 5 f
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -366,7 +366,7 @@ If you have at least 4 stacks of earth exposure, you have disadvantage on the at
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -388,7 +388,7 @@ If you have at least 4 stacks of fire exposure, the absorption granted increases
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 120 feet
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -400,7 +400,7 @@ If you have at least 4 stacks of fire exposure, the absorption granted increases
 
 A searing bolt of flame shoots forth from your weapon, igniting everything in its path. Make an Agility attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence fire damage and apply 3 + ½ Presence stacks of aflame.
 
-If you have at least 4 stacks of fire exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
+If you have at least 4 stacks of fire exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
 ### Flame Burst
 
@@ -410,7 +410,7 @@ If you have at least 4 stacks of fire exposure, the elemental energy bounces off
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -422,7 +422,7 @@ If you have at least 4 stacks of fire exposure, the elemental energy bounces off
 
 A roaring ball of fire whizzes through the air before exploding in a spectacular incendiary display. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence fire damage. If you miss, they suffer the effects at half efficacy.
 
-If you have at least 4 stacks of fire exposure, the radius of the burst increases to 20 feet instead.
+If you have at least 4 stacks of fire exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Flame Shell
 
@@ -442,7 +442,7 @@ If you have at least 4 stacks of fire exposure, the radius of the burst increase
 
 </div>
 
-Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the end of your next turn, create a huge burst of billowing air. The first time that you lose life before the start of your next turn, make an Agility attack against all creatures within 20 feet of you, including yourself. If you hit, deal 1d6 + Presence fire damage. If you miss, they suffer the effects at half efficacy.
+Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the end of your next turn, create a huge burst of billowing air. The first time that you lose life before the start of your next turn, make an Agility attack against all creatures within 4 tiles of you, including yourself. If you hit, deal 1d6 + Presence fire damage. If you miss, they suffer the effects at half efficacy.
 
 If you have at least 4 stacks of fire exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -454,7 +454,7 @@ If you have at least 4 stacks of fire exposure, the absorption gained increases 
 
 **Cost:** 1 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -476,7 +476,7 @@ If you have at least 4 stacks of fire exposure, make an attack against each crea
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -486,9 +486,9 @@ If you have at least 4 stacks of fire exposure, make an attack against each crea
 
 </div>
 
-Vanishing into thin air, you appear a short distance away, propelled by a burst of flame. Teleport up to 15 feet into an empty tile of your choice and make an Agility attack against all other creatures within 5 feet of your original tile. If you hit, deal 1d4 + Presence fire damage.
+Vanishing into thin air, you appear a short distance away, propelled by a burst of flame. Teleport up to 3 tiles into an empty tile of your choice and make an Agility attack against all other creatures within 1 tile of your original tile. If you hit, deal 1d4 + Presence fire damage.
 
-If you have at least 4 stacks of fire exposure, you can only teleport up to 5 feet, but you have advantage on the attack made before you teleport.
+If you have at least 4 stacks of fire exposure, you can only teleport up to 1 tile, but you have advantage on the attack made before you teleport.
 
 ### Flame Tendrils
 
@@ -498,7 +498,7 @@ If you have at least 4 stacks of fire exposure, you can only teleport up to 5 fe
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -544,7 +544,7 @@ If you have at least 4 stacks of fire exposure, you have disadvantage on the att
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -566,7 +566,7 @@ If you have at least 4 stacks of water exposure, the absorption granted increase
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 120 feet
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -578,7 +578,7 @@ If you have at least 4 stacks of water exposure, the absorption granted increase
 
 A freezing bolt of ice shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence water damage and apply one stack of chilled.
 
-If you have at least 4 stacks of water exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
+If you have at least 4 stacks of water exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
 ### Frost Burst
 
@@ -588,7 +588,7 @@ If you have at least 4 stacks of water exposure, the elemental energy bounces of
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -600,7 +600,7 @@ If you have at least 4 stacks of water exposure, the elemental energy bounces of
 
 A gleaming ball of ice whizzes through the air before exploding in a shower of icicles. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence water damage. If you miss, they suffer the effects at half efficacy.
 
-If you have at least 4 stacks of water exposure, the radius of the burst increases to 20 feet instead.
+If you have at least 4 stacks of water exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Frost Shell
 
@@ -620,7 +620,7 @@ If you have at least 4 stacks of water exposure, the radius of the burst increas
 
 </div>
 
-Beautiful and fragile ice swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, the ice shatters into a shower of painful shards. Make an Agility attack against all creatures within 10 feet of you. If you hit, 3 + ½ Presence stacks of bleeding.
+Beautiful and fragile ice swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, the ice shatters into a shower of painful shards. Make an Agility attack against all creatures within 2 tiles of you. If you hit, 3 + ½ Presence stacks of bleeding.
 
 If you have at least 4 stacks of water exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -632,7 +632,7 @@ If you have at least 4 stacks of water exposure, the absorption gained increases
 
 **Cost:** 1 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -654,7 +654,7 @@ If you have at least 4 stacks of water exposure, make an attack against each oth
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -664,11 +664,11 @@ If you have at least 4 stacks of water exposure, make an attack against each oth
 
 </div>
 
-Vanishing into thin air, you appear a short distance away, leaving a slick of ice behind. Teleport up to 15 feet into an empty tile of your choice. Then, create a patch of ice as a ground effect in a 5 foot radius around the tile that you left behind. Whenever a creature starts their turn on this ice or enters it for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on the ice, the effects of forced movement are doubled.
+Vanishing into thin air, you appear a short distance away, leaving a slick of ice behind. Teleport up to 3 tiles into an empty tile of your choice. Then, create a patch of ice as a ground effect in a 5 foot radius around the tile that you left behind. Whenever a creature starts their turn on this ice or enters it for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on the ice, the effects of forced movement are doubled.
 
 This ice disappears at the end of your next turn.
 
-If you have at least 4 stacks of water exposure, you can only teleport up to 5 feet, but the ice persists until the end of your next rest instead.
+If you have at least 4 stacks of water exposure, you can only teleport up to 1 tile, but the ice persists until the end of your next rest instead.
 
 ### Frost Tendrils
 
@@ -678,7 +678,7 @@ If you have at least 4 stacks of water exposure, you can only teleport up to 5 f
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -724,7 +724,7 @@ If you have at least 4 stacks of water exposure, you have disadvantage on the at
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -746,7 +746,7 @@ If you have at least 4 stacks of arcane exposure, the absorption granted increas
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 120 feet
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -758,7 +758,7 @@ If you have at least 4 stacks of arcane exposure, the absorption granted increas
 
 A glimmering bolt of magical energy shoots forth from your weapon, blowing away everything in its path. Make a Focus attack against each creature in a 5 foot wide by 120 foot long line. If you hit, apply 6 + Presence stacks of unstable.
 
-If you have at least 4 stacks of arcane exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
+If you have at least 4 stacks of arcane exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
 ### Essence Burst
 
@@ -768,7 +768,7 @@ If you have at least 4 stacks of arcane exposure, the elemental energy bounces o
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -780,7 +780,7 @@ If you have at least 4 stacks of arcane exposure, the elemental energy bounces o
 
 A rainbow ball of pure magical energy whizzes through the air before exploding in a spectacular shower of glitter. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence arcane damage. If you miss, they suffer the effects at half efficacy.
 
-If you have at least 4 stacks of arcane exposure, the radius of the burst increases to 20 feet instead.
+If you have at least 4 stacks of arcane exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Essence Shell
 
@@ -812,7 +812,7 @@ If you have at least 4 stacks of arcane exposure, the absorption gained increase
 
 **Cost:** 1 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -834,7 +834,7 @@ If you have at least 4 stacks of arcane exposure, make an attack against each ot
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -844,9 +844,9 @@ If you have at least 4 stacks of arcane exposure, make an attack against each ot
 
 </div>
 
-Vanishing into thin air, you appear a short distance away, while another creature near you takes your previous place. Teleport up to 15 feet into an empty tile of your choice and make an Expertise attack against a creature of your choice within 5 feet of that tile. If you hit, they are teleported into the tile you just came from.
+Vanishing into thin air, you appear a short distance away, while another creature near you takes your previous place. Teleport up to 3 tiles into an empty tile of your choice and make an Expertise attack against a creature of your choice within 1 tile of that tile. If you hit, they are teleported into the tile you just came from.
 
-If you have at least 4 stacks of arcane exposure, you can only teleport up to 5 feet, but you have advantage on the attack made after you teleport. The attack made after you teleport now applies one stack of banished instead of swapping their position.
+If you have at least 4 stacks of arcane exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport. The attack made after you teleport now applies one stack of banished instead of swapping their position.
 
 ### Essence Tendrils
 
@@ -856,7 +856,7 @@ If you have at least 4 stacks of arcane exposure, you can only teleport up to 5 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -904,7 +904,7 @@ If you have at least 4 stacks of arcane exposure, you have disadvantage on the a
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -926,7 +926,7 @@ If you have at least 4 stacks of eldritch exposure, the absorption granted incre
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 120 feet
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -938,7 +938,7 @@ If you have at least 4 stacks of eldritch exposure, the absorption granted incre
 
 A screaming bolt of psionic energy shoots forth from your weapon, horrifying everything in its path. Make a Presence attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence eldritch damage and apply one stack of frightened.
 
-If you have at least 4 stacks of eldritch exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
+If you have at least 4 stacks of eldritch exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
 ### Mind Burst
 
@@ -948,7 +948,7 @@ If you have at least 4 stacks of eldritch exposure, the elemental energy bounces
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -960,7 +960,7 @@ If you have at least 4 stacks of eldritch exposure, the elemental energy bounces
 
 A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence eldritch damage. If you miss, they suffer the effects at half efficacy.
 
-If you have at least 4 stacks of eldritch exposure, the radius of the burst increases to 20 feet instead.
+If you have at least 4 stacks of eldritch exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Mind Shell
 
@@ -980,7 +980,7 @@ If you have at least 4 stacks of eldritch exposure, the radius of the burst incr
 
 </div>
 
-Eldritch runes swirl tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, make a Presence attack against all creatures within 20 feet of you, including yourself. If you hit, apply one stack of crazed.
+Eldritch runes swirl tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, make a Presence attack against all creatures within 4 tiles of you, including yourself. If you hit, apply one stack of crazed.
 
 If you have at least 4 stacks of eldritch exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -992,7 +992,7 @@ If you have at least 4 stacks of eldritch exposure, the absorption gained increa
 
 **Cost:** 1 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -1014,7 +1014,7 @@ If you have at least 4 stacks of eldritch exposure, make an attack against each 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -1024,9 +1024,9 @@ If you have at least 4 stacks of eldritch exposure, make an attack against each 
 
 </div>
 
-Vanishing into thin air, you appear a short distance away with a burst of air. Teleport up to 15 feet into an empty tile of your choice and make a Prowess attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
+Vanishing into thin air, you appear a short distance away with a burst of air. Teleport up to 3 tiles into an empty tile of your choice and make a Prowess attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
 
-If you have at least 4 stacks of eldritch exposure, you can only teleport up to 5 feet, but you have advantage on the attack made after you teleport.
+If you have at least 4 stacks of eldritch exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport.
 
 ### Mind Tendrils
 
@@ -1036,7 +1036,7 @@ If you have at least 4 stacks of eldritch exposure, you can only teleport up to 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -1082,7 +1082,7 @@ If you have at least 4 stacks of eldritch exposure, you have disadvantage on the
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -1104,7 +1104,7 @@ If you have at least 4 stacks of radiant exposure, the absorption granted increa
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 120 feet
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -1116,7 +1116,7 @@ If you have at least 4 stacks of radiant exposure, the absorption granted increa
 
 A calming bolt of radiant energy shoots forth from your weapon, tranquilizing everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, apply two stacks of pacified.
 
-If you have at least 4 stacks of radiant exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
+If you have at least 4 stacks of radiant exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
 ### Brilliant Burst
 
@@ -1126,7 +1126,7 @@ If you have at least 4 stacks of radiant exposure, the elemental energy bounces 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -1138,7 +1138,7 @@ If you have at least 4 stacks of radiant exposure, the elemental energy bounces 
 
 A glowing ball of light whizzes through the air before exploding in a searing burst. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence radiant damage. If you miss, they suffer the effects at half efficacy.
 
-If you have at least 4 stacks of radiant exposure, the radius of the burst increases to 20 feet instead.
+If you have at least 4 stacks of radiant exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Brilliant Shell
 
@@ -1158,7 +1158,7 @@ If you have at least 4 stacks of radiant exposure, the radius of the burst incre
 
 </div>
 
-A glowing barrier swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, grant 6 + Presence absorption to all other creatures within 10 feet.
+A glowing barrier swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, grant 6 + Presence absorption to all other creatures within 2 tiles.
 
 If you have at least 4 stacks of radiant exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -1170,7 +1170,7 @@ If you have at least 4 stacks of radiant exposure, the absorption gained increas
 
 **Cost:** 1 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -1192,7 +1192,7 @@ If you have at least 4 stacks of radiant exposure, make an attack against each o
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -1202,9 +1202,9 @@ If you have at least 4 stacks of radiant exposure, make an attack against each o
 
 </div>
 
-VVanishing into thin air, you appear a short distance away with a sudden flash. Teleport up to 15 feet into an empty tile of your choice and make a Focus attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
+VVanishing into thin air, you appear a short distance away with a sudden flash. Teleport up to 3 tiles into an empty tile of your choice and make a Focus attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
 
-If you have at least 4 stacks of radiant exposure, you can only teleport up to 5 feet, but you have advantage on the attack made after you teleport.
+If you have at least 4 stacks of radiant exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport.
 
 ### Brilliant Tendrils
 
@@ -1214,7 +1214,7 @@ If you have at least 4 stacks of radiant exposure, you can only teleport up to 5
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -1260,7 +1260,7 @@ If you have at least 4 stacks of radiant exposure, you have disadvantage on the 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -1282,7 +1282,7 @@ If you have at least 4 stacks of umbral exposure, the absorption granted increas
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 120 feet
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -1294,7 +1294,7 @@ If you have at least 4 stacks of umbral exposure, the absorption granted increas
 
 An agonizing bolt of pure shadow shoots forth from your weapon, wracking everything in its path with pain. Make a Focus attack against each creature in a 5 foot wide by 120 foot long line. If you hit, apply 6 + Presence stacks of anguish.
 
-If you have at least 4 stacks of umbral exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
+If you have at least 4 stacks of umbral exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
 ### Shadow Burst
 
@@ -1304,7 +1304,7 @@ If you have at least 4 stacks of umbral exposure, the elemental energy bounces o
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -1316,7 +1316,7 @@ If you have at least 4 stacks of umbral exposure, the elemental energy bounces o
 
 A flickering ball of pure darkness whizzes through the air before exploding in a creeping wave. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence umbral damage. If you miss, they suffer the effects at half efficacy.
 
-If you have at least 4 stacks of umbral exposure, the radius of the burst increases to 20 feet instead.
+If you have at least 4 stacks of umbral exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Shadow Shell
 
@@ -1348,7 +1348,7 @@ If you have at least 4 stacks of umbral exposure, the absorption gained increase
 
 **Cost:** 1 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -1370,7 +1370,7 @@ If you have at least 4 stacks of umbral exposure, make an attack against each ot
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** None
 
@@ -1380,9 +1380,9 @@ If you have at least 4 stacks of umbral exposure, make an attack against each ot
 
 </div>
 
-Vanishing into thin air, you appear moments later as your cloak of shadows fades. Teleport up to 15 feet into an empty tile of your choice. Impenetrable darkness fills a 5 foot radius around you and it becomes heavily shrouded until the end of your next turn. Multiple copies of this effect cause the radius affected to stack linearly, centered around the oldest cloud of darkness that it is touching.
+Vanishing into thin air, you appear moments later as your cloak of shadows fades. Teleport up to 3 tiles into an empty tile of your choice. Impenetrable darkness fills a 5 foot radius around you and it becomes heavily shrouded until the end of your next turn. Multiple copies of this effect cause the radius affected to stack linearly, centered around the oldest cloud of darkness that it is touching.
 
-If you have at least 4 stacks of umbral exposure, you can only teleport up to 5 feet, but the area of darkness created increases to 10 feet.
+If you have at least 4 stacks of umbral exposure, you can only teleport up to 1 tile, but the area of darkness created increases to 2 tiles.
 
 ### Shadow Tendrils
 
@@ -1392,7 +1392,7 @@ If you have at least 4 stacks of umbral exposure, you can only teleport up to 5 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -1438,7 +1438,7 @@ If you have at least 4 stacks of umbral exposure, you have disadvantage on the a
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -1460,7 +1460,7 @@ If you have at least 4 stacks of primal exposure, the absorption granted increas
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 120 feet
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -1472,7 +1472,7 @@ If you have at least 4 stacks of primal exposure, the absorption granted increas
 
 A glowing bolt of invigorating energy shoots forth from your weapon, momentarily protecting everything in its path. Grant 6 + Presence absorption to every creature in a 5 foot wide by 120 foot long line.
 
-If you have at least 4 stacks of primal exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
+If you have at least 4 stacks of primal exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
 ### Life Burst
 
@@ -1482,7 +1482,7 @@ If you have at least 4 stacks of primal exposure, the elemental energy bounces o
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -1494,7 +1494,7 @@ If you have at least 4 stacks of primal exposure, the elemental energy bounces o
 
 A glowing green ball of vital energy whizzes through the air before exploding in an overwhelming surge. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence primal damage. Creatures that you miss still take half as much damage.
 
-If you have at least 4 stacks of primal exposure, the radius of the burst increases to 20 feet instead.
+If you have at least 4 stacks of primal exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Life Shell
 
@@ -1526,7 +1526,7 @@ If you have at least 4 stacks of primal exposure, the absorption gained increase
 
 **Cost:** 1 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -1548,7 +1548,7 @@ If you have at least 4 stacks of primal exposure, make an attack against each ot
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -1558,9 +1558,9 @@ If you have at least 4 stacks of primal exposure, make an attack against each ot
 
 </div>
 
-Vanishing into thin air, you appear a short distance away, granting glowing green barriers to all nearby. Teleport up to 15 feet into an empty tile of your choice and grant 3 + ½ Presence absorption. to all other creatures within 5 feet of that tile.
+Vanishing into thin air, you appear a short distance away, granting glowing green barriers to all nearby. Teleport up to 3 tiles into an empty tile of your choice and grant 3 + ½ Presence absorption. to all other creatures within 1 tile of that tile.
 
-If you have at least 4 stacks of primal exposure, you can only teleport up to 5 feet, but grant 6 + Presence absorption after you teleport instead.
+If you have at least 4 stacks of primal exposure, you can only teleport up to 1 tile, but grant 6 + Presence absorption after you teleport instead.
 
 ### Life Tendrils
 
@@ -1570,7 +1570,7 @@ If you have at least 4 stacks of primal exposure, you can only teleport up to 5 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -1616,7 +1616,7 @@ If you have at least 4 stacks of primal exposure, you have disadvantage on the a
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -1638,7 +1638,7 @@ If you have at least 4 stacks of decay exposure, the absorption granted increase
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 120 feet
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -1650,7 +1650,7 @@ If you have at least 4 stacks of decay exposure, the absorption granted increase
 
 A draining bolt of negative energy shoots forth from your weapon, sapping the life force from everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d6 + Presence decay damage. This attack deals twice as much damage to absorption. Creatures that you miss still take half as much damage.
 
-If you have at least 4 stacks of decay exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
+If you have at least 4 stacks of decay exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
 ### Death Burst
 
@@ -1660,7 +1660,7 @@ If you have at least 4 stacks of decay exposure, the elemental energy bounces of
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -1672,7 +1672,7 @@ If you have at least 4 stacks of decay exposure, the elemental energy bounces of
 
 A dark ball of negative energy whizzes through the air before exploding in an exhausting burst. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence decay damage. Creatures that you miss still take half as much damage.
 
-If you have at least 4 stacks of decay exposure, the radius of the burst increases to 20 feet instead.
+If you have at least 4 stacks of decay exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Death Shell
 
@@ -1692,7 +1692,7 @@ If you have at least 4 stacks of decay exposure, the radius of the burst increas
 
 </div>
 
-Dark magic swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, make a Focus attack against all creatures within 10 feet of you. If you hit, apply one stack of cursed.
+Dark magic swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, make a Focus attack against all creatures within 2 tiles of you. If you hit, apply one stack of cursed.
 
 If you have at least 4 stacks of primal exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -1704,7 +1704,7 @@ If you have at least 4 stacks of primal exposure, the absorption gained increase
 
 **Cost:** 1 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -1726,7 +1726,7 @@ If you have at least 4 stacks of decay exposure, make an attack against each oth
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -1736,9 +1736,9 @@ If you have at least 4 stacks of decay exposure, make an attack against each oth
 
 </div>
 
-Vanishing into thin air, you appear a short distance away, powered by the life force of those you left behind. Make a Focus attack against all creatures within 5 feet of you. If you hit, deal 1d4 + Presence decay damage. Teleport to an empty tile of your choice. The distance that you can teleport in this way is 15 feet plus 5 feet for each creature you struck with your initial attack.
+Vanishing into thin air, you appear a short distance away, powered by the life force of those you left behind. Make a Focus attack against all creatures within 1 tile of you. If you hit, deal 1d4 + Presence decay damage. Teleport to an empty tile of your choice. The distance that you can teleport in this way is 3 tiles plus 1 tile for each creature you struck with your initial attack.
 
-If you have at least 4 stacks of decay exposure, the base distance telported is reduced to 5 feet, but you have advantage on the attack made before you teleport.
+If you have at least 4 stacks of decay exposure, the base distance telported is reduced to 1 tile, but you have advantage on the attack made before you teleport.
 
 ### Death Tendrils
 
@@ -1748,7 +1748,7 @@ If you have at least 4 stacks of decay exposure, the base distance telported is 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -1794,7 +1794,7 @@ If you have at least 4 stacks of decay exposure, you have disadvantage on the at
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -1816,7 +1816,7 @@ If you have at least 4 stacks of electric exposure, the absorption granted incre
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 120 feet
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -1828,7 +1828,7 @@ If you have at least 4 stacks of electric exposure, the absorption granted incre
 
 An electrifying bolt of lightning shoots forth from your weapon, shocking everything in its path. Make an Agility attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d8 + Presence electric damage. Your critical hit threshold is reduced by 2 for this attack.
 
-If you have at least 4 stacks of electric exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
+If you have at least 4 stacks of electric exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
 ### Lightning Burst
 
@@ -1838,7 +1838,7 @@ If you have at least 4 stacks of electric exposure, the elemental energy bounces
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -1850,7 +1850,7 @@ If you have at least 4 stacks of electric exposure, the elemental energy bounces
 
 A crackling ball of electricity whizzes through the air before exploding in a shower of sparks. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence electric damage. Creatures that you miss still take half as much damage.
 
-If you have at least 4 stacks of electric exposure, the radius of the burst increases to 20 feet instead.
+If you have at least 4 stacks of electric exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Lightning Shell
 
@@ -1870,7 +1870,7 @@ If you have at least 4 stacks of electric exposure, the radius of the burst incr
 
 </div>
 
-Lightning swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, immediately teleport up to 15 feet to an empty tile of your choice. Stacking this effect allows you to teleport multiple times.
+Lightning swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, immediately teleport up to 3 tiles to an empty tile of your choice. Stacking this effect allows you to teleport multiple times.
 
 If you have at least 4 stacks of electric exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -1882,7 +1882,7 @@ If you have at least 4 stacks of electric exposure, the absorption gained increa
 
 **Cost:** 1 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -1904,7 +1904,7 @@ If you have at least 4 stacks of electric exposure, make an attack against each 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -1914,7 +1914,7 @@ If you have at least 4 stacks of electric exposure, make an attack against each 
 
 </div>
 
-Vanishing into thin air, you appear a short distance away, riding a crackling trail of lightning. Teleport up to 15 feet into an empty tile of your choice and make an Agility attack against all other creatures in a line between where you teleported. If you hit, deal 1d6 + Presence electric damage.
+Vanishing into thin air, you appear a short distance away, riding a crackling trail of lightning. Teleport up to 3 tiles into an empty tile of your choice and make an Agility attack against all other creatures in a line between where you teleported. If you hit, deal 1d6 + Presence electric damage.
 
 If you have at least 4 stacks of electric exposure, you can only teleport into tiles that would result in an attack being made against at least one other creature, but you have advantage on the attack made during your teleportation.
 
@@ -1926,7 +1926,7 @@ If you have at least 4 stacks of electric exposure, you can only teleport into t
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -1972,7 +1972,7 @@ If you have at least 4 stacks of electric exposure, you have disadvantage on the
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -1994,7 +1994,7 @@ If you have at least 4 stacks of corrosive exposure, the absorption granted incr
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 120 feet
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -2006,7 +2006,7 @@ If you have at least 4 stacks of corrosive exposure, the absorption granted incr
 
 A blistering bolt of acid shoots forth from your weapon, eating through everything in its path. Make an Agility attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d8 + Presence corrosive damage. The efficacy of this attack is tripled, rather than doubled, on a critical hit.
 
-If you have at least 4 stacks of corrosive exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 120 feet. You may hit the same creature multiple times with this effect.
+If you have at least 4 stacks of corrosive exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
 ### Acid Burst
 
@@ -2016,7 +2016,7 @@ If you have at least 4 stacks of corrosive exposure, the elemental energy bounce
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -2028,7 +2028,7 @@ If you have at least 4 stacks of corrosive exposure, the elemental energy bounce
 
 A dripping ball of acid whizzes through the air before exploding in a corrosive shower. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence corrosive damage. Creatures that you miss still take half as much damage.
 
-If you have at least 4 stacks of corrosive exposure, the radius of the burst increases to 20 feet instead.
+If you have at least 4 stacks of corrosive exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Acid Shell
 
@@ -2048,7 +2048,7 @@ If you have at least 4 stacks of corrosive exposure, the radius of the burst inc
 
 </div>
 
-Oozing acid swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, explode in a shower of acid. Make an Agility attack against all other creatures within 10 feet of you. Apply one stack of blinded if you hit.
+Oozing acid swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, explode in a shower of acid. Make an Agility attack against all other creatures within 2 tiles of you. Apply one stack of blinded if you hit.
 
 If you have at least 4 stacks of corrosive exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -2060,7 +2060,7 @@ If you have at least 4 stacks of corrosive exposure, the absorption gained incre
 
 **Cost:** 1 essence
 
-**Range:** Melee, 15 feet
+**Range:** Melee, 3 tiles
 
 **Targets:** Multi-target
 
@@ -2082,7 +2082,7 @@ If you have at least 4 stacks of corrosive exposure, make an attack against each
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -2092,9 +2092,9 @@ If you have at least 4 stacks of corrosive exposure, make an attack against each
 
 </div>
 
-Vanishing into thin air, you appear a short distance away with a splash of acid. Teleport up to 15 feet into an empty tile of your choice and make an Agility attack against all other creatures within 5 feet of that tile. If you hit, deal 1d6 + Presence corrosive damage.
+Vanishing into thin air, you appear a short distance away with a splash of acid. Teleport up to 3 tiles into an empty tile of your choice and make an Agility attack against all other creatures within 1 tile of that tile. If you hit, deal 1d6 + Presence corrosive damage.
 
-If you have at least 4 stacks of corrosive exposure, you can only teleport up to 5 feet, but you have advantage on the attack made after you teleport.
+If you have at least 4 stacks of corrosive exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport.
 
 ### Acid Tendrils
 
@@ -2104,7 +2104,7 @@ If you have at least 4 stacks of corrosive exposure, you can only teleport up to
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 

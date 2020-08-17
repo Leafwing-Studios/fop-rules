@@ -37,7 +37,7 @@ In contrast to the standard rule to round down, these values are not rounded.
 If you do not meet these requirements, a piece of gear is treated as **unsuitable:**
 
 - Unsuitable melee weapons deal 1d6 physical damage and has no other effect.
-- Unsuitable ranged weapons deal 1d4 physical damage at a range of 30 feet and has no other effect.
+- Unsuitable ranged weapons deal 1d4 physical damage at a range of 6 tiles and has no other effect.
 - Unsuitable armor offers no benefit whatsoever, and you are treated as if you were not wearing armor.
 
 When a character attempts to use something that would not normally be used in combat as an **improvised weapon,** work together to determine a plausible set of affixes for it.

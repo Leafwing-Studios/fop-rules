@@ -24,7 +24,7 @@ In this case, the consumable’s effects (and the risk of essence overload) only
 
 ## Break Grapple
 
-Attempt to break another creature’s hold on a target, ending the grappled status on yourself or another creature within 5 feet of you.
+Attempt to break another creature’s hold on a target, ending the grappled status on yourself or another creature within 1 tile of you.
 
 To do so, make an opposed Prowess (Athletics) skill check against the grappling creature. If you are the creature that is grappled, you may use Agility (Athletics) instead. If you succeed, the grapple ends.
 
@@ -69,7 +69,7 @@ Interact with an object in your environment. You might pull a lever, quickly sla
 
 Attempt to gain information about your surroundings using one of your skills. This might be:
 
-- an opposed Focus (Perception) skill check to find a hidden enemy, pitting your Focus (Perception) against their Agility (Stealth) check results, revealing that creature’s position and breaking their stealth.
+- an opposed Focus (Perception) skill check to find a hidden enemy, pitting your Focus (Perception) against their Agility (Stealth) check results, revealing that creature’s position and breaking their stealth (but not any magical invisibility that they might have)
 - an Expertise (Humanities) skill check to determine the tactics being used by your opponent
 - an Insight skill check to urgently search for clues about your predicament
 - an Focus (Anima) skill check to try to understand an ability or feature of your opponent
@@ -94,7 +94,7 @@ Attempt to gain information about your surroundings using one of your skills. Th
 
 ## Shove
 
-Make a Prowess attack against a creature within 5 feet of you. If you hit, you may choose to either knock them prone or push them into an empty adjacent tile of your choice.
+Make a Prowess attack against a creature within 1 tile of you. If you hit, you may choose to either knock them prone or push them into an empty adjacent tile of your choice.
 
 ## Swap
 
@@ -102,6 +102,6 @@ Change the set of arms that you currently have equipped. This also allows you to
 
 ## Treat
 
-Attempt to treat a creature within 5 feet’s injuries and ailments, curing a single condition or mitigating a single affliction of your choice.
+Attempt to treat a creature within 1 tile’s injuries and ailments, curing a single condition or mitigating a single affliction of your choice.
 
 Select a condition or affliction. If you succeed on a difficulty 10 Focus (Medicine) skill check, remove all stacks of the chosen condition or half the stacks of the chosen affliction from them.

@@ -40,7 +40,7 @@ The Geodes stand apart from these two factions, largely shunned for their freaki
 
 **Prismatic Lens:** Whenever you would make an attack that deals elemental damage and do not already have disadvantage on that attack, you may take disadvantage on that attack in order to select a new type of elemental damage for that attack.
 
-**Crystalline Structure:** Crystalline cannot benefit from the innate affixes of armor. Instead, their basic defense is 16 + Prowess + Agility, and their movement speed begins at 20 feet. If you gain the Ascendant’s Natural Defense feature, your basic defense becomes 18 + Prowess + Agility + Presence, but you gain no additional benefit from that feature.
+**Crystalline Structure:** Crystalline cannot benefit from the innate affixes of armor. Instead, their basic defense is 16 + Prowess + Agility, and their movement speed begins at 4 tiles. If you gain the Ascendant’s Natural Defense feature, your basic defense becomes 18 + Prowess + Agility + Presence, but you gain no additional benefit from that feature.
 
 **Forbidden Snack:** As a minor action, you may break off a number of essence crystals equal to your proficiency bonus from your body, suffering 1 stack of exhaustion for doing so. These are very unstable however, and must be used before the end of your next rest.
 
@@ -78,7 +78,7 @@ You may not use the Essence Tap minor action. However, consuming essence crystal
 
 **Resonance:** You have resistance to the type of elemental damage that you last took damage from.
 
-**Carefully Hewn:** The base basic defense in your Crystalline Structure feature is now 14, but your base movement speed is 30 feet like normal.
+**Carefully Hewn:** The base basic defense in your Crystalline Structure feature is now 14, but your base movement speed is 6 tiles like normal.
 
 **Perfectionist:** You are proficient in Craftsmanship.
 

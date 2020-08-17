@@ -79,5 +79,5 @@ This has strange implications for the mechanics of combat even though the expect
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Cone     | A 90 degree cone, expanding out from the origin (typically the caster). This is measured as a 1/4 section of a sphere of the same radius.                             |
 | Cylinder | A tall cylinder centered around the chosen point.                                                                                                                     |
-| Line     | A line, typically beginning at the caster and affects all creatures within length specified. Lines wider than 5 feet expand out from both sides of the original line. |
-| Sphere   | A sphere centered around the chosen point. This is measured as all tiles reachable by spending that many feet of movement.                                            |
+| Line     | A line, typically beginning at the caster and affects all creatures within length specified. Lines wider than 1 tile expand out from both sides of the original line. |
+| Sphere   | A sphere centered around the chosen point. This is measured as all tiles reachable by spending that many tiles of movement.                                           |

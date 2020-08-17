@@ -35,7 +35,7 @@ Next, work with your party and the worldspeaker to determine how your character 
 Finally, finish your character sheet by computing your **vital statistics:**
 
 - **Proficiency bonus:** +1 at level 1
-- **Movement speed:** 30 feet (but commonly modified by armor)
+- **Movement speed:** 6 tiles (but commonly modified by armor)
 - Determine your defenses:
   - **Basic defense:** 10 + Prowess + Agility, or 10 + Agility + any relevant armor affixes
   - **Special defenses:** 10 + proficiency bonus + the corresponding attribute
@@ -110,7 +110,7 @@ Attributes can never be higher than +5 or lower than -5. There are two methods t
 
 Every character begins the game with two sets of arms and one set of armor, created to their exact specifications. Each of these should have a gear score total equal to your Prowess. Use the Gear chapter of this book to combine **affixes** and build arms and armor that fit your character concept.
 
-When it comes to **adventuring gear,** characters are said to be **Prepared for Anything.** Rather than carefully budgeting your wealth and carrying capacity in order to pick out a bedroll, 100 feet of rope, seven torches and a sack of flour, we assume that the party always has the basics of survival (unless there’s some reason that they wouldn’t) and typically remembered to pack or can scavenge for any specialized equipment that they might need. As described in the Prepared for Anything section of the Gear chapter, roll on the Supplies die whenever you want to find out whether the party has a particular tool or mundane item.
+When it comes to **adventuring gear,** characters are said to be **Prepared for Anything.** Rather than carefully budgeting your wealth and carrying capacity in order to pick out a bedroll, precisely 100 feet of rope, seven torches and a sack of flour, we assume that the party always has the basics of survival (unless there’s some reason that they wouldn’t) and typically remembered to pack or can scavenge for any specialized equipment that they might need. As described in the Prepared for Anything section of the Gear chapter, roll on the Supplies die whenever you want to find out whether the party has a particular tool or mundane item.
 
 The table should **set the initial Supplies die** for the party to reflect their state as play begins: are they meeting in a tavern (d8), suddenly ambushed (d6), struggling to make it back to town (d4) or captured and penniless (the Supplies die is fully depleted)?
 

@@ -38,7 +38,7 @@ Grapple attacks made against creatures larger than you have disadvantage, as do 
 As a special case, particularly small creatures, such as faeries, are said to take up 0 tiles. This means:
 
 - They may occupy and pass through tiles that contain other creatures and vice versa.
-- Their zone of control is limited to the tile that they are in. If their zone of control is extended, such as by the reach arms affix, the final radius is 5 feet smaller than usual.
+- Their zone of control is limited to the tile that they are in. If their zone of control is extended, such as by the reach arms affix, the final radius is 1 tile smaller than usual.
 - They can only Grapple or Shove creatures that are one tile in size.
 
 ## Forced Movement

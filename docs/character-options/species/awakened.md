@@ -70,7 +70,7 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 **Climbing:** You can climb walls and ceilings without needing to make an Athletics skill check. You only need to spend ¼ of your movement to change height tiers.
 
-**Rebound:** You may stand from prone by spending only 5 feet of movement. You have resistance to physical damage taken due to falling.
+**Rebound:** You may stand from prone by spending only 1 tile of movement. You have resistance to physical damage taken due to falling.
 
 ## Flyer
 
@@ -115,7 +115,7 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 **Sprint:** When you take the Dash minor action, gain extra movement equal to your base movement speed, rather than half of it.
 
-**Scent:** You can detect nearby creatures by scent using a Focus (Perception) check. You can detect all creatures within 5 times your skill check result feet this way, unless they are behind a sealed door or wall. If you have smelled the creature (or the creature’s clothing) before, you can identify it by smell.
+**Scent:** You can detect nearby creatures by scent using a Focus (Perception) check. You can detect all creatures within a number of tiles equal to your skill check result this way, unless they are behind a sealed door or wall. If you have smelled the creature (or the creature’s clothing) before, you can identify it by smell.
 
 ## Herd
 
@@ -128,6 +128,6 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |  5   | A primate.                               |
 |  6   | A pack hunter.                           |
 
-**One for All:** Whenever a creature within 5 feet is hit by an attack, you may use your reaction to Block the attack. You take all effects of that hit instead of them if you do so.
+**One for All:** Whenever a creature within 1 tile is hit by an attack, you may use your reaction to Block the attack. You take all effects of that hit instead of them if you do so.
 
 **All for One:** You have advantage on any skill check made to help with another creature’s skill check.

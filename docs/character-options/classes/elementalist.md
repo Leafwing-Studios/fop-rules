@@ -132,7 +132,7 @@ Also at level 2, you can call on the power of the elements to close your wounds,
 
 At level 3, your elemental energy builds up, exploding in a powerful burst when it overwhelms you.
 
-At the end of each of your turns, if your exposure to an element is 7 or more, you Detonate. All creatures within 10 feet of you suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Then, reduce your exposure associated with that element to 0. This counts as a multi-target power for the purpose of effects such as the _imbued thaumaturgy_ affix.
+At the end of each of your turns, if your exposure to an element is 7 or more, you Detonate. All creatures within 2 tiles of you suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Then, reduce your exposure associated with that element to 0. This counts as a multi-target power for the purpose of effects such as the _imbued thaumaturgy_ affix.
 
 When you gain your second pairing of elements at level 7, each pair of elements detonates independently (possibly on the same turn), with no effect on the other stack of exposure. When this happens, you may choose which order the Detonation resolves in.
 
@@ -164,7 +164,7 @@ When you reach level 5, you learn the ability to mirror the spells you cast. Whe
 
 ## Elemental Intuition
 
-At level 6, your intuition allows you to innately sense the elements around you. You automatically detect any source or usage of your chosen elements within 60 feet of you, and understand approximately what it is being used for. Additionally, you have advantage on any Arcana checks to understand or modify magic that uses your chosen elements.
+At level 6, your intuition allows you to innately sense the elements around you. You automatically detect any source or usage of your chosen elements within 12 tiles of you, and understand approximately what it is being used for. Additionally, you have advantage on any Arcana checks to understand or modify magic that uses your chosen elements.
 
 ## Spell Prism
 
@@ -205,7 +205,7 @@ When you reach level 20, you learn to combine your spells in a spectacular fashi
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -217,7 +217,7 @@ When you reach level 20, you learn to combine your spells in a spectacular fashi
 
 A swirling blast of sand carried by the wind pummels your target. Make an Prowess attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid air and earth damage.
 
-If you have at least 4 stacks of air exposure, push yourself and your target back 5 feet away from the other.
+If you have at least 4 stacks of air exposure, push yourself and your target back 1 tile away from the other.
 
 If you have at least 4 stacks of earth exposure, knock both yourself and your target prone.
 
@@ -229,7 +229,7 @@ If you have at least 4 stacks of earth exposure, knock both yourself and your ta
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -253,7 +253,7 @@ If you are level 18 or higher, the duration of this spell is increased to one da
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -273,9 +273,9 @@ If you are level 18 or higher, you can twist stone much more quickly, literally 
 
 ### Detonation: Sandstorm Detonation
 
-When you reach 7 stacks of air exposure, you explode with a huge burst of air. Make a Prowess attack against all other creatures within 10 feet of you. If you hit, knock them back 50 feet. If you miss, knock them back 25 feet instead.
+When you reach 7 stacks of air exposure, you explode with a huge burst of air. Make a Prowess attack against all other creatures within 2 tiles of you. If you hit, knock them back 50 feet. If you miss, knock them back 21 tile instead.
 
-When you reach 7 stacks of earth exposure, rocks explode from your body. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 2d6 + 2 \* Presence earth damage and knock them prone.
+When you reach 7 stacks of earth exposure, rocks explode from your body. Make an Agility attack against all other creatures within 2 tiles of you. If you hit, deal 2d6 + 2 \* Presence earth damage and knock them prone.
 
 ## Frostfire
 
@@ -287,7 +287,7 @@ When you reach 7 stacks of earth exposure, rocks explode from your body. Make an
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -311,7 +311,7 @@ If you have at least 4 stacks of cold exposure, apply 2 stacks of chilled to bot
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -337,7 +337,7 @@ If you are level 18 or higher, you can cause a fire that you target or spread in
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -359,9 +359,9 @@ If you are level 18 or higher, you can cause the water in the air to condense, a
 
 ### Detonation: Frostfire Detonation
 
-When you reach 7 stacks of fire exposure, the air itself catches fire. Make an Agility attack against all creatures within 10 feet of you, including yourself. If you hit apply 3 + ½ Presence stacks of aflame. If you miss, they suffer the effects at half efficacy.
+When you reach 7 stacks of fire exposure, the air itself catches fire. Make an Agility attack against all creatures within 2 tiles of you, including yourself. If you hit apply 3 + ½ Presence stacks of aflame. If you miss, they suffer the effects at half efficacy.
 
-When you reach 7 stacks of water exposure, a terrible burst of cold emanates from you. Make a Prowess attack against all other creatures within 10 feet of you, including yourself. If you hit, deal 1d4 + Presence water damage. If you miss, they suffer the effects at half efficacy.
+When you reach 7 stacks of water exposure, a terrible burst of cold emanates from you. Make a Prowess attack against all other creatures within 2 tiles of you, including yourself. If you hit, deal 1d4 + Presence water damage. If you miss, they suffer the effects at half efficacy.
 
 ## Thoughtscour
 
@@ -373,7 +373,7 @@ When you reach 7 stacks of water exposure, a terrible burst of cold emanates fro
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -397,7 +397,7 @@ If you have at least 4 stacks of eldritch exposure, apply 2 stacks of crazed to 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -423,7 +423,7 @@ If you are level 18 or higher, you have advantage on skill checks made to create
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -439,9 +439,9 @@ If you are level 10 or higher, you can apply this advantage to a Charisma skill 
 
 If you are level 18 or higher, you can apply this advantage to a Guidance skill check made towards that creature instead.
 Detonation: Thoughtscour Detonation
-When you reach 7 stacks of arcane exposure, excess magic energy radiates intensely from you. Make an Focus attack against all other creatures within 10 feet of you. If you hit, apply 8 stacks of unstable. If you miss, apply 3 stacks of unstable instead.
+When you reach 7 stacks of arcane exposure, excess magic energy radiates intensely from you. Make an Focus attack against all other creatures within 2 tiles of you. If you hit, apply 8 stacks of unstable. If you miss, apply 3 stacks of unstable instead.
 
-When you reach 7 stacks of eldritch exposure, a bizarre and intense psionic wave emanates from you, driving those nearby temporarily insane. Make a Presence attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of crazed. If you miss, apply 1 stack of crazed instead.
+When you reach 7 stacks of eldritch exposure, a bizarre and intense psionic wave emanates from you, driving those nearby temporarily insane. Make a Presence attack against all other creatures within 2 tiles of you. If you hit, apply 3 stacks of crazed. If you miss, apply 1 stack of crazed instead.
 
 ## Darklight
 
@@ -453,7 +453,7 @@ When you reach 7 stacks of eldritch exposure, a bizarre and intense psionic wave
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -477,7 +477,7 @@ If you have at least 4 stacks of eldritch exposure, apply 3 + ½ Presence stacks
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -501,7 +501,7 @@ If you are level 18 or higher, everything seems somehow clearer while in this li
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -519,7 +519,7 @@ If you are level 18 or higher, you can cause shadow to grow and spread. Whenever
 
 ### Detonation: Darklight Detonation
 
-When you reach 7 stacks of radiant exposure, you explode in a burst of soothing light. Make a Presence attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of pacified. If you miss, apply 1 stack of pacified instead.
+When you reach 7 stacks of radiant exposure, you explode in a burst of soothing light. Make a Presence attack against all other creatures within 2 tiles of you. If you hit, apply 3 stacks of pacified. If you miss, apply 1 stack of pacified instead.
 
 When you reach 7 stacks of umbral exposure, you disappear into the shadows. Become invisible until the end of your next turn. This effect does not break after you make an attack.
 
@@ -533,7 +533,7 @@ When you reach 7 stacks of umbral exposure, you disappear into the shadows. Beco
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -557,7 +557,7 @@ If you have at least 4 stacks of decay exposure, you and your target lose 6 + Pr
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -581,7 +581,7 @@ If you are level 18 or higher, you may use this spell to apply the effects of a 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -597,9 +597,9 @@ If you are level 10 or higher, when you use this spell during the Resurrect down
 
 If you are level 18 or higher, you may use this spell to prevent a soul from permanently slipping away. You may now use the Soul Anchor downtime activity. If you succeed on a difficulty 20 Focus (Medicine) skill check, remove a stack of transcendence from a soul of your choice within the same font of power that you are currently at.
 Detonation: Lifeforce Detonation
-When you reach 7 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within 10 feet of you. If you hit, remove all conditions and afflictions from them. For each stack of affliction removed in this way, deal 1 primal damage to the creature you removed it from and gain 1 absorption. For each stack of a condition removed in this way, deal 2 primal damage to the creature you removed it from and gain 2 absorption.
+When you reach 7 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within 2 tiles of you. If you hit, remove all conditions and afflictions from them. For each stack of affliction removed in this way, deal 1 primal damage to the creature you removed it from and gain 1 absorption. For each stack of a condition removed in this way, deal 2 primal damage to the creature you removed it from and gain 2 absorption.
 
-When you reach 7 stacks of decay exposure, you drain the energy from those around you. Make a Focus attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of withered and transfer all absorption that they have to yourself..
+When you reach 7 stacks of decay exposure, you drain the energy from those around you. Make a Focus attack against all other creatures within 2 tiles of you. If you hit, apply 3 stacks of withered and transfer all absorption that they have to yourself..
 
 ## Surgebreaker
 
@@ -611,7 +611,7 @@ When you reach 7 stacks of decay exposure, you drain the energy from those aroun
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -635,7 +635,7 @@ If you have at least 4 stacks of eldritch exposure, apply 3 + ½ Presence stacks
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -645,7 +645,7 @@ If you have at least 4 stacks of eldritch exposure, apply 3 + ½ Presence stacks
 
 </div>
 
-Lightning flows gently into an object of your choice within range, allowing you to move it as it takes on a modicum of life for a moment. You may move the object and perform any straightforward feat of dexterity such as opening doors, setting a table or approximately tossing an object. You may not activate magical items in this fashion and the force exerted by this effect is limited by your own strength. You may not perform any particularly challenging tasks in this fashion: anything which would require a skill check, such as picking a lock, carefully stealing an item or breaking open a door is beyond its capacity. When you cast this spell, you may move the object up to 30 feet, although it falls harmlessly to the ground shortly afterwards.
+Lightning flows gently into an object of your choice within range, allowing you to move it as it takes on a modicum of life for a moment. You may move the object and perform any straightforward feat of dexterity such as opening doors, setting a table or approximately tossing an object. You may not activate magical items in this fashion and the force exerted by this effect is limited by your own strength. You may not perform any particularly challenging tasks in this fashion: anything which would require a skill check, such as picking a lock, carefully stealing an item or breaking open a door is beyond its capacity. When you cast this spell, you may move the object up to 6 tiles, although it falls harmlessly to the ground shortly afterwards.
 
 You may not make attacks or wield weapons in this way.
 
@@ -661,7 +661,7 @@ If you are level 18 or higher, you are able to carefully manipulate essence and 
 
 **Cost:** 1 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -679,6 +679,6 @@ If you are level 18 or higher, it takes only a single copy of this spell to obli
 
 ### Detonation: Surgebreaker Detonation
 
-When you reach 7 stacks of electric exposure, a disabling pulse of electricity emanates from you. Make an Agility attack against all other creatures within 10 feet of you. If you hit, apply 2 stacks of lethargic and knock them prone. If you miss, apply 1 stack of lethargic instead.
+When you reach 7 stacks of electric exposure, a disabling pulse of electricity emanates from you. Make an Agility attack against all other creatures within 2 tiles of you. If you hit, apply 2 stacks of lethargic and knock them prone. If you miss, apply 1 stack of lethargic instead.
 
-When you reach 7 stacks of corrosive exposure, you explode in a shower of acid. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 3d6 + 3 \* Presence corrosive damage. Deal half as much damage if you miss.
+When you reach 7 stacks of corrosive exposure, you explode in a shower of acid. Make an Agility attack against all other creatures within 2 tiles of you. If you hit, deal 3d6 + 3 \* Presence corrosive damage. Deal half as much damage if you miss.

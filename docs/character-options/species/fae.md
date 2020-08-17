@@ -49,7 +49,7 @@ Playful as the birds that sing in the forests, the kindred of the Spring toy wit
 |  5   | Luring hapless adventurers into dangerous monsters is always a win-win scenario. |
 |  6   | I prefer to teach people a lesson by punishing them for their foibles.           |
 
-**Relentless Mockery:** You gain access to the Relentless Mockery power. As a minor action, make a Presence attack against a creature within 30 feet, applying one stack of crazed if you hit.
+**Relentless Mockery:** You gain access to the Relentless Mockery power. As a minor action, make a Presence attack against a creature within 6 tiles, applying one stack of crazed if you hit.
 
 **Ceremony of the Blooming Flowers:** As a downtime activity, you may perform the Ceremony of the Blooming Flowers. All party members (including yourself) have advantage on skill checks made to perform the Splice downtime activity during this rest. Gain the benefit of the Splice downtime activity.
 
@@ -66,7 +66,7 @@ Industrious as bees building up their hive, the kindred of the Summer welcome gu
 |  5   | Building our homes and defenses.                                       |
 |  6   | Keeping the stories and culture of our people alive through retelling. |
 
-**Honeyed Words:** You gain access to the Honeyed Words power. As a minor action, make a Presence attack against a creature within 30 feet, applying one stack of pacified if you hit.
+**Honeyed Words:** You gain access to the Honeyed Words power. As a minor action, make a Presence attack against a creature within 6 tiles, applying one stack of pacified if you hit.
 
 **Ceremony of the Beating Sun:** As a downtime activity, you may perform the Ceremony of the Beating Sun. All party members (including yourself) have advantage on skill checks made as part of Attrition Scenes until the end of your next rest.
 
@@ -83,7 +83,7 @@ Calm as the trees that surround them, the kindred of the Autumn treat visitors t
 |  5   | I handle the logistics, keeping our warriors fed and supplied.                        |
 |  6   | I serve as a diplomat and spy in equal parts.                                         |
 
-**Bleak Rebuke:** You gain access to the Bleak Rebuke power. As a minor action, make a Presence attack against a creature within 30 feet, applying one stack of withered if you hit.
+**Bleak Rebuke:** You gain access to the Bleak Rebuke power. As a minor action, make a Presence attack against a creature within 6 tiles, applying one stack of withered if you hit.
 
 **Ceremony of the Bountiful Harvest:** As a downtime activity, you may perform the Ceremony of the Bountiful Harvest. All party members (including yourself) have advantage on skill checks made to perform the Harvest downtime activity during this rest. Gain the benefit of the Harvest downtime activity.
 
@@ -100,6 +100,6 @@ Haughty as a chilly breeze, the kindred of the Winter are completely unintereste
 |  5   | The changes that are sweeping our lands.   |
 |  6   | The way forward.                           |
 
-**Chilly Reproach:** You gain access to the Chilly Reproach power. As a minor action, make a Presence attack against a creature within 30 feet, applying one stack of chilled if you hit.
+**Chilly Reproach:** You gain access to the Chilly Reproach power. As a minor action, make a Presence attack against a creature within 6 tiles, applying one stack of chilled if you hit.
 
 **Ceremony of the Tranquil Snow:** As a downtime activity, you may perform the Ceremony of the Tranquil Snow. All party members (including yourself) have advantage on Insight skill checks made before the end of your next rest.

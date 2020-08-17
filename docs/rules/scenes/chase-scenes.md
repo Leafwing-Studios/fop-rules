@@ -27,4 +27,4 @@ If your party has an attack or other feature that can slow down or otherwise hin
 
 No matter the contest, you may drag one unconscious or otherwise immobilized party member with you per conscious party member. However, this can impose disadvantage on relevant skill checks, such as those made to run away or grant advantage on attacks your opponent makes against you.
 
-Significant differences in movement speed of at least 10 feet or other relevant tactical abilities (such as the ability to climb freely when escaping up a cliff) can also grant advantage or disadvantage and serve as excellent inspiration for methods of contest.
+Significant differences in movement speed of at least 2 tiles or other relevant tactical abilities (such as the ability to climb freely when escaping up a cliff) can also grant advantage or disadvantage and serve as excellent inspiration for methods of contest.

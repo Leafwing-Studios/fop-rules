@@ -28,7 +28,7 @@ In almost every case where you use Arcana, Expertise is the attribute of a choic
 
 Athletics represents your ability to perform great feats of athletic skill, strength and dexterity. If you need to break down a door, lift a boulder, swim across a lake, scale a cliff, swing from a chandelier, leap across a chasm or so on, this is the skill to use.
 
-When you fall a great distance, you can attempt to land gracefully through the use of Athletics.If you succeed on a difficulty 15 Agility (Athletics) check, take 2 points of damage for each foot above 20 feet that you fell, rather than for each foot above 10 feet like normal.
+When you fall a great distance, you can attempt to land gracefully through the use of Athletics.If you succeed on a difficulty 15 Agility (Athletics) check, take 2 points of damage for each foot above 4 tiles that you fell, rather than for each foot above 2 tiles like normal.
 
 Athletics checks almost always use either Prowess or Agility. Prowess is for typical feats of skill and strength, while Agility is used for particularly delicate maneuvers, where a misstep could result in consequences.
 

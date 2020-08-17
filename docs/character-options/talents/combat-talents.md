@@ -8,7 +8,7 @@ Every combat talent is also available as an affix, with a gear point cost of 1.
 
 ### Blind
 
-You can no longer see in the usual fashion. Instead, you gain an innate awareness of the 30 feet around you as if you could see in bright light. Within this radius, you are immune to the blinded condition and light and heavy shroud effects. Outside of this radius, you are treated as if you were suffering from the blinded condition.
+You can no longer see in the usual fashion. Instead, you gain an innate awareness of the 6 tiles around you as if you could see in bright light. Within this radius, you are immune to the blinded condition and light and heavy shroud effects. Outside of this radius, you are treated as if you were suffering from the blinded condition.
 
 ### Chosen
 
@@ -132,7 +132,7 @@ You may use Agility (Athletics) instead of Prowess (Athletics) to maintain a gra
 
 ### Headstrong
 
-Whenever you move at least 15 feet in a straight line on your turn, you have advantage on melee attacks until the start of your next turn. This benefit is lost if you spend movement that does not continue moving in the same line.
+Whenever you move at least 3 tiles in a straight line on your turn, you have advantage on melee attacks until the start of your next turn. This benefit is lost if you spend movement that does not continue moving in the same line.
 
 ### Nimble
 
@@ -226,7 +226,7 @@ Enemies provoke an attack of opportunity whenever they enter your zone of contro
 
 ### Responsive
 
-You gain access to the First Aid reaction. After another allied creature within 30 feet of you is hit by an attack, you may use this reaction. When you do, you may use any major or minor action that does not cost essence and applies a boon to the creature that was hit.
+You gain access to the First Aid reaction. After another allied creature within 6 tiles of you is hit by an attack, you may use this reaction. When you do, you may use any major or minor action that does not cost essence and applies a boon to the creature that was hit.
 
 ### Stable
 

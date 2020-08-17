@@ -77,7 +77,7 @@ At the end of each of your turns, gain the effects of any patterns you cast that
 
 You can sustain patterns even while otherwise impaired (such as if you were banished, stunned or pacified); only casting new patterns is affected.
 
-Your patterns expire if you end your turn more than 60 feet away from their target. If your concentration is lost, all patterns that you have cast or are sustaining immediately end, including any ongoing effects. You cannot sustain patterns lost in this way. Conditions and afflictions applied are not removed when this occurs, as they do not track which effect applied them.
+Your patterns expire if you end your turn more than 12 tiles away from their target. If your concentration is lost, all patterns that you have cast or are sustaining immediately end, including any ongoing effects. You cannot sustain patterns lost in this way. Conditions and afflictions applied are not removed when this occurs, as they do not track which effect applied them.
 
 ## Guild
 
@@ -185,7 +185,7 @@ At level 1 when you select this Guild, gain access to the following Signature Pa
 
 Cost: 0
 Casting time: Major action
-Range: 30 feet
+Range: 6 tiles
 Duration: Until the start of your next turn
 
 Peering into the Weave, you glimpse the possibility of an alternate future, and carefully pull out that thread. At the end of each of your turns while this pattern is in effect, roll a d20 and set it aside.
@@ -204,7 +204,7 @@ At level 11, gain access to the following Elaborate Pattern for your Guild.
 
 Cost: 0
 Casting time: Major action
-Range: 60 feet
+Range: 12 tiles
 Duration: Until the start of your next turn
 
 You unwind the threads of fate, allowing you to instantly snap motion back a few moments in time. While this pattern is in effect, at the end of each turn, you may return all creatures within range to the positions that they were in at the start of the current turn via teleportation. You may only do so once each round and must hit unwilling creatures with an Expertise attack in order to reverse their position.
@@ -231,7 +231,7 @@ At level 1 when you select this Guild, gain access to the following Signature Pa
 
 Cost: 0
 Casting time: Major action
-Range: 30 feet
+Range: 6 tiles
 Duration: Instant
 
 As you open a rift in the Weave, strange assorted junk, once banished but now forgotten, comes pouring forth, cluttering the battlefield. At the end of each of your turns, choose 3 adjacent tiles within range, which become flooded with junk. Tiles filled with junk are difficult terrain and grant partial cover.
@@ -252,7 +252,7 @@ At level 11, gain access to the following Elaborate Pattern for your Guild.
 
 Cost: 0
 Casting time: Major action
-Range: 30 feet
+Range: 6 tiles
 Duration: Instant
 
 Carefully weaving reality into solid form, you pull the threads together into a solid form. At the end of each of your turns, choose an empty tile within range. It becomes filled with a sturdy solid object of your own creation. This object grants full cover and blocks movement. Unless you are indoors, flying creatures can still pass over this object.
@@ -279,7 +279,7 @@ At level 1 when you select this Guild, gain access to the following Signature Pa
 
 Cost: 0
 Casting time: Major action
-Range: 30 feet
+Range: 6 tiles
 Duration: Instant / Until the end of your next turn
 
 You shape the Weave to create a vivid tapestry that takes root in the mind of a creature within range, persisting in their imagination. At the end of each of your turns, make an Expertise attack against a creature of your choice within range. If you hit, choose one:
@@ -306,7 +306,7 @@ At level 11, gain access to the following Elaborate Pattern for your Guild.
 
 Cost: 0
 Casting time: Major action
-Range: 30 feet
+Range: 6 tiles
 Duration: Until the end of your next turn
 
 Shaping the Weave, you mimic the forms of your allies, creating illusory copies for them to control. Choose a creature within range to copy. At the end of each of your turns:
@@ -344,7 +344,7 @@ At level 1 when you select this Guild, gain access to the following Signature Pa
 
 Cost: 0
 Casting time: Major action
-Range: 30 feet
+Range: 6 tiles
 Duration: Until the start of your next turn
 
 Your target begins to slip from existence, their threads slowly unwinding. Select a creature or object within range. At the end of each of your turns, make a Focus attack against them. If you hit, apply two stacks of banished.
@@ -363,7 +363,7 @@ At level 11, gain access to the following Elaborate Pattern for your Guild.
 
 Cost: 0
 Casting time: Major action
-Range: 30 feet
+Range: 6 tiles
 Duration: Until the start of your next turn
 
 Threads of magic begin to come undone as the Weave shies away from a creature of your choice within range. At the end of each of your turns, make a Focus attack against them. If you hit, apply two stacks of cursed..

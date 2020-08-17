@@ -69,11 +69,11 @@ Gain the features of another base species of your choice instead of any subspeci
 |  5   | I embrace it as part of a rebellious aesthetic.            |
 |  6   | I love to play spooky pranks on small children.            |
 
-**Blindsight:** Lacking eyeballs, you can no longer see in the usual fashion. Instead, you gain an innate awareness of the 30 feet around your skull as if you could see in bright light. Within this radius, you are immune to the blinded condition and light and heavy shroud effects. Outside of this radius, you are treated as if you were suffering from the blinded condition.
+**Blindsight:** Lacking eyeballs, you can no longer see in the usual fashion. Instead, you gain an innate awareness of the 6 tiles around your skull as if you could see in bright light. Within this radius, you are immune to the blinded condition and light and heavy shroud effects. Outside of this radius, you are treated as if you were suffering from the blinded condition.
 
-**Detachable:** You may detach and reattach parts of your body at will, controlling them freely so long as they are within 30 feet of your skull. In combat:
+**Detachable:** You may detach and reattach parts of your body at will, controlling them freely so long as they are within 6 tiles of your skull. In combat:
 
-- You can detach or reattach a component by using the Interact minor action, creating a component in an empty tile of your choice within 20 feet of you. There is no limit on the number of components active at once.
+- You can detach or reattach a component by using the Interact minor action, creating a component in an empty tile of your choice within 4 tiles of you. There is no limit on the number of components active at once.
 - Each component is 0 tiles in size. Your body stays its original size.
 - At the start of your turn, you gain a special pool of movement equal to your movement speed that can only be used to move your components. Each component must be moved separately.
 - Your components can be affected by attacks, boons, ground effects and so on in the usual fashion. These effects transfer to you (and vice versa), and you are not affected by multi-target effects multiple times simply because several components (or your body and a component) were within its effect. \* The grappled and grappling status are the exception to this rule. You have disadvantage on Grapple attacks made with your components.

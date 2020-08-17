@@ -36,7 +36,7 @@ If you have the ability to fly, you can spend half your movement to take flight.
 - If you cannot spend movement or are knocked prone you stop flying.
 - You are immune to the effects of the aloft condition.
 
-You may stop flying at any point during your turn by spending 5 feet of movement.
+You may stop flying at any point during your turn by spending 1 tile of movement.
 
 <div class="infobox">
 
@@ -58,7 +58,7 @@ You cannot be seen using sight. Creatures who cannot see you are treated as if t
 
 You have disadvantage on basic attacks. Melee basic attacks have advantage against you, and ranged basic attacks suffer disadvantage. You can only move by crawling, spending twice as much movement as normal to travel, unless you spend half your movement speed standing up. Hostile creatures can enter your tile while you are prone, but may not end their on your tile.
 
-You may voluntarily go prone by spending 5 feet of movement.
+You may voluntarily go prone by spending 1 tile of movement.
 
 ## Unconscious
 

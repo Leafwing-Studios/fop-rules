@@ -50,7 +50,7 @@ Your body is held aloft by a furious tempest as you embody the power of air. For
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Single-target
 
@@ -70,7 +70,7 @@ Your ally is blessed, shielded by ethereal wings that protect them from harsh wi
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Single-target
 
@@ -90,7 +90,7 @@ By the grace of your god, your ally sprouts wings, letting them soar through the
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Single-target
 
@@ -110,7 +110,7 @@ As you curse your foe, they stumble and gasp for air. Make a Prowess attack agai
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Single-target
 
@@ -130,7 +130,7 @@ Your god denies the blessing of air to your foe, watching as they slowly suffoca
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Single-target
 
@@ -150,7 +150,7 @@ Your deity grants the gift of grace to a creature, allowing them to move freely 
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Single-target
 
@@ -170,7 +170,7 @@ Your ally is blessed with remarkable accuracy and grace, allowing them to hit sh
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Single-target
 
@@ -190,7 +190,7 @@ With the power of your god, you call a sudden gust of wind into creation. Make a
 
 **Cost:** 0 essence
 
-**Range:** 120 feet
+**Range:** 24 tiles
 
 **Targets:** Multi-target
 
@@ -200,7 +200,7 @@ With the power of your god, you call a sudden gust of wind into creation. Make a
 
 </div>
 
-You summon an incredible wind which throws creatures around uncontrollably, sending them tumbling across the battlefield. When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 15 foot wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. Whenever a creature starts their turn in this wind or enters it for the first time on their turn, make a Prowess attack against them. If you hit, they are knocked prone and pushed 30 feet in the direction of the wind. If you miss, they are pushed 15 feet instead.
+You summon an incredible wind which throws creatures around uncontrollably, sending them tumbling across the battlefield. When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 15 foot wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. Whenever a creature starts their turn in this wind or enters it for the first time on their turn, make a Prowess attack against them. If you hit, they are knocked prone and pushed 6 tiles in the direction of the wind. If you miss, they are pushed 3 tiles instead.
 
 ### Portent of the Four Winds
 
@@ -230,7 +230,7 @@ With a whispered prayer you transform into the wind for a moment, before reappea
 
 **Cost:** 0 essence
 
-**Range:** 120 feet
+**Range:** 24 tiles
 
 **Targets:** Multi-target
 
@@ -254,7 +254,7 @@ The creatures selected immediately disappear into puffs of wind. Choose an outdo
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Multi-target
 
@@ -274,7 +274,7 @@ A tiny tornado forms, wreaking small-scale devastation. Select a tile within ran
 
 **Cost:** 0 essence
 
-**Range:** 120 feet
+**Range:** 24 tiles
 
 **Targets:** Multi-target
 
@@ -284,7 +284,7 @@ A tiny tornado forms, wreaking small-scale devastation. Select a tile within ran
 
 </div>
 
-A giant tornado forms from the heavens, touching down on the ground and violently tossing around all that it hits. Select a tile within range and create a 10 foot radius tornado centered on the chosen tile. While summoned, you may spend a minor action to move it up to 30 feet in a path of your choice.
+A giant tornado forms from the heavens, touching down on the ground and violently tossing around all that it hits. Select a tile within range and create a 10 foot radius tornado centered on the chosen tile. While summoned, you may spend a minor action to move it up to 6 tiles in a path of your choice.
 
 Whenever a creature starts their turn within the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, deal 3d6 + 3 \* Presence air damage to them and apply two stacks of aloft. If you miss, they suffer the effects at half efficacy.
 
@@ -338,7 +338,7 @@ Your body hardens to stone as you are granted incredible strength. For the durat
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Single-target
 
@@ -358,7 +358,7 @@ Small, floating diamonds shield your ally, granting them their blessing. Select 
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Single-target
 
@@ -378,7 +378,7 @@ You ally's skin turns to solid diamond, sparkling and durable. Select a creature
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Single-target
 
@@ -433,7 +433,7 @@ Your gaze pierces the very fiber of your enemies, turning them to stone. At the 
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Multi-target
 
@@ -455,7 +455,7 @@ Whenever a creature starts their turn in this sandstorm or enters it for the fir
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Multi-target
 
@@ -477,7 +477,7 @@ Creatures within the sandstorm are heavily shrouded, except to other creatures w
 
 **Cost:** 0 essence
 
-**Range:** 60 feet
+**Range:** 12 tiles
 
 **Targets:** Multi-target
 
@@ -497,7 +497,7 @@ Earth roils and stone warps under your power. Select a tile within range. A 10 f
 
 **Cost:** 0 essence
 
-**Range:** 60 feet
+**Range:** 12 tiles
 
 **Targets:** Multi-target
 
@@ -517,7 +517,7 @@ Solid rock springs forth from the ground, jutting roughly and suddenly. Create u
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Multi-target
 
@@ -537,7 +537,7 @@ With a prophetic flourish, you foresee the falling of a meteor. Select a tile of
 
 **Cost:** 0 essence
 
-**Range:** 120 feet
+**Range:** 24 tiles
 
 **Targets:** Multi-target
 
@@ -553,7 +553,7 @@ While you are concentrating on this miracle, your favor continues to build up as
 
 All creatures within a 15 foot radius of the previously selected tile are crushed by the meteor, and take 20d6 + 20 \* Presence earth damage. They are completely covered by the meteor, prone and cannot spend movement unless they are able to slip out from underneath it in some way. Any creature trapped in this way, or their allies, must succeed on a difficulty 25 Prowess (Athletics) skill check to break free, or destroy the part of the meteor that is trapping them. The meteor is an inanimate object with 30 life per tile-covering section and gains 10 absorption at the start of each of your turns.
 
-Creatures outside of the 15 foot radius but within a 120 foot radius are hit by the shockwave caused by the meteor. Make a Prowess attack against each of them. If you hit, deal 10d6 + 10 \* Presence air damage to all those hit, knock them prone, and push them 30 feet directly away from the point of impact. If you miss, they suffer the effects at half efficacy.
+Creatures outside of the 15 foot radius but within a 120 foot radius are hit by the shockwave caused by the meteor. Make a Prowess attack against each of them. If you hit, deal 10d6 + 10 \* Presence air damage to all those hit, knock them prone, and push them 6 tiles directly away from the point of impact. If you miss, they suffer the effects at half efficacy.
 
 ### Wrath of the Earth
 
@@ -563,7 +563,7 @@ Creatures outside of the 15 foot radius but within a 120 foot radius are hit by 
 
 **Cost:** 0 essence
 
-**Range:** 30 feet
+**Range:** 6 tiles
 
 **Targets:** Multi-target
 
@@ -583,7 +583,7 @@ The earth rumbles ominously underfoot. Select a tile within range. Make an Agili
 
 **Cost:** 0 essence
 
-**Range:** 120 feet
+**Range:** 24 tiles
 
 **Targets:** Multi-target
 

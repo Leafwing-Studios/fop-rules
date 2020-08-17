@@ -51,7 +51,7 @@ Splendidly diverse, sylvan deliberately attempt to create novel forms and functi
 
 ## Vines
 
-**Grasping Vines:** Your zone of control is increased to 10 feet
+**Grasping Vines:** Your zone of control is increased to 2 tiles
 
 **Covetous Tendrils:** You are proficient in Trickery.
 

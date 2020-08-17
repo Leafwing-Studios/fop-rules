@@ -143,7 +143,7 @@ At level 11, you are intimately familiar with the workings of the element you ar
 
 ## Lay of the Locale
 
-At level 14, you are able to carefully discern the contents of areas on the other side of solid material. When you use your Lay of the Land feature, you may instead choose to gain knowledge about the detailed contents on the other side of a wall, floor or ceiling. You can detect creatures, objects and the general geometry up to 120 feet away, clearly seeing the shapes that they form but gaining no other information.
+At level 14, you are able to carefully discern the contents of areas on the other side of solid material. When you use your Lay of the Land feature, you may instead choose to gain knowledge about the detailed contents on the other side of a wall, floor or ceiling. You can detect creatures, objects and the general geometry up to 24 tiles away, clearly seeing the shapes that they form but gaining no other information.
 
 ## Energy Buffer
 

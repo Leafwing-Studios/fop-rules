@@ -8,7 +8,7 @@
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -28,7 +28,7 @@ The Weave wraps around a creature of your choice, shielding them from harm. At t
 
 **Cost:** 0 essence
 
-**Range:** Melee, 10 feet
+**Range:** Melee, 2 tiles
 
 **Targets:** Multi-target
 
@@ -38,7 +38,7 @@ The Weave wraps around a creature of your choice, shielding them from harm. At t
 
 </div>
 
-The Weave itself ripples as a pulsing wave of magical force emanates from you, unmooring those around you. At the end of each of your turns for the duration of this effect, make an Expertise attack against all other creatures within 10 feet of you. If you hit, deal 1d4 + Presence arcane damage and knock them prone. If they are already prone, apply 3 + ½ Presence stacks of unstable to them instead.
+The Weave itself ripples as a pulsing wave of magical force emanates from you, unmooring those around you. At the end of each of your turns for the duration of this effect, make an Expertise attack against all other creatures within 2 tiles of you. If you hit, deal 1d4 + Presence arcane damage and knock them prone. If they are already prone, apply 3 + ½ Presence stacks of unstable to them instead.
 
 ## Pattern of Annihilation
 
@@ -48,7 +48,7 @@ The Weave itself ripples as a pulsing wave of magical force emanates from you, u
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -68,7 +68,7 @@ Sacrificing part of your own existence, the Weave begins to unravel, hastening a
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -83,11 +83,11 @@ You wrap the Weave around an object or set of arms within range that is not bein
 If you animated a set of arms:
 
 - You may only animate the set of arms you currently have equipped.
-- When you use your Thread Twisting minor action (gained at level 3), you gain the benefit of the Swap minor action, and may equip arms up to 30 feet away from you.
+- When you use your Thread Twisting minor action (gained at level 3), you gain the benefit of the Swap minor action, and may equip arms up to 6 tiles away from you.
 - The arms get their own token.
 - The arms share your defenses and any other effects that are active on you, other than conditions or statuses. They cannot take damage, gain absorption or gain afflictions or any other status. They can gain their own conditions, which clear independently.
 - The arms are flying.
-- At the end of each of your turns for the duration of this effect, you may move the object up to 30 feet. This is not increased if you have multiple copies of this pattern active.
+- At the end of each of your turns for the duration of this effect, you may move the object up to 6 tiles. This is not increased if you have multiple copies of this pattern active.
 - After you move the object, you may make a basic attack using these arms. If you have multiple copies of this pattern active, you may make one basic attack per copy of this pattern.
 - Your zone of control surrounds these arms, rather than your own character. You may make attacks of opportunity using the Strike major action using these arms.
 - You have disadvantage on ranged basic attacks made in this fashion while the arms are in an enemy zone of control.
@@ -100,7 +100,7 @@ If you animated a set of arms:
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -120,7 +120,7 @@ The Weave wraps tightly around the weapons of a creature of your choice, causing
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -140,7 +140,7 @@ The Weave binds a creature tightly in place as threads of magic wind around them
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -160,7 +160,7 @@ The Weave bends around a creature or object of your choice that fits within a si
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -176,7 +176,7 @@ Effects which apply forced movement other than by teleportation (such as the Sho
 
 At the end of each of your turns for the duration of the effect, make a Prowess attack against the creature within the bubble. If you miss, they break free as they burst through the bubble. Other creatures may spend a minor action to attempt to break the bubble, succeeding if they win a skill contest pitting their Prowess (Athletics) against your Presence (Arcana).
 
-While within the bubble, a creature may attempt to roll the bubble, spending twice as much movement as usual to move. The first time each turn that they try to do so, they must make a difficulty 10 Agility (Acrobatics) skill check. If they fail, they fall prone. The bubble naturally rolls down slopes if not held in place, moving 15 feet (30 feet if it is a particularly steep slope) at the start of the trapped creature’s turn down the slope. You cannot move up stairs or the like while in this bubble.
+While within the bubble, a creature may attempt to roll the bubble, spending twice as much movement as usual to move. The first time each turn that they try to do so, they must make a difficulty 10 Agility (Acrobatics) skill check. If they fail, they fall prone. The bubble naturally rolls down slopes if not held in place, moving 3 tiles (6 tiles if it is a particularly steep slope) at the start of the trapped creature’s turn down the slope. You cannot move up stairs or the like while in this bubble.
 
 ## Pattern of Dampening
 
@@ -186,7 +186,7 @@ While within the bubble, a creature may attempt to roll the bubble, spending twi
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -208,7 +208,7 @@ This effect does not stack with itself, and applies to boons applied to oneself 
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -228,7 +228,7 @@ A creature or object of your choice within range begins to disintegrate as their
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -238,7 +238,7 @@ A creature or object of your choice within range begins to disintegrate as their
 
 </div>
 
-Magical energy crackles and pops as tiny rifts in the Weave appear around a creature of your choice. At the end of each of your turns for the duration of this effect, make an Expertise attack against the affected creature. If you hit, teleport the affected creature up to 15 feet into an empty tile of your choice.
+Magical energy crackles and pops as tiny rifts in the Weave appear around a creature of your choice. At the end of each of your turns for the duration of this effect, make an Expertise attack against the affected creature. If you hit, teleport the affected creature up to 3 tiles into an empty tile of your choice.
 
 ## Pattern of Empoweremnt
 
@@ -248,7 +248,7 @@ Magical energy crackles and pops as tiny rifts in the Weave appear around a crea
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -268,7 +268,7 @@ You lend your magical strength to another creature within range, magic pulsing t
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -288,7 +288,7 @@ The Weave rebels against a creature of your choice, becoming progressively unrul
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -308,7 +308,7 @@ As you toy with the threads tying a creature to existence, they pop in and out o
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -330,7 +330,7 @@ When you use your Thread Twisting minor action, you may freely reposition this r
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -352,7 +352,7 @@ You may grapple any number of creatures in this way. When this pattern ends, the
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -375,7 +375,7 @@ You twist the Weave into a terrible knot around your foes, causing their afflict
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -397,7 +397,7 @@ Creatures can use the Scan minor action to attempt to examine the effect, realiz
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -417,7 +417,7 @@ The Weave enters the mind of a creature of your choice within range, driving the
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -437,7 +437,7 @@ You tangle the threads of the Weave around an object or creature, anchoring them
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -457,7 +457,7 @@ As the Weave wraps around your foe, time seems to slow down for them, preventing
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -477,7 +477,7 @@ The Weave washes over a creature of your choice, cleansing them of their ailment
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -497,7 +497,7 @@ The Weave accelerates the actions of a creature you can see, hastening their mov
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -517,7 +517,7 @@ The Weave shelters a creature you can see, making them seem somehow not entirely
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -537,7 +537,7 @@ By weaving this Pattern, you grant a creature of your choice the ability to sens
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -557,7 +557,7 @@ The Weave gently caresses a creature of your choice within range, convincing the
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -577,7 +577,7 @@ The Weave holds a creature or object of your choice within range aloft, gently t
 
 **Cost:** 0 essence
 
-**Range:** Melee, 10 feet
+**Range:** Melee, 2 tiles
 
 **Targets:** Multi-target
 
@@ -595,7 +595,7 @@ Time around you slows to a crawl as you twist and tangle the Weave. A 10 foot ra
 - Creatures within the area must spend twice as much movement as usual in order to move. Like usual, this stacks multiplicatively with effects such as chilled, withered or difficult terrain.
 - Creatures within the area cannot take reactions in response to events caused by creatures outside the area.
 
-These effects apply to yourself as well. If you are affected by multiple copies of this pattern, the radius increases by 10 feet for each copy.
+These effects apply to yourself as well. If you are affected by multiple copies of this pattern, the radius increases by 2 tiles for each copy.
 
 ## Pattern of Warding
 
@@ -605,7 +605,7 @@ These effects apply to yourself as well. If you are affected by multiple copies 
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Multi-target
 
@@ -615,7 +615,7 @@ These effects apply to yourself as well. If you are affected by multiple copies 
 
 </div>
 
-The Weave shields a creature you can see from harm with a crackling forcefield. For the duration of this effect, basic attacks against the affected creature have disadvantage. The first time each round that they are struck by an attack the energy discharges. When it discharges, make a Focus attack against all creatures within 5 feet of the warded creature, dealing 1d4 + Presence arcane damage on a hit.
+The Weave shields a creature you can see from harm with a crackling forcefield. For the duration of this effect, basic attacks against the affected creature have disadvantage. The first time each round that they are struck by an attack the energy discharges. When it discharges, make a Focus attack against all creatures within 1 tile of the warded creature, dealing 1d4 + Presence arcane damage on a hit.
 
 ## Pattern of Warping
 
@@ -625,7 +625,7 @@ The Weave shields a creature you can see from harm with a crackling forcefield. 
 
 **Cost:** 0 essence
 
-**Range:** Ranged, 30 feet
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -635,6 +635,6 @@ The Weave shields a creature you can see from harm with a crackling forcefield. 
 
 </div>
 
-You bend the Weave around yourself, shaping it into a strange, reality warping bubble that covers a 5 foot radius around you. Whenever a creature begins their turn in the bubble, or enters the bubble on their turn, make a Focus attack against them. If you hit, teleport them to an empty square of your choice within 15 feet of you that is outside the 5 foot bubble. Unlike many similar effects, creatures can be affected by this bubble multiple times in a single turn if they keep re-entering the bubble.
+You bend the Weave around yourself, shaping it into a strange, reality warping bubble that covers a 5 foot radius around you. Whenever a creature begins their turn in the bubble, or enters the bubble on their turn, make a Focus attack against them. If you hit, teleport them to an empty square of your choice within 3 tiles of you that is outside the 5 foot bubble. Unlike many similar effects, creatures can be affected by this bubble multiple times in a single turn if they keep re-entering the bubble.
 
-If you are affected by multiple copies of this effect at once, the radius increases by 5 feet and the distance you can teleport them increases by 15 feet for each copy.
+If you are affected by multiple copies of this effect at once, the radius increases by 1 tile and the distance you can teleport them increases by 3 tiles for each copy.

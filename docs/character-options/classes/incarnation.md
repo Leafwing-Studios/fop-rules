@@ -198,7 +198,7 @@ You may Transform as a minor action, which costs essence equal to your current s
 
 At level 11, you learn to rally your allies with a fearsome cry.
 
-While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, all allies within 30 feet of you gain 6 + Presence absorption.
+While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, all allies within 6 tiles of you gain 6 + Presence absorption.
 
 ### Impunity: Bravery
 
@@ -214,15 +214,15 @@ At level 1, you learn to embody the spirit of grief, spreading misery to all aro
 
 You may Transform as a minor action, which costs essence equal to your current stacks of Emotion. While transformed:
 
-- At the start of each of your turns apply 3 + Presence/2 stacks of anguish to all other creatures within 10 feet of you.
-- Whenever a creature within 10 feet of you, including yourself, loses life due to an affliction, gain that much absorption.
+- At the start of each of your turns apply 3 + Presence/2 stacks of anguish to all other creatures within 2 tiles of you.
+- Whenever a creature within 2 tiles of you, including yourself, loses life due to an affliction, gain that much absorption.
 - At the end of each of your turns, you lose 1 stack of emotion. When you reach 0 stacks of emotion the transformation ends.
 
 ### Outburst: Wail
 
 At level 11, you learn to demoralize your foes with a horrible wail.
 
-While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, make a Presence attack against all enemies within 30 feet of you, applying two stacks of blunted if you hit.
+While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, make a Presence attack against all enemies within 6 tiles of you, applying two stacks of blunted if you hit.
 
 ### Impunity: Self-Loathing
 
@@ -238,7 +238,7 @@ At level 1, you learn to embody the spirit of hope, bolstering the spirits of yo
 
 You may Transform as a minor action, which costs essence equal to your current stacks of emotion. While transformed:
 
-- Whenever you hit a creature with an attack, or use the Treat minor action, grant a creature within 10 feet of you (including yourself) 3 + Presence/2 absorption and advantage on all attacks they make until the end of your next turn.
+- Whenever you hit a creature with an attack, or use the Treat minor action, grant a creature within 2 tiles of you (including yourself) 3 + Presence/2 absorption and advantage on all attacks they make until the end of your next turn.
 - Your Grit class feature now removes all conditions you are suffering from when you pass the Presence (Endurance) skill check, rather than just a single condition of your choice.
 - At the end of each of your turns, you lose 1 stack of emotion. When you reach 0 stacks of emotion the transformation ends.
 
@@ -246,7 +246,7 @@ You may Transform as a minor action, which costs essence equal to your current s
 
 At level 11, you learn to pour out your soul, inspiring those around you to shake off their ailments.
 
-While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, choose a condition or affliction. Remove all stacks of that condition or affliction from all creatures within 10 feet of you.
+While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, choose a condition or affliction. Remove all stacks of that condition or affliction from all creatures within 2 tiles of you.
 
 ### Impunity: Indomitable Spirit
 
@@ -272,7 +272,7 @@ You may Transform as a minor action, which costs essence equal to your current s
 
 At level 11, you learn to feed others rage as you spread your own anger.
 
-While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, make a Presence attack against all other creatures within 10 feet of you. If you hit, apply 6 + Presence stacks of rage.
+While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, make a Presence attack against all other creatures within 2 tiles of you. If you hit, apply 6 + Presence stacks of rage.
 
 ### Impunity: Rage Beyond Death
 
