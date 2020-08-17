@@ -13,7 +13,7 @@ With this seed in place, you can begin to flesh out your character, and fill out
 
 - The **species** of creatures they are part of. \* Select any options needed for that species, such as subspecies.
 - The **class** that defines how they wield magical power. \* Select any options needed for that class, such as subclass or spells known.
-- Five ** kill proficiencies,** which capture their background knowledge and training.
+- Five **skill proficiencies,** which capture their background knowledge and training.
   - You add your proficiency bonus to skill checks you are proficient with. \* You always get to choose between a setback and an opportunity when you fail skill checks that you are proficient in.
 - The unique **talents** that start to define them.
   - A skill talent.
