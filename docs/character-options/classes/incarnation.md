@@ -204,32 +204,6 @@ While transformed, you can use the Outburst major action at the cost of one stac
 
 At level 15, you fear nothing. While transformed, you are immune to the frightened condition.
 
-## Desire
-
-Otherworldly beauties, charming performers or beloved leaders, Incarnations of Charm tend towards a subtler approach to solving problems, winning allies and tricking foes into doing exactly what they wanted all along.
-
-### Embodiment: Desire Incarnate
-
-At level 1, you learn to embody the spirit of desire, taking on a splendid form that tempts your enemies to your cause.
-
-You may Transform as a minor action, which costs essence equal to your current stacks of emotion. While transformed:
-
-- Whenever you are hit by an attack and at the end of each of your turns while transformed, make a Presence attack against a creature of your choice within 30 feet of you. Add your Presence to this attack roll in addition to your Expertise.
-
-If you hit, until the end of their next turn, they act as your ally, treating your allies as their allies and your enemies as their enemies. This effect ends immediately if they lose life due to an attack made by you or your allies.
-
-- At the end of each of your turns, you lose 1 stack of emotion. When you reach 0 stacks of emotion the transformation ends.
-
-### Outburst: Enchanting Presence
-
-At level 11, you learn to hold your foes rapt attention with a captivating and wondrous display.
-
-While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, make a Focus attack against all enemies within 30 feet of you, applying two stacks of pacified if you hit.
-
-### Impunity: Sweetheart
-
-At level 15, you have earned exceptional treatment from all those who adore you, shielding you from any accidental harm they may inflict. While transformed, you are immune to damage, conditions, and afflictions from allied creatures.
-
 ## Grief
 
 Whether they are mourning the loss of a loved one, a terrible tragedy or simply the state of the world, Incarnations of Grief spread misery wherever they go.
