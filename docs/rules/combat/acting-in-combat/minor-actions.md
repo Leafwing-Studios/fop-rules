@@ -52,9 +52,14 @@ Attacks against you by a creature of your choice have disadvantage against you u
 
 ## Hide
 
-If there is some plausible way to hide, you may attempt a difficulty 10 Agility (Stealth) skill check, becoming invisible (relative to certain creatures) and concealing your position until the end of your next turn or until immediately after you make an attack.
+If there is some plausible way to hide from your enemies, you may attempt a difficulty 10 Agility (Stealth) skill check. If you succeed, you are invisible to your enemies and your position is concealed from them until the end of your next turn. This effect ends immediately after you make an attack.
 
-For more information on handling stealth outside of combat, see the Stealth skill description, or the Scenes > Trickery Scenes section.
+You have a plausible way to hide (per the definitions of this action) if, for all enemies, at least one of these conditions is true:
+
+- you are invisible to them (via direct invisibility, heavy shroud, darkness, full cover or some other effect)
+- you are obscured by at least two conditions (such as light shroud, dim light or partial cover)
+
+For more information on handling stealth outside of combat, see the Stealth skill description, or the _Scenes > Trickery Scenes_ section.
 
 ## Interact
 
