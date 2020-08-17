@@ -44,7 +44,7 @@ The Geodes stand apart from these two factions, largely shunned for their freaki
 
 **Forbidden Snack:** As a minor action, you may break off a number of essence crystals equal to your proficiency bonus from your body, suffering 1 stack of exhaustion for doing so. These are very unstable however, and must be used before the end of your next rest.
 
-Consuming essence crystals does not risk essence overload but you may no longer use the Essence Tap minor action.
+You may not use the Essence Tap minor action. However, consuming essence crystals with the Activate minor action to restore essence does not risk essence overload.
 
 **Crystalline Biology:** You do not need to breathe, eat or drink, and do not die of old age, but slowly shrink into nothingness if you are cut off from the world’s natural supply of magical energy, losing 1 tile in size every month.
 
