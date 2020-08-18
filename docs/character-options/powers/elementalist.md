@@ -64,7 +64,7 @@ If you have at least 4 stacks of air exposure, the elemental energy bounces off 
 
 </div>
 
-A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. If you miss, they suffer the effects at half efficacy.
+A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. If you miss, they suffer the effects at half efficacy.
 
 If you have at least 4 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -130,7 +130,7 @@ If you have at least 4 stacks of air exposure, make an attack against each other
 
 </div>
 
-Vanishing into thin air, you appear a short distance away with a burst of air. Teleport up to 3 tiles into an empty tile of your choice and make a Prowess attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
+Vanishing into thin air, you appear a short distance away with a burst of air. Teleport up to 3 tiles into an empty tile of your choice and make a Prowess attack against all other creatures within a 1 tile radius of that tile. If you hit, knock them prone.
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport.
 
@@ -154,7 +154,7 @@ If you have at least 4 stacks of air exposure, you can only teleport up to 1 til
 
 Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of aloft.
 
-If you have at least 4 stacks of air exposure, this spell becomes multi-target, and targets all creatures in a 5 foot radius within range instead.
+If you have at least 4 stacks of air exposure, this spell becomes multi-target, and targets all creatures in a 1 tile radius within range instead.
 
 ### Wind Touch
 
@@ -220,7 +220,7 @@ If you have at least 4 stacks of earth exposure, the absorption granted increase
 
 </div>
 
-A crushing bolt of stone shoots forth from your weapon, flattening everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence earth damage and knock the creature hit prone.
+A crushing bolt of stone shoots forth from your weapon, flattening everything in its path. Make a Prowess attack against each creature in a 1 tile wide by 14 tile long line. If you hit, deal 1d4 + Presence earth damage and knock the creature hit prone.
 
 If you have at least 4 stacks of earth exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
@@ -242,7 +242,7 @@ If you have at least 4 stacks of earth exposure, the elemental energy bounces of
 
 </div>
 
-A heavy ball of stone whizzes through the air before exploding in a shower of rock. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence earth damage. If you miss, they suffer the effects at half efficacy.
+A heavy ball of stone whizzes through the air before exploding in a shower of rock. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence earth damage. If you miss, they suffer the effects at half efficacy.
 
 If you have at least 4 stacks of earth exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -286,9 +286,9 @@ If you have at least 4 stacks of earth exposure, the absorption gained increases
 
 </div>
 
-As you fan your hands, a spray of sharp rocks pours forth from your fingertips, blasting through your enemies' defenses. Make an Expertise attack against each creature within a 15 foot radius cone. If you hit, deal 1d8 + Presence earth damage. This effect deals twice as much damage to absorption and the Block reaction is half as effective against it.
+As you fan your hands, a spray of sharp rocks pours forth from your fingertips, blasting through your enemies' defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d8 + Presence earth damage. This effect deals twice as much damage to absorption and the Block reaction is half as effective against it.
 
-If you have at least 4 stacks of earth exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
+If you have at least 4 stacks of earth exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 
 ### Stone Step
 
@@ -332,7 +332,7 @@ If you have at least 4 stacks of earth exposure, you can only teleport up to 1 t
 
 Grasping tendrils of stone surround your foe, clutching and grabbing as they anchor your foe to the ground. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of rooted.
 
-If you have at least 4 stacks of earth exposure, this spell becomes multi-target, and targets all creatures in a 5 foot radius within range instead.
+If you have at least 4 stacks of earth exposure, this spell becomes multi-target, and targets all creatures in a 1 tile radius within range instead.
 
 ### Stone Touch
 
@@ -398,7 +398,7 @@ If you have at least 4 stacks of fire exposure, the absorption granted increases
 
 </div>
 
-A searing bolt of flame shoots forth from your weapon, igniting everything in its path. Make an Agility attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence fire damage and apply 3 + ½ Presence stacks of aflame.
+A searing bolt of flame shoots forth from your weapon, igniting everything in its path. Make an Agility attack against each creature in a 1 tile wide by 14 tile long line. If you hit, deal 1d4 + Presence fire damage and apply 3 + ½ Presence stacks of aflame.
 
 If you have at least 4 stacks of fire exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
@@ -420,7 +420,7 @@ If you have at least 4 stacks of fire exposure, the elemental energy bounces off
 
 </div>
 
-A roaring ball of fire whizzes through the air before exploding in a spectacular incendiary display. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence fire damage. If you miss, they suffer the effects at half efficacy.
+A roaring ball of fire whizzes through the air before exploding in a spectacular incendiary display. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence fire damage. If you miss, they suffer the effects at half efficacy.
 
 If you have at least 4 stacks of fire exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -464,9 +464,9 @@ If you have at least 4 stacks of fire exposure, the absorption gained increases 
 
 </div>
 
-As you fan your hands, flickering flames pours forth from your fingertips, igniting your foes. Make an Agility attack against each creature within a 15 foot radius cone, including youserlf. If you hit, apply 6 + Presence stacks of aflame.
+As you fan your hands, flickering flames pours forth from your fingertips, igniting your foes. Make an Agility attack against each creature within a 3 tile radius cone, including youserlf. If you hit, apply 6 + Presence stacks of aflame.
 
-If you have at least 4 stacks of fire exposure, make an attack against each creature within a 15 foot radius of yourself, including yourself, instead.
+If you have at least 4 stacks of fire exposure, make an attack against each creature within a 3 tile radius of yourself, including yourself, instead.
 
 ### Flame Step
 
@@ -576,7 +576,7 @@ If you have at least 4 stacks of water exposure, the absorption granted increase
 
 </div>
 
-A freezing bolt of ice shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence water damage and apply one stack of chilled.
+A freezing bolt of ice shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile wide by 14 tile long line. If you hit, deal 1d4 + Presence water damage and apply one stack of chilled.
 
 If you have at least 4 stacks of water exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
@@ -598,7 +598,7 @@ If you have at least 4 stacks of water exposure, the elemental energy bounces of
 
 </div>
 
-A gleaming ball of ice whizzes through the air before exploding in a shower of icicles. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence water damage. If you miss, they suffer the effects at half efficacy.
+A gleaming ball of ice whizzes through the air before exploding in a shower of icicles. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence water damage. If you miss, they suffer the effects at half efficacy.
 
 If you have at least 4 stacks of water exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -642,9 +642,9 @@ If you have at least 4 stacks of water exposure, the absorption gained increases
 
 </div>
 
-As you fan your hands, freezing air pours forth from your fingertips, freezing your foes to the ground. Make an Agility attack against each creature within a 15 foot radius cone. If you hit, deal 1d4 + Presence water damage and apply one stack of rooted.
+As you fan your hands, freezing air pours forth from your fingertips, freezing your foes to the ground. Make an Agility attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence water damage and apply one stack of rooted.
 
-If you have at least 4 stacks of water exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
+If you have at least 4 stacks of water exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 
 ### Frost Step
 
@@ -664,7 +664,7 @@ If you have at least 4 stacks of water exposure, make an attack against each oth
 
 </div>
 
-Vanishing into thin air, you appear a short distance away, leaving a slick of ice behind. Teleport up to 3 tiles into an empty tile of your choice. Then, create a patch of ice as a ground effect in a 5 foot radius around the tile that you left behind. Whenever a creature starts their turn on this ice or enters it for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on the ice, the effects of forced movement are doubled.
+Vanishing into thin air, you appear a short distance away, leaving a slick of ice behind. Teleport up to 3 tiles into an empty tile of your choice. Then, create a patch of ice as a ground effect in a 1 tile radius around the tile that you left behind. Whenever a creature starts their turn on this ice or enters it for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on the ice, the effects of forced movement are doubled.
 
 This ice disappears at the end of your next turn.
 
@@ -756,7 +756,7 @@ If you have at least 4 stacks of arcane exposure, the absorption granted increas
 
 </div>
 
-A glimmering bolt of magical energy shoots forth from your weapon, blowing away everything in its path. Make a Focus attack against each creature in a 5 foot wide by 120 foot long line. If you hit, apply 6 + Presence stacks of unstable.
+A glimmering bolt of magical energy shoots forth from your weapon, blowing away everything in its path. Make a Focus attack against each creature in a 1 tile wide by 14 tile long line. If you hit, apply 6 + Presence stacks of unstable.
 
 If you have at least 4 stacks of arcane exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
@@ -778,7 +778,7 @@ If you have at least 4 stacks of arcane exposure, the elemental energy bounces o
 
 </div>
 
-A rainbow ball of pure magical energy whizzes through the air before exploding in a spectacular shower of glitter. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence arcane damage. If you miss, they suffer the effects at half efficacy.
+A rainbow ball of pure magical energy whizzes through the air before exploding in a spectacular shower of glitter. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence arcane damage. If you miss, they suffer the effects at half efficacy.
 
 If you have at least 4 stacks of arcane exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -822,9 +822,9 @@ If you have at least 4 stacks of arcane exposure, the absorption gained increase
 
 </div>
 
-As you fan your hands, a strange force pours forth from your fingertips, banishing everything you hit to another dimension for a moment. Make an Expertise attack against each creature within a 15 foot radius cone. If you hit, apply two stacks of banished.
+As you fan your hands, a strange force pours forth from your fingertips, banishing everything you hit to another dimension for a moment. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, apply two stacks of banished.
 
-If you have at least 4 stacks of arcane exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
+If you have at least 4 stacks of arcane exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 
 ### Essence Step
 
@@ -936,7 +936,7 @@ If you have at least 4 stacks of eldritch exposure, the absorption granted incre
 
 </div>
 
-A screaming bolt of psionic energy shoots forth from your weapon, horrifying everything in its path. Make a Presence attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d4 + Presence eldritch damage and apply one stack of frightened.
+A screaming bolt of psionic energy shoots forth from your weapon, horrifying everything in its path. Make a Presence attack against each creature in a 1 tile wide by 14 tile long line. If you hit, deal 1d4 + Presence eldritch damage and apply one stack of frightened.
 
 If you have at least 4 stacks of eldritch exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
@@ -958,7 +958,7 @@ If you have at least 4 stacks of eldritch exposure, the elemental energy bounces
 
 </div>
 
-A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence eldritch damage. If you miss, they suffer the effects at half efficacy.
+A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence eldritch damage. If you miss, they suffer the effects at half efficacy.
 
 If you have at least 4 stacks of eldritch exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -1002,9 +1002,9 @@ If you have at least 4 stacks of eldritch exposure, the absorption gained increa
 
 </div>
 
-As you fan your hands, overwhelming psionic energy pours forth from your fingertips, horrifying your foes. Make a Focus attack against each creature within a 15 foot radius cone. If you hit, deal 1d4 + Presence eldritch damage and apply one stack of frightened.
+As you fan your hands, overwhelming psionic energy pours forth from your fingertips, horrifying your foes. Make a Focus attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence eldritch damage and apply one stack of frightened.
 
-If you have at least 4 stacks of eldritch exposure, make an attack against each creature within a 15 foot radius of yourself instead.
+If you have at least 4 stacks of eldritch exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
 ### Mind Step
 
@@ -1024,7 +1024,7 @@ If you have at least 4 stacks of eldritch exposure, make an attack against each 
 
 </div>
 
-Vanishing into thin air, you appear a short distance away with a burst of air. Teleport up to 3 tiles into an empty tile of your choice and make a Prowess attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
+Vanishing into thin air, you appear a short distance away with a burst of air. Teleport up to 3 tiles into an empty tile of your choice and make a Prowess attack against all other creatures within a 1 tile radius of that tile. If you hit, knock them prone.
 
 If you have at least 4 stacks of eldritch exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport.
 
@@ -1114,7 +1114,7 @@ If you have at least 4 stacks of radiant exposure, the absorption granted increa
 
 </div>
 
-A calming bolt of radiant energy shoots forth from your weapon, tranquilizing everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, apply two stacks of pacified.
+A calming bolt of radiant energy shoots forth from your weapon, tranquilizing everything in its path. Make a Prowess attack against each creature in a 1 tile wide by 14 tile long line. If you hit, apply two stacks of pacified.
 
 If you have at least 4 stacks of radiant exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
@@ -1136,7 +1136,7 @@ If you have at least 4 stacks of radiant exposure, the elemental energy bounces 
 
 </div>
 
-A glowing ball of light whizzes through the air before exploding in a searing burst. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence radiant damage. If you miss, they suffer the effects at half efficacy.
+A glowing ball of light whizzes through the air before exploding in a searing burst. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence radiant damage. If you miss, they suffer the effects at half efficacy.
 
 If you have at least 4 stacks of radiant exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -1180,9 +1180,9 @@ If you have at least 4 stacks of radiant exposure, the absorption gained increas
 
 </div>
 
-As you fan your hands, a brilliant rainbow pours forth from your fingertips, blinding your foes. Make a Focus attack against each creature within a 15 foot radius cone. If you hit, deal 1d4 + Presence radiant damage and apply one stack of blinded.
+As you fan your hands, a brilliant rainbow pours forth from your fingertips, blinding your foes. Make a Focus attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence radiant damage and apply one stack of blinded.
 
-If you have at least 4 stacks of radiant exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
+If you have at least 4 stacks of radiant exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 
 ### Brilliant Step
 
@@ -1202,7 +1202,7 @@ If you have at least 4 stacks of radiant exposure, make an attack against each o
 
 </div>
 
-VVanishing into thin air, you appear a short distance away with a sudden flash. Teleport up to 3 tiles into an empty tile of your choice and make a Focus attack against all other creatures within a 5 foot radius of that tile. If you hit, knock them prone.
+VVanishing into thin air, you appear a short distance away with a sudden flash. Teleport up to 3 tiles into an empty tile of your choice and make a Focus attack against all other creatures within a 1 tile radius of that tile. If you hit, knock them prone.
 
 If you have at least 4 stacks of radiant exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport.
 
@@ -1292,7 +1292,7 @@ If you have at least 4 stacks of umbral exposure, the absorption granted increas
 
 </div>
 
-An agonizing bolt of pure shadow shoots forth from your weapon, wracking everything in its path with pain. Make a Focus attack against each creature in a 5 foot wide by 120 foot long line. If you hit, apply 6 + Presence stacks of anguish.
+An agonizing bolt of pure shadow shoots forth from your weapon, wracking everything in its path with pain. Make a Focus attack against each creature in a 1 tile wide by 14 tile long line. If you hit, apply 6 + Presence stacks of anguish.
 
 If you have at least 4 stacks of umbral exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
@@ -1314,7 +1314,7 @@ If you have at least 4 stacks of umbral exposure, the elemental energy bounces o
 
 </div>
 
-A flickering ball of pure darkness whizzes through the air before exploding in a creeping wave. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence umbral damage. If you miss, they suffer the effects at half efficacy.
+A flickering ball of pure darkness whizzes through the air before exploding in a creeping wave. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence umbral damage. If you miss, they suffer the effects at half efficacy.
 
 If you have at least 4 stacks of umbral exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -1336,7 +1336,7 @@ If you have at least 4 stacks of umbral exposure, the radius of the burst increa
 
 </div>
 
-Shadows swirl tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, create a cloud of pure darkness around yourself. When this happens, a 10 foot radius around you is heavily shrouded until the end of your next turn. Multiple copies of this effect cause the radius affected to stack linearly.
+Shadows swirl tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, create a cloud of pure darkness around yourself. When this happens, a 2 tile radius around you is heavily shrouded until the end of your next turn. Multiple copies of this effect cause the radius affected to stack linearly.
 
 If you have at least 4 stacks of umbral exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -1358,9 +1358,9 @@ If you have at least 4 stacks of umbral exposure, the absorption gained increase
 
 </div>
 
-As you fan your hands, strange dark energy pours forth from your fingertips, cursing your foes. Make a Focus attack against each creature within a 15 foot radius cone. If you hit, deal 1d4 + Presence umbral damage and apply one stack of cursed.
+As you fan your hands, strange dark energy pours forth from your fingertips, cursing your foes. Make a Focus attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence umbral damage and apply one stack of cursed.
 
-If you have at least 4 stacks of umbral exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
+If you have at least 4 stacks of umbral exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 
 ### Shadow Step
 
@@ -1380,7 +1380,7 @@ If you have at least 4 stacks of umbral exposure, make an attack against each ot
 
 </div>
 
-Vanishing into thin air, you appear moments later as your cloak of shadows fades. Teleport up to 3 tiles into an empty tile of your choice. Impenetrable darkness fills a 5 foot radius around you and it becomes heavily shrouded until the end of your next turn. Multiple copies of this effect cause the radius affected to stack linearly, centered around the oldest cloud of darkness that it is touching.
+Vanishing into thin air, you appear moments later as your cloak of shadows fades. Teleport up to 3 tiles into an empty tile of your choice. Impenetrable darkness fills a 1 tile radius around you and it becomes heavily shrouded until the end of your next turn. Multiple copies of this effect cause the radius affected to stack linearly, centered around the oldest cloud of darkness that it is touching.
 
 If you have at least 4 stacks of umbral exposure, you can only teleport up to 1 tile, but the area of darkness created increases to 2 tiles.
 
@@ -1470,7 +1470,7 @@ If you have at least 4 stacks of primal exposure, the absorption granted increas
 
 </div>
 
-A glowing bolt of invigorating energy shoots forth from your weapon, momentarily protecting everything in its path. Grant 6 + Presence absorption to every creature in a 5 foot wide by 120 foot long line.
+A glowing bolt of invigorating energy shoots forth from your weapon, momentarily protecting everything in its path. Grant 6 + Presence absorption to every creature in a 1 tile wide by 14 tile long line.
 
 If you have at least 4 stacks of primal exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
@@ -1492,7 +1492,7 @@ If you have at least 4 stacks of primal exposure, the elemental energy bounces o
 
 </div>
 
-A glowing green ball of vital energy whizzes through the air before exploding in an overwhelming surge. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence primal damage. Creatures that you miss still take half as much damage.
+A glowing green ball of vital energy whizzes through the air before exploding in an overwhelming surge. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence primal damage. Creatures that you miss still take half as much damage.
 
 If you have at least 4 stacks of primal exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -1536,9 +1536,9 @@ If you have at least 4 stacks of primal exposure, the absorption gained increase
 
 </div>
 
-As you fan your hands, a wave of overwhelming life energy pours forth from your fingertips, rapidly healing ailments in a rather painful fashion. Make a Focus attack against each creature within a 15 foot radius cone. If you hit, remove a condition of your choice from them. If you do, deal 1d12 + Presence primal damage to them. Otherwise, deal 1d8 + Presence primal damage to them.
+As you fan your hands, a wave of overwhelming life energy pours forth from your fingertips, rapidly healing ailments in a rather painful fashion. Make a Focus attack against each creature within a 3 tile radius cone. If you hit, remove a condition of your choice from them. If you do, deal 1d12 + Presence primal damage to them. Otherwise, deal 1d8 + Presence primal damage to them.
 
-If you have at least 4 stacks of primal exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
+If you have at least 4 stacks of primal exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 
 ### Life Step
 
@@ -1648,7 +1648,7 @@ If you have at least 4 stacks of decay exposure, the absorption granted increase
 
 </div>
 
-A draining bolt of negative energy shoots forth from your weapon, sapping the life force from everything in its path. Make a Prowess attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d6 + Presence decay damage. This attack deals twice as much damage to absorption. Creatures that you miss still take half as much damage.
+A draining bolt of negative energy shoots forth from your weapon, sapping the life force from everything in its path. Make a Prowess attack against each creature in a 1 tile wide by 14 tile long line. If you hit, deal 1d6 + Presence decay damage. This attack deals twice as much damage to absorption. Creatures that you miss still take half as much damage.
 
 If you have at least 4 stacks of decay exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
@@ -1670,7 +1670,7 @@ If you have at least 4 stacks of decay exposure, the elemental energy bounces of
 
 </div>
 
-A dark ball of negative energy whizzes through the air before exploding in an exhausting burst. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence decay damage. Creatures that you miss still take half as much damage.
+A dark ball of negative energy whizzes through the air before exploding in an exhausting burst. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence decay damage. Creatures that you miss still take half as much damage.
 
 If you have at least 4 stacks of decay exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -1714,9 +1714,9 @@ If you have at least 4 stacks of primal exposure, the absorption gained increase
 
 </div>
 
-As you fan your hands, terrible necrotic energy pours forth from your fingertips, worsening the ailments of your foes. Make a Prowess attack against each creature within a 15 foot radius cone. If you hit, apply one stack of each condition they are already suffering from to them.
+As you fan your hands, terrible necrotic energy pours forth from your fingertips, worsening the ailments of your foes. Make a Prowess attack against each creature within a 3 tile radius cone. If you hit, apply one stack of each condition they are already suffering from to them.
 
-If you have at least 4 stacks of decay exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
+If you have at least 4 stacks of decay exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 
 ### Death Step
 
@@ -1826,7 +1826,7 @@ If you have at least 4 stacks of electric exposure, the absorption granted incre
 
 </div>
 
-An electrifying bolt of lightning shoots forth from your weapon, shocking everything in its path. Make an Agility attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d8 + Presence electric damage. Your critical hit threshold is reduced by 2 for this attack.
+An electrifying bolt of lightning shoots forth from your weapon, shocking everything in its path. Make an Agility attack against each creature in a 1 tile wide by 14 tile long line. If you hit, deal 1d8 + Presence electric damage. Your critical hit threshold is reduced by 2 for this attack.
 
 If you have at least 4 stacks of electric exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
@@ -1848,7 +1848,7 @@ If you have at least 4 stacks of electric exposure, the elemental energy bounces
 
 </div>
 
-A crackling ball of electricity whizzes through the air before exploding in a shower of sparks. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence electric damage. Creatures that you miss still take half as much damage.
+A crackling ball of electricity whizzes through the air before exploding in a shower of sparks. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence electric damage. Creatures that you miss still take half as much damage.
 
 If you have at least 4 stacks of electric exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -1892,9 +1892,9 @@ If you have at least 4 stacks of electric exposure, the absorption gained increa
 
 </div>
 
-As you fan your hands, a sheet of lightning pours forth from your fingertips, zapping your foes. Make a Focus attack against each creature within a 15 foot radius cone. If you hit, deal 1d4 + Presence electric damage and apply one stack of lethargic.
+As you fan your hands, a sheet of lightning pours forth from your fingertips, zapping your foes. Make a Focus attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence electric damage and apply one stack of lethargic.
 
-If you have at least 4 stacks of electric exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
+If you have at least 4 stacks of electric exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 
 ### Lightning Step
 
@@ -2004,7 +2004,7 @@ If you have at least 4 stacks of corrosive exposure, the absorption granted incr
 
 </div>
 
-A blistering bolt of acid shoots forth from your weapon, eating through everything in its path. Make an Agility attack against each creature in a 5 foot wide by 120 foot long line. If you hit, deal 1d8 + Presence corrosive damage. The efficacy of this attack is tripled, rather than doubled, on a critical hit.
+A blistering bolt of acid shoots forth from your weapon, eating through everything in its path. Make an Agility attack against each creature in a 1 tile wide by 14 tile long line. If you hit, deal 1d8 + Presence corrosive damage. The efficacy of this attack is tripled, rather than doubled, on a critical hit.
 
 If you have at least 4 stacks of corrosive exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has travelled a total of 24 tiles. You may hit the same creature multiple times with this effect.
 
@@ -2026,7 +2026,7 @@ If you have at least 4 stacks of corrosive exposure, the elemental energy bounce
 
 </div>
 
-A dripping ball of acid whizzes through the air before exploding in a corrosive shower. Make an Agility attack against each creature within a 10 foot radius of a tile of your choice within range. If you hit, deal 1d8 + Presence corrosive damage. Creatures that you miss still take half as much damage.
+A dripping ball of acid whizzes through the air before exploding in a corrosive shower. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence corrosive damage. Creatures that you miss still take half as much damage.
 
 If you have at least 4 stacks of corrosive exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -2070,9 +2070,9 @@ If you have at least 4 stacks of corrosive exposure, the absorption gained incre
 
 </div>
 
-As you fan your hands, burning acid pours forth from your fingertips, stripping away their defenses. Make an Agility attack against each creature within a 15 foot radius cone. If you hit, deal 1d8 + Presence corrosive damage. This attack deals double damage to absorption.
+As you fan your hands, burning acid pours forth from your fingertips, stripping away their defenses. Make an Agility attack against each creature within a 3 tile radius cone. If you hit, deal 1d8 + Presence corrosive damage. This attack deals double damage to absorption.
 
-If you have at least 4 stacks of corrosive exposure, make an attack against each other creature within a 15 foot radius of yourself instead.
+If you have at least 4 stacks of corrosive exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 
 ### Acid Step
 
@@ -2116,7 +2116,7 @@ If you have at least 4 stacks of corrosive exposure, you can only teleport up to
 
 Grasping tendrils of acid surround your foe, eating away at their defenses. Make an Agility attack against a creature of your choice within range. If you hit, apply two stacks of defenseless.
 
-If you have at least 4 stacks of corrosive exposure, this spell becomes multi-target, and targets all creatures in a 5 foot radius within range instead.
+If you have at least 4 stacks of corrosive exposure, this spell becomes multi-target, and targets all creatures in a 1 tile radius within range instead.
 
 ### Acid Touch
 
