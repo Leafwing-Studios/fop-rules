@@ -29,13 +29,15 @@ If you are concentrating on several effects at once, make only one skill check e
 
 ## Creature Sizes
 
-The size of creatures is specified as the number of tiles they take up. By default, all player characters take up 1 tile. Large creatures such as horses may take up two tiles, and particularly huge creatures may take up three or four tiles, or even more! If a number of tiles that a unit is said to take up is inconvenient for your choice of battle grid, feel free to adjust the number of tiles slightly to make it fit comfortably. For example, a creature that takes up 7 tiles is very convenient on a hexagonal grid and terrible on a square grid.
+The size of creatures is specified as the number of tiles they take up. By default, all player characters take up 1 tile. Large creatures such as horses may take up two tiles, and particularly huge creatures may take up three or four tiles, or even more! If a number of tiles that a unit is said to take up is inconvenient for your choice of battle grid, feel free to adjust the number of tiles slightly to make it fit comfortably. For example, a creature that takes up seven tiles is very convenient on a hexagonal grid and terrible on a square grid.
+
+For creatures that are not radially symettric on your chosen grid (such as a cow that takes up two tiles), your orientation is fixed as you move laterally. You may **change your orientation** by spending one tile of movement.
 
 Range is always calculated using the shortest path between the tiles that are occupied by the creatures in question. As a result, if two creatures are adjacent, they can always make melee attacks against each other, no matter how large they are.
 
 Grapple attacks made against creatures larger than you have disadvantage, as do those made to grapple creatures less than a quarter your size. Creatures cannot make Grapple attacks against creatures which are more than four times their size.
 
-As a special case, particularly small creatures, such as faeries, are said to take up 0 tiles. This means:
+As a special case, particularly small creatures, such as faeries, are said to take up **zero tiles.** This means:
 
 - They may occupy and pass through tiles that contain other creatures and vice versa.
 - Their zone of control is limited to the tile that they are in. If their zone of control is extended, such as by the reach arms affix, the final radius is 1 tile smaller than usual.
