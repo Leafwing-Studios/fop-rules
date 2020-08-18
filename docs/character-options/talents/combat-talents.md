@@ -34,6 +34,10 @@ Once per rest when you use the Activate minor action, you may choose to gain the
 
 You may use the Activate minor action one more time each rest before needing to make a Focus (Arcana) skill check made to avoid essence overload.
 
+### Thoughtful
+
+At the start of each of your turns, gain the benefit of the Scan minor action.
+
 ### Versatile
 
 Learn two additional powers from your class.
