@@ -1,20 +1,12 @@
 # Introduction
 
-_Fonts of Power_ is a d20 tabletop roleplaying game system, designed to capture the wonder of exploring magical places.
-
-Teeming with magic, the titular **fonts of power** have three defining characteristics: they are **dangerous, interesting,** and **magical.**
+_Fonts of Power_ is a d20 tabletop roleplaying game system, designed to capture the wonder of exploring magical places. Teeming with magic, the titular **fonts of power** have three defining characteristics: they are **dangerous, interesting,** and **magical.**
 
 As a **player** in _Fonts of Power,_ you will delve deep into these fonts as you seek your fortune, fight for your ideals, win allies, and learn more about the wonderous world in front of you.
 
-Take the story into your own hands, opting into risk, and you will earn **Resolve.** This powerful meta-currency can be used to recover from unlucky mistakes or to find the strength to press on to meet the challenges you’ve chosen to face.
+When you drive the story forward and opt into risk, you will earn **Resolve.** This powerful meta-currency can be used to recover from unlucky mistakes or to find the strength to press on to meet the challenges you’ve chosen to face.
 
-As you adventure, you’ll find moments to catch your breath and reap the rewards of your escapades, taking advantage of a rich system of **downtime activities.** These moments of calm are precious and valuable, giving you the chance to hone your skills, forge meaningful bonds, create your own magical items and more.
-
-Setting the stage for you and your friends, the **worldspeaker** breathes life into this world by creating fantastical monsters for the adventurers to fight and memorable settings for you to explore.
-
-Rather than setting up the narrator of the world to drive the plot or act as the sole referee of the rules, _Fonts of Power_ seeks to empower its players to drive the story forward and create characters that truly capture their fantasies.
-
-This system uses **collaborative rulekeeping;** by understanding the rules for yourself and playing fair, you can help make the worldspeaker role more accessible, and let them focus on truly making the world come to life for you to explore.
+As you adventure, you’ll find moments to catch your breath and reap the rewards of your escapades, and each party member gains access to a **downtime activity.** These moments of calm are precious and valuable, giving you the chance to recover from your injuries, prepare for what's to come, forge meaningful bonds with NPCs, enchant your own magical items and more.
 
 ## The World
 
@@ -22,19 +14,17 @@ The species, classes and other details described in this book paint a picture of
 
 The world of _Fonts of Power_ is a wondrous place: thriving and vibrant, but dotted with places of great and terrible magical power. Magic is the very essence of life: imbuing plants and animals with sentience, calling strange creatures into existence, and bringing the very land itself alive with wild and ancient power. As it concentrates, it coalesces into valuable **essence crystals** that serve as the currency of adventurers across the land. Left unchecked, the magic feeds upon itself, swallowing the very land as it becomes a dangerous font of power.
 
-Every creature is, in some form, imbued with this magic. Every adventurer has their own source of this power, and, as they grow in power, must master the intricacies of their own source of magic and learn to control its dangerous excesses. Through their adventures, they discover, create, and earn magical **gear,** letting them focus, refine, and revise their capabilities as the situation demands.
+Every creature is, in some form, imbued with this magic. As adventurers grow in power, they must master the intricacies of their own source of magic and learn to control its dangerous excesses. Through their adventures, they discover, create, and earn magical **gear,** letting them focus, refine, and revise their capabilities as the situation demands.
 
-These adventurers come from across the world to seek their fortune at the fonts of power. Humans, reclaimers, awakened, and automata venture forth from bustling cities. The sylvan, fae, and crystalline emerge from the wild places of the land. And the fontborn, slimes, and undead crawl, bounce, and lurch from the fonts of power themselves.
-
-At the heart of it all, the fonts of power overflow with vibrant magic, teeming with strange **monsters** in a setting unlike anything else the world has ever seen. Seeded by a concentration of magical power, whether it was an erupting volcano, a sacred temple, or the remains of a terrible magical disaster, they amplify its character and contents into something truly fantastical.
-
-Civilizations and fonts of power exist in an uneasy symbiosis: the people of the world exploit the fonts’ incredible power while the fonts feed on the magic of the countless souls lost to their hazards and inhabitants. Gritty frontier towns rise and fall as they eke out a dangerous but lucrative business supplying the cities with the magical resources they need to support their burgeoning technology.
+At the heart of the action, fonts of power overflow with vibrant magic, teeming with strange **monsters**. Seeded by a concentration of magical power, whether it was an erupting volcano, a sacred temple, or the remains of a terrible magical disaster, they amplify its character and contents into something truly fantastical.
 
 Intentionally or incidentally, monsters serve as the hands, eyes and immune system of the fonts of power. Born from or drawn to its energy, they defend it from intruders, expand its domain, and turn those foolish enough to venture into the heart of the font back into the raw magic needed to fuel its growth.
 
+Civilizations and fonts of power exist in an uneasy symbiosis: the people of the world exploit the fonts’ incredible power while the fonts feed on the magic of the countless souls lost to their hazards and inhabitants. Gritty frontier towns rise and fall as they eke out a dangerous but lucrative business supplying the cities with the magical resources they need to support their burgeoning technology.
+
 Over the ages, fonts of power (and the factions that make up the civilizations) slowly grow and change, acting as living organisms on a nearly unimaginable scale. As they invade, defend and compete with each other they leave fragments of the past behind: **treasures, threats** and **clues** for adventurers like you to discover.
 
-In the world of Fonts of Power, where the dungeons themselves want you dead, every character must answer one question: **why do you explore?**
+In the world where the dungeons themselves want you dead, **why do you explore?**
 
 <div class="infobox">
 
