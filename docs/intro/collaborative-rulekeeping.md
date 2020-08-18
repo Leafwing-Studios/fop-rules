@@ -6,21 +6,22 @@ As a player, in contrast to other systems you might be familiar with, this gives
 
 - **Learn the rules** of the game, especially those that your character uses directly.
 - **Step up to organize,** host and run game sessions.
-- **Play fair** for the sake of everyone’s fun. Abusing an exploit can be fun for a moment, but quickly grows stale, especially for everyone else at the table. \* _Fonts of Power_ is designed to be fun and rewarding for players who love mastering systems and playing hard.
-  _ The systems in place deliberately make it very challenging to become all-powerful (or accidentally very weak) in a generic sense.
-  _ Instead, if you enjoy optimizing character builds, we recommend focusing on a specific style of play or thematic vision, and then trying to create the best version of that ideal that you can.
+- **Play fair** for the sake of everyone’s fun. Abusing an exploit can be fun for a moment, but quickly grows stale, especially for everyone else at the table.
+- _Fonts of Power_ is designed to be fun and rewarding for players who love mastering systems and playing hard.
+  - The systems in place deliberately make it very challenging to become all-powerful (or accidentally very weak) in a generic sense.
+  - Instead, if you enjoy optimizing character builds, we recommend focusing on a specific style of play or thematic vision, and then trying to create the best version of that ideal that you can.
 - **Don’t try to deliberately break your worldspeaker’s story or world** for out-of-game reasons. Be respectful of their domain, just as they are respectful of your domain over your character.
-  _ If you have a clever solution to a puzzle, fight or social encounter, feel free to dive in!
-  _ But if you have concerns about their content or techniques, talk about it with them maturely and directly, rather than trying to make a point in game.
+  - If you have a clever solution to a puzzle, fight or social encounter, feel free to dive in!
+  - But if you have concerns about their content or techniques, talk about it with them maturely and directly, rather than trying to make a point in game.
 - **Speak up** when you think a rule or piece of content isn’t working, you’re uncomfortable, or you’re simply not having fun.
 - Be creative, and if you have an idea that you can’t find a home for, try to **homebrew** a balanced and interesting content or rules.
-  _ This system has lots of **hooks** for your mechanics, and balance guidelines and examples to go with them.
-  _ As a result, it’s much easier to safely and meaningfully hack than other systems you may be familiar with.
-  _ Think about balance from the perspective of someone else at your table: would you be frustrated with a mechanic, concerned at its power level, or happy about the cool things it enables?
-  _ Talk to your table and get them on board before you throw in new homebrew content.
-  _ For lots more advice, check out the _[Hacker’s Guide to Fonts of Power.](https://docs.google.com/document/d/1xEf2HRJ2-UwCwiutQgLcanuCgw-E6xJfRQWLfrBXHf4/edit)\*
+  - This system has lots of **hooks** for your mechanics, and balance guidelines and examples to go with them.
+  - As a result, it’s much easier to safely and meaningfully hack than other systems you may be familiar with.
+  - Think about balance from the perspective of someone else at your table: would you be frustrated with a mechanic, concerned at its power level, or happy about the cool things it enables?
+  - Talk to your table and get them on board before you throw in new homebrew content.
+  - For lots more advice, check out the _[Hacker’s Guide to Fonts of Power.](https://docs.google.com/document/d/1xEf2HRJ2-UwCwiutQgLcanuCgw-E6xJfRQWLfrBXHf4/edit)_.
 
-If you’re a worldspeaker reading this section and want more advice on how this works from your side of the table, check out the corresponding section in the _[Worldspeaker’s Guide to Fonts of Power.](https://docs.google.com/document/d/18WLBeS_Ei_BJYZnBafG6rWf7xODPFDSz8RQV2iA3WCU/edit)_
+If you’re a worldspeaker reading this section and want more advice on how this works from your side of the table, check out the corresponding section in the _[Worldspeaker’s Guide to Fonts of Power.](https://docs.google.com/document/d/18WLBeS_Ei_BJYZnBafG6rWf7xODPFDSz8RQV2iA3WCU/edit#heading=h.49ykof8w292g)_
 
 ## Guidelines for Rules
 
@@ -33,7 +34,7 @@ When dealing with details of plot, be careful when changing details that have al
 If you're unsure of how a rule or interaction should work, the following principles capture the intended spirit of rule adjudication within the system:
 
 - **Fun and interesting choices come first.** Realism is important only in that it allows for immersion in the world.
-- **Exploits don’t work:** nothing comes for free or creates unlimited power.
+- **Unfair exploits don’t work:** while synergy is intended, nothing comes for free or creates unlimited power.
 - **Specific rules beat general ones.**
 - **Every option presented should be genuinely useful,** at least sometimes.
   _ This also requires that no option be overwhelmingly strong.
@@ -43,8 +44,8 @@ If you're unsure of how a rule or interaction should work, the following princip
   _ Previous features, especially skills, should not be invalidated completely.
   _ Interactions should be handled gracefully. Similar effects stack with each other, but do so additively. Advantage and disadvantage are a notable exception to this rule.
   _ Absorption and damage dealt can never be negative.
-- **Bounded accuracy is critically important:** do not add flat bonuses or penalties to attack rolls or skill checks. Advantage and disadvantage, or complications to the outcomes are typically a much better way to handle this
-- **Use flavor text for flavor purposes.** \* Flavor text is incredibly malleable based on player preference, but does not overrule specific rules text, especially in combat.
+- **Do not add flat bonuses or penalties to attack rolls or skill checks:** bounded accuracy is important for making sure everything can interact safely. Advantage and disadvantage, or complications to the outcomes are typically a much better way to handle this
+- **Use flavor text for flavor purposes.** Flavor text is incredibly malleable based on player preference, but does not overrule specific rules text, especially in combat.
 - If there is a series of effects that are applied in an ambiguous order, **the order is determined by the originator of those effects.**
   _ As a common example, the wielder of a weapon can determine the order that the weapon’s affixes are applied in.
   _ If the effects are controlled by different sources, they resolve in the order of the turn order, beginning with the character whose turn it is. If that fails, the effects resolve alphabetically.
