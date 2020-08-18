@@ -12,16 +12,10 @@ Some forms of movement that you might be more (or less) difficult than usual. Wh
 
 You may spend movement equal to half of your movement speed to **stand up from prone** (or travel between height tiers or take flight if you can fly). As you are not travelling, this is not doubled if you are affected by the chilled or withered conditions, or difficult terrain. Spending movement in these fashions (or for similar actions) always cost at least 1 tile of movement, even if half of the creature's movement speed would be less than that.
 
-Sometimes movement occurs via **teleportation.** Teleportation moves you directly from one tile to another, and as a result:
-
-- it does not provoke attacks of opportunity
-- it ignores the effects of difficult terrain or other ground effects that you would cross over
-- the first time during each of your turns that you would move by teleportation while grappled, you gain the benefit of the Break Grapple minor action, pitting your Presence (Arcana) against the grappler's Prowess (Athletics). If you fail, your teleportation is cancelled and you remain grappled.
-
 <div class="infobox">
 
 ## So how big is a tile?
 
-_Fonts of Power_, as a system, isn't intended for simulating precise imaginary realities. That said, it's often handy to have a sense of how big something might be, in order to imagine it more clearly or estimate feasibility of activities outside of combat. Tiles in fonts of power are about 1 meter in size, as are height tiers.
+_Fonts of Power_, as a system, isn't intended for simulating precise imaginary realities. That said, it's often handy to have a sense of how big something might be, in order to imagine it more clearly or estimate feasibility of activities outside of combat. Tiles (and height tiers) in fonts of power are, by default, about 1 meter in size.
 
 </div>

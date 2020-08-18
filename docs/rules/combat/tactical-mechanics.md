@@ -45,14 +45,24 @@ As a special case, particularly small creatures, such as faeries, are said to ta
 
 Many effects, such as shoving an enemy or getting knocked back by a giant blast of wind, move creatures against their will. This is known as **forced movement.**
 
-If a creature is **knocked back** or **pushed away,** they travel along the line between you and them away from you, ending in the nearest empty tile to their computed location. If they are **pulled towards** you, they travel along that same line, but move towards your current position.
+If a creature is **pushed away,** they travel along the line between you and them away from you, ending in the nearest empty tile to their computed location. If they are **pulled towards** you, they travel along that same line, but move towards your current position.
 
 Whenever you would be forcibly moved into an occupied tile, you are instead placed in the nearest empty tile instead. Unless a creature is moved by teleportation, attempt to maintain the direction of movement as best as possible while doing so. If the final location of a creature is ever ambiguous, the attacker chooses between the viable options.
 
 Forced movement never provokes attacks of opportunity.
 
+If forced movement is applied to you while you are grappling or grappled by another creature, it is divided by the number of creatures in your **grappling graph,** but drags all creatures in your grappling graph with you, maintaining your relative positions. If the same effect applies forced movement to more than one creature in the grappling graph, sum its effect (using vector addition, in case of differing directions) before dividing it by the number of creatures.
+
 Modifiers to the strength of forced movement stack additively, but modifiers due to powers, affixes or any other passive features can never result in a change in the effectiveness of forced movement that more than doubles the effect of forced movement.
 This can however be combined with the increased effect of critical hits and the flying and aloft effects, resulting in an absolute cap of four times the effect of listed forced movement.
+
+### Teleportation
+
+**Teleportation** is a special kind of forced movement, which moves you directly from one tile to another. Teleportation is different from ordinary forced movement in the following ways:
+
+- it ignores the effects of difficult terrain or other ground effects that you would cross over
+- the intervening tiles do not need to be passable
+- distance is measured directly, rather than based on the path taken
 
 ## Shifts
 
