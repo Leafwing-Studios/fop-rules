@@ -146,11 +146,24 @@ Help your allies with their downtime tasks. Make a Focus (Guidance) skill check,
 
 ## Resurrect
 
+<div class="info-box">
+
+**Deadlier Death**
+
+In less optimistic campaigns, the lurking threat of death serves an important narrative role, creating fear and raising the stakes. If your table wants to play _Fonts of Power_ in such a fashion, we recommend four, progressively more brutal options:
+
+- Increase the difficulty of the skill check made to Resurrect creatures to 20 + your transcendence. This limits its availability significantly, especially at lower levels.
+- Remove the Resurrect downtime activity completely. This keeps dead characters dead. You should probably have a back-up character ready...
+- Creatures cannot choose to slip safely unconscious while at death's door; their fate is left entirely to the dice. Hopefully your allies can end the fight soon.
+- Do not match the tier of the monster to the level of the party, or the number of turns per round to the number of players in the party. Instead, just put in monsters that make sense for the environment at the time. You did notice the rules for _Chase Scenes_, right?
+
+</div>
+
 Death is not always the end of the story. Fonts of power capture souls as they depart the bodies of the fallen, swirling in the magical vortex before they are completely absorbed. If their allies are quick and skilled however, they can coax that soul back into a new (or old) form, allowing them to fight another day.
 
 Whenever a creature dies while at a font of power, they start to become one with its magical energy, eventually becoming absorbed. Each time the party benefits from a rest (including from Resolve), the dead creature gains one stack of **transcendence,** which represents the gradual absorption of their soul by the font. Whenever you gain a stack of transcendence that increases your transcendence to a level greater than or equal to 7 + your Focus, you must make a Focus (Endurance) skill check with a difficulty of 10 + your current transcendence. If you fail, you disappear as your spirit slips away forever.
 
-As a downtime activity, your allies can attempt to **Resurrect** you. They must succeed on three separate skill checks, which cannot be done in parallel with a difficulty of 15 + your Transcendence. This skill check always uses Focus, but the skill used and which species you reincarnate as varies based on the vessel used, as shown in the table below.
+As a downtime activity, your allies can attempt to **Resurrect** you. They must succeed on three separate skill checks, which cannot be done in parallel, with a difficulty of 15 + your Transcendence. This skill check always uses Focus, but the skill used and which species you reincarnate as varies based on the vessel used, as shown in the table below.
 
 If more than one character uses the Resurrect downtime activity and both have proficiency in the required skill, use the highest skill modifier with advantage as per the standard rules for group skill checks.
 
