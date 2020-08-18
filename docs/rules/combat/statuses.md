@@ -16,9 +16,11 @@ You cannot make Grapple attacks.
 
 This status (and the grappled status of the creature you are grappling) ends as soon as you leave the grappling range of that creature.
 
-Whenever you spend movement, you must choose whether to move yourself, or the creature you are grappling. You may spend movement to apply an equal amount of forced movement to the creature you are grappling, so long as they remain within the range at which you can grapple them. Unlike other forced movement, this does not move you (but could move the rest of their grappling graph).
+Whenever you spend movement, you must choose whether to move yourself, or the creature you are grappling. You may spend movement to apply an equal amount of forced movement to the creature you are grappling, so long as they remain within the range at which you can grapple them. Unlike other forced movement, this does not move you (but does move the rest of their grappling graph, if any). You may cause creatures to perform any action that costs movement in this way other than to go prone or begin flying: you may cause them to stand up, move up height tiers, rotate their position or so on.
 
 Forced movement against you is divided by the number of creatures in your **grappling graph,** but drags all creatures in your grappling graph with you, maintaining your relative positions.
+
+If you are flying, creatures that you are grappling are also flying.
 
 You have disadvantage on all basic attacks except against the creature(s) you are grappling.
 
