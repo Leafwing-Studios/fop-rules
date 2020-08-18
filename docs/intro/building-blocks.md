@@ -63,6 +63,8 @@ During combat, creatures (as well as important objects and terrain in the scene,
 
 Feel free to choose either a square or hexagonal battlemap; both work well for this game. If you have access to both, hexagonal battlemaps tend to work a bit better for the mechanics of combat, and are great for open fields and natural structures such as caves. Square battlemaps are a better fit when drawing buildings, as they tend to be made at right angles with straight walls.
 
+When using a square battlemap, diagonal movement should be permitted. For this system, we recommend always counting diagonals as 1 tile of movement, rather than alternating as 1 and 2 tiles, in order to speed up measuring of distances.
+
 </div>
 
 Time also works differently in combat. Every creature acts in a discrete sequence, one after the other, to ensure that combat is comprehensible. Every **round,** each creature takes a single (in general) **turn,** one after another, before the next round begins.
