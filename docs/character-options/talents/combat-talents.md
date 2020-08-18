@@ -46,7 +46,7 @@ You have advantage on rolls made to determine how much damage is absorbed when y
 
 ### Enduring
 
-You have advantage on Endurance skill checks made to Essence Tap and on concentration checks made while on Death’s Door.
+You have advantage on Endurance skill checks made to Essence Tap and on concentration checks made while at death’s door.
 
 ### Hearty
 
