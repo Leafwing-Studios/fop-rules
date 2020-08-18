@@ -81,17 +81,6 @@ On each of their turns, creatures can (in any order):
   _ **Treat:** cure yourself or an adjacent ally of a condition or affliction.
   _ **Hide:** attempt to make yourself unseen so that you can attack with advantage. \* **Scan:** find a hidden creature, or figure out something about the scene.
 
-Creatures may also use **reactions** at any point during the round in response to events that occur in combat. You regain your reaction at the start of each of your turns. You might:
-
-- Make an **attack of opportunity** to capitalize on an opening.
-- **Block** to soften the blow of an attack that landed on you.
-
-Almost every hostile action that occurs during combat requires an **attack** roll, which is compared to one of the target’s **defenses.** If your attack roll is greater than or equal to the appropriate defense of your opponent, your attack hits.
-
-To make an attack roll, roll 1d20 and then add both your proficiency bonus and either your Agility or your Expertise, depending on whether it is a **basic** or **special attack.** Basic attacks are standard attacks using weapons (or claws, fists, etc.) that might be protected from by a suit of armor, while special attacks target a specific attribute and represent more specialized abilities, such as an attempt to shove a creature, grapple them, or affect them with magic.
-
-**Basic defense** is determined by the armor you are wearing and your natural Agility. There is one **special defense** for each attribute. These are determined by your proficiency bonus, your corresponding attribute, and whether or not you are proficient in defending against that sort of attack.
-
 <div class="infobox">
 
 **Terminology for special attacks**
@@ -105,6 +94,17 @@ Add your special attack bonus (your proficiency bonus + your Expertise) to the d
 Similarly, a Prowess attack is a special attack that you make against an opponent (using your Expertise + proficiency bonus) against the opponent’s Prowess special defense and so on.
 
 </div>
+
+Creatures may also use **reactions** at any point during the round in response to events that occur in combat. You regain your reaction at the start of each of your turns. You might:
+
+- Make an **attack of opportunity** to capitalize on an opening.
+- **Block** to soften the blow of an attack that landed on you.
+
+Almost every hostile action that occurs during combat requires an **attack** roll, which is compared to one of the target’s **defenses.** If your attack roll is greater than or equal to the appropriate defense of your opponent, your attack hits.
+
+To make an attack roll, roll 1d20 and then add both your proficiency bonus and either your Agility or your Expertise, depending on whether it is a **basic** or **special attack.** Basic attacks are standard attacks using weapons (or claws, fists, etc.) that might be protected from by a suit of armor, while special attacks target a specific attribute and represent more specialized abilities, such as an attempt to shove a creature, grapple them, or affect them with magic.
+
+**Basic defense** is determined by the armor you are wearing and your natural Agility. There is one **special defense** for each attribute. These are determined by your proficiency bonus, your corresponding attribute, and whether or not you are proficient in defending against that sort of attack.
 
 Finally, various ailments and effects in combat are represented as:
 
