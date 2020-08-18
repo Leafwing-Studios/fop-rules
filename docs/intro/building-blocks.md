@@ -65,6 +65,8 @@ Feel free to choose either a square or hexagonal battlemap; both work well for t
 
 When using a square battlemap, diagonal movement should be permitted. For this system, we recommend always counting diagonals as 1 tile of movement, rather than alternating as 1 and 2 tiles, in order to speed up measuring of distances.
 
+This system also works fine on a gridless battlemap with measured distances, although it is considerably slower. Playing using only theatre-of-the-mind is not recommended during combat, as many important and interesting abilities and effects rely heavily on the details of positioning.
+
 </div>
 
 Time also works differently in combat. Every creature acts in a discrete sequence, one after the other, to ensure that combat is comprehensible. Every **round,** each creature takes a single (in general) **turn,** one after another, before the next round begins.
