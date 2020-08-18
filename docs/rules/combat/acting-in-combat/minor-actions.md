@@ -30,6 +30,8 @@ To do so, make an opposed Prowess (Athletics) skill check against the grappling 
 
 This also ends the grappling status on the creature that is grappling if this was the only creature they were grappling.
 
+The first time during each of your turns that you would move by teleportation while grappled, you gain the benefit of the Break Grapple minor action, pitting your Presence (Arcana) against the grappler's Prowess (Athletics). If you fail, your teleportation is cancelled and you remain grappled.
+
 ## Dash
 
 Gain movement equal to half your movement speed.
