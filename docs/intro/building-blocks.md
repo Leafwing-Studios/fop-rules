@@ -118,19 +118,6 @@ Finally, various ailments and effects in combat are represented as:
 
 ## The Basics of Exploration
 
-While exploring the world and interacting with its contents and inhabitants, play flows fluidly between the players and the worldspeaker.
-
-Whenever a character attempts something that is challenging or uncertain and there is more than one possible interesting outcome, characters use their **skills.** To make a **skill check,** roll a d20, then add the attribute most applicable to your method of approach, and then add your proficiency bonus if you are proficient in a skill.
-
-_Fonts of Power_ uses a generous **degrees of success** system: falling skill checks (especially ones you are proficient in) will often result in a selection between a **setback** and an **opportunity,** allowing you to “fail-forward”. Perform exceptionally well and you’ll win a **smashing success,** completing the task and winning an extra benefit.
-
-Skill checks play a critical role in **scenes,** dictating your progress or complications through various scenarios in a more game-like fashion. Scenes offer straightforward and interesting mechanics to structure the most tense moments during exploration. Rules for four types of scenes are included:
-
-- **Attrition Scenes:** For when you will complete your objective eventually, but suffer consequences the longer it takes.
-- **Chase Scenes:** For when the party or their adversaries are running away, either literally or metaphorically.
-- **Deals and Ideals:** For negotiating with NPCs, winning their **loyalty** as you appeal to both their **self-interest** and **ideals.**
-- **Trickery Scenes:** For pulling off tense capers and raucous shenanigans, completing a task in the face of rising tension while your party tries their best to distract your opposition.
-
 <div class="infobox">
 
 **Effective roleplay**
@@ -144,6 +131,19 @@ When describing your actions, begin with simple, clean descriptions with hints o
 Use these tips, and **chase your character’s dreams,** and you’ll soon find yourself caught up in the story as you explore the world around you.
 
 </div>
+
+While exploring the world and interacting with its contents and inhabitants, play flows fluidly between the players and the worldspeaker.
+
+Whenever a character attempts something that is challenging or uncertain and there is more than one possible interesting outcome, characters use their **skills.** To make a **skill check,** roll a d20, then add the attribute most applicable to your method of approach, and then add your proficiency bonus if you are proficient in a skill.
+
+_Fonts of Power_ uses a generous **degrees of success** system: falling skill checks (especially ones you are proficient in) will often result in a selection between a **setback** and an **opportunity,** allowing you to “fail-forward”. Perform exceptionally well and you’ll win a **smashing success,** completing the task and winning an extra benefit.
+
+Skill checks play a critical role in **scenes,** dictating your progress or complications through various scenarios in a more game-like fashion. Scenes offer straightforward and interesting mechanics to structure the most tense moments during exploration. Rules for four types of scenes are included:
+
+- **Attrition Scenes:** For when you will complete your objective eventually, but suffer consequences the longer it takes.
+- **Chase Scenes:** For when the party or their adversaries are running away, either literally or metaphorically.
+- **Deals and Ideals:** For negotiating with NPCs, winning their **loyalty** as you appeal to both their **self-interest** and **ideals.**
+- **Trickery Scenes:** For pulling off tense capers and raucous shenanigans, completing a task in the face of rising tension while your party tries their best to distract your opposition.
 
 As the party catches their breath, they’ll have plenty of opportunity to engage in **downtime activities.** Both your time and your hard-won **essence crystals** are valuable resources. Depending on which downtime activity you select, you can customize your gear, win allies, gather resources and tend to your wounds.
 
