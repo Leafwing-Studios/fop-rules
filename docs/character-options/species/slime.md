@@ -52,7 +52,7 @@ While prone, you collapse into a puddle. As a puddle, you may slide under doors 
 
 **Elastic Collisions:** Whenever you are hit by a basic attack, you are pushed 1 tile directly away from the source of that attack. The effect of all other non-teleportation forced movement on you is doubled. While moving due to forced movement, whenever you hit a barrier or another, you bounces off at the same angle it came in at, continuing until you run out of movement.
 
-**Sproing:** You are immune to falling damage and have advantage on all Athletics skill checks made to jump.
+**Sproing:** You are immune to falling damage and moving up or down a height tier costs you only 1 tile of movement, rather than the usual 2 tiles of movement.
 
 ## Corrosive Slime
 
@@ -66,6 +66,6 @@ You do not need to make Endurance skill checks in order to destroy edible object
 
 **Combat Glue:** Creatures have disadvantage on Athletics skill checks made to break free of your grapple using the Break Grapple minor action.
 
-**Stuck to the Ground:** If you did not spend movement during your last turn, you are immune to forced movement.
+**Stuck to the Ground:** If you did not spend movement during your last turn, the effects of forced movement against you are halved.
 
-**Tactical Adhesive:** You do not need to make Athletics skill checks to climb or stay attached to any surface.
+**Tactical Adhesive:** You do not need to make Athletics skill checks to climb or stay attached to any surface. You no longer reset to the height tier of the tile you are standing on at the end of your turn.
