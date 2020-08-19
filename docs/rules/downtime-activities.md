@@ -103,10 +103,10 @@ Make an enchanting skill check. If you succeed, add that affix to the item’s e
 
 If you have access to a relevant **source of knowledge,** you have advantage on this skill check. Each crafting skill uses a different source of knowledge:
 
-- Anima: you have free access to a monster (or some trophy from that monster) who has the desired enchantment.
-- Arcana: you have free access to some sort of book, teacher or other documentation.
-- Fontcraft: you are at a font of power that shares an element with the enchantment in question.
-- Tinkering: you have free access to an existing item with that affix.
+- _Anima:_ you have free access to a monster (or some trophy from that monster) who has the desired enchantment.
+- _Arcana:_ you have free access to some sort of book, teacher or other documentation.
+- _Fontcraft:_ you are at a font of power that shares an element with the enchantment in question.
+- _Tinkering:_ you have free access to an existing item with that affix.
 
 When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus. In addition, you may choose to immediately attune to the piece of gear you just enchanted, replacing your attunement to an existing piece of gear of the same type if needed.
 
