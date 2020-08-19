@@ -1,12 +1,12 @@
 # Quirks
 
-Every piece of gear has a particular **quirk** to it: something simple and distinctive about it. Quirks should give items memorable flavor and might occasionally be relevant outside of combat, similar in utility to a piece of adventuring gear.
+Every piece of gear has a particular **quirk** to it: something simple and distinctive about it. As living magic flows through these items, they take on a tiny personality and story of their own, reflecting the own idiosyncracies that make the weapon you just found more than just another magic sword.
 
-Which quirks an item might have is determined by the fashion in which it was created. In game terms, this is the skill used to create or enchant it.
+Quirks have limited practical use: while they might occasionally have utility comparable to a piece of adventuring gear, they should not affect combat. If you're looking for a strange and unique combat-relevant trait, create a custom affix instead.
 
-At any point, a player may choose to **discover** the quirk of an item. Quirks define an item’s identity: once discovered, a quirk is fixed in place and cannot be changed by any means. When you want to discover the quirk of an item, use the table below and either select a Craftsmanship quirk of your choice, or 4 quirks corresponding to the enchanting skill of the item: one of Anima, Arcana, Fontcraft or Tinkering. Then, roll a d4 to determine which quirk the unpredictable magic gave to your item.
+Items' quirks are driven by their past: the details of their design, the fashion in which they were created, or some remarkable event that they were part of. Whenever you create a new item, grant it new powers or uncover it's hidden past (perhaps when you first attune to it), the player responsible (or the worldspeaker, if it was an item that the players found in the world) may choose a quirk for it, or alter its existing quirk.
 
-Feel free to design new quirks to fit your item’s story or concept! However, combat-relevant effects should be reserved exclusively for affixes in order to preserve game balance.
+Items typically only have one quirk at a time: expand upon or replace the existing quirk if you want to continue that item's story. To get you started, we've provided some random tables that reflect the type of crafting skill that was used to create the item.
 
 **Craftsmanship Quirks**
 
