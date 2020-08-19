@@ -30,12 +30,17 @@ In general, when a creature is behind partial cover, they are obscured to you, a
 
 Sometimes, cover takes the form of objects that can be climbed on, such as boulders, furniture or terraced gardens. When this is the case, treat these environments as having several tiers of height.
 
-Creatures must spend half their movement to travel safely between adjacent **height tiers.**
+Creatures can safely travel up or down a height tiers (either by forced movement or by willingly spending movement) by:
 
-- Creatures that are flying only need to spend one quarter of their movement to travel between height tiers.
-- Teleportation between tiers incurs no extra cost.
+- spending two tiles of movement
+- spending one tile of movement while flying or aloft
+- spending one tile of movement when moving via teleportation
 
-Attacks have different types of cover depending on the relative positioning of the combatants.
+When you shift, you may travel up or down in this fashion provided you shift enough tiles in a row to end your movement on solid ground. You cannot split your climbing over several turns: at the end of your turn, you return to the height tier of the tile that you are standing on.
+
+Spending movement in this way only moves you vertically; if, for examples, you are trying to climb on top of a table, you would need to spend two tiles of movement to move up, then an additional tile of movement to move from the tile on the floor to the tile above the table.
+
+Height tiers provide different types of cover depending on the relative positioning of the attacker and the defender.
 
 When a higher tier is in-between the two combatants:
 
@@ -55,6 +60,6 @@ When the combatants are at different height tiers:
 
 When falling from a higher tier to a lower one, characters take damage based on the height fallen. Jumping down to another tier inflicts falling damage but does not cost extra movement.
 
-Falling deals 3d6 physical damage for each height tier that you fall, reduced by the result of an Agility (Athletics) skill check. For example, falling from the 3rd tier in an area, to the bottom (0th) tier would incur 9d6 physical damage. If you rolled a 13 on your skill check, the total damage would be 9d6 - 13.
+Falling deals 2d6 physical damage for each height tier that you fall, reduced by the result of an Agility (Athletics) skill check. For example, falling from the 3rd tier in an area, to the bottom (0th) tier would incur 6d6 physical damage. If you rolled a 13 on your skill check, the total damage would be 6d6 - 13.
 
 Creatures that are flying or aloft do not take falling damage.
