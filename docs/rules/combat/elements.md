@@ -9,7 +9,7 @@ One of the central concepts in Fonts of Power is the idea of unique, distinct el
 - **primal** and **decay**
 - **electric** and **corrosion**
 
-Creatures can be **vulnerable, resistant,** or **immune** to types of damage. Creatures that are vulnerable to an element take twice as much damage from that element, if they are resistant they take half as much from that element, and immunity they ignore all damage of that element. Much like advantage or disadvantage, vulnerablity and resistance do not stack with themselves but do cancel each other out. Immunity always trumps either vulnerability or resistance.
+Creatures can be **vulnerable, resistant,** or **immune** to types of damage. Creatures that are vulnerable to an element take twice as much damage from that element, if they are resistant they take half as much from that element, and immunity they ignore all damage of that element. Much like advantage or disadvantage, vulnerability and resistance do not stack with themselves but do cancel each other out. Immunity always trumps either vulnerability or resistance.
 
 There are two different ways in which multiple damage types might be combined: **split damage** and **hybrid damage.**
 
