@@ -97,7 +97,7 @@ Every blade belongs to a Lineage: the reason why a long line of people have carr
 
 ### Rhythmic Intensity
 
-At level 1, your strikes grow in power as you lose yourself to the flow of battle. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack), and gain an additional benefit based on the number of stacks of Rhythm that you currently have.
+At level 1, your strikes grow in power as you lose yourself to the flow of battle. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack), and gain an additional benefit based on the number of stacks of Rhythm that you currently have. The number of remaining uses resets at the start of each of your turns.
 
 You may use this feature twice per round at level 9, and three times per round at level 17.
 
@@ -155,7 +155,7 @@ See the Leveling Up section in the Narrative Mechanics chapter for a reminder of
 
 ## Joint Effort
 
-At level 5, the blade you are sworn to watches out for you in battle, communicating when it detects threats or openings. Once per round when you could spend a reaction but have no reactions remaining, you may spend 1 essence to recover it.
+At level 5, the blade you are sworn to watches out for you in battle, communicating when it detects threats or openings. Once per round when you could spend a reaction but have no reactions remaining, you may spend 1 essence to recover it. The number of remaining uses resets at the start of each of your turns.
 
 At level 13, you may use this feature twice per round.
 
@@ -187,7 +187,7 @@ Possessing talent beyond that of any mortal, the Virtuoso bladesworn live for th
 
 ### Rhythmic Intensity: Deadly Performance
 
-At level 1, you dance across the battlefield in a beautiful whirlwind of deadly steel. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack).
+At level 1, you dance across the battlefield in a beautiful whirlwind of deadly steel. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack). The number of remaining uses resets at the start of each of your turns.
 
 When you use this feature, your enhanced basic attacks deal 3 \* Rhythm + Presence additional damage. This damage is the same type as the original attack, and like usual, is doubled on a critical hit. This effect is not halved if you use a counterattack that halves efficacy, but is affected by changes to efficacy caused by various weapon modes.
 
@@ -237,7 +237,7 @@ Inescapably bound to their wielder, the Cursed Blade thirsts for blood, whisperi
 
 ### Rhythmic Intensity: Bloodlust
 
-At level 1, you cut your way through the battlefield in an increasingly brutal fashion. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack).
+At level 1, you cut your way through the battlefield in an increasingly brutal fashion. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack). The number of remaining uses resets at the start of each of your turns.
 
 When you use this feature, the critical hit threshold for your enhanced basic attacks is reduced by your Rhythm + Presence. You decide whether or not to use this feature after you see your attack roll.
 
@@ -289,7 +289,7 @@ Proud bearers of the revered armaments of their lineage (genetic or otherwise), 
 
 ### Rhythmic Intensity: Stand Your Ground
 
-At level 1, you stand firm in the face of overwhelming odds, bolstered by the heft of your blows. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack).
+At level 1, you stand firm in the face of overwhelming odds, bolstered by the heft of your blows. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack). The number of remaining uses resets at the start of each of your turns.
 
 When you use this feature, your enhanced basic attacks grant yu 3 \* Rhythm + Presence absorption. Like usual, this absorption gain is doubled on a critical hit. This effect is not halved if you use a counterattack that halves efficacy, or by changes to efficacy caused by various weapon modes.
 
