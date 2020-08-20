@@ -20,12 +20,6 @@ Harmony is the belief in peace, the sanctity of nature, and the importance of se
 
 A character who believes very strongly in Harmony might prioritize upholding the status quo for the sake of societal stability, even it it is flawed. By contrast, a character who does not care at all about Harmony might ignore the needs of their community, placing their own needs first.
 
-## Integrity
-
-Integrity is the belief in the value of doing the right thing, even when no one is looking. You’re not seeking to change the world, or right some cosmic injustice. You just want everyone to do a little bit better every day: to stop lying and cheating and to step up when you know that you’re the best vaguely-humanoid sentient creature for the job.
-
-A character who believes very strongly in Integrity might be unwilling to stomach the means that justify the ends to other valuable goals. By contrast, a character who doesn’t care at all about integrity may have no compuctions about lying, stealing and cheating to get what they want.
-
 ## Liberty
 
 Liberty is the belief in the right for all sentient beings to select their own courses of action, the value of self-reliance, and the importance of diverse opinions. To you, self-determination is a prerequisite for self-actualization, and without that freedom we’re nothing more than cogs in a machine.
@@ -37,3 +31,9 @@ A character who believes very strongly in Liberty might be willing to tear down 
 Progress is the belief in the advancement of knowledge to bring about a brighter future, a rising tide of productivity that lifts all boats, and the intrinsic value of wonderful things. Whether you are a brilliant artist, an enthusiastic teacher, a fearless explorer or an insatiable scholar, you’re working to make sure tomorrow is better than today.
 
 A character who believes very strongly in Progress might overlook the harm that rapid change and new advances can bring to people used to the old ways of doing things. By contrast, a character who does not care at all about Progress may be willing to reject any new proposal because of the mere potential for damage to the local environment.
+
+## Sanctity
+
+Sanctity is the belief that some things or actions are abhorrent and others are essential. You might believe that morality is absolute, or that there is some natural order of things. On a personal level, you might have a ritual you have to do every day or a food you have to avoid and you find self-worth in staying true to your convictions.
+
+A character who believes very strongly in Sanctity might be hostile to those who hold differing opinions about something that's important to them. By contrast, a character who does not care at all about Sanctity might recklessly break taboos.
