@@ -100,4 +100,4 @@ Mechanically, electric effects tend to move in straight lines, grant additional 
 
 Corrosive is the element of bubbling acid and scalding bases; of raw destruction and the inexorable push towards entropy.
 
-Mechanically, corrosive effects tend to eat through defenses, applying the defenseless condition or the brittle affliction.
+Mechanically, corrosive effects tend to eat through defenses, applying the defenseless condition or the brittle affliction, or creating dangerous ground effects.
