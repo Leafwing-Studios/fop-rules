@@ -7,7 +7,7 @@ One of the central concepts in Fonts of Power is the idea of unique, distinct el
 - **arcane** and **eldritch**
 - **radiant** and **umbral**
 - **primal** and **decay**
-- **electric** and **corrosion**
+- **electric** and **corrosive**
 
 Creatures can be **vulnerable, resistant,** or **immune** to types of damage. Creatures that are vulnerable to an element take twice as much damage from that element, if they are resistant they take half as much from that element, and immunity they ignore all damage of that element. Much like advantage or disadvantage, vulnerability and resistance do not stack with themselves but do cancel each other out. Immunity always trumps either vulnerability or resistance.
 
@@ -26,3 +26,78 @@ Hybrid damage is treated as the most effective of its base types:
 - A creature is vulnerable to the hybrid type if it is vulnerable to any of the base types
 - A creature is only resistant to the hybrid type if it is resistant to all of the base types
 - A creature is only immune to the hybrid type if it is immune to all of the base types
+
+## Elemental Aesthetics
+
+### Air
+
+Air is the element of the gentle breeze and the ferocious storm; of the soaring eagle and the lumbering skyship.
+
+Mechanically, air is commonly associated with flying, the aloft condition and effects which apply forced movement or knock creatures prone.
+
+### Earth
+
+Earth is the element of the stony mountains and the stinging sands; of the fertile soil and the barren outcropping.
+
+Mechanically, earth is commonly associated with absorption, the Defend major action and resistance to physical damage.
+Rocks often apply the rooted condition, forced movement or knock creatures prone, while sand often applies blinded or creates shrouded effects.
+
+### Fire
+
+Fire is the element of the raging wildfire and the simmering volcano; of the glowing forge and the crackling hearth.
+
+Mechanically, fire is associated with tons of damage, huge areas of effect and the aflame affliction.
+
+### Water
+
+Water is the element of the murky oceans and the frozen tundras; of the flowing rivers and the communal wells.
+
+Mechanically, water behaves differently depending on its form. Mist often creates shrouded conditions, ice tends to apply chilled or create slippery ground effects, and liquid water inflicts forced movement.
+
+### Arcane
+
+Arcane is the element of infinite space and relentless time; of the splendor of an illusion and the mystery of other realities.
+
+Mechanically, arcane tends to apply the unstable affliction, create objects from nowhere, teleport creatures, apply the banished condition or grant invisibility.
+
+### Eldritch
+
+Eldritch is the element of whispered truths and forbidden knowledge; of horrifying monstrosities and broken minds.
+
+Mechanically, eldritch tends to manipulate the mind, applying the crazed, frightened or pacified conditions, and sometimes inflicting the rage or temperance afflictions.
+
+### Radiant
+
+Radiant is the element of the beating sun and glowing moon; of honor and peace and righteous belief.
+
+Mechanically, radiant effects often create areas of light, but also tends to sear and soothe, applying the blinded and pacified condition or the temperance affliction.
+
+### Umbral
+
+Umbral is the element of the flickering shadows and the darkest night; of dark bargains and closely-held secrets.
+
+Mechanically, umbral effects often create areas of darkness (including magically shrouded areas), but can also grant invisibility or inflict intense pain with the anguish condition.
+
+### Primal
+
+Primal is the element of the growing plants and wild beasts; of ancient forests and prospering farmlands.
+
+Mechanically, primal effects tends to grow, grasp, strengthen and provoke, creating interesting ground effects, applying the rooted condition, granting boons and applying the rage affliction.
+
+### Decay
+
+Decay is the element of the dead and dying, disease and famine; of the afterlife and the cycles that support all life.
+
+Mechanically, tends to sap strength and cause suffering, applying the withered and blunted conditions or the bleeding affliction.
+
+### Electric
+
+Electric is the element of lightning bolts and static charge; of invention and creation and the spark of life that animates everything in this world.
+
+Mechanically, electric effects tend to move in straight lines, grant additional speed or disorient their targets with the lethargic condition.
+
+### Corrosive
+
+Corrosive is the element of bubbling acid and scalding bases; of raw destruction and the inexorable push towards entropy.
+
+Mechanically, corrosive effects tend to eat through defenses, applying the defenseless condition or the brittle affliction.
