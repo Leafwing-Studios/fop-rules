@@ -12,13 +12,17 @@ The higher your value in an ideal, the more willing you are to sacrifice your ow
 
 Equality is the belief in the fundamental equality of all sentient beings, the importance of fairness, and the obligation to help those least fortunate. You focus on the plights of the downtrodden, and want to help them find the justice and respect that they deserve.
 
-A character who believes very strongly in Equality might be willing to pursue violent, disruptive revolution in order to right the wrongs of the current social system. By contrast, a character who does not care at all about Equality might overlook the plights of the poor and oppressed while going about their business.
+A character who believes very strongly in Equality might dedicate their lives to helping the poor, but be willing to pursue violent, disruptive revolution in order to right the wrongs of the current social system.
+
+By contrast, a character who does not care at all about Equality might allow people to reap the rewards of their hard efforts, even if it worsens existing inequality.
 
 ## Harmony
 
 Harmony is the belief in peace, the sanctity of nature, and the importance of setting aside your differences to work together. You have faith in the idea that we’re stronger together, and that our history, environment and society are all worth preserving.
 
-A character who believes very strongly in Harmony might prioritize upholding the status quo for the sake of societal stability, even it it is flawed. By contrast, a character who does not care at all about Harmony might ignore the needs of their community, placing their own needs first.
+A character who believes very strongly in Harmony might hold society together, but overlook the flaws with the status quo as they do so.
+
+By contrast, a character who does not care at all about Harmony might promote competition and strife in the hopes of acheiving better aggregate outcomes, even if it destabilizes society or harms people in the process.
 
 ## Liberty
 
@@ -30,10 +34,14 @@ A character who believes very strongly in Liberty might be willing to tear down 
 
 Progress is the belief in the advancement of knowledge to bring about a brighter future, a rising tide of productivity that lifts all boats, and the intrinsic value of wonderful things. Whether you are a brilliant artist, an enthusiastic teacher, a fearless explorer or an insatiable scholar, you’re working to make sure tomorrow is better than today.
 
-A character who believes very strongly in Progress might overlook the harm that rapid change and new advances can bring to people used to the old ways of doing things. By contrast, a character who does not care at all about Progress may be willing to reject any new proposal because of the mere potential for damage to the local environment.
+A character who believes very strongly in Progress might create incredible inventions that make life easier, but overlook the harm that rapid change and new advances can bring to people used to the old ways of doing things.
+
+By contrast, a character who does not care at all about Progress may believe that change is natural and it's better to let it move at its own pace, but lose out on useful new advancements.
 
 ## Sanctity
 
 Sanctity is the belief that some things or actions are abhorrent and others are essential. You might believe that morality is absolute, or that there is some natural order of things. On a personal level, you might have a ritual you have to do every day or a food you have to avoid and you find self-worth in staying true to your convictions.
 
-A character who believes very strongly in Sanctity might be hostile to those who hold differing opinions about something that's important to them. By contrast, a character who does not care at all about Sanctity might recklessly break taboos.
+A character who believes very strongly in Sanctity might have a powerful sense of right and wrong, but be hostile to those who hold differing opinions about something that's important to them.
+
+By contrast, a character who does not care at all about Sanctity might be willing to take steps to do what's necessary in the momenet, but recklessly break taboos in the process.
