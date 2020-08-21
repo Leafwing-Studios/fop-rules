@@ -14,21 +14,23 @@ Equality is the belief in the fundamental equality of all sentient beings, the i
 
 A character who believes very strongly in Equality might dedicate their lives to helping the poor, but be willing to pursue violent, disruptive revolution in order to right the wrongs of the current social system.
 
-By contrast, a character who does not care at all about Equality might allow people to reap the rewards of their hard efforts, even if it worsens existing inequality.
+By contrast, a character who does not care at all about Equality might believe in the value of a rigid class structure that allows a society to accomplish tremendous economic feats, even as they overlook its unfairness.
 
 ## Harmony
 
-Harmony is the belief in peace, the sanctity of nature, and the importance of setting aside your differences to work together. You have faith in the idea that we’re stronger together, and that our history, environment and society are all worth preserving.
+Harmony is the belief in peace, order, and the importance of setting aside your differences to work together. You have faith in the idea that we’re stronger together, and that our history, environment and society are all worth preserving.
 
-A character who believes very strongly in Harmony might hold society together, but overlook the flaws with the status quo as they do so.
+A character who believes very strongly in Harmony might work to uphold the law to keep the peace in their society, but overlook the way that their actions reinforce a harmful status quo.
 
-By contrast, a character who does not care at all about Harmony might promote competition and strife in the hopes of acheiving better aggregate outcomes, even if it destabilizes society or harms people in the process.
+By contrast, a character who does not care at all about Harmony might promote competition and strife in the hopes of acheiving better outcomes in the end, even if it destabilizes society or harms people in the process.
 
 ## Liberty
 
 Liberty is the belief in the right for all sentient beings to select their own courses of action, the value of self-reliance, and the importance of diverse opinions. To you, self-determination is a prerequisite for self-actualization, and without that freedom we’re nothing more than cogs in a machine.
 
-A character who believes very strongly in Liberty might be willing to tear down systems that help people because they infringe on others’ freedom. By contrast, a character who does not care at all about Liberty might feel comfortable forcing others to conform or obey in order to accomplish a goal.
+A character who believes very strongly in Liberty might be willing to tear down systems that help people because they infringe on others’ freedom.
+
+By contrast, a character who does not care at all about Liberty might feel comfortable forcing others to conform or obey in order to accomplish a goal.
 
 ## Progress
 
@@ -40,8 +42,8 @@ By contrast, a character who does not care at all about Progress may believe tha
 
 ## Sanctity
 
-Sanctity is the belief that some things or actions are abhorrent and others are essential. You might believe that morality is absolute, or that there is some natural order of things. On a personal level, you might have a ritual you have to do every day or a food you have to avoid and you find self-worth in staying true to your convictions.
+Sanctity is the belief that some things or actions are abhorrent and others are essential. You might believe that morality is absolute, certain things are truly worthy of reverence or that there is some natural order of things. On a personal level, you might have a ritual you have to do every day or a food you have to avoid and you find self-worth in staying true to your convictions.
 
 A character who believes very strongly in Sanctity might have a powerful sense of right and wrong, but be hostile to those who hold differing opinions about something that's important to them.
 
-By contrast, a character who does not care at all about Sanctity might be willing to take steps to do what's necessary in the momenet, but recklessly break taboos in the process.
+By contrast, a character who does not care at all about Sanctity might be willing to take steps to do what's necessary in the moment, but recklessly break taboos in the process.
