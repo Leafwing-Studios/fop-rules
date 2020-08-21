@@ -6,7 +6,7 @@ Your ability to keep fighting in _Fonts of Power_ is represented through three v
 
 Life is the vital essence of every creature in _Fonts of Power,_ representing their physical wellbeing and capacity to fight. Life is quickly recovered as creatures’ innate essence mends them back into the form they are meant to be, leaving them whole but completely exhausted.
 
-Your life can never go below 0: instead, when your life reaches 0 you enter [death’s door](../combat/statuses.md#death's-door), and must choose whether to slip into unconsciousness or continue fighting while risking death.
+Your life can never go below 0: instead, when your life reaches 0 you enter [death’s door](../combat/statuses.md#death39s-door), and must choose whether to slip into unconsciousness or continue fighting while risking death.
 
 Player characters have maximum life 25 + 5 × their level. It can be restored through resting, self-healing magic (received at level 2) or consumable magic items.
 
