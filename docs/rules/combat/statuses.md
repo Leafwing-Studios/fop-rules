@@ -23,30 +23,6 @@ If this skill check succeeds, you regain consciousness and stabilize at 1 life. 
 
 **As a reminder, once you reach death’s door, you cannot heal in any way until you have been stabilized.**
 
-## Grappled
-
-You cannot spend movement.
-
-Forced movement against you is divided by the number of creatures in your **grappling graph,** but drags all creatures in your grappling graph with you, maintaining your relative positions.
-
-You have disadvantage on all basic attacks except against the creature(s) grappling you.
-
-You cannot make Grapple attacks.
-
-## Grappling
-
-This status (and the grappled status of the creature you are grappling) ends as soon as you leave the grappling range of that creature.
-
-Whenever you spend movement, you must choose whether to move yourself, or the creature you are grappling. You may spend movement to apply an equal amount of forced movement to the creature you are grappling, so long as they remain within the range at which you can grapple them. Unlike other forced movement, this does not move you (but does move the rest of their grappling graph, if any). You may cause creatures to perform any action that costs movement in this way other than to go prone or begin flying: you may cause them to stand up, move up height tiers, rotate their position or so on.
-
-Forced movement against you is divided by the number of creatures in your **grappling graph,** but drags all creatures in your grappling graph with you, maintaining your relative positions.
-
-If you are flying, creatures that you are grappling are also flying.
-
-You have disadvantage on all basic attacks except against the creature(s) you are grappling.
-
-You cannot make Grapple attacks. You may end this status on yourself (and the Grappled status on your target) at the start or end of any of your turns.
-
 ## Flying
 
 If you have the ability to fly, you can spend half your movement to take flight. While flying:
@@ -72,6 +48,30 @@ If you find yourself worrying about whether you can outrange the archers on the 
 Falling damage is determined on a per-scene basis due to **vantages** present in the environment (see the section on Environmental Complications later in this chapter). Rather than worrying about the biomechanics of coconut-laden swallows, and the amount of damage that said coconut would suffer when dropped from a tremendous height (and the damage that a hapless victim would suffer as it landed on their head), relax and enjoy the fiction and fun of the game for its own sake!
 
 </div>
+
+## Grappled
+
+You cannot spend movement.
+
+Forced movement against you is divided by the number of creatures in your **grappling graph,** but drags all creatures in your grappling graph with you, maintaining your relative positions.
+
+You have disadvantage on all basic attacks except against the creature(s) grappling you.
+
+You cannot make Grapple attacks.
+
+## Grappling
+
+This status (and the grappled status of the creature you are grappling) ends as soon as you leave the grappling range of that creature.
+
+Whenever you spend movement, you must choose whether to move yourself, or the creature you are grappling. You may spend movement to apply an equal amount of forced movement to the creature you are grappling, so long as they remain within the range at which you can grapple them. Unlike other forced movement, this does not move you (but does move the rest of their grappling graph, if any). You may cause creatures to perform any action that costs movement in this way other than to go prone or begin flying: you may cause them to stand up, move up height tiers, rotate their position or so on.
+
+Forced movement against you is divided by the number of creatures in your **grappling graph,** but drags all creatures in your grappling graph with you, maintaining your relative positions.
+
+If you are flying, creatures that you are grappling are also flying.
+
+You have disadvantage on all basic attacks except against the creature(s) you are grappling.
+
+You cannot make Grapple attacks. You may end this status on yourself (and the Grappled status on your target) at the start or end of any of your turns.
 
 ## Invisible
 
