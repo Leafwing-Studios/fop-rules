@@ -37,16 +37,16 @@ If you're unsure of how a rule or interaction should work, the following princip
 - **Unfair exploits don’t work:** while synergy is intended, nothing comes for free or creates unlimited power.
 - **Specific rules beat general ones.**
 - **Every option presented should be genuinely useful,** at least sometimes.
-  _ This also requires that no option be overwhelmingly strong.
-  _ Conditional power is a great tool here.
+  - This also requires that no option be overwhelmingly strong.
+  - Conditional power is a great tool here.
 - **Effects intended as an improvement or penalty should work as such,** unless there’s a clear reason why they don’t.
-  _ Working around limitations or drawbacks should come with a cost in some form, or require specific and narrow circumstances.
-  _ Previous features, especially skills, should not be invalidated completely.
-  _ Interactions should be handled gracefully. Similar effects stack with each other, but do so additively. Advantage and disadvantage are a notable exception to this rule.
-  _ Absorption and damage dealt can never be negative.
+  - Working around limitations or drawbacks should come with a cost in some form, or require specific and narrow circumstances.
+  - Previous features, especially skills, should not be invalidated completely.
+  - Interactions should be handled gracefully. Similar effects stack with each other, but do so additively. Advantage and disadvantage are a notable exception to this rule.
+  - Absorption and damage dealt can never be negative.
 - **Do not add flat bonuses or penalties to attack rolls or skill checks:** bounded accuracy is important for making sure everything can interact safely. Advantage and disadvantage, or complications to the outcomes are typically a much better way to handle this
 - **Use flavor text for flavor purposes.** Flavor text is incredibly malleable based on player preference, but does not overrule specific rules text, especially in combat.
 - If there is a series of effects that are applied in an ambiguous order, **the order is determined by the originator of those effects.**
-  _ As a common example, the wielder of a weapon can determine the order that the weapon’s affixes are applied in.
-  _ If the effects are controlled by different sources, they resolve in the order of the turn order, beginning with the character whose turn it is. If that fails, the effects resolve alphabetically.
+  - As a common example, the wielder of a weapon can determine the order that the weapon’s affixes are applied in.
+  - If the effects are controlled by different sources, they resolve in the order of the turn order, beginning with the character whose turn it is. If that fails, the effects resolve alphabetically.
 - Unless otherwise stated, **round down.**
