@@ -29,6 +29,12 @@ Hybrid damage is treated as the most effective of its base types:
 
 ## Elemental Aesthetics
 
+### Physical
+
+Physical damage is not a type of elemental damage. It is dealt by ordinary, painful effects powered by physics and kinetic force, such as being stabbed with a sword, hit by an arrow, bitten by a monster's terrible teeth or falling a great distance.
+
+Mechanically, physical damage is commonly associated with effects which break or grant absorption (like the _blunt_ affix), apply the bleeding affliction, push creatures or knock them prone.
+
 ### Air
 
 Air is the element of the gentle breeze and the ferocious storm; of the soaring eagle and the lumbering skyship.
@@ -94,7 +100,7 @@ Mechanically, tends to sap strength and cause suffering, applying the withered a
 
 Electric is the element of lightning bolts and static charge; of invention and creation and the spark of life that animates everything in this world.
 
-Mechanically, electric effects tend to move in straight lines, grant additional speed or disorient their targets with the lethargic condition.
+Mechanically, electric effects tend to move in straight lines, grant additional speed, benefit from critical hits or disorient their targets with the lethargic condition.
 
 ### Corrosive
 
