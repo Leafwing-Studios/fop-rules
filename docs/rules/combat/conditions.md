@@ -11,7 +11,7 @@ While aloft:
 - The efficacy of forced movement applied to you is doubled.
 - You can pass through enemy tiles, and enemies can pass through your tiles.
 - You ignore ground effects.
-- You cannot spend movement to move into new tiles.
+- You cannot spend movement to move laterally.
 - At the end of each of your turns, you may shift once.
 
 ## Banished
@@ -32,7 +32,7 @@ You have disadvantage on all attacks.
 
 ## Chilled
 
-You lose your minor action each turn, but like normal may spend your major action to take a minor action if you choose. You must spend twice as much movement as normal to travel.
+You lose your minor action each turn, but like normal may spend your major action to take a minor action if you choose. Double all lateral movement costs.
 
 ## Crazed
 
@@ -72,4 +72,4 @@ Attacks that you make must target the creature that applied this condition to yo
 
 ## Withered
 
-You have disadvantage on basic attack rolls. You must spend twice as much movement as normal to travel.
+You have disadvantage on basic attack rolls. Double all lateral movement costs.

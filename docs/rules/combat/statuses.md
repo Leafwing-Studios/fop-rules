@@ -79,9 +79,9 @@ You cannot be seen using sight. Creatures who cannot see you are treated as if t
 
 ## Prone
 
-You have disadvantage on basic attacks. Melee basic attacks have advantage against you, and ranged basic attacks suffer disadvantage. You can only move by crawling, spending twice as much movement as normal to travel, unless you spend half your movement speed standing up. Hostile creatures can enter your tile while you are prone, but may not end their on your tile.
+You have disadvantage on basic attacks. Melee basic attacks have advantage against you, and ranged basic attacks suffer disadvantage. Double all lateral movement costs. Hostile creatures can enter your tile while you are prone, but may not end their on your tile.
 
-You may voluntarily go prone by spending 1 tile of movement.
+You may stand up from prone by spending movement equal to half your movement speed. You may voluntarily go prone by spending 1 tile of movement.
 
 ## Unconscious
 

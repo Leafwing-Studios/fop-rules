@@ -6,9 +6,8 @@ Various effects, from glue to oil slicks to pools of acid to thorny underbrush, 
 
 The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions or unsteady footing or the like. While on difficult terrain:
 
-- It costs twice as much movement as usual to travel.
-- Forced movement against you is half as effective.
-  Forced movement (other than teleportation) is half as effective on difficult terrain. Due to the standard rounding rules, forced movement that only moves creatures 1 tile does not move them at all if they are on a tile that contains difficult terrain.
+- Double all lateral movement costs.
+- Tiles covered with difficult terrain count as 2 tiles for the purposes of forced movement (other than teleportation).
 
 ## Visibility and Cover
 
