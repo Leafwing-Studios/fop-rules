@@ -2,6 +2,18 @@
 
 _Fonts of Power_ splits gear into four different **types:** arms, armor, trinkets, and consumables. Every affix is categorized according to these types, which define the types of benefits offered.
 
+<div class="infobox">
+
+**Essence Crystals**
+
+Essence crystals are pure, crystallized magical energy. Glowing faintly, they cast tiny twelve-color rainbows as the float gently in the palm of your hand.
+
+These marble-sized crystals are the raw material needed to create powerful enchantments for gear. This, of course, makes them the single most valuable currency for anyone with an inclination towards adventuring (or need of their services).
+
+You can find essence crystals as loot, earn it as a reward for completing deals, gather them from scratch using the Harvest downtime activity or convert enchantments back into essence crystals using the Disenchant downtime activity.
+
+</div>
+
 **Arms** are the weapons and shield that you use in your hands, and determine your ability to attack or block. Basic attacks are made using a single attack roll with the arms that you have equipped, whether they are:
 
 - A single one-handed weapon
