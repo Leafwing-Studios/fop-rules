@@ -1,6 +1,6 @@
 # Afflictions
 
-**Afflictions** persist between turns, dealing damage over time that **triggers** when a certain course of action is taken. Afflictions are applied in **stacks,** which build up as you apply more of them but reduce over time (or when they are treated in some way). The first time during your turn that their trigger occurs, you take damage equal to the number of stacks of that affliction that you have. At the end of each of your turns, reduce the number of stacks each affliction by one.
+**Afflictions** persist between turns, dealing damage over time that **triggers** when a certain course of action is taken. Afflictions are applied in **stacks,** which build up as you apply more of them but reduce over time (or when they are treated in some way). The first time during your turn that their trigger occurs, you take damage equal to the number of stacks of that affliction that you have. At the end of each of your turns, reduce the number of stacks each affliction by one. Damage dealt by afflictions occurs after the triggering event is complete, which is important for effects (such as the Treat minor action and rage) that mitigate their effects.
 
 <div class="infobox">
 
