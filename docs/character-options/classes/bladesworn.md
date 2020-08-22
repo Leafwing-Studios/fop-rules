@@ -68,8 +68,6 @@
 
 Bladesworn dance through battle in a carefully coordinated flurry of steel and wood, relying as much on the instincts imparted by their blade as any skill or training they might have. At level 1, you learn to use **Rhythm**, increasing your power as you land attacks repeatedly.
 
-In order to ensure that your attacks land reliably, **add half your Presence to both your basic attack and special attack modifiers.** If your Presence is odd, round down and then add 1 to your choice of basic attack or special attack modifier.
-
 Rhythm grants you various bonuses, and changes in the following ways:
 
 - Each time you hit a creature with a basic attack (including those made as part of a counterattack), your Rhythm goes up by 1. This occurs before your attack is resolved.
