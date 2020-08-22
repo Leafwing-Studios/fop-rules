@@ -58,7 +58,7 @@ You cannot take reactions.
 
 ## Pacified
 
-You cannot make attacks (i.e. take any actions that involve making an immediate attack roll). You cannot make attacks of opportunity.
+You cannot make attacks (i.e. take any actions that involve making an immediate attack roll).
 
 Whenever you lose life, remove all stacks of pacified.
 
