@@ -46,6 +46,7 @@ If you're unsure of how a rule or interaction should work, the following princip
   - Absorption and damage dealt can never be negative.
 - **Do not add flat bonuses or penalties to attack rolls or skill checks:** bounded accuracy is important for making sure everything can interact safely. Advantage and disadvantage, or complications to the outcomes are typically a much better way to handle this
 - **Use flavor text for flavor purposes.** Flavor text is incredibly malleable based on player preference, but does not overrule specific rules text, especially in combat.
+- If effects trigger off of each other, they are resolved in a **first-in, last-out order.**
 - If there is a series of effects that are applied in an ambiguous order, **the order is determined by the originator of those effects.**
   - As a common example, the wielder of a weapon can determine the order that the weapon’s affixes are applied in.
   - If the effects are controlled by different sources, they resolve in the order of the turn order, beginning with the character whose turn it is. If that fails, the effects resolve alphabetically.
