@@ -27,7 +27,7 @@ In general, when a creature is behind partial cover, they are obscured to you, a
 
 ## Height Tiers
 
-Sometimes, cover takes the form of objects that can be climbed on, such as boulders, furniture or terraced gardens. When this is the case, treat these environments as having several tiers of height.
+Sometimes, cover takes the form of objects that can be climbed on, such as boulders, furniture or terraced gardens. When this is the case, treat these environments as having several tiers of height
 
 Creatures can safely travel up or down a height tiers (either by forced movement or by willingly spending movement) by:
 
@@ -39,6 +39,7 @@ When you shift, you may travel up or down in this fashion provided you shift eno
 
 Spending movement in this way only moves you vertically; if, for examples, you are trying to climb on top of a table, you would need to spend two tiles of movement to move up, then an additional tile of movement to move from the tile on the floor to the tile above the table.
 
+When determinining ranges, treat tiles as if they were one tile further away for each height tier between the attacker and the defender.
 Height tiers provide different types of cover depending on the relative positioning of the attacker and the defender.
 
 When a higher tier is in-between the two combatants:
@@ -49,8 +50,6 @@ When a higher tier is in-between the two combatants:
 
 When the combatants are at different height tiers:
 
-- Melee attacks between adjacent height tiers have disadvantage.
-- Melee attacks between non-adjacent height tiers are impossible.
 - When the creature on the higher tier is on the relevant edge of their tier, no cover is granted.
 - When the creature on the higher tier is one tile back from the relevant edge of their tier, both creatures have partial cover.
 - When the creature on the higher tier is one tile back from the relevant edge of their tier, both creatures have full cover.
