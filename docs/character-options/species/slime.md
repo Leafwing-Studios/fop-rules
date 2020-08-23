@@ -38,13 +38,13 @@ Their cities are vast and wonderous, composed of bubble-like structures attached
 
 ### Features {docsify-ignore}
 
+**Formless:** At the end of each of your turns, remove the grappled status from yourself.
+
 **Slimoid:** Your body is a stretchy, pliable, translucent ball of slime. You may shape it as you please, including to carry items, interact with objects or wield arms, but you’re still visibly made out of slime and your total volume stays constant.
 
 While prone, you collapse into a puddle. As a puddle, you may slide under doors and through narrow cracks so long as they are at least half an inch wide. Your gear and other bulky items that you are carrying magically squeeze through with you.
 
-**Internal Storage:** Items you carry are stored inside your body, with the same inventory limit. They are plainly visible unless covered by clothing or the like.
-
-**Uncertain Anatomy:** Critical hits do not deal extra damage to you, but other effects (such as conditions, afflictions and forced movement) are still amplified. You do not need to breathe, but must still eat, drink and sleep. Slimes can see, hear and speak as well as a typical human, although how they do so is a closely guarded secret.
+**Uncertain Anatomy:** You do not need to breathe, but must still eat, drink and sleep. Slimes can see, hear and speak as well as a typical human, although how they do so is a closely guarded secret. Items you carry are stored inside your body. They are plainly visible unless covered by clothing or the like.
 
 ## Bouncy Slime
 
