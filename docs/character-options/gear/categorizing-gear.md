@@ -31,6 +31,24 @@ The second type of gear is **armor,** which you wear to protect yourself. We abs
 
 **Consumables** are single-use magical items designed to offer a temporary boost in power. They might be a potion of healing, a poison that coats your blade, a scroll with ancient magic or a devious trap. Consumables are created using the affix system and the Devise downtime activity, and used with the Activate minor action. Over-use of consumables can have serious consequences as your body is flooded with magical energy, suffering exhaustion due to essence overload.
 
+<div class="infobox">
+
+**The Power of Consumables**
+
+Consumable magic items in _Fonts of Power_ are intended to be both commonly used and powerful, shaping the fight, solving problems and creating exciting, dramatic moments.
+
+Each creature gets one free use of a consumable every rest via the [Activate minor action](rules/combat/acting-in-combat/minor-actions?id=activate), encouraging players (and particularly cunning or dangerous monsters!) to use consumables regularly, rather than hoarding them to trivialize a harder challenge that might never come.
+
+When designing your own consumable affixes, it's helpful to keep the following balance guidelines in mind:
+
+- Consumables with an instant effect typically have a power equal to spending two times their gear point total worth of essence in a single minor action
+  - See the Monster Power Builder in the _Worldspeaker's Guide to Font's of Power_ for more details and ideas.
+- Consumables with a lingering effect tend to last until the end of the party's next rest.
+  - These are costed similarly to equivalent arms / armor / trinket affixes.
+  - Effects which are particularly effective at countering a particular strategy or whose power is highly conditional (such as immunity to a particular elemental damage or dramatically increased range) cost about twice as much as usual, to reflect the ability to simply use a different consumable when these consumables are ineffective.
+
+</div>
+
 Affixes come in four different **rarities,** which reflect their in-game mechanical complexity and change how difficult they are to craft: **common, advanced, exotic,** and **prismatic.**
 
 Prismatic affixes are incredibly rare and powerful, comparable to the **capstone** features that you receive upon reaching level 20 in a class. In order to benefit from a prismatic affix:
