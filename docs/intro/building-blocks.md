@@ -73,7 +73,8 @@ Time also works differently in combat. Every creature acts in a discrete sequenc
 
 On each of their turns, creatures can (in any order):
 
-- **Move** around the battlefield \* You can split this up freely, moving both before and after any **action.**
+- **Move** around the battlefield
+  - You can split this up freely, moving both before and after any **action.**
 - Take a **major action** such as:
   _ **Strike:** hit an opponent with their weapon.
   _ **Grapple:** pin their opponent in place.
