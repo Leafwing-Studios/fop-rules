@@ -146,7 +146,7 @@ Help your allies with their downtime tasks. Make a Focus (Guidance) skill check,
 
 ## Resurrect
 
-<div class="info-box">
+<div class="infobox">
 
 **Deadlier Death**
 
