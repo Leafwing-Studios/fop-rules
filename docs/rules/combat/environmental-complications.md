@@ -27,7 +27,7 @@ In general, when a creature is behind partial cover, they are obscured to you, a
 
 ## Height Tiers
 
-Sometimes, cover takes the form of objects that can be climbed on, such as boulders, furniture or terraced gardens. When this is the case, treat these environments as having several tiers of height
+Sometimes, cover takes the form of objects that can be climbed on, such as boulders, furniture or terraced gardens. When this is the case, treat these environments as having several tiers of height.
 
 Creatures can safely travel up or down a height tiers (either by forced movement or by willingly spending movement) by:
 
@@ -35,7 +35,7 @@ Creatures can safely travel up or down a height tiers (either by forced movement
 - spending one tile of movement while flying or aloft
 - spending one tile of movement when moving via teleportation
 
-When you shift, you may travel up or down in this fashion provided you shift enough tiles in a row to end your movement on solid ground. You cannot split your climbing over several turns: at the end of your turn, you return to the height tier of the tile that you are standing on.
+When you shift, you may travel up or down in this fashion instead. You cannot split your climbing over several turns: at the end of your turn, you return to the height tier of the tile that you are standing on. To make flying in combat more fun (and balanced), this applies to flying creatures as well. Flying creatures cannot increase their height tier freely, and are always considered to be at the height tier of the tile that they are above.
 
 Spending movement in this way only moves you vertically; if, for examples, you are trying to climb on top of a table, you would need to spend two tiles of movement to move up, then an additional tile of movement to move from the tile on the floor to the tile above the table.
 
