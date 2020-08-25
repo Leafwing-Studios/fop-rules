@@ -1,7 +1,5 @@
 # Ailments
 
-Ailments stack in duration. While you have at least one stack of a particular ailment, suffer its effects. At the end of each of your turns, remove one stack of each ailment you are suffering from.
-
 ## Aloft
 
 While aloft:

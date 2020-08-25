@@ -1,7 +1,5 @@
 # Statuses
 
-Statuses represent things that might occur to the creatures in the game, but do not follow the same rules as ailments or afflictions.
-
 ## Death's Door
 
 While you are at 0 life, you are at **death’s door** and cannot heal by any means. At the start of each of your turns while on death’s door, you must choose whether to slip safely into unconsciousness or to stay conscious.
