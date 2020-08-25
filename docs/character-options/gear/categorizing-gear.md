@@ -45,7 +45,7 @@ When designing your own consumable affixes, it's helpful to keep the following b
   - See the Monster Power Builder in the _Worldspeaker's Guide to Font's of Power_ for more details and ideas.
 - Consumables with a lingering effect tend to last until the end of the party's next rest.
   - These are costed similarly to equivalent arms / armor / trinket affixes.
-  - Effects which are particularly effective at countering a particular strategy or whose power is highly conditional (such as immunity to a particular elemental damage or dramatically increased range) cost about twice as much as usual, to reflect the ability to simply use a different consumable when these consumables are ineffective.
+  - Effects which are particularly effective at countering a particular strategy or whose power is highly ailmental (such as immunity to a particular elemental damage or dramatically increased range) cost about twice as much as usual, to reflect the ability to simply use a different consumable when these consumables are ineffective.
 
 </div>
 

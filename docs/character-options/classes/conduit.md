@@ -11,7 +11,7 @@
 **Build Fundamentals:** Whether they are shooting arrows of light at the enemy or wielding a flaming sword, Conduits make excellent strikers, with the option to focus more heavily on control if they so choose:
 
 - Striker: Opt into the risky double-edged spells like roar of fire to maximize your output, then select armor affixes like _immunity_ to mitigate their downsides.
-- Controller: Double down on your conditions, selecting affixes like _imbued strikes_ and _merciless_ to apply more of them and then amplify their effects with exotic affixes like _absolute zero_.
+- Controller: Double down on your ailments, selecting affixes like _imbued strikes_ and _merciless_ to apply more of them and then amplify their effects with exotic affixes like _absolute zero_.
 
 <div class="side-panel">
 

@@ -11,7 +11,7 @@
 **Build Fundamentals:** Elementalists are easily built as strikers, but with the right choices they can serve as controllers or guardians instead:
 
 - Striker: Double-down on critical strikes to get off detonation after detonation and blast everything to smithereens. Dash and Guard will be your most useful minor actions.
-- Controller: Focus on your conditions and forced movement, taking combat talents like _merciless_ or _blowhard_ and keep your exposure in the danger zone by alternating elements. The _telekinesis_ affix lets you use the Shove minor action at long range, giving you more control from a safe distance, while the _patient_ combat talent lets you get off more attacks of opportunity with your weapons to recover essence.
+- Controller: Focus on your ailments and forced movement, taking combat talents like _merciless_ or _blowhard_ and keep your exposure in the danger zone by alternating elements. The _telekinesis_ affix lets you use the Shove minor action at long range, giving you more control from a safe distance, while the _patient_ combat talent lets you get off more attacks of opportunity with your weapons to recover essence.
 - Guardian: The barrier cycle of spells lets you give absorption to your allies; amplify its effectiveness with combat talents like _encouraging_ or _supportive_. You’ll often find yourself using the Treat minor action, consider investing in affixes like _combat medic_ to make it more effective.
 
 <div class="side-panel">
@@ -168,7 +168,7 @@ At level 6, your intuition allows you to innately sense the elements around you.
 
 ## Spell Prism
 
-When you reach level 11, you are able to refract different elements and spells when mirroring them, using your skill to find common factors between each spell. When you use your Spell Mirror feature, you can pick different spells, as long as one of the following conditions is true:
+When you reach level 11, you are able to refract different elements and spells when mirroring them, using your skill to find common factors between each spell. When you use your Spell Mirror feature, you can pick different spells, as long as one of the following ailments is true:
 
 - All of the spells you selected share the same element (meld spells count as both elements)
 - All of the spells you selected are part of the same cycle (for example, all the _meld_ or _spray_ spells form a cycle)
@@ -597,7 +597,7 @@ If you are level 10 or higher, when you use this spell during the Resurrect down
 
 If you are level 18 or higher, you may use this spell to prevent a soul from permanently slipping away. You may now use the Soul Anchor downtime activity. If you succeed on a difficulty 20 Focus (Medicine) skill check, remove a stack of transcendence from a soul of your choice within the same font of power that you are currently at.
 Detonation: Lifeforce Detonation
-When you reach 7 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within 2 tiles of you. If you hit, remove all conditions and afflictions from them. For each stack of affliction removed in this way, deal 1 primal damage to the creature you removed it from and gain 1 absorption. For each stack of a condition removed in this way, deal 2 primal damage to the creature you removed it from and gain 2 absorption.
+When you reach 7 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within 2 tiles of you. If you hit, remove all ailments and afflictions from them. For each stack of affliction removed in this way, deal 1 primal damage to the creature you removed it from and gain 1 absorption. For each stack of a ailment removed in this way, deal 2 primal damage to the creature you removed it from and gain 2 absorption.
 
 When you reach 7 stacks of decay exposure, you drain the energy from those around you. Make a Focus attack against all other creatures within 2 tiles of you. If you hit, apply 3 stacks of withered and transfer all absorption that they have to yourself..
 

@@ -122,7 +122,7 @@ At level 6, you are able to call for an enforced peace through the strength of y
 
 ## Stand Proud
 
-At 7th level, Paragons stand above the fray, drawing enemy attention with their leadership and pride. As a minor action at the cost of 1 essence, you may attempt to Provoke a creature of your choice within 6 tiles of you, making a Presence attack against it. If you hit, apply a number of stacks of the taunted condition equal to your Presence (minimum of 1).
+At 7th level, Paragons stand above the fray, drawing enemy attention with their leadership and pride. As a minor action at the cost of 1 essence, you may attempt to Provoke a creature of your choice within 6 tiles of you, making a Presence attack against it. If you hit, apply a number of stacks of the taunted ailment equal to your Presence (minimum of 1).
 
 ## Unassailable
 
@@ -197,7 +197,7 @@ At level 5, your blade glows with a holy flame as you strike down the wicked, bl
 
 ### Hold Your Ground: Struggle
 
-At level 1, your belief in Liberty lets you throw off the shackles of oppression. At the start of each of your turns, you may choose to stand firm in order to remove one stack of each condition from yourself. Until the start of your next turn, you cannot spend movement and are immune to forced movement.
+At level 1, your belief in Liberty lets you throw off the shackles of oppression. At the start of each of your turns, you may choose to stand firm in order to remove one stack of each ailment from yourself. Until the start of your next turn, you cannot spend movement and are immune to forced movement.
 
 ### Fervent Blows: Smite
 
@@ -207,7 +207,7 @@ At level 5, you learn to carry the weight of your moral convictions into your bl
 
 ### Hold Your Ground: Mastery
 
-At level 1, your belief in Progress lets you focus in order to gain true mastery over the very nature of magic. At the start of each of your turns, you may choose to stand firm in order to be able to freely replace any conditions or afflictions that you apply with the same number of stacks of a condition or affliction of your choice. You must replace conditions with conditions, and afflictions with afflictions. Until the start of your next turn, you cannot spend movement and are immune to forced movement.
+At level 1, your belief in Progress lets you focus in order to gain true mastery over the very nature of magic. At the start of each of your turns, you may choose to stand firm in order to be able to freely replace any ailments or afflictions that you apply with the same number of stacks of a ailment or affliction of your choice. You must replace ailments with ailments, and afflictions with afflictions. Until the start of your next turn, you cannot spend movement and are immune to forced movement.
 
 ### Fervent Blows: Surge
 

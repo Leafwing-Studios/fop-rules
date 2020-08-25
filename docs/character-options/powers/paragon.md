@@ -398,7 +398,7 @@ When you trigger this aura, special attacks made against allies within range hav
 
 </div>
 
-When you trigger this aura, remove one stack of each condition from each ally within range.
+When you trigger this aura, remove one stack of each ailment from each ally within range.
 
 ## Aura of Weakness
 

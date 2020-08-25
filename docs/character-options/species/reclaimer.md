@@ -61,7 +61,7 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 | 5    | The relationships between the elements.      |
 | 6    | The means by which souls produce essence.    |
 
-**Esteemed Regalia:** At the start of each of your turns, make a difficulty 10 Focus (Arcana) skill check. If you succeed, remove one stack of a condition of your choice from yourself.
+**Esteemed Regalia:** At the start of each of your turns, make a difficulty 10 Focus (Arcana) skill check. If you succeed, remove one stack of a ailment of your choice from yourself.
 
 **Lore Seeker:** You are proficient in Arcana.
 
@@ -91,6 +91,6 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 | 5    | I’m too busy improving on my designs to actually use them for much. |
 | 6    | They make my life easier in mundane ways.                           |
 
-**Indestructible Contraption:** At the start of each of your turns, gain 2 absorption for each unique condition that you have.
+**Indestructible Contraption:** At the start of each of your turns, gain 2 absorption for each unique ailment that you have.
 
 **Mad Science:** You are proficient in Tinkering.

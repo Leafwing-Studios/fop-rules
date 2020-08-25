@@ -39,14 +39,14 @@ Mechanically, physical damage is commonly associated with effects which break or
 
 Air is the element of the gentle breeze and the ferocious storm; of the soaring eagle and the lumbering skyship.
 
-Mechanically, air is commonly associated with flying, the aloft condition and effects which apply forced movement or knock creatures prone.
+Mechanically, air is commonly associated with flying, the aloft ailment and effects which apply forced movement or knock creatures prone.
 
 ### Earth
 
 Earth is the element of the stony mountains and the stinging sands; of the fertile soil and the barren outcropping.
 
 Mechanically, earth is commonly associated with absorption, the Defend major action and resistance to physical damage.
-Rocks often apply the rooted condition, forced movement or knock creatures prone, while sand often applies blinded or creates shrouded effects.
+Rocks often apply the rooted ailment, forced movement or knock creatures prone, while sand often applies blinded or creates shrouded effects.
 
 ### Fire
 
@@ -58,52 +58,52 @@ Mechanically, fire is associated with tons of damage, huge areas of effect and t
 
 Water is the element of the murky oceans and the frozen tundras; of the flowing rivers and the communal wells.
 
-Mechanically, water behaves differently depending on its form. Mist often creates shrouded conditions, ice tends to apply chilled or create slippery ground effects, and liquid water inflicts forced movement.
+Mechanically, water behaves differently depending on its form. Mist often creates shrouded ailments, ice tends to apply chilled or create slippery ground effects, and liquid water inflicts forced movement.
 
 ### Arcane
 
 Arcane is the element of infinite space and relentless time; of the splendor of an illusion and the mystery of other realities.
 
-Mechanically, arcane tends to apply the unstable affliction, create objects from nowhere, teleport creatures, apply the banished condition or grant invisibility.
+Mechanically, arcane tends to apply the unstable affliction, create objects from nowhere, teleport creatures, apply the banished ailment or grant invisibility.
 
 ### Eldritch
 
 Eldritch is the element of whispered truths and forbidden knowledge; of horrifying monstrosities and broken minds.
 
-Mechanically, eldritch tends to manipulate the mind, applying the crazed, frightened or pacified conditions, and sometimes inflicting the rage or temperance afflictions.
+Mechanically, eldritch tends to manipulate the mind, applying the crazed, frightened or pacified ailments, and sometimes inflicting the rage or temperance afflictions.
 
 ### Radiant
 
 Radiant is the element of the beating sun and glowing moon; of honor and peace and righteous belief.
 
-Mechanically, radiant effects often create areas of light, but also tends to sear and soothe, applying the blinded and pacified condition or the temperance affliction.
+Mechanically, radiant effects often create areas of light, but also tends to sear and soothe, applying the blinded and pacified ailment or the temperance affliction.
 
 ### Umbral
 
 Umbral is the element of the flickering shadows and the darkest night; of dark bargains and closely-held secrets.
 
-Mechanically, umbral effects often create areas of darkness (including magically shrouded areas), but can also grant invisibility or inflict intense pain with the anguish condition.
+Mechanically, umbral effects often create areas of darkness (including magically shrouded areas), but can also grant invisibility or inflict intense pain with the anguish ailment.
 
 ### Primal
 
 Primal is the element of the growing plants and wild beasts; of ancient forests and prospering farmlands.
 
-Mechanically, primal effects tends to grow, grasp, strengthen and provoke, creating interesting ground effects, applying the rooted condition, granting boons and applying the rage affliction.
+Mechanically, primal effects tends to grow, grasp, strengthen and provoke, creating interesting ground effects, applying the rooted ailment, granting boons and applying the rage affliction.
 
 ### Decay
 
 Decay is the element of the dead and dying, disease and famine; of the afterlife and the cycles that support all life.
 
-Mechanically, tends to sap strength and cause suffering, applying the withered and blunted conditions or the bleeding affliction.
+Mechanically, tends to sap strength and cause suffering, applying the withered and blunted ailments or the bleeding affliction.
 
 ### Electric
 
 Electric is the element of lightning bolts and static charge; of invention and creation and the spark of life that animates everything in this world.
 
-Mechanically, electric effects tend to move in straight lines, grant additional speed, benefit from critical hits or disorient their targets with the lethargic condition.
+Mechanically, electric effects tend to move in straight lines, grant additional speed, benefit from critical hits or disorient their targets with the lethargic ailment.
 
 ### Corrosive
 
 Corrosive is the element of bubbling acid and scalding bases; of raw destruction and the inexorable push towards entropy.
 
-Mechanically, corrosive effects tend to eat through defenses, applying the defenseless condition or the brittle affliction, or creating dangerous ground effects.
+Mechanically, corrosive effects tend to eat through defenses, applying the defenseless ailment or the brittle affliction, or creating dangerous ground effects.

@@ -1,6 +1,6 @@
-# Conditions
+# Ailments
 
-Conditions stack in duration. While you have at least one stack of a particular condition, suffer its effects. At the end of each of your turns, remove one stack of each condition you are suffering from.
+Ailments stack in duration. While you have at least one stack of a particular ailment, suffer its effects. At the end of each of your turns, remove one stack of each ailment you are suffering from.
 
 ## Aloft
 
@@ -18,9 +18,9 @@ While aloft:
 
 You are sent to a strange, alternate plane of existence. While banished, you can only interact with other banished creatures. Creatures who are not banished can occupy and move through the same tile as you and vice versa.
 
-Other creatures may use the Treat minor action (or other effects which remove conditions) to remove the banished condition, even if they are not themselves banished.
+Other creatures may use the Treat minor action (or other effects which remove ailments) to remove the banished ailment, even if they are not themselves banished.
 
-When this condition ends, reappear in the nearest empty tile. You can still perceive things normally in both worlds while banished, and you can still be seen by creatures in the normal world.
+When this ailment ends, reappear in the nearest empty tile. You can still perceive things normally in both worlds while banished, and you can still be seen by creatures in the normal world.
 
 ## Blinded
 
@@ -68,7 +68,7 @@ You cannot spend movement.
 
 ## Taunted
 
-Attacks that you make must target the creature that applied this condition to you. You must take attacks of opportunities against that creature if able. If a different source applies taunted to you, the object of your ire changes to the most recent source.
+Attacks that you make must target the creature that applied this ailment to you. You must take attacks of opportunities against that creature if able. If a different source applies taunted to you, the object of your ire changes to the most recent source.
 
 ## Withered
 

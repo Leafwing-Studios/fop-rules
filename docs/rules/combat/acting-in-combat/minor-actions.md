@@ -54,10 +54,10 @@ Attacks against you by a creature of your choice have disadvantage against you u
 
 If there is some plausible way to hide from your enemies, you may attempt a difficulty 10 Agility (Stealth) skill check. If you succeed, you are invisible to your enemies and your position is concealed from them until the end of your next turn. This effect ends immediately after you make an attack.
 
-You have a plausible way to hide (per the definitions of this action) if, for all enemies, at least one of these conditions is true:
+You have a plausible way to hide (per the definitions of this action) if, for all enemies, at least one of these ailments is true:
 
 - you are invisible to them (via direct invisibility, heavy shroud, darkness, full cover or some other effect)
-- you are obscured by at least two conditions (such as light shroud, dim light or partial cover)
+- you are obscured by at least two ailments (such as light shroud, dim light or partial cover)
 
 For more information on handling stealth outside of combat, see the Stealth skill description, or the _Scenes > Trickery Scenes_ section.
 
@@ -102,6 +102,6 @@ Change the set of arms that you currently have equipped. This also allows you to
 
 ## Treat
 
-Attempt to treat a creature within 1 tile’s injuries and ailments, curing a single condition or mitigating a single affliction of your choice.
+Attempt to treat a creature within 1 tile’s injuries and ailments, curing a single ailment or mitigating a single affliction of your choice.
 
-Select a condition or affliction. If you succeed on a difficulty 10 Focus (Medicine) skill check, remove all stacks of the chosen condition or half the stacks of the chosen affliction from them.
+Select a ailment or affliction. If you succeed on a difficulty 10 Focus (Medicine) skill check, remove all stacks of the chosen ailment or half the stacks of the chosen affliction from them.

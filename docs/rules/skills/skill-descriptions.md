@@ -102,7 +102,7 @@ Insight typically calls for Focus, as it requires you to focus and gather your t
 
 Medicine is used to treat the wounded, diagnose illnesses and cure the sick.
 
-When a creature is unconscious due to being below 0 life, you may attempt to stabilize its condition by spending 10 minutes and making an Expertise (Medicine) skill check. They regain life equal to your result although do not exceed zero life. Once a creature has been tended to in this way, they cannot be stabilized again until after they heal above 0 life through other means.
+When a creature is unconscious due to being below 0 life, you may attempt to stabilize its ailment by spending 10 minutes and making an Expertise (Medicine) skill check. They regain life equal to your result although do not exceed zero life. Once a creature has been tended to in this way, they cannot be stabilized again until after they heal above 0 life through other means.
 
 Medicine can use a wide range of attributes, depending on the task at hand. Carefully transporting an ally with a spinal injury would require Prowess, stitching a wound would require Agility, recalling information about a disease would require Expertise, making a diagnosis from the facts at hand would require Focus, and comforting the ill would require Presence.
 

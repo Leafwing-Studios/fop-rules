@@ -85,7 +85,7 @@ If you animated a set of arms:
 - You may only animate the set of arms you currently have equipped.
 - When you use your Thread Twisting minor action (gained at level 3), you gain the benefit of the Swap minor action, and may equip arms up to 6 tiles away from you.
 - The arms get their own token.
-- The arms share your defenses and any other effects that are active on you, other than conditions or statuses. They cannot take damage, gain absorption or gain afflictions or any other status. They can gain their own conditions, which clear independently.
+- The arms share your defenses and any other effects that are active on you, other than ailments or statuses. They cannot take damage, gain absorption or gain afflictions or any other status. They can gain their own ailments, which clear independently.
 - The arms are flying.
 - At the end of each of your turns for the duration of this effect, you may move the object up to 6 tiles. This is not increased if you have multiple copies of this pattern active.
 - After you move the object, you may make a basic attack using these arms. If you have multiple copies of this pattern active, you may make one basic attack per copy of this pattern.
@@ -447,7 +447,7 @@ You tangle the threads of the Weave around an object or creature, anchoring them
 
 </div>
 
-As the Weave wraps around your foe, time seems to slow down for them, preventing them from recovering like usual. Select a creature within range. At the end of each of your turns for the duration of this effect, make an Expertise attack against that creature. If you hit, apply one stack of each of their current conditions to them.
+As the Weave wraps around your foe, time seems to slow down for them, preventing them from recovering like usual. Select a creature within range. At the end of each of your turns for the duration of this effect, make an Expertise attack against that creature. If you hit, apply one stack of each of their current ailments to them.
 
 ## Pattern of Purification
 

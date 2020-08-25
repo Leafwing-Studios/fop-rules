@@ -11,7 +11,7 @@
 **Build Fundamentals:** Depending on their selection of patterns, weavers can serve as flexible and responsive strikers, controllers or guardians:
 
 - Striker: select a damaging pattern that matches your playstyle and then amplify its effectiveness with your other patterns and gear. _Pattern of annihilation,_ _pattern of animation,_ and _pattern of destruction_ all reward very different builds, making it more effective to specialize or swap arms when you swap patterns.
-- Controller: pick up patterns that apply conditions or restrict space like _pattern of binding_ or _pattern of forbiddance_. Prioritize locking down the enemies that are trying to break your concentration to make sure you can keep the situation under control.
+- Controller: pick up patterns that apply ailments or restrict space like _pattern of binding_ or _pattern of forbiddance_. Prioritize locking down the enemies that are trying to break your concentration to make sure you can keep the situation under control.
 - Guardian: select a blend of offensive (like _pattern of augmentation_ and _pattern of empowerment_) and defensive (like _pattern of absorption_ or _pattern of warding_) patterns, so you can adapt to the situation as it evolves. Absorption is an extremely effective defensive option as your concentration is only tested when you lose life, not when you take damage.
 
 <div class="side-panel">
@@ -77,7 +77,7 @@ At the end of each of your turns, gain the effects of any patterns you cast that
 
 You can sustain patterns even while otherwise impaired (such as if you were banished, stunned or pacified); only casting new patterns is affected.
 
-Your patterns expire if you end your turn more than 12 tiles away from their target. If your concentration is lost, all patterns that you have cast or are sustaining immediately end, including any ongoing effects. You cannot sustain patterns lost in this way. Conditions and afflictions applied are not removed when this occurs, as they do not track which effect applied them.
+Your patterns expire if you end your turn more than 12 tiles away from their target. If your concentration is lost, all patterns that you have cast or are sustaining immediately end, including any ongoing effects. You cannot sustain patterns lost in this way. Ailments and afflictions applied are not removed when this occurs, as they do not track which effect applied them.
 
 ## Guild
 
@@ -165,7 +165,7 @@ When you reach level 15, the raw energy released whenever another creature cause
 
 ## One With the Weave
 
-At level 20, you are able to seamlessly slip in and out of reality in response to threats. After you use the Block reaction, you may choose to gain one stack of banished. You automatically succeed on any Treat skill checks you make to remove the banished condition.
+At level 20, you are able to seamlessly slip in and out of reality in response to threats. After you use the Block reaction, you may choose to gain one stack of banished. You automatically succeed on any Treat skill checks you make to remove the banished ailment.
 
 # Guilds
 

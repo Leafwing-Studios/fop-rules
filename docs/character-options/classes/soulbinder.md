@@ -2,7 +2,7 @@
 
 **Source of Power:** Forming a connection between their own soul and another through physical contact, Soulbinders manipulate this bond to transmit strange pulses to and from their dual.
 
-**Core Mechanic:** After landing a basic attack (or using the Treat minor action on an ally), Soulbinders mark their target as their dual. So long as their concentration holds, they can use Pulses which affect one creature or the other (and eventually both), specializing in manipulating afflictions, conditions and absorption.
+**Core Mechanic:** After landing a basic attack (or using the Treat minor action on an ally), Soulbinders mark their target as their dual. So long as their concentration holds, they can use Pulses which affect one creature or the other (and eventually both), specializing in manipulating afflictions, ailments and absorption.
 
 **Specialization:** Each Soulbinder’s connection has a distinctive Qualia: influencing how it feels, and granting the Soulbinder access to a unique pulse, a specialized downtime activity and powerful playstyle-defining combat features at higher levels.
 
@@ -10,7 +10,7 @@
 
 **Build Fundamentals:** Soulbinders can be built to be insidious controllers, dedicated guardians or even assassin-esque strikers:S
 
-- Controller: Focus on completely locking down a single target with conditions and afflictions and mitigate their effects on yourself with armor affixes like _conditional immunity_. The _imbued strikes_ and _cruel strikes_ affixes are very useful to allow your basic attacks to generate more stacks.
+- Controller: Focus on completely locking down a single target with ailments and afflictions and mitigate their effects on yourself with armor affixes like _ailmental immunity_. The _imbued strikes_ and _cruel strikes_ affixes are very useful to allow your basic attacks to generate more stacks.
 - Guardian: Specialize in protecting and empowering a single ally with absorption and subtly supportive effects. Damageless ranged weapons (created by stacking the _defensive_ affix twice) can be a great option for quickly swapping targets when they’re outside the range of your Treat minor action.
 - Striker: The soul burst pulse will be your bread and butter, encouraging you to blend your pulses with your enhanced basic attacks. Isolate a single target and then focus them down relentlessly, selecting pulses that remove their ability to defend themselves or rejoin the group.
 
@@ -69,7 +69,7 @@
 
 When a Soulbinder touches a creature, a fleeting connection is forged, linking their souls together in a way that the soulbinder can use to help or harm their target.
 
-Whenever you hit a creature with a basic attack, or use the Treat minor action on an ally, you become **bound** to them, and they become your **dual.** You do not need to attempt to remove conditions or afflictions from your ally in order to gain this benefit. Outside of combat, merely touching a creature, such as by shaking their hand or bumping into them, is sufficient to create this bond.
+Whenever you hit a creature with a basic attack, or use the Treat minor action on an ally, you become **bound** to them, and they become your **dual.** You do not need to attempt to remove ailments or afflictions from your ally in order to gain this benefit. Outside of combat, merely touching a creature, such as by shaking their hand or bumping into them, is sufficient to create this bond.
 
 You may only have one dual at a time; forming a new connection replaces the previous one. The bond expires if you end your turn more than 12 tiles away from your dual or your concentration is lost. When this happens, any ongoing effect of your pulses immediately ends.
 
@@ -188,7 +188,7 @@ Upon reaching level 7, you can send a final pulse through your connection as it 
 
 ## Transmission
 
-At level 9, you are able to manipulate ailments of all sorts through your bond, curing them from your allies and transferring them to your foes. Immediately after you use a pulse, you may spend 1 additional essence to transfer one stack of a condition or two stacks of an affliction of your choice to or from your dual.
+At level 9, you are able to manipulate ailments of all sorts through your bond, curing them from your allies and transferring them to your foes. Immediately after you use a pulse, you may spend 1 additional essence to transfer one stack of a ailment or two stacks of an affliction of your choice to or from your dual.
 
 ## Soul Searching
 
@@ -196,7 +196,7 @@ At level 10, you are able to sense the souls of those you have recently marked, 
 
 ## Amplification
 
-When you reach level 11, you learn to amplify suffering with your strikes. Whenever you hit a creature with a basic attack, you may add a stack of a condition that they are already suffering from to them.
+When you reach level 11, you learn to amplify suffering with your strikes. Whenever you hit a creature with a basic attack, you may add a stack of a ailment that they are already suffering from to them.
 
 ## Throughput
 
@@ -242,8 +242,8 @@ At level 1, you gain access to the following Distinctive Pulse.
 
 A wave of calm, restful energy flows through your bond, as you lull them into restful dreams while sheltering them from harm. Choose one:
 
-- Remove all conditions and afflictions from yourself. Then, apply two stacks of pacified and blinded to yourself.
-- Make a Focus attack against your dual. If you hit, remove all conditions and afflictions from them. Then, apply one stack of pacified and blinded to your dual.
+- Remove all ailments and afflictions from yourself. Then, apply two stacks of pacified and blinded to yourself.
+- Make a Focus attack against your dual. If you hit, remove all ailments and afflictions from them. Then, apply one stack of pacified and blinded to your dual.
 
 ### Reflection: Visitation
 
@@ -255,7 +255,7 @@ If you select nightmares, their next rest does not restore any life or remove an
 
 ### Coping Strategy: Toss and Turn
 
-At level 15, you are able to transmit terrible nightmares over your bond. Damage transferred via your A Sorrow Shared feature does not break the pacified condition and cannot be prevented in any way.
+At level 15, you are able to transmit terrible nightmares over your bond. Damage transferred via your A Sorrow Shared feature does not break the pacified ailment and cannot be prevented in any way.
 
 ### Soulbound: Figment of the Imagination
 

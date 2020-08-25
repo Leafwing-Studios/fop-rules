@@ -83,7 +83,7 @@ On each of their turns, creatures can (in any order):
 - Take a **minor action** such as:
   _ **Shove:** knock a creature down or push them into an adjacent tile.
   _ **Expose:** grant an ally an attack of opportunity against the enemy.
-  _ **Treat:** cure yourself or an adjacent ally of a condition or affliction.
+  _ **Treat:** cure yourself or an adjacent ally of a ailment or affliction.
   _ **Hide:** attempt to make yourself unseen so that you can attack with advantage. \* **Scan:** find a hidden creature, or figure out something about the scene.
 
 <div class="infobox">
@@ -116,10 +116,10 @@ Finally, various ailments and effects in combat are represented as:
 - **Afflictions:** gradual sources of damage that trigger when a certain action is taken by the creature suffering from them, such as spending movement or making an attack.
   _ Once per turn when the trigger is met, the creature takes damage equal to the number of stacks of that affliction that they currently have.
   _ At the end of your turn, remove one stack of each affliction from yourself.
-- **Conditions:** standardized negative effects that reduce your effectiveness.
-  _ Whenever a creature has at least one stack of a condition, they suffer its effect.
-  _ At the end of your turn, remove one stack of each condition from yourself.
-- **Statuses:** combat-relevant temporary effects that don’t follow the rules of either afflictions or conditions, but are still common enough to get dedicated rules. \* Being prone, unconscious, asleep, invisible, or flying are examples of statuses in this system.
+- **Ailments:** standardized negative effects that reduce your effectiveness.
+  _ Whenever a creature has at least one stack of a ailment, they suffer its effect.
+  _ At the end of your turn, remove one stack of each ailment from yourself.
+- **Statuses:** combat-relevant temporary effects that don’t follow the rules of either afflictions or ailments, but are still common enough to get dedicated rules. \* Being prone, unconscious, asleep, invisible, or flying are examples of statuses in this system.
 
 ## The Basics of Exploration
 

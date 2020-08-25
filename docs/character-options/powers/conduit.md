@@ -264,7 +264,7 @@ When used with your Buffer Overflow class feature, the creature is tethered to t
 
 </div>
 
-Fire flickers from your fingertips, crawling towards your foe and mocking them as it provokes a terrible, focused fury. Make a Presence attack against a creature of your choice within range. If you hit, deal 1d4 + Presence fire damage and apply one stack of taunted. When used with your Buffer Overflow class feature, the object of the taunted condition is the immediately preceding creature in the chain, rather than yourself.
+Fire flickers from your fingertips, crawling towards your foe and mocking them as it provokes a terrible, focused fury. Make a Presence attack against a creature of your choice within range. If you hit, deal 1d4 + Presence fire damage and apply one stack of taunted. When used with your Buffer Overflow class feature, the object of the taunted ailment is the immediately preceding creature in the chain, rather than yourself.
 
 ## Piercing Ray
 
@@ -364,11 +364,11 @@ Crackling lighting surround you, engulfing both you and your foe in their wrath.
 
 </div>
 
-One by one, the various magical effects on you are stripped free, blending together into a brilliant rainbow ribbon that flows into your target. Make an Expertise attack against a creature of your choice within range. If you hit, transfer up to 6 + Presence stacks each of afflictions, conditions and absorption that you currently have to that creature.
+One by one, the various magical effects on you are stripped free, blending together into a brilliant rainbow ribbon that flows into your target. Make an Expertise attack against a creature of your choice within range. If you hit, transfer up to 6 + Presence stacks each of afflictions, ailments and absorption that you currently have to that creature.
 
-When used with your Buffer Overflow class feature, the conditions, afflictions and absorption are transferred from one creature to the next in order, before finally stacking up on the last creature in the chain.
+When used with your Buffer Overflow class feature, the ailments, afflictions and absorption are transferred from one creature to the next in order, before finally stacking up on the last creature in the chain.
 
-If there are more stacks than can be transferred, you may choose which afflictions and conditions are transferred. Using this spell on an ally counts as granting them a boon.
+If there are more stacks than can be transferred, you may choose which afflictions and ailments are transferred. Using this spell on an ally counts as granting them a boon.
 
 ## Roar of Fire
 

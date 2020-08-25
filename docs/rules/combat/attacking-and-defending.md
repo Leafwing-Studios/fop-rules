@@ -34,7 +34,7 @@ Efficacy multiplies the following characteristics of attacks:
 
 - The damage dealt. You do not roll again; simply multiply the damage dealt.
 - The number of stacks of afflictions applied.
-- The number of stacks of conditions applied.
+- The number of stacks of ailments applied.
 - The amount of absorption applied or stolen.
 - The distances involved in forced movement.
 

@@ -388,11 +388,11 @@ You ally's skin turns to solid diamond, sparkling and durable. Select a creature
 
 </div>
 
-With a single glance you turn your enemy to stone. Make a Focus attack against a creature within range. This attack automatically misses against creatures suffering from the blinded condition. If you hit, they are petrified for the duration of this effect:
+With a single glance you turn your enemy to stone. Make a Focus attack against a creature within range. This attack automatically misses against creatures suffering from the blinded ailment. If you hit, they are petrified for the duration of this effect:
 _ Damage
 _ Forced movement
 _ Boons
-_ Conditions \* Afflictions
+_ Ailments \* Afflictions
 
 - The target cannot take actions, reactions, or spend movement
 - The target is conscious and can use all of their senses normally
@@ -415,13 +415,13 @@ _ Conditions \* Afflictions
 
 </div>
 
-Your gaze pierces the very fiber of your enemies, turning them to stone. At the beginning of each of your turns, make a Focus attack against a creature within range. This attack automatically misses against creatures suffering from the blinded condition. If you hit, they are petrified until the end of their next turn:
+Your gaze pierces the very fiber of your enemies, turning them to stone. At the beginning of each of your turns, make a Focus attack against a creature within range. This attack automatically misses against creatures suffering from the blinded ailment. If you hit, they are petrified until the end of their next turn:
 
 - The target is immune to all effects, including:
   _ Damage
   _ Forced movement
   _ Boons
-  _ Conditions \* Afflictions
+  _ Ailments \* Afflictions
 - The target cannot take actions, reactions, or spend movement
 - The target is conscious and can use all of their senses normally
 
@@ -573,7 +573,7 @@ Creatures outside of the 3 tile radius but within a 24 tile radius are hit by th
 
 </div>
 
-The earth rumbles ominously underfoot. Select a tile within range. Make an Agility attack against all creatures in a 2 tile radius centered at that tile. If you hit, knock them prone. This is a ground effect, and does not affect creatures with flying or who are suffering from the aloft condition.
+The earth rumbles ominously underfoot. Select a tile within range. Make an Agility attack against all creatures in a 2 tile radius centered at that tile. If you hit, knock them prone. This is a ground effect, and does not affect creatures with flying or who are suffering from the aloft ailment.
 
 ### Wrath of the Earth - Miracle
 
@@ -593,7 +593,7 @@ The earth rumbles ominously underfoot. Select a tile within range. Make an Agili
 
 </div>
 
-The earth quakes and roars with the might of a god. Select a tile within range. An earthquake begins in a 3 tile radius centered at that tile. This area permanently becomes difficult terrain. This is a ground effect, and does not affect creatures with flying or who are suffering from the aloft condition.
+The earth quakes and roars with the might of a god. Select a tile within range. An earthquake begins in a 3 tile radius centered at that tile. This area permanently becomes difficult terrain. This is a ground effect, and does not affect creatures with flying or who are suffering from the aloft ailment.
 
 For the duration of this effect, whenever a creature starts their turn in the earthquake or enters it for the first time on their turn, make an Agility attack against them. If you hit, deal 4d6 + 4 \* Presence earth damage. If you miss, they suffer the effects at half efficacy.
 

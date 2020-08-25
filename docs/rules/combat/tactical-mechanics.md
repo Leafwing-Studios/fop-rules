@@ -10,7 +10,7 @@ Effects which qualify as a boon include but are not limited to:
 - granting resistance or immunity to damage
 - granting advantage on attacks
 - causing attacks made against them to have disadvantage
-- removing conditions or afflictions, such as with the Treat minor action
+- removing ailments or afflictions, such as with the Treat minor action
 - granting additional movement
 - turning them invisible
 - granting them the benefit of an action
@@ -70,4 +70,4 @@ This can however be combined with the increased effect of critical hits and the 
 
 Various effects allow you to carefully move across the battlefield. When you shift, you may move into an adjacent empty tile of your choice. This does not cost movement and never provokes attacks of opportunity.
 
-Shifting is not forced movement. You can still shift even when you cannot spend movement (such as due to the grappled / grappling status or the rooted condition). If you are part of a grappling graph when you shift, the distance to each creature that you are connected to must remain within their respective zone of control.
+Shifting is not forced movement. You can still shift even when you cannot spend movement (such as due to the grappled / grappling status or the rooted ailment). If you are part of a grappling graph when you shift, the distance to each creature that you are connected to must remain within their respective zone of control.

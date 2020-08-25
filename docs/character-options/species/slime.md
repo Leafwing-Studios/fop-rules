@@ -48,7 +48,7 @@ While prone, you collapse into a puddle. As a puddle, you may slide under doors 
 
 ## Bouncy Slime
 
-**Bounce Back:** At the end of each of your turns, remove an additional stack of each condition from yourself.
+**Bounce Back:** At the end of each of your turns, remove an additional stack of each ailment from yourself.
 
 **Elastic Collisions:** Whenever you are hit by a basic attack, you are pushed 1 tile directly away from the source of that attack. The effect of all other non-teleportation forced movement on you is doubled. While moving due to forced movement, whenever you hit a barrier or another, you bounces off at the same angle it came in at, continuing until you run out of movement.
 

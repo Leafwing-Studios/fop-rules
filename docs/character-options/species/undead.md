@@ -69,7 +69,7 @@ Gain the features of another base species of your choice instead of any subspeci
 |  5   | I embrace it as part of a rebellious aesthetic.            |
 |  6   | I love to play spooky pranks on small children.            |
 
-**Blindsight:** Lacking eyeballs, you can no longer see in the usual fashion. Instead, you gain an innate awareness of the 6 tiles around your skull as if you could see in bright light. Within this radius, you are immune to the blinded condition and light and heavy shroud effects. Outside of this radius, you are treated as if you were suffering from the blinded condition.
+**Blindsight:** Lacking eyeballs, you can no longer see in the usual fashion. Instead, you gain an innate awareness of the 6 tiles around your skull as if you could see in bright light. Within this radius, you are immune to the blinded ailment and light and heavy shroud effects. Outside of this radius, you are treated as if you were suffering from the blinded ailment.
 
 **Detachable:** You may detach and reattach parts of your body at will, controlling them freely so long as they are within 6 tiles of your skull. In combat:
 

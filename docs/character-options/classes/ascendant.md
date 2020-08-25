@@ -11,7 +11,7 @@
 **Build Fundamentals:** Ascendants naturally fill the control and striker roles:
 
 - Striker: keep yourself safe through superior mobility with affixes like ineffable or flying, and then build to empower your basic attacks to deal damage with a flurry of blows.
-- Controller: apply conditions with your basic attacks using the imbued strikes affix, or focus on grappling. prioritizing the grasping appendages affix to make sure you can lock down more than one creature at once.
+- Controller: apply ailments with your basic attacks using the imbued strikes affix, or focus on grappling. prioritizing the grasping appendages affix to make sure you can lock down more than one creature at once.
 
 <div class="side-panel">
 
@@ -138,7 +138,7 @@ When you reach level 14, you are always alert and aware of your surroundings. Yo
 
 ## Purity
 
-At level 15, your body forcibly rejects harmful influences as incongruent with your greater plan. At the end of each of your turns, remove an additional stack of each condition.
+At level 15, your body forcibly rejects harmful influences as incongruent with your greater plan. At the end of each of your turns, remove an additional stack of each ailment.
 
 ## Reincarnation
 
@@ -149,7 +149,7 @@ As a level 18 Ascendent, you never truly die, your soul entering back into the c
 When you reach level 20, you have achieved your ideal form: body and mind existing in perfect harmony. Whenever you successfully use the Meditate downtime activity, choose one of the following effects:
 
 - There is no limit to the number of times that you may use your Combination Strikes feature per round but you may no longer take the Defend major action.
-- At the start of each of your turns, remove one stack of each affliction and condition from yourself. When you use the Defend major action and take advantage of your Meditation class feature, gain 12 absorption.
+- At the start of each of your turns, remove one stack of each affliction and ailment from yourself. When you use the Defend major action and take advantage of your Meditation class feature, gain 12 absorption.
 - Your movement speed is doubled, attacks of opportunity against you have disadvantage and you may pass through enemy tiles.
 - You have advantage on all special attacks. You may make Shove and Expose attacks using your Combination Strikes feature without spending any extra essence or counting against the total number of attacks used, although your chain still breaks if you miss them.
 

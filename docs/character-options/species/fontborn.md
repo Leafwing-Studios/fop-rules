@@ -5,7 +5,7 @@ Magic breathes life into everything that it touches, and the fonts of power bubb
 Often called monsters by the people of the cities and farmlands, some of these creatures have fought against the fonts’ influence and control.
 No longer a replacable, regenerating component of the vast pseudo-organism that is a font of power, the fontborn have become fully sentient people with hopes, dreams and ideals of their own.
 
-Banding together in a brilliant rainbow of diversity, these strange creatures live among the fonts of power themselves, still drawing on their energy for sustenance. Their small communities thrive in harsh and bizarre conditions where other species must fight for their very survival.
+Banding together in a brilliant rainbow of diversity, these strange creatures live among the fonts of power themselves, still drawing on their energy for sustenance. Their small communities thrive in harsh and bizarre ailments where other species must fight for their very survival.
 
 <div class="side-panel">
 
@@ -43,7 +43,7 @@ Still nascent and unstable, the fate and form of these creatures is in their own
 | 5    | A scholar of the great unknown.   |
 | 6    | A fearless font-delver.           |
 
-**Elemental Infusion:** After you lose life due to taking elemental damage, remove one stack of a condition of your choice from yourself.
+**Elemental Infusion:** After you lose life due to taking elemental damage, remove one stack of a ailment of your choice from yourself.
 
 **One of Us:** You are proficient in Fontcraft. You have advantage on all Focus (Fontcraft) skill checks made to resurrect creatures as fontborn.
 

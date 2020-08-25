@@ -1,6 +1,6 @@
 # Statuses
 
-Statuses represent things that might occur to the creatures in the game, but do not follow the same rules as conditions or afflictions.
+Statuses represent things that might occur to the creatures in the game, but do not follow the same rules as ailments or afflictions.
 
 ## Death's Door
 
@@ -27,7 +27,7 @@ If this skill check succeeds, you regain consciousness and stabilize at 1 life. 
 
 **Monsters on Death's Door**
 
-Monsters enter death's door just as any other creature would, but feel an added personal stake. Monsters in desperate situations will fight ferociously to avoid being absorbed back into their home font. While on death's door, monsters add their Presence to any damage dealt. 
+Monsters enter death's door just as any other creature would, but feel an added personal stake. Monsters in desperate situations will fight ferociously to avoid being absorbed back into their home font. While on death's door, monsters add their Presence to any damage dealt.
 
 </div>
 
@@ -41,7 +41,7 @@ If you have the ability to fly, you can spend half your movement to take flight.
 - You can pass through enemy tiles, and enemies can pass through your tiles.
 - You ignore ground effects.
 - If you cannot spend movement or are knocked prone you stop flying.
-- You are immune to the effects of the aloft condition.
+- You are immune to the effects of the aloft ailment.
 
 You may stop flying at any point during your turn by spending 1 tile of movement.
 
@@ -83,7 +83,7 @@ You cannot make Grapple attacks. You may end this status on yourself (and the Gr
 
 ## Invisible
 
-You cannot be seen using sight. Creatures who cannot see you are treated as if they were suffering the blinded condition with respect to attacks by and against you.
+You cannot be seen using sight. Creatures who cannot see you are treated as if they were suffering the blinded ailment with respect to attacks by and against you.
 
 ## Prone
 

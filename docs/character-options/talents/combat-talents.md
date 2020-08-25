@@ -8,7 +8,7 @@ Every combat talent is also available as an affix, with a gear point cost of 1.
 
 ### Blind
 
-You can no longer see in the usual fashion. Instead, you gain an innate awareness of the 6 tiles around you as if you could see in bright light. Within this radius, you are immune to the blinded condition and light and heavy shroud effects. Outside of this radius, you are treated as if you were suffering from the blinded condition.
+You can no longer see in the usual fashion. Instead, you gain an innate awareness of the 6 tiles around you as if you could see in bright light. Within this radius, you are immune to the blinded ailment and light and heavy shroud effects. Outside of this radius, you are treated as if you were suffering from the blinded ailment.
 
 ### Chosen
 
@@ -54,7 +54,7 @@ You have advantage on Endurance skill checks made to Essence Tap and on concentr
 
 ### Hearty
 
-Remove two stacks of each condition from yourself at the end of each of your turns, rather than the usual one.
+Remove two stacks of each ailment from yourself at the end of each of your turns, rather than the usual one.
 
 ### Pragmatic
 
@@ -74,7 +74,7 @@ Choose an attribute. Special attacks made against you that target the specified 
 
 ### Staunch
 
-After you take the Defend major action, ignore any stacks of conditions or afflictions that would be added to you until the start of your next turn.
+After you take the Defend major action, ignore any stacks of ailments or afflictions that would be added to you until the start of your next turn.
 
 ### Stout
 
@@ -196,7 +196,7 @@ You have advantage on skill checks made to maintain a grapple. When you spend mo
 
 ### Merciless
 
-After you apply at least one stack of a condition to a creature that already has a stack of that same condition, apply an additional stack of that condition. This effect does not trigger itself.
+After you apply at least one stack of a ailment to a creature that already has a stack of that same ailment, apply an additional stack of that ailment. This effect does not trigger itself.
 
 ### Scheming
 

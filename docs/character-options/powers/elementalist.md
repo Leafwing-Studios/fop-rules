@@ -1536,7 +1536,7 @@ If you have at least 4 stacks of primal exposure, the absorption gained increase
 
 </div>
 
-As you fan your hands, a wave of overwhelming life energy pours forth from your fingertips, rapidly healing ailments in a rather painful fashion. Make a Focus attack against each creature within a 3 tile radius cone. If you hit, remove a condition of your choice from them. If you do, deal 1d12 + Presence primal damage to them. Otherwise, deal 1d8 + Presence primal damage to them.
+As you fan your hands, a wave of overwhelming life energy pours forth from your fingertips, rapidly healing ailments in a rather painful fashion. Make a Focus attack against each creature within a 3 tile radius cone. If you hit, remove a ailment of your choice from them. If you do, deal 1d12 + Presence primal damage to them. Otherwise, deal 1d8 + Presence primal damage to them.
 
 If you have at least 4 stacks of primal exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 
@@ -1714,7 +1714,7 @@ If you have at least 4 stacks of primal exposure, the absorption gained increase
 
 </div>
 
-As you fan your hands, terrible necrotic energy pours forth from your fingertips, worsening the ailments of your foes. Make a Prowess attack against each creature within a 3 tile radius cone. If you hit, apply one stack of each condition they are already suffering from to them.
+As you fan your hands, terrible necrotic energy pours forth from your fingertips, worsening the ailments of your foes. Make a Prowess attack against each creature within a 3 tile radius cone. If you hit, apply one stack of each ailment they are already suffering from to them.
 
 If you have at least 4 stacks of decay exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 

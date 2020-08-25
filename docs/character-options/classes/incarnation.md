@@ -11,7 +11,7 @@
 **Build Fundamentals:** Incarnations can serve as both strikers and controllers, depending on their choice of subclass and gear:
 
 - Striker: Ambition and Rage Incarnations can put out tons of damage, amplifying their basic attacks’ power through critical strikes with affixes like _keen_ and _brutal victory_. Rely on superior mobility or ranged attacks to stay safe, or simply tank through the pain with affixes like undying.
-- Controller: Courage and Desire Incarnations are particularly adept at this role, taunting or charming your enemies. Augment this strength with weapons that apply conditions using the _imbued strikes_ affix or focus on grappling with affixes like _grasping reach_.
+- Controller: Courage and Desire Incarnations are particularly adept at this role, taunting or charming your enemies. Augment this strength with weapons that apply ailments using the _imbued strikes_ affix or focus on grappling with affixes like _grasping reach_.
 
 <div class="side-panel">
 
@@ -74,7 +74,7 @@ The number of stacks of emotion you gain each turn increases as you level up. Yo
 
 ## Grit
 
-At level 1, you are able to push through impairments through sheer force of will. At the start of each of your turns, make a difficulty 10 Presence (Endurance) skill check. If you succeed, remove one stack of a condition of your choice from yourself.
+At level 1, you are able to push through impairments through sheer force of will. At the start of each of your turns, make a difficulty 10 Presence (Endurance) skill check. If you succeed, remove one stack of a ailment of your choice from yourself.
 
 ## Temperament
 
@@ -202,7 +202,7 @@ While transformed, you can use the Outburst major action at the cost of one stac
 
 ### Impunity: Bravery
 
-At level 15, you fear nothing. While transformed, you are immune to the frightened condition.
+At level 15, you fear nothing. While transformed, you are immune to the frightened ailment.
 
 ## Grief
 
@@ -239,14 +239,14 @@ At level 1, you learn to embody the spirit of hope, bolstering the spirits of yo
 You may Transform as a minor action, which costs essence equal to your current stacks of emotion. While transformed:
 
 - Whenever you hit a creature with an attack, or use the Treat minor action, grant a creature within 2 tiles of you (including yourself) 3 + Presence/2 absorption and advantage on all attacks they make until the end of your next turn.
-- Your Grit class feature now removes all conditions you are suffering from when you pass the Presence (Endurance) skill check, rather than just a single condition of your choice.
+- Your Grit class feature now removes all ailments you are suffering from when you pass the Presence (Endurance) skill check, rather than just a single ailment of your choice.
 - At the end of each of your turns, you lose 1 stack of emotion. When you reach 0 stacks of emotion the transformation ends.
 
 ### Outburst: Empathy
 
 At level 11, you learn to pour out your soul, inspiring those around you to shake off their ailments.
 
-While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, choose a condition or affliction. Remove all stacks of that condition or affliction from all creatures within 2 tiles of you.
+While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, choose a ailment or affliction. Remove all stacks of that ailment or affliction from all creatures within 2 tiles of you.
 
 ### Impunity: Indomitable Spirit
 
@@ -265,7 +265,7 @@ You may Transform as a minor action, which costs essence equal to your current s
 - Your attacks are automatically criticals if they hit.
 - You have resistance to physical damage.
 - Any stacks of rage that you may have are not removed at the end of each of your turns or via your Grit class feature while transformed.
-- You are immune to the pacified condition.
+- You are immune to the pacified ailment.
 - At the end of each of your turns, you lose 1 stack of emotion. When you reach 0 stacks of emotion the transformation ends.
 
 ### Outburst: Frothing Rage
