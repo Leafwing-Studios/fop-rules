@@ -6,7 +6,7 @@ Statuses represent things that might occur to the creatures in the game, but do 
 
 While you are at 0 life, you are at **death’s door** and cannot heal by any means. At the start of each of your turns while on death’s door, you must choose whether to slip safely into unconsciousness or to stay conscious.
 
-While conscious and at death’s door, you must maintain your will to keep fighting, and prevent yourself from being absorbed into any fonts. Whenever you would lose life, you must make a difficulty 15 Presence (Endurance) check instead. The outcomes are as follow:
+While conscious and at death’s door, you must maintain your concentration at all times, lest you be consumed by any fonts. Whenever you would lose life, you must make a difficulty 15 concentration check, but using Presence (Endurance) check instead of the normal roll. The outcomes are as follow:
 
 - **Failure by 5 or more:** you die.
 - **Failure by less than 5:** you slip into unconsciousness, and gain a stack of exhaustion.
@@ -22,6 +22,14 @@ At that point, other creatures can attempt to Rouse you with a successful Focus 
 If this skill check succeeds, you regain consciousness and stabilize at 1 life. If this fails, or if no one attempts to rouse you, you instead regain consciousness and heal (regaining half your life like usual) when the party next completes a rest.
 
 **As a reminder, once you reach death’s door, you cannot heal in any way until you have been stabilized.**
+
+<div class="infobox">
+
+**Monsters on Death's Door**
+
+Monsters enter death's door just as any other creature would, but feel an added personal stake. Monsters in desperate situations will fight ferociously to avoid being absorbed back into their home font. While on death's door, monsters add their Presence to any damage dealt. 
+
+</div>
 
 ## Flying
 
