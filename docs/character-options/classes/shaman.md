@@ -40,28 +40,28 @@
 
 <div class="class-table">
 
-| Level | Proficiency Bonus |                  Features                  | Manifestations Known |
-| :---: | :---------------: | :----------------------------------------: | :------------------: |
-|   1   |        +1         |     Domain, Manifestations, Surge (1)      |          3           |
-|   2   |        +1         |     Speak for the Beasts, Regeneration     |          3           |
-|   3   |        +1         | Characteristic Manifestation, Energy Cycle |          3           |
-|   4   |        +1         |           Attribute Improvement            |          4           |
-|   5   |        +2         |  Proficiency Bonus Improvement, Surge (2)  |          4           |
-|   6   |        +2         |              Lay of the Land               |          4           |
-|   7   |        +2         |                  Cascade                   |          4           |
-|   8   |        +2         |           Attribute Improvement            |          5           |
-|   9   |        +3         |  Proficiency Bonus Improvement, Surge (3)  |          5           |
-|  10   |        +3         |            Speak for the Trees             |          5           |
-|  11   |        +3         |             Elemental Mastery              |          5           |
-|  12   |        +3         |           Attribute Improvement            |          6           |
-|  13   |        +4         |  Proficiency Bonus Improvement, Surge (4)  |          6           |
-|  14   |        +4         |             Lay of the Locale              |          6           |
-|  15   |        +4         |               Energy Buffer                |          6           |
-|  16   |        +4         |           Attribute Improvement            |          7           |
-|  17   |        +5         |  Proficiency Bonus Improvement, Surge (5)  |          7           |
-|  18   |        +5         |             Speak for the Land             |          7           |
-|  19   |        +5         |           Attribute Improvement            |          8           |
-|  20   |        +5         |                 Wild Magic                 |          8           |
+| Level | Proficiency Bonus |                    Features                    | Manifestations Known |
+| :---: | :---------------: | :--------------------------------------------: | :------------------: |
+|   1   |        +1         |       Domain, Manifestations, Surge (1)        |          3           |
+|   2   |        +1         |       Speak for the Beasts, Regeneration       |          3           |
+|   3   |        +1         | Characteristic Manifestation (1), Energy Cycle |          3           |
+|   4   |        +1         |             Attribute Improvement              |          4           |
+|   5   |        +2         |    Proficiency Bonus Improvement, Surge (2)    |          4           |
+|   6   |        +2         |                Lay of the Land                 |          4           |
+|   7   |        +2         |               Elemental Mastery                |          4           |
+|   8   |        +2         |             Attribute Improvement              |          5           |
+|   9   |        +3         |    Proficiency Bonus Improvement, Surge (3)    |          5           |
+|  10   |        +3         |              Speak for the Trees               |          5           |
+|  11   |        +3         |                    Cascade                     |          5           |
+|  12   |        +3         |             Attribute Improvement              |          6           |
+|  13   |        +4         |    Proficiency Bonus Improvement, Surge (4)    |          6           |
+|  14   |        +4         |               Lay of the Locale                |          6           |
+|  15   |        +4         |        Characteristic Manifestation (2)        |          6           |
+|  16   |        +4         |             Attribute Improvement              |          7           |
+|  17   |        +5         |    Proficiency Bonus Improvement, Surge (5)    |          7           |
+|  18   |        +5         |               Speak for the Land               |          7           |
+|  19   |        +5         |             Attribute Improvement              |          8           |
+|  20   |        +5         |                   Wild Magic                   |          8           |
 
 </div>
 
@@ -75,15 +75,22 @@ Every Shaman has a special connection to a particular type of place, and the ele
 
 When a Manifestation is said to deal **elemental damage,** substitute the appropriate elemental damage type specified by your Domain.
 
+You always have resistance to this type of elemental damage, and cannot become immune (or vulnerable) to it.
+
 ## Surge
 
-When you use a manifestation, you may choose to spend additional essence to **Surge** it, up to your **Capacity**, which begins at 1. Every odd point of Surge increases the direct potency of the effect; every even point increases their power in a more subtle way.
+When you use a manifestation, you may choose to spend additional essence to **surge** it. Every odd point of Surge increases the direct potency of the effect; every even point increases their power in a more subtle way.
 
-Every point of essence that you spend in this way increases your **Energy** by 1. If you Surge multiple manifestations in a single round, your Energy can exceed your Capacity. Unlike usual, you may spend essence to Surge your manifestations during attacks of opportunity.
+Every point of essence that you spend in this way increases your **energy** by one. Your **capacity** is equal to twice your proficiency bonus; you cannot spend essence to Surge a manifestation if it would cause your energy to exceed your capacity.
 
-At the end of each of your turns, reset your Energy to 0. For each point of Energy removed in this way above your Capacity, take 1d12 elemental damage. You cannot become immune to the type of damage associated with your Domain, or change the type of damage dealt by this effect.
+At the start of each of your turns:
 
-Your Capacity increases by 1 at level 5, 9, 13 and 17.
+- compute the difference between your energy and your proficiency bonus as your **excess energy**
+- take 2d12 elemental damage (of the type associated with your Domain) for each point of excess energy
+- you cannot change the type of damage dealt by this effect, but (through your Domain class feature) are resistant to this damage
+- reset your energy to 0
+
+In addition, your concentration is no longer tested when you lose life due to taking damage of the type associated with your Domain.
 
 # Speak for the Beasts
 
@@ -93,15 +100,19 @@ In addition, you now have advantage on any skill checks made that involve workin
 
 ## Regeneration
 
-Also at level 2, the energy created through the use of your abilities revitalizes you as you reabsorb it. When you reset your Energy at the end of your turn (before any damage would be dealt due to exceeding your Capacity), gain 2 life and 2 absorption for each point of Energy removed in this way.
+Also at level 2, the energy created through the use of your abilities revitalizes you as you reabsorb it. At the start of each of your turns, gain 2 absorption and regain 2 life for each point of energy that you had.
+
+As both this effect and the damage from your Surge class feature occur at the start of your turn, you may choose whether this absorption and healing occurs before or after you take that damage.
 
 ## Characteristic Manifestation
 
 At level 3, you have developed a particular affinity for one particular form of manifesting your power. Select a manifestation that you know. This manifestation becomes more versatile, as detailed in the Characteristic Manifestation section of its description.
 
+At level 15, select a second characteristic manifestation.
+
 ## Energy Cycle
 
-Also at level 3, you learn to absorb magical power directed at you, fueling your abilities. Whenever you lose life due to damage from the element associated with your Domain, gain essence equal to the life lost, up to a maximum of your proficiency bonus.
+Also at level 3, you learn to absorb magical power directed at you, fueling your abilities. Whenever you lose life due to damage from the element associated with your Domain, gain absorption equal to the life lost.
 
 ## Attribute Improvement
 
@@ -127,9 +138,9 @@ At level 6, you are able to infer the geography of your surroundings from the pa
 
 You may use this feature again after its initial use is expended, but gain 1 stack of exhaustion each time you do so.
 
-## Cascade
+## Elemental Mastery
 
-At level 7, you can use extra energy that you absorb to fuel the strength of your magic. Whenever you lose life due to taking damage from your element, gain advantage on the next attack you make before the end of your next turn.
+At level 7, you are a master of your element, learning to twist and shape it to bypass your enemies' resistances. Your attacks ignore resistance to the specified elemental damage type and treat immunity to the specified elemental damage type as if it was only resistance.
 
 ## Speak for the Trees
 
@@ -137,17 +148,13 @@ At level 10, you gain the ability to speak to the trees and fungi of the world, 
 
 You also gain advantage on any Craftsmanship skill checks to grow or harvest plants.
 
-## Elemental Mastery
+## Cascade
 
-At level 11, you are intimately familiar with the workings of the element you are attuned to. Ignore resistance to the damage type associated with your Domain, and treat immunities to it as if they were only resistance. In addition, you gain resistance to this type of damage.
+At level 11, you can use extra energy that you absorb to fuel the strength of your magic. Whenever you lose life due to taking damage from your element, gain advantage on the next attack you make before the end of your next turn.
 
 ## Lay of the Locale
 
 At level 14, you are able to carefully discern the contents of areas on the other side of solid material. When you use your Lay of the Land feature, you may instead choose to gain knowledge about the detailed contents on the other side of a wall, floor or ceiling. You can detect creatures, objects and the general geometry up to 24 tiles away, clearly seeing the shapes that they form but gaining no other information.
-
-## Energy Buffer
-
-At level 15, you learn how to carefully come down from incredible highs through carefully buffering the energy to be dealt with later. At the end of each turn, you may choose how much to reduce your Energy by, to a minimum of half your current Energy (rounded down like usual).
 
 ## Speak for the Land
 
