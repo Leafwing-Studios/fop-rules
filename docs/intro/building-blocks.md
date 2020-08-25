@@ -111,7 +111,7 @@ To make an attack roll, roll 1d20 and then add both your proficiency bonus and e
 
 **Basic defense** is determined by the armor you are wearing and your natural Agility. There is one **special defense** for each attribute. These are determined by your proficiency bonus, your corresponding attribute, and whether or not you are proficient in defending against that sort of attack.
 
-Finally, various ailments and effects in combat are represented as:
+Finally, there are three categories of combat-relevant conditions:
 
 - **Afflictions:** gradual sources of damage that trigger when a certain action is taken by the creature suffering from them, such as spending movement or making an attack.
   _ Once per turn when the trigger is met, the creature takes damage equal to the number of stacks of that affliction that they currently have.
