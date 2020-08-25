@@ -240,7 +240,7 @@ Creatures in tiles that are flooded with junk suffer no harmful effects. Clearin
 
 ### Reality Weaving: Create
 
-At 6th level, you learn to carefully unwind matter, erasing it as if it had never even existed. You gain access to the Create downtime activity. When you use this, you may freely create nonliving, nonmagical matter of any sort that you desire, as long as it fits in a 6 tile cube. Making items that require a degree of skill, such as glass, weapons, structural masonry or the like requires an appropriate Expertise (Craftsmanship) skill check.
+At 6th level, you learn to carefully unwind matter, erasing it as if it had never even existed. You gain access to the Create downtime activity. When you use this, you may freely create nonliving, nonmagical matter of any sort that you desire, as long as it fits in a 6 tile cube. Making items that require a degree of skill, such as glass, weapons, structural masonry or the like requires an appropriate Expertise (Crafting) skill check.
 
 In addition, you have advantage on all skill checks made during the Craft downtime activity and never need to roll on the supplies die during it.
 

@@ -265,7 +265,7 @@ If you are level 18 or higher, the duration of this spell is increased to one da
 
 Twisting and warping stone, you bend it to your will. Select up to 4 contingent tiles of your choice within range that are made in either whole or part of stone (including brick and so on). They permanently become difficult terrain. You may also use this spell to eliminate difficult terrain if it is caused by uneven stony ground or a similar phenomenon.
 
-You may also use this spell to slowly carve away at stone, at the cost of 3 uses of this spell per one-tile cube altered. This can be used to create stairs, slowly dig a tunnel or a hole through a wall. You have advantage on any Craftsmanship skill check when you use this spell to help you shape stone.
+You may also use this spell to slowly carve away at stone, at the cost of 3 uses of this spell per one-tile cube altered. This can be used to create stairs, slowly dig a tunnel or a hole through a wall. You have advantage on any Crafting skill check when you use this spell to help you shape stone.
 
 If you are level 10 or higher, you can also slowly create stone, up to one-tile cube per 3 uses of this spell. This might be a barricade, repairing a bridge or creating a small defensive structure as a downtime activity.
 
@@ -353,7 +353,7 @@ When you do so, create a patch of ice as a ground effect. Whenever a creature st
 
 The ice remains frozen until after you complete your next rest.
 
-If you are level 10 or higher, you can sculpt ice into useful, if temporary objects. Doing so requires a successful Expertise (Craftsmanship) skill check. You may create any mundane object that could plausibly be made of ice when you cast this spell (for example, you cannot create rope, torches, chalk, medicinal herbs or a key that you have no idea what it looks like). You can only sculpt up to a one-tile cube of ice per casting of this spell.
+If you are level 10 or higher, you can sculpt ice into useful, if temporary objects. Doing so requires a successful Expertise (Crafting) skill check. You may create any mundane object that could plausibly be made of ice when you cast this spell (for example, you cannot create rope, torches, chalk, medicinal herbs or a key that you have no idea what it looks like). You can only sculpt up to a one-tile cube of ice per casting of this spell.
 
 If you are level 18 or higher, you can cause the water in the air to condense, and no longer need a source of water to create this effect.
 

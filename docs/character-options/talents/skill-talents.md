@@ -24,7 +24,7 @@ Treat any Presence (Charm) skill check made to persuade NPCs about their self-in
 
 Whenever you fail a Charm skill check while lying (including when making deals), you may make one (but only one) attempt to correct your story, telling a new lie and making a new skill check.
 
-## Craftsmanship: Industrious
+## Crafting: Industrious
 
 You are able to readily substitute, salvage or jerry-rig materials and tools and have advantage on all Supply die rolls.
 

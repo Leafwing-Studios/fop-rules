@@ -146,7 +146,7 @@ At level 7, you are a master of your element, learning to twist and shape it to 
 
 At level 10, you gain the ability to speak to the trees and fungi of the world, learning of their plights and sharing in their contentment. You are able to communicate verbally with any form of plant life or fungi, listening to their chemical signals and quiet rustling. These creatures have quite limited senses and intelligence, but are typically quite helpful and able to answer questions about what has occurred in their limited vicinity, and eager to share any difficulties they might be having.
 
-You also gain advantage on any Craftsmanship skill checks to grow or harvest plants.
+You also gain advantage on any Crafting skill checks to grow or harvest plants.
 
 ## Cascade
 

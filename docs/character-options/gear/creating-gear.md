@@ -4,7 +4,7 @@ Gear in _Fonts of Power_ is always one-of-a-kind, created to match your exact sp
 
 You can take a look at the affixes available to create your gear [on our website.](https://data.fontsofpower.com/affixes) To help you get started faster, we’ve included some [prebuilt gear](https://docs.google.com/document/d/1q8qNZ45ASF8R-W_Zg_Sw6TnDlidb-4T5y93zmADEJME/edit) for you, ranging from the standard to the fanciful.
 
-All gear is crafted using downtime activities. In general, your gear’s innate properties are created using the Craftsmanship skill, then enchantments are added through either Anima, Arcana, Fontcraft, or Tinkering.
+All gear is crafted using downtime activities. In general, your gear’s innate properties are created using the Crafting skill, then enchantments are added through either Anima, Arcana, Fontcraft, or Tinkering.
 
 The skill used in crafting affects the aesthetics of the item, and the quirk it comes with. For example, a magical staff created using Tinkering might be a metal rod with a glowing gemstone, but the same item crafted using Anima might be a twisted oak branch with a monster’s eyeball.
 

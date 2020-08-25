@@ -8,7 +8,7 @@ Items' quirks are driven by their past: the details of their design, the fashion
 
 Items typically only have one quirk at a time: expand upon or replace the existing quirk if you want to continue that item's story. To get you started, we've provided some random tables that reflect the type of crafting skill that was used to create the item.
 
-**Craftsmanship Quirks**
+**Crafting Quirks**
 
 | Roll | Name         | Effect                                                                                                                                      |
 | ---- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,7 +35,7 @@ Items typically only have one quirk at a time: expand upon or replace the existi
 | 6    | Kinship     | This item can only be attuned by creature’s of a certain kind or their dear allies.                                          |
 | 7    | Odorous     | This item smells strongly of something in particular.                                                                        |
 | 8    | Living      | This item appears to still be alive in some fashion.                                                                         |
-| 9    | Green Thumb | You have advantage on Craftsmanship skill checks made to grow or tend to plants.                                             |
+| 9    | Green Thumb | You have advantage on Crafting skill checks made to grow or tend to plants.                                                  |
 
 **Arcana Quirks**
 
