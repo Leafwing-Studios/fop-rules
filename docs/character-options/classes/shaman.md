@@ -79,7 +79,7 @@ You always have resistance to this type of elemental damage, and cannot become i
 
 ## Surge
 
-When you use a manifestation, you may choose to spend additional essence to **surge** it. Every odd point of Surge increases the direct potency of the effect; every even point increases their power in a more subtle way.
+When you use a manifestation, you may choose to spend additional essence to **surge** it. Every even point of Surge increases the direct potency of the effect, and every odd point increases their power in a more subtle way.
 
 Every point of essence that you spend in this way increases your **energy** by one. Your **capacity** is equal to twice your proficiency bonus; you cannot spend essence to Surge a manifestation if it would cause your energy to exceed your capacity.
 
