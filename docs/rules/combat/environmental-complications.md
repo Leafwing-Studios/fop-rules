@@ -37,6 +37,8 @@ Creatures can safely travel up or down a height tiers (either by forced movement
 
 When you shift, you may travel up or down in this fashion instead. You cannot split your climbing over several turns: at the end of your turn, you return to the height tier of the tile that you are standing on. To make flying in combat more fun (and balanced), this applies to flying creatures as well. Flying creatures cannot increase their height tier freely, and are always considered to be at the height tier of the tile that they are above.
 
+Edges betweeen height tiers can be marked as **gradual**, which is useful when creating hills, stairs or ramps. Travelling up or down a height tier over a gradual edge costs only one tile of movement.
+
 Spending movement in this way only moves you vertically; if, for examples, you are trying to climb on top of a table, you would need to spend two tiles of movement to move up, then an additional tile of movement to move from the tile on the floor to the tile above the table.
 
 When determinining ranges, treat tiles as if they were one tile further away for each height tier between the attacker and the defender.
