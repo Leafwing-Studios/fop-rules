@@ -42,11 +42,13 @@ Multiple modifiers to efficacy (such as critical hits and Trickster's All In cla
 
 Some effects (such as the _audacious_ combat talent or the _keen_ arms affix) can lower the **critical hit threshold,** allowing you to extend the range of numbers rolled which result in a critical hit. For example, if your critical hit threshold is lowered by one, any attack that you hit with where you rolled a 19 or 20 deals damage twice. These effects stack with each other. Determining whether an attack would be a critical hit is seperate from determining if it hits: rolls that are at least your critical hit threshold do not automatically make contact with your target(s), but are critical hits if they land.
 
-## Melee and Ranged Attacks
+## Attack Ranges
 
-Attacks are either **melee** or **ranged.** You can always make melee attacks against creatures within your zone of control, but no further.
+Attacks are either **melee** or **ranged.** While you are in an enemy zone of control, ranged attacks that you make have disadvantage.
 
-While you are in an enemy zone of control, ranged attacks that you make have disadvantage. The range of ranged attacks is specified in your ability’s description, or by the arms affixes of the weapon(s) you are using.
+Most melee attacks are made against any target within your zone of control, such as the Strike, Expose, and Shove core actions. However, some melee attacks have a fixed range, such as the Grapple major action or Paragon's Auras. Ranged attacks always have their exact range specified.
+
+When a power describes its range as "weapon", its range is equal to that of your basic attacks. It is melee if your currently equipped arms makes melee basic attacks, and ranged if they make ranged basic attacks.
 
 ## Single-Target and Multi-Target Attacks
 

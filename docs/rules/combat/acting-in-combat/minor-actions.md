@@ -44,7 +44,7 @@ When monsters Essence Tap, they gain 6 stacks of exhaustion, reduced by their sk
 
 ## Expose
 
-Make a melee Expertise attack against an enemy of your choice. If it hits, an ally of your choice (other than yourself) may make an attack of opportunity against that enemy.
+Make a melee Expertise attack against an enemy of your choice within your zone of control. If it hits, an ally of your choice (other than yourself) may make an attack of opportunity against that enemy.
 
 ## Guard
 
@@ -94,7 +94,7 @@ Attempt to gain information about your surroundings using one of your skills. Th
 
 ## Shove
 
-Make a Prowess attack against a creature within 1 tile of you. If you hit, you may choose to either knock them prone or push them into an empty adjacent tile of your choice.
+Make a melee Prowess attack against a creature within your zone of control. If you hit, you may choose to either knock them prone or push them into an empty adjacent tile of your choice.
 
 ## Swap
 
