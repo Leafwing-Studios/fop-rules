@@ -6,7 +6,7 @@
 
 **Specialization:** Each elementalist specializes in pairs of elements: at first, a single pair, and then a second, determining the flavor of the spells that they can cast.
 
-**Approach to Exploration:** Elementalists gain access to powerful and unique element-focused utility spells and are unmatched in their knowledge of the elements they work with.
+**Approach to Adventure:** Elementalists gain access to powerful and unique element-focused utility spells and are unmatched in their knowledge of the elements they work with.
 
 **Build Fundamentals:** Elementalists are easily built as strikers, but with the right choices they can serve as controllers or guardians instead:
 

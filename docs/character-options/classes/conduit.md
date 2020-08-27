@@ -6,7 +6,7 @@
 
 **Specialization:** Conduits learn to master specific enchantments, permanently gaining the effect of specific affixes as they level up.
 
-**Approach to Exploration:** The Conduit’s skill in temporarily imbuing items with magic transfers naturally to doing so permanently, lending them a distinct advantage during various downtime activities related to enchanting.
+**Approach to Adventure:** The Conduit’s skill in temporarily imbuing items with magic transfers naturally to doing so permanently, lending them a distinct advantage during various downtime activities related to enchanting.
 
 **Build Fundamentals:** Whether they are shooting arrows of light at the enemy or wielding a flaming sword, Conduits make excellent strikers, with the option to focus more heavily on control if they so choose:
 

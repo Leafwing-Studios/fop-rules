@@ -57,7 +57,7 @@ The character’s species determines the basic body type they have and how socie
 Creating new species to match your setting is incredibly easy:
 
 1. Select two combat features. These should be balanced against combat talents or arms or armor affixes.
-1. Select two exploration features. These should be balanced against skill talents or trinket affixes.
+1. Select two adventure features. These should be balanced against skill talents or trinket affixes.
 1. Optionally, split these features evenly across a base species and subspecies.
 1. Add any power-neutral flavor features, such as changes to the diet, appearance, size or lifespan of your species.
 

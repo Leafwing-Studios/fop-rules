@@ -6,7 +6,7 @@
 
 **Specialization:** Every Companion’s power is unique: granting access to custom spells and trinket affixes that correspond to the elements of its power.
 
-**Approach to Exploration:** As the Touched learns to work together, the Host’s body slowly mutates, becoming more similar to that of their Companion and gaining permanent access to a large number of personalized trinket affixes that reflect their unique capabilities.
+**Approach to Adventure:** As the Touched learns to work together, the Host’s body slowly mutates, becoming more similar to that of their Companion and gaining permanent access to a large number of personalized trinket affixes that reflect their unique capabilities.
 
 **Build Fundamentals:** Touched are natural skirmishers, dancing in and out of the fray of battle. They are most easily built as lightweight highly mobile strikers, but with enough disruption and survivability they can live in the frontline instead:
 

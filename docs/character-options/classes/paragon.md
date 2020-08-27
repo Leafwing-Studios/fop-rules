@@ -6,7 +6,7 @@
 
 **Specialization:** Each Paragon is committed to an ideal, which flavors their non-aura powers; giving them a benefit when they stand without moving and enhancing their Strike and Grapple major actions.
 
-**Approach to Exploration:** Paragons excel at convincing others of their ideals’ merits and eventually gain access to the Sanctify downtime activity, marking an area as completely safe, setting the stage for negotiation.
+**Approach to Adventure:** Paragons excel at convincing others of their ideals’ merits and eventually gain access to the Sanctify downtime activity, marking an area as completely safe, setting the stage for negotiation.
 
 **Build Fundamentals:** Paragons can be built for either a controller or guardian role, depending on how they prefer to position in a fight:
 

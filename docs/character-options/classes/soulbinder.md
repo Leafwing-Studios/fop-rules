@@ -6,7 +6,7 @@
 
 **Specialization:** Each Soulbinder’s connection has a distinctive Qualia: influencing how it feels, and granting the Soulbinder access to a unique pulse, a specialized downtime activity and powerful playstyle-defining combat features at higher levels.
 
-**Approach to Exploration:** Soulbinders make for excellent spies, scouts and assassins: gaining access to features that improve their ability to manipulate their duals, while several of their pulses enhance their stealth capabilities.
+**Approach to Adventure:** Soulbinders make for excellent spies, scouts and assassins: gaining access to features that improve their ability to manipulate their duals, while several of their pulses enhance their stealth capabilities.
 
 **Build Fundamentals:** Soulbinders can be built to be insidious controllers, dedicated guardians or even assassin-esque strikers:S
 

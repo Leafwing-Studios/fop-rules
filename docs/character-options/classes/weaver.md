@@ -6,7 +6,7 @@
 
 **Specialization:** Each Weaver belongs to a Guild, which specializes in a particular discipline of the craft. This grants them access to specialized patterns, and allows them to shape reality itself during downtime.
 
-**Approach to Exploration:** Weavers can see and read the threads of magic, a coveted skill in a world brimming with dangerous and tantalizing magical traps, items and phenomena. Their downtime activities gained through their Guild are both powerful and flexible, and tend to become central to the Weaver’s contribution to the party’s problem solving.
+**Approach to Adventure:** Weavers can see and read the threads of magic, a coveted skill in a world brimming with dangerous and tantalizing magical traps, items and phenomena. Their downtime activities gained through their Guild are both powerful and flexible, and tend to become central to the Weaver’s contribution to the party’s problem solving.
 
 **Build Fundamentals:** Depending on their selection of patterns, weavers can serve as flexible and responsive strikers, controllers or guardians:
 

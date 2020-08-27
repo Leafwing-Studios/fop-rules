@@ -6,7 +6,7 @@
 
 **Specialization:** Every Ascendant’s body adapts in a unique fashion, giving them access to a remarkable number of affixes of their choice via the Natural Offense, Natural Defense and Self-Improvement class features to support truly unique build choices.
 
-**Approach to Exploration:** Carefully reflecting, Ascendants gain access to the powerful Meditate downtime activity, which allows them to earn a Resolve for their party with a Focus (Insight) skill check. At higher levels, ascendants use their adapted body to the fullest, mastering Athletics, Perception and eventually even death itself.
+**Approach to Adventure:** Carefully reflecting, Ascendants gain access to the powerful Meditate downtime activity, which allows them to earn a Resolve for their party with a Focus (Insight) skill check. At higher levels, ascendants use their adapted body to the fullest, mastering Athletics, Perception and eventually even death itself.
 
 **Build Fundamentals:** Ascendants naturally fill the control and striker roles:
 

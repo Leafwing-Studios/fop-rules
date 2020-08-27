@@ -6,7 +6,7 @@
 
 **Specialization:** Every weapon belongs to a proud Lineage: defining its reason for existence. This choice dictates how the Bladesworn’s Rhythm improves their attacks, eventually granting access to a unique counterattack and a powerful capstone that grants them unbelievable power while at 5 or more stacks of Rhythm.
 
-**Approach to Exploration:** Drawing on the accumulated knowledge of the past wielders, Bladesworn make for exceptional jack-of-all-trades, improving the results of their skill checks in a way that surpasses their personal proficiency.
+**Approach to Adventure:** Drawing on the accumulated knowledge of the past wielders, Bladesworn make for exceptional jack-of-all-trades, improving the results of their skill checks in a way that surpasses their personal proficiency.
 
 **Build Fundamentals:** Bladesworn make natural strikers, but can opt into the control roles with the right choices:
 

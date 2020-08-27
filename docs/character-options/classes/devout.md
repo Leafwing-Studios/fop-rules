@@ -6,7 +6,7 @@
 
 **Specialization:** Each Devout worships a particular deity, distinguished both by its three elemental domains and the nature of its power, which determines the consequences of the Devout attempting and failing to invoke a miracle.
 
-**Approach to Exploration:** With diligent work, rituals offer the power of a miracle on demand, opening the door to creative problem solving through incredible power. By reading the vague signs left by their god, Devout are also capable of limited insight into the future with their Augury subclass feature,
+**Approach to Adventure:** With diligent work, rituals offer the power of a miracle on demand, opening the door to creative problem solving through incredible power. By reading the vague signs left by their god, Devout are also capable of limited insight into the future with their Augury subclass feature,
 
 **Build Fundamentals:** Depending on your selection of prayers, Devouts can serve as effective strikers, controllers or guardians:
 

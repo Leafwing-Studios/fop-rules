@@ -6,7 +6,7 @@
 
 **Specialization:** Each Incarnation specializes in a particular emotion, which dictates the mechanics of both the offensive and defensive components of their transformation.
 
-**Approach to Exploration:** Incarnations excel at pushing directly through hardship, and can gain stacks of exhaustion to practically guarantee success on tasks they attempt.
+**Approach to Adventure:** Incarnations excel at pushing directly through hardship, and can gain stacks of exhaustion to practically guarantee success on tasks they attempt.
 
 **Build Fundamentals:** Incarnations can serve as both strikers and controllers, depending on their choice of subclass and gear:
 

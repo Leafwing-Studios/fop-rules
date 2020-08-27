@@ -30,11 +30,11 @@ When rolling dice, this game will frequently use the concept of **advantage** an
 
 When you’re rolling with advantage, roll two dice and use the higher of the results. When you’re rolling with disadvantage, roll two dice and use the lower of the results.
 
-_Fonts of Power_ has two main modes of gameplay: combat and exploration. These are powered by various overlapping **systems** (sets of rules) that lay out different options for you to take, and help determine the results of your choices. The following sections discuss those systems at a very high level, and show you how they are connected.
+_Fonts of Power_ has two main modes of gameplay: combat and adventure. These are powered by various overlapping **systems** (sets of rules) that lay out different options for you to take, and help determine the results of your choices. The following sections discuss those systems at a very high level, and show you how they are connected.
 
 **Combat** is rich and detailed, carefully defined by mechanics in order to create fun and challenging gameplay that embodies the fantasies of both the player characters and their enemies.
 
-**Exploration** is used to describe any gameplay that occurs outside of combat. During exploration, play is relatively freeform—heavy on roleplay that draws on the characters’ skills and motivations, and open to quick, creative approaches to sketching out environments and solving problems.
+**Adventure** is used to describe any gameplay that occurs outside of combat. During adventure, play is relatively freeform—heavy on roleplay that draws on the characters’ skills and motivations, and open to quick, creative approaches to sketching out environments and solving problems.
 
 ## The Basics of Combat
 
@@ -121,7 +121,7 @@ Finally, there are three categories of combat-relevant conditions:
   _ At the end of your turn, remove one stack of each ailment from yourself.
 - **Statuses:** combat-relevant temporary effects that don’t follow the rules of either afflictions or ailments, but are still common enough to get dedicated rules. \* Being prone, unconscious, asleep, invisible, or flying are examples of statuses in this system.
 
-## The Basics of Exploration
+## The Basics of Adventure
 
 <div class="infobox">
 
@@ -143,7 +143,7 @@ Whenever a character attempts something that is challenging or uncertain and the
 
 _Fonts of Power_ uses a generous **degrees of success** system: falling skill checks (especially ones you are proficient in) will often result in a selection between a **setback** and an **opportunity,** allowing you to “fail-forward”. Perform exceptionally well and you’ll win a **smashing success,** completing the task and winning an extra benefit.
 
-Skill checks play a critical role in **scenes,** dictating your progress or complications through various scenarios in a more game-like fashion. Scenes offer straightforward and interesting mechanics to structure the most tense moments during exploration. Rules for four types of scenes are included:
+Skill checks play a critical role in **scenes,** dictating your progress or complications through various scenarios in a more game-like fashion. Scenes offer straightforward and interesting mechanics to structure the most tense moments during adventure. Rules for four types of scenes are included:
 
 - **Attrition Scenes:** For when you will complete your objective eventually, but suffer consequences the longer it takes.
 - **Chase Scenes:** For when the party or their adversaries are running away, either literally or metaphorically.
@@ -152,4 +152,4 @@ Skill checks play a critical role in **scenes,** dictating your progress or comp
 
 As the party catches their breath, they’ll have plenty of opportunity to engage in **downtime activities.** Both your time and your hard-won **essence crystals** are valuable resources. Depending on which downtime activity you select, you can customize your gear, win allies, gather resources and tend to your wounds.
 
-Many abilities, such as features of your species, items you may have, or magical powers from your class are also useful during exploration. Use their descriptions as a guideline for what’s possible, rather than a strict set of rules to follow, making a skill check when the outcome seems both interesting and uncertain.
+Many abilities, such as features of your species, items you may have, or magical powers from your class are also useful during adventure. Use their descriptions as a guideline for what’s possible, rather than a strict set of rules to follow, making a skill check when the outcome seems both interesting and uncertain.
