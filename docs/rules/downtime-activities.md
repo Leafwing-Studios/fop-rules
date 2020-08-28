@@ -132,18 +132,6 @@ Purchase supplies, borrow them from the locals or scavenge them from the surroun
 
 See the Prepared for Anything section in the Gear chapter for more details on how Supply and adventuring gear works.
 
-## Splice
-
-Transfer an affix from one piece of gear to another, quickly and easily giving it a new property.
-
-Make an enchanting skill check. If you succeed, the affix is removed from the original item and added to the new item, If you fail, you must try again later but the original affix is not lost.
-
-When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus. In addition, you may choose to immediately attune to the piece of gear you just spliced the enchantment onto, replacing your attunement to an existing piece of gear of the same type if needed.
-
-## Support
-
-Help your allies with their downtime tasks. Make a Focus (Guidance) skill check, enabling some of your allies to either perform two downtime activities, rather than just one. The number of characters you can support in this way is equal to your skill check result divided by 10, rounded down. Characters cannot benefit from this effect more than once per downtime, and cannot select either the Recover or Support downtime activities during a period of downtime where they benefit from this effect.
-
 ## Resurrect
 
 <div class="infobox">
@@ -161,9 +149,9 @@ In less optimistic campaigns, the lurking threat of death serves an important na
 
 Death is not always the end of the story. Fonts of power capture souls as they depart the bodies of the fallen, swirling in the magical vortex before they are completely absorbed. If their allies are quick and skilled however, they can coax that soul back into a new (or old) form, allowing them to fight another day.
 
-Whenever a creature dies while at a font of power, they start to become one with its magical energy, eventually becoming absorbed. Each time the party benefits from a rest (including from Resolve), the dead creature gains one stack of **transcendence,** which represents the gradual absorption of their soul by the font. Whenever you gain a stack of transcendence that increases your transcendence to a level greater than or equal to 7 + your Focus, you must make a Focus (Endurance) skill check with a difficulty of 10 + your current transcendence. If you fail, you disappear as your spirit slips away forever.
+Whenever a creature dies while at a font of power, they start to become one with its magical energy, eventually becoming absorbed. Each time the party benefits from a rest (including from Resolve) or fails a resurrection check, the dead creature gains one stack of **transcendence,** which represents the gradual absorption of their soul by the font. Whenever you gain a stack of transcendence that increases your transcendence to a level greater than or equal to 7 + your Focus, you must make a Focus (Fontcraft) skill check with a difficulty of 10 + your current transcendence. If you fail, you disappear as your spirit slips away forever.
 
-As a downtime activity, your allies can attempt to **Resurrect** you. They must succeed on three separate skill checks, which cannot be done in parallel, with a difficulty of 15 + your Transcendence. This skill check always uses Focus, but the skill used and which species you reincarnate as varies based on the vessel used, as shown in the table below.
+As a downtime activity, your allies can attempt to **Resurrect** you. They must succeed on three separate skill checks, with a difficulty of 15 + your Transcendence. They may make as many of these skill checks in a single downtime activity as desired, but remember that the target gains transcendence after each failure. This skill check always uses Focus, but the skill used and which species you reincarnate as varies based on the vessel used, as shown in the table below. If multiple party members are performing this downtime activity, use the rules for [group skill checks](rules/skills/making-skill-checks?id=group-skill-checks) instead.
 
 If more than one character uses the Resurrect downtime activity and both have proficiency in the required skill, use the highest skill modifier with advantage as per the standard rules for group skill checks.
 
@@ -182,6 +170,18 @@ If more than one character uses the Resurrect downtime activity and both have pr
 | Fae                          | Something from a wild place                          | Anima          |
 
 When you return from the dead, you immediately suffer exhaustion equal to your previous transcendence. Like usual, gaining this exhaustion can kill you. Any skill checks made to resurrect you after you have died due to the exhaustion of being brought back from the dead are made with disadvantage.
+
+## Splice
+
+Transfer an affix from one piece of gear to another, quickly and easily giving it a new property.
+
+Make an enchanting skill check. If you succeed, the affix is removed from the original item and added to the new item, If you fail, you must try again later but the original affix is not lost.
+
+When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus. In addition, you may choose to immediately attune to the piece of gear you just spliced the enchantment onto, replacing your attunement to an existing piece of gear of the same type if needed.
+
+## Support
+
+Help your allies with their downtime tasks. Make a Focus (Guidance) skill check, enabling some of your allies to either perform two downtime activities, rather than just one. The number of characters you can support in this way is equal to your skill check result divided by 10, rounded down. Characters cannot benefit from this effect more than once per downtime, and cannot select either the Recover or Support downtime activities during a period of downtime where they benefit from this effect.
 
 ## Tend
 
