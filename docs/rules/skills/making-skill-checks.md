@@ -4,6 +4,14 @@ To make a skill check, first nail down precisely what you’re trying to do, in 
 
 Once that’s done, as a table, you need to figure out how hard the task is, setting a **difficulty.** The table below gives some general guidelines, with difficulties ranging from about 5 to 25, increasing as the task gets harder. Impossible or nonsensical tasks, such as trying to persuade a door to unlock itself, jumping 100 meters in the air without any special ability to do so or crafting a magical item without enough materials simply aren’t possible, no matter what the result of your skill check might be.
 
+<div class="infobox">
+
+**When should you use a skill check?**
+
+In general, skill checks should only be called for if **both success and failure are interesting outcomes.** For example, suppose the party is trying to climb a ledge that is 20 feet high. It is tempting to use a Prowess (Athletics) skill check here, but this would waste time for little benefit. The ledge is not high enough to pose any serious consequences for falling, and there are no other interesting paths forward. However, this need not be the case. If the party is being hunted, then it would be fitting to use an [Attrition Scene](rules/scenes/attrition-scenes) to punish extra time taken. If there were an alternate path with a different form of risk, the failure to climb the ledge pushes the story in a new and interesting direction, so the check should be used. A higher ledge *might* be enough to warrant a check, since falling could cause damage, but if the party has ample time to rest, the damage would still be inconsequential.
+
+</div>
+
 In general, setting the difficulty of skill checks should be done as a table based on these guidelines, but sometimes, there are things you don’t know about the difficulty of the task: a door may be a dummy, the innkeeper may not be who he appears or a disease may be much rarer and more deadly than you expected. In that case, the worldspeaker has leeway to decide the outcomes of any skill check that you make based on the actual facts of the world that are unknown to you.
 
 **Guidelines for Difficulty**
