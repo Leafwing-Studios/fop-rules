@@ -1,6 +1,16 @@
 # Downtime Activities
 
-As the party rests, characters can choose a downtime activity that they would like to spend their time doing. If they are resting for an extended period, such as while they are in town, they may select a second downtime activity to complete before they return to adventuring. This activity does not need to be different from their first activity.
+As the party rests, characters can choose a downtime activity that they would like to spend their time doing. Downtime represents a break in the standard action, giving characters the opportunity to spend time with each other, prepare for upcoming dangers, catch up on gear upgrades, or just spend some extra time relaxing. Downtime activities provide excellent opportunities to develop or reveal character and the world. 
+
+<div class="infobox">
+
+**Extended periods of rest**
+
+If the party is resting for an extended period in a safe location, such as while they are in town, they may continue selecting downtime activities for each rest before they return to adventuring. If the number of rests is unclear, we recommend taking two downtime activities for the extended period of rest. For extended rests of this nature, we recommend performing small scenes, either based on the downtime activities themselves, or separate scenes in-between rests. These scenes help to break up the monotony of numerous downtimes, and keep the world from feeling stagnant.
+
+However, if the party is taking an extended rest in a dangerous area, such as an aggressive font of power, it is best to run a [gradual success Attrition Scene](rules/scenes/attrition-scenes), with each rest risking consequences from the nearby threat.
+
+</div>
 
 There are several well-defined downtime activities within the rules for players to select from, granting fairly general and tangible mechanical benefit. While the downtime activities that follow are the most common and generically useful options, they are not intended as an exhaustive list. Other downtime activities should offer similarly tangible benefits, in order to ensure that the choice stays meaningful.
 
