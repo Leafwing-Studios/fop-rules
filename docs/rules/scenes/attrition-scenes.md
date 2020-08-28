@@ -6,7 +6,7 @@ In many cases, the drama is not in whether a task is possible, but in how painfu
 
 **When should you use an attrition scene?**
 
-Attrition scenes function on pressure and the consequences of delay. As with skill checks, if the consequences for failure or delay are not interesting, then the Attrition Scene should be put aside, and the party should accomplish their task without ceremony. For example, the party may need a lot of time to repair a town's wall, but if the nation is at peace, there is no interesting drama to be found from slow construction. However, if the party is attempting to rest and construct fortifications at an aggressive font of power, then potential delays risk attacks or supply shortages. In this case, the Attrition Scene is a fantastic tool for the job.
+Attrition scenes function on pressure and the consequences of delay. As with skill checks, if the consequences for failure or delay are not interesting, then the Attrition Scene should be put aside, and the party should accomplish their task without ceremony. For example, the party may need a lot of time to repair a town's wall, but if the nation is at peace, there is no interesting drama to be found from slow construction, and there is no reason in the narrative for consequences to suddenly arrive. However, if the party is attempting to rest and construct fortifications at an aggressive font of power, then potential delays risk attacks or supply shortages. In this case, the Attrition Scene is a fantastic tool for the job.
 
 </div>
 
