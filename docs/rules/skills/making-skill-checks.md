@@ -134,8 +134,8 @@ Use these questions to determine which rules mechanism is most appropriate for y
    - No: Every character rolls separately, succeeding or failing on their own.
 1. Is everyone performing the same sort of activity?
    - Yes: Are two or more people proficient in the skill used for the task?
-     _ Yes: The character with the highest single modifier rolls with advantage.
-     _ No: The character with the highest single modifier rolls normally.
+      - Yes: The character with the highest single modifier rolls with advantage.
+      - No: The character with the highest single modifier rolls normally.
    - No: Proceed to 4.
 1. Design a secondary skill challenge for the players who are helping enable the main task. Did the secondary skill challenge succeed?
    - Yes: The character performing the main task rolls with advantage.
