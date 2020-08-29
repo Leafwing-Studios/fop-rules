@@ -8,7 +8,7 @@ Once that’s done, as a table, you need to figure out how hard the task is, set
 
 **When should you use a skill check?**
 
-In general, skill checks should only be called for if **both success and failure are interesting outcomes.** For example, suppose the party is trying to climb a ledge that is 20 feet high. It is tempting to use a Prowess (Athletics) skill check here, but this would waste time for little benefit. The ledge is not high enough to pose any serious consequences for falling, and there are no other interesting paths forward. However, this need not be the case. If the party is being hunted, then it would be fitting to use an [Attrition Scene](rules/scenes/attrition-scenes) to punish extra time taken. If there were an alternate path with a different form of risk, the failure to climb the ledge pushes the story in a new and interesting direction, so the check should be used. A higher ledge *might* be enough to warrant a check, since falling could cause damage, but if the party has ample time to rest, the damage would still be inconsequential.
+In general, skill checks should only be called for if **both success and failure are interesting outcomes.** For example, suppose the party is trying to climb a ledge that is 20 feet high. It is tempting to use a Prowess (Athletics) skill check here, but this would waste time for little benefit. The ledge is not high enough to pose any serious consequences for falling, and there are no other interesting paths forward. However, this need not be the case. If the party is being hunted, then it would be fitting to use an [Attrition Scene](rules/scenes/attrition-scenes) to punish extra time taken. If there were an alternate path with a different form of risk, the failure to climb the ledge pushes the story in a new and interesting direction, so the check should be used. A higher ledge _might_ be enough to warrant a check, since falling could cause damage, but if the party has ample time to rest, the damage would still be inconsequential.
 
 </div>
 
@@ -143,8 +143,12 @@ Use these questions to determine which rules mechanism is most appropriate for y
 
 ## Secret Checks
 
-By default, all skill checks are rolled openly and the results and required difficulty announced up front. But sometimes, the players don’t have all the information, or revealing the success or failure of a result changes the player’s actions in undesirable ways.
+## Secret Skill Checks
 
-If an outcome would be **immediately apparent,** the check should be made openly, but the results should differ from what is expected. Characters have a good sense of about how well they did on a task, even if they’re missing information needed to predict what might happen. This is useful when revealing twists to a scene: someone who is not who they appear to be, or a misleading element in the scene.
+When forces conspire against the party, the worldspeaker rolls skill checks for those NPCs in secret to determine the outcome of their efforts.
 
-If the outcome is **not immediately apparent,** the worldspeaker should roll the results in secret and describe the observable outcome without telling the players the actual check result. This can be useful for roleplaying social intrigue, the results of manipulating a complex puzzle or a search for hidden treasure or traps.
+Whenever an NPC makes a risky or challenging action, make a skill check. In the case of direct opposition, set the difficulty of the required skill check as 10 + the highest relevant modifier. Otherwise, use the Guidelines for Difficulty table above. Even if the NPC succeeds on a skill
+
+When the results of an NPC (or trap) are revealed, make a retroactive skill check to determine if the party noticed the actions just in time, giving them the ability to immediately respond.
+
+When players are hiding from or deceiving NPCs, use a [_Trickery Scene_](../scenes/trickery-scenes.md) instead, setting the difficulties in the same fashion and tracking the gradually-rising suspicion of the NPCs.
