@@ -134,8 +134,8 @@ Use these questions to determine which rules mechanism is most appropriate for y
    - No: Every character rolls separately, succeeding or failing on their own.
 1. Is everyone performing the same sort of activity?
    - Yes: Are two or more people proficient in the skill used for the task?
-      - Yes: The character with the highest single modifier rolls with advantage.
-      - No: The character with the highest single modifier rolls normally.
+     - Yes: The character with the highest single modifier rolls with advantage.
+     - No: The character with the highest single modifier rolls normally.
    - No: Proceed to 4.
 1. Design a secondary skill challenge for the players who are helping enable the main task. Did the secondary skill challenge succeed?
    - Yes: The character performing the main task rolls with advantage.
@@ -150,5 +150,9 @@ When forces conspire against the party, the worldspeaker rolls skill checks for 
 Whenever an NPC makes a risky or challenging action, make a skill check. In the case of direct opposition, set the difficulty of the required skill check as 10 + the highest relevant modifier. Otherwise, use the Guidelines for Difficulty table above. Even if the NPC succeeds on a skill
 
 When the results of an NPC (or trap) are revealed, make a retroactive skill check to determine if the party noticed the actions just in time, giving them the ability to immediately respond.
+
+If the party grows suspicious, they may make a **paranoid** skill check. This is an opposed skill check, with the party rolling openly while the worldspeaker rolling in secret (regardless of whether or not an adversary actually exists), then the worldspeaker describes the immediate outcome.
+The party may spend Resolve as usual to modify the opponent's roll after the outcome is described, but are not able to see the roll made before doing so.
+Analgous to the rules that you cannot repeat a skill check indefinitely, the party cannot make a paranoid skill check again until after their next rest.
 
 When players are hiding from or deceiving NPCs, use a [_Trickery Scene_](../scenes/trickery-scenes.md) instead, setting the difficulties in the same fashion and tracking the gradually-rising suspicion of the NPCs.
