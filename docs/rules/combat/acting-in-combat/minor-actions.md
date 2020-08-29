@@ -54,7 +54,7 @@ Attacks against you by a creature of your choice have disadvantage against you u
 
 If there is some plausible way to hide from your enemies, you may attempt a difficulty 10 Agility (Stealth) skill check. If you succeed, you are invisible to your enemies and your position is concealed from them until the end of your next turn. This effect ends immediately after you make an attack.
 
-You have a plausible way to hide (per the definitions of this action) if, for all enemies, at least one of these ailments is true:
+You have a plausible way to hide (per the definitions of this action) if, for all enemies, at least one of these conditions is true:
 
 - you are invisible to them (via direct invisibility, heavy shroud, darkness, full cover or some other effect)
 - you are obscured by at least two ailments (such as light shroud, dim light or partial cover)
