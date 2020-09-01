@@ -23,4 +23,4 @@ This occurs after any non-damaging effects are applied, but before damage is pre
 
 ## Dodge
 
-Whenever you would be hit a basic attack, you may use the Dodge reaction. If you do, make an Agility (Athletics) skill check. If your skill check result is greater than or equal to the basic attack roll that hit you, the attack misses instead.
+Whenever you would be hit a basic attack, Grapple attack or Shove attack, you may use the Dodge reaction. If you do, make an Agility (Athletics) skill check. If your skill check result is greater than or equal to the attack roll that hit you, the attack misses instead.
