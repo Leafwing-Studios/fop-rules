@@ -46,7 +46,7 @@ The Geodes stand apart from these two factions, largely shunned for their freaki
 
 You may not use the Essence Tap minor action. However, consuming essence crystals with the Activate minor action to restore essence does not risk essence overload.
 
-**Crystalline Biology:** You do not need to breathe, eat or drink, and do not die of old age, but slowly shrink into nothingness if you are cut off from the world’s natural supply of magical energy, losing 1 tile in size every month.
+**Crystalline Biology:** You do not need to breathe, eat or drink, and do not die of old age, but slowly shrink into nothingness if you are cut off from the world’s natural supply of magical energy, losing 1 tile in size every month. Skill checks targeting you which use Anima or Medicine use Fontcraft instead. This includes the relevant skill checks made as part of the Treat and Scan minor actions in combat.
 
 ## Raw
 

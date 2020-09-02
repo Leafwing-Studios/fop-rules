@@ -47,6 +47,8 @@ Still nascent and unstable, the fate and form of these creatures is in their own
 
 **One of Us:** You are proficient in Fontcraft. You have advantage on all Focus (Fontcraft) skill checks made to resurrect creatures as fontborn.
 
+**Primordial Biology:** Skill checks targeting you which use Anima or Medicine use Fontcraft instead. This includes the relevant skill checks made as part of the Treat and Scan minor actions in combat.
+
 ## Ethereal
 
 As fontborn age, they begin to fade into the mists, slowly becoming one with the elemental energies that gave birth to them. The elders of the fontborn, the Ethereal, are strange, otherworldly creatures who serve as respected, if eccentric, advisors to the communities that they grew up in.
