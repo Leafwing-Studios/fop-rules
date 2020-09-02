@@ -1,6 +1,6 @@
 # Downtime Activities
 
-As the party rests, characters can choose a downtime activity that they would like to spend their time doing. Downtime represents a break in the standard action, giving characters the opportunity to spend time with each other, prepare for upcoming dangers, catch up on gear upgrades, or just spend some extra time relaxing. Downtime activities provide excellent opportunities to develop or reveal character and the world. 
+As the party rests, characters can choose a downtime activity that they would like to spend their time doing. Downtime represents a break in the standard action, giving characters the opportunity to spend time with each other, prepare for upcoming dangers, catch up on gear upgrades, or just spend some extra time relaxing. Downtime activities provide excellent opportunities to develop or reveal character and the world.
 
 <div class="infobox">
 
@@ -93,11 +93,7 @@ As consumables do not cost essence crystals to create, they cannot be Disenchant
 
 Create a small batch of consumable magic items for your party to use out of whatever you might have on hand, powered by their user’s own essence. These might be healing potions, a poison to coat your weapon with or a clever trap.
 
-Design a consumable by combining consumable affixes;
-
-- The gear point total of consumables must be less than or equal to your proficiency bonus.
-- You need to know the recipe for any affixes that have a rarity above common.
-- Prismatic rarity consumable affixes do not exist.
+Design a consumable by combining consumable affixes. The gear point total of consumables must be less than or equal to your proficiency bonus.
 
 Then, make an enchanting skill check. You create a number of copies of the consumable you designed equal to your skill check result divided by 5, rounded down.
 
@@ -107,7 +103,7 @@ You may **recycle** existing consumables in this process. Add the total gear poi
 
 Enchant an item by adding or modifying one of its magical affixes. Creating new enchantments requires access to incredible energy: **you must be at a font of power in order to use the Enchant downtime activity.**
 
-Select an affix. Successfully adding this affix to your gear, consumes 10 essence crystals per gear point of that affix (to a minimum of 5) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 100 essence crystals must be consumed instead.
+Select an affix. Successfully adding this affix to your gear, consumes 10 essence crystals per gear point of that affix (to a minimum of 5) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 30 essence crystals must be consumed instead.
 
 Make an enchanting skill check. If you succeed, add that affix to the item’s enchantment affixes.
 

@@ -11,12 +11,12 @@ Now that you have a sense of the context, find a seed for your character to grow
 
 With this seed in place, you can begin to flesh out your character, and fill out your [character sheet:](https://drive.google.com/drive/u/0/folders/1Tl1gfyBu-I8wWSfpwi0nfqhk6kD_V6xR)
 
-- The **species** of creatures they are part of. 
-  * Select any options needed for that species, such as subspecies.
-- The **class** that defines how they wield magical power. 
-  * Select any options needed for that class, such as subclass or spells known.
+- The **species** of creatures they are part of.
+  - Select any options needed for that species, such as subspecies.
+- The **class** that defines how they wield magical power.
+  - Select any options needed for that class, such as subclass or spells known.
 - Five **skill proficiencies,** which capture their background knowledge and training.
-  - You add your proficiency bonus to skill checks you are proficient with. 
+  - You add your proficiency bonus to skill checks you are proficient with.
   * You always get to choose between a setback and an opportunity when you fail skill checks that you are proficient in.
 - The unique **talents** that start to define them.
   - A skill talent.

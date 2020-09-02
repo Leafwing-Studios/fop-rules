@@ -172,4 +172,4 @@ When you reach level 18, you have access to an incredible but diffuse repository
 
 ## Overclock
 
-At level 20, the Conduit is capable of using a second, incredibly powerful prismatic enchantment without being melted by the intense magic. You may benefit from a total of two prismatic affixes at one time, rather than the standard limit of one, but they must be on different types of gear. For example, you cannot benefit from two prismatic affixes on a single set of arms, but can have an arms and an armor prismatic enchantment.
+At level 20, the Conduit is capable of using a third, incredibly powerful prismatic enchantment without being melted by the intense magic. You may equip a total of three prismatic affixes at one time, rather than the standard limit of two. Like always, you cannot equip more than one prismatic affix from a single type of gear at once.
