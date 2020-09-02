@@ -1,13 +1,13 @@
 # Hide
 
-FLUFF. When you hide, make an Agility (Stealth) skill check, and immediately loose all your remaining movement. Choose a number of valid hiding spots equal to your skill check result divided by 5, **rounded up.** Then, gain the [hidden]() status, although you do not immediately choose which hiding spot you are actually hiding in. In order for a hiding spot to be valid, it must be both **Reasonable** and **Obscured**:
+FLUFF. When you hide, make an Agility (Stealth) skill check, and immediately loose all your remaining movement. Choose a number of valid hiding spots equal to your skill check result divided by 5, **rounded up.** Then, gain the [hidden]() status, although you do not immediately choose which hiding spot you are actually hiding in. In order for a hiding spot to be valid, it must be both **reasonable** and **veiled**:
 
 - **Reasonable**
   - The spot is within range of your available movement when you take the Hide minor action
   - The spot is in a place that you could end your turn normally
   - The spot is large enough to contain all of your tiles
   - The spot would not trigger an obvious effect when moving into it (such as an *alarm* consumable, walking through a pool of acid, or triggering an attack of opportunity)
-- **Obscured**
+- **Veiled**
   1. At least one of the following is true:
      1. the area is in darkness
      2. the area is heavily shrouded
@@ -17,39 +17,26 @@ FLUFF. When you hide, make an Agility (Stealth) skill check, and immediately loo
      2. the area is lightly shrouded
      3. the area is behind partial (or full) cover, relative to all enemy creatures
 
-If you were already hidden, you may designate new hiding spots. For the purposes of the reachable criteria, distance is measured from your nearest current hiding spot. This allows you to carefully move while hidden, expanding the network of possible places you could be the longer you go without being found.
-
-<div class="infobox">
-
-**Strategic Stealth**
-
-The Hide minor action can be incredibly powerful in the hands of a specialist, but using it effectively requires sophisticated strategy.
-
-The first step is setting up the battlefield properly, to ensure that you have access to appropriate possible hiding places.
-You can become invisible, linger in the shadows by disabling sources of light, create shrouded effects or cause convenient cover to pop into existence.
-Several classes, such as the Shaman, Weaver and Devout have powers that do this effectively, but consumable affixes like _??_ and arms affixes like _??_ are always accessible.
-
-Once you have a place to hide, make sure that you can get to it without getting seen!
-Extra movement, such as from the _fast_ affix or the Dash minor action can make a big difference when you're looking to dive in, strike hard and then vanish back into the shadows.
-
-As you slip away, your biggest worry is the Track reaction, which can completely shut down your attempts to hide.
-Pay attention to which enemies have their reaction available, and do everything you can to force them to use it before you hide.
-Hit so hard that your opponent has to focus on dodging or blocking, team up with durable frontliners who deliberately provoke attacks of opportunity with the _overpowered_ affix, apply stacks of blinded or lethargic, or dip in, strike, dip out and then dodge the resulting attack of opportunity before you vanish again!
-
-</div>
+If you take the Hide minor action while already hidden, designate new hiding spots in addition to your current ones. Performing this action again gives enemies another opportunity to [Track]() you if they still have a reaction available. When determining the distance requirement, measure from the nearest active hiding spot. This allows you to carefully move while hidden, expanding the network of your potential locations the longer you go without being found.
 
 # Scan
 
-Learn more about the battlefield. When you use the Scan minor action, gain one of the benefits listed below. If there is no more information to gain of the type specified, you may choose another type of information instead for free. Once you have learned the chosen information, make a skill check of the type listed. If your result is 15 or higher, gain the effects of the Scan minor action again.
+Take a moment to learn more about your surroundings. If you are skilled enough to effortlessly learn about what you focus on, you may still have time to learn something else. Whenever you take the Scan minor action, you immediately gain one of the benefits listed below. Then, you may roll the listed skill check. If your result is 15 or higher, you may repeat the Scan minor action (choosing a different benefit if desired).
 
-- **Focus (Perception):** Choose a hiding spot within 6 tiles and reveal it. You have advantage on this skill check if you are adjacent to the chosen tile, and disadvantage if it is more than 3 tiles away from you.
-- **Focus (Anima):** Learn the attributes, tier and turns per round of a creature of your choice.
-- **Focus (Medicine):** Learn the percentage of life and the number of stacks of exhaustion that another creature is at.
-- **Expertise (Anima):** Learn either the arms, armor or trinket affixes of a creature of your choice. If you choose to learn their trinket affixes, you also learn the skills that they are proficient in.
-- **Expertise (Arcana):** Learn the details of a single power of your choice. You have advantage on this skill check if this power was used since your last turn.
-- **Expertise (Arcana | Anima | Fontcraft | Tinkering):** Learn the details of a vantage of your choice. If you do not specify a particular vantage, one of the worldspeaker's choice is chosen instead. The skill used depends on the details of the vantage, and is specified in its description.
+- **Reveal:** Choose a hiding spot within 6 tiles and reveal it. 
+  - Focus (Perception). You have advantage on this skill check if you are adjacent to the chosen tile, and disadvantage if it is more than 3 tiles away from you.
+- **Size Up:** Learn the attributes, tier and turns per round of a creature of your choice. 
+  - Focus (Anima)
+- **Triage:** Learn the percentage of life and the number of stacks of exhaustion that another creature is at. 
+  - Focus (Medicine)
+- **Classify:** Learn either the arms, armor, or trinket affixes of a creature of your choice. If you choose to learn their trinket affixes, you also learn the skills that they are proficient in. 
+  - Expertise (Anima)
+- **Identify:** Learn the details of a single power of your choice. You have advantage on this skill check if this power was used since your last turn. 
+  - Expertise (Arcana)
+- **Scout:** Learn the details of a vantage of your choice. If you do not specify a particular vantage, learn one of the worldspeaker's choice instead. 
+  - Expertise (Arcana | Anima | Fontcraft | Tinkering). The skill used depends on the details of the vantage, and is specified in its description.
 
-Mechanical enemies use the 0-cost _mechanical_ trinket affix, which causes the Medicine and Anima skill checks in this list to be made with Tinkering instead. Elemental enemies will have the _primordial_ affix instead, which changes those skill checks into Fontcraft skill checks.
+If there is no more information to gain from the benefit you chose, you may swap it out for a different one for free. Mechanical enemies use the 0-cost _mechanical_ trinket affix, which causes the Medicine and Anima skill checks in this list to be made with Tinkering instead. Elemental enemies will have the _primordial_ affix instead, which changes those skill checks into Fontcraft skill checks.
 
 # Track
 
