@@ -6,7 +6,7 @@ While in combat, tiles are commonly modified in dangerous or interesting ways: s
 
 Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground. This subset of tile effects are called **ground effects.** As you might expect, flying creatures ignore ground effects.
 
-The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions or unsteady footing or the like. While on difficult terrain:
+The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions, unsteady footing or something similar. While on difficult terrain:
 
 - Double all lateral movement costs.
 - Tiles covered with difficult terrain count as 2 tiles for the purposes of forced movement (other than teleportation).
