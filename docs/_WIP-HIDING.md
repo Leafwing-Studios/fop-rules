@@ -1,27 +1,21 @@
 # Hide
 
-Choose a hiding spot, gain the hidden status, spend all of your movement and make an Agility (Stealth) skill check. For every 5 points of your skill check result, you may designate one additional location of your choice as a hiding spot. Hiding spots must be:
+FLUFF. When you hide, make an Agility (Stealth) skill check, and immediately loose all your remaining movement. Choose a number of valid hiding spots equal to your skill check result divided by 5, **rounded up.** Then, gain the [hidden]() status, although you do not immediately choose which hiding spot you are actually hiding in. In order for a hiding spot to be valid, it must be both **Reasonable** and **Obscured**:
 
-- **reachable**
-  - hiding spots must be within range of your avaiable movement at the time that you use the Hide minor action
-  - this is affected by all of the ordinary effects, such as the withered ailment, difficult terrain, height tiers and so on
-- **suitable**
+- **Reasonable**
+  - The spot is within range of your available movement when you take the Hide minor action
+  - The spot is in a place that you could end your turn normally
+  - The spot is large enough to contain all of your tiles
+  - The spot would not trigger an obvious effect when moving into it (such as an *alarm* consumable, walking through a pool of acid, or triggering an attack of opportunity)
+- **Obscured**
   1. At least one of the following is true:
      1. the area is in darkness
      2. the area is heavily shrouded
-     3. you are behind full cover, relative to all enemies creatures
+     3. the area behind full cover, relative to all enemy creatures
   2. Or, at least two of the following are true:
      1. the area is in dim light
      2. the area is lightly shrouded
-     3. you are behind partial (or full) cover, relative to all enemies creatures
-- **sizable**
-  - hiding spots must be able to contain all of your connected tiles
-    - if a creature has an affix such as _horde_ or _amorphous_, the hidden status applies to specific subcomponents seperately
-  - you must be able to end your turn there: typically, this means they must be empty
-- **traceless**
-  - you cannot designate a hiding spot that would require you to trigger a tile effect or attack of opportunity
-  - you can get around this restriction by moving further first, then hiding
-  - this restriction avoids terrible paradoxes, but should rarely come into play
+     3. the area is behind partial (or full) cover, relative to all enemy creatures
 
 If you were already hidden, you may designate new hiding spots. For the purposes of the reachable criteria, distance is measured from your nearest current hiding spot. This allows you to carefully move while hidden, expanding the network of possible places you could be the longer you go without being found.
 
@@ -33,7 +27,7 @@ The Hide minor action can be incredibly powerful in the hands of a specialist, b
 
 The first step is setting up the battlefield properly, to ensure that you have access to appropriate possible hiding places.
 You can become invisible, linger in the shadows by disabling sources of light, create shrouded effects or cause convenient cover to pop into existence.
-Several classes, such as the Shaman, Weaver and Devout have powers that do this effectively, but consumable affixes like _??_ and arms affixes like _??_ are always accesible.
+Several classes, such as the Shaman, Weaver and Devout have powers that do this effectively, but consumable affixes like _??_ and arms affixes like _??_ are always accessible.
 
 Once you have a place to hide, make sure that you can get to it without getting seen!
 Extra movement, such as from the _fast_ affix or the Dash minor action can make a big difference when you're looking to dive in, strike hard and then vanish back into the shadows.
