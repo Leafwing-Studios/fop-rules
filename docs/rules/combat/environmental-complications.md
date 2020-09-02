@@ -1,8 +1,10 @@
 # Environmental Complications
 
-## Ground Effects
+## Tile Effects
 
-Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground. These are collectively referred to as **ground effects.** As you might expect, flying creatures ignore ground effects.
+While in combat, tiles are commonly modified in dangerous or interesting ways: sacred shrines, clinging fog, walls of fire and so on. Collectively, these are referred to as **tile effects.** Creatures moving by teleportation ignore the tile effects of the tiles that they cross. Typically, a tile effect will trigger "the first time that a creature enters this effect, or begins their turn in this tile efffect" which ensures that they trigger once for every turn that the creature takes, no matter how they end up moving.
+
+Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground. This subset of tile effects are called **ground effects.** As you might expect, flying creatures ignore ground effects.
 
 The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions or unsteady footing or the like. While on difficult terrain:
 
@@ -22,7 +24,11 @@ Once the target is fully **invisible:**
 - you have disadvantage on skill checks made as part of the Scan minor action targeting them, other than to reveal one of their hiding spots.
 - single-target attacks you make against them have disadvantage
 
-Light is the most common and important driver of visibility. There are three levels of lighting: **bright light, dim light,** and **darkness**, which are all tracked on a per-tile basis. Creatures and objects are obscured while in dim light, and invisible while in darkness.
+**Light** is the most common and important driver of visibility. There are three levels of lighting: **bright light, dim light,** and **darkness**, which are all tracked on a per-tile basis. Creatures and objects are obscured while in dim light, and invisible while in darkness.
+
+<div class="infobox">
+
+</div>
 
 **Shroud** effects, such as a cloud of smoke, rain, thick underbrush or fog make objects both within them and seen from within them harder to see. If a tile is **lightly shrouded**, objects within that shroud and objects seen from within that shroud are objects obscured. If a tile is **heavily shrouded**, the objects are invisible instead.
 
