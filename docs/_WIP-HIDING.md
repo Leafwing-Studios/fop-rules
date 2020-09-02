@@ -46,7 +46,7 @@ Hit so hard that your opponent has to focus on dodging or blocking, team up with
 
 # Scan
 
-Learn more about the battlefield. When you use the Scan minor action, choose one of the options listed below, then make a skill check of the type listed. If your result is 15 or higher, gain the effects of the Scan minor action again. If there is no more information to gain of the type specified, you may choose another type of information instead for free.
+Learn more about the battlefield. When you use the Scan minor action, gain one of the benefits listed below. If there is no more information to gain of the type specified, you may choose another type of information instead for free. Once you have learned the chosen information, make a skill check of the type listed. If your result is 15 or higher, gain the effects of the Scan minor action again.
 
 - **Focus (Perception):** Choose a hiding spot within 6 tiles and reveal it. You have advantage on this skill check if you are adjacent to the chosen tile, and disadvantage if it is more than 3 tiles away from you.
 - **Focus (Anima):** Learn the attributes, tier and turns per round of a creature of your choice.
