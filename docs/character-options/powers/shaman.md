@@ -104,7 +104,7 @@ You may use this Manifestation as a minor action with a range of 12 tiles.
 Your Shaping manifestation creates a tile effect as described by your Domain. The tiles that you modify with each use of this manifestation must always be connected, although separate uses of it need not be.
 
 After you use this manifestation, roll a d20 to see if the Shaping manifestation is triggered. 
-If your result is at least the triggering threshold, a special effect occurs on all tiles covered by your Shaping manifestation as described by your domain.
+If the result is at least the triggering threshold, a special effect occurs on all tiles covered by your Shaping manifestation as described by your domain.
 As a party, you may spend a Resolve to modify the outcome of this triggering roll.
 
 You may have any number of tiles affected by your Shaping manifestation. It persists as long as you maintain your concentration but if you lose your concentration during this time, the effect immediately ends. You may also choose to end this effect for all affected tiles at the end of each of your turns.

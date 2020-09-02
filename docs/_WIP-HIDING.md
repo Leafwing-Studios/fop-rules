@@ -21,7 +21,7 @@ If you take the Hide minor action while already hidden, designate new hiding spo
 
 # Scan
 
-Take a moment to learn more about your surroundings. If you are skilled enough to effortlessly learn about what you focus on, you may still have time to learn something else. Whenever you take the Scan minor action, you immediately gain one of the benefits listed below. Then, you may roll the listed skill check. If your result is 15 or higher, you may repeat the Scan minor action (choosing a different benefit if desired).
+Take a moment to learn more about your surroundings. If you are skilled enough to effortlessly learn about what you focus on, you may still have time to learn something else. Whenever you take the Scan minor action, you immediately gain one of the benefits listed below. Then, you may roll the listed skill check. If the result is 15 or higher, you may repeat the Scan minor action (choosing a different benefit if desired).
 
 - **Reveal:** Choose a hiding spot within 6 tiles and reveal it. 
   - Focus (Perception). You have advantage on this skill check if you are adjacent to the chosen tile, and disadvantage if it is more than 3 tiles away from you.
@@ -40,11 +40,9 @@ If there is no more information to gain from the benefit you chose, you may swap
 
 # Track
 
-When a creature within a 6 tile range of you uses the Hide minor action, you may attempt to track where they are attempting to hide. Make a Focus (Perception) skill check. If your result is greater than or equal to the Agility (Stealth) skill check result of their Hide minor action, all of their hiding places are immediately revealed.
+When a creature uses the Hide minor action (including if they are already hidden) and chooses at least one hiding spot that is within 6 tiles of you, you may attempt to track where they are attempting to hide. Like all effects with a range, this is blocked by full cover.
 
-Like all effects with a range, this is blocked by full cover.
-
-If the creature used the Hide minor action was hidden already, you may use this reaction if they designate any new hiding points that are within a 6 tile range.
+Make a Focus (Perception) skill check. If the result is greater than or equal to the Agility (Stealth) skill check from their Hide minor action, all of their hiding places within 6 tiles of you are immediately revealed.
 
 # Hidden
 
