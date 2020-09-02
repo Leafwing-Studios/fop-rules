@@ -27,7 +27,7 @@ If you were already hidden, you may designate new hiding spots. For the purposes
 
 <div class="infobox">
 
-**Effective Stealth**
+**Strategic Stealth**
 
 The Hide minor action can be incredibly powerful in the hands of a specialist, but using it effectively requires sophisticated strategy.
 
@@ -114,12 +114,12 @@ Boons (and other effects which do not require an attack roll) function in an ide
 
 # Blinded
 
-You have disadvantage on single-target attacks.
+All other creatures are invisible to you, causing you to have disadvantage on single-target attacks.
 
 You cannot use the Traack reaction or reveal hiding places with the Scan minor action.
 
 # Invisible
 
-Single-target attacks made against you have disadvantage.
+You are invisible to all other creatures, causing single-target attacks made against you have disadvantage.
 
 Hiding places are always suitable for you, regardless of the environmental conditions.

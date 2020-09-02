@@ -11,17 +11,28 @@ The most common ground effect is **difficult terrain,** which is difficult to cr
 
 ## Visibility and Cover
 
-In Fonts of Power, there are three levels of **visibility** that describe how well you can see other creatures or objects: **clear, obscured** and **invisible.** These descriptors are determined on the basis of both the character attempting to see and the target that is being seen: covering your eyes with your hands makes everyone else invisible to you, but not to anyone else.
+There are three levels of **visibility** that describe how well you can see other creatures or objects: clear, obscured and invisible. These descriptors are determined on the basis of both the character attempting to see and the target that is being seen: covering your eyes with your hands makes everyone else invisible to you, but not to anyone else.
 
-If your target is clear, everything works normally. If they are obscured, you have disadvantage on all skill checks involving sight (typically Focus (Perception)). If they are invisible, you automatically fail any skill checks involving sight, have disadvantages on all basic attacks against them and they have advantage on all basic attacks against you. In addition, if you do not have another way to tell where an invisible creature is (such as the fact that they are making noise or shooting arrows), you must guess which tile they are in. You may use the Scan minor action to make a Focus (Perception) skill check opposed by their Agility (Stealth) skill in order to attempt to determine this if they are attempting to conceal their position (and you have any reasonable way to work this out.
+By default, your target is **clear.** As your target becomes **obscured:**
 
-Light is the most common and important driver of visibility. There are three levels of lighting: **bright light, dim light,** and **darkness.** Creatures are obscured while in dim light, and invisible while in darkness.
+- you have disadvantage on skill checks made as part of the Scan minor action targeting them, other than to reveal one of their hiding spots.
 
-**Shroud** effects, such as a cloud of smoke, rain, thick underbrush or fog make objects both within them and seen from within them harder to see. A **light shroud** makes objects obscured, while a **heavy shroud** causes them to be invisible.
+Once the target is fully **invisible:**
 
-Physical objects can also affect visibility and, independently, provide **cover,** shielding creatures behind them from attacks. There are two kinds of cover, **partial cover** and **full cover.** Like visibility, cover is relative to both the actor and the target. Partial cover causes all attacks to have disadvantage, and would be provided by things like castle parapets, a pile of boxes or a sturdy tree. Full cover causes all attacks to have no effect (except in the case of ongoing effects such as the Weaver’s patterns or the Soulbinder’s pulses), and is commonly granted by things like being behind a wall or closed door or inside a creature’s stomach. Note that in cases where the effect does not physically originate from the attacking creature, cover needs to be calculated with respect to the target and the source of the effect. This is an important rule when, for example, a ball of fire explodes in mid-air, or the ground becomes covered in a dangerous effect.
+- you have disadvantage on skill checks made as part of the Scan minor action targeting them, other than to reveal one of their hiding spots.
+- single-target attacks you make against them have disadvantage
 
-Intervening creatures do not grant cover unless they are at least one tile larger than the target. If they do, they only grant partial cover, as they tend to both be actively moving and full of holes that might allow an attack to slip through.
+Light is the most common and important driver of visibility. There are three levels of lighting: **bright light, dim light,** and **darkness**, which are all tracked on a per-tile basis. Creatures and objects are obscured while in dim light, and invisible while in darkness.
+
+**Shroud** effects, such as a cloud of smoke, rain, thick underbrush or fog make objects both within them and seen from within them harder to see. If a tile is **lightly shrouded**, objects within that shroud and objects seen from within that shroud are objects obscured. If a tile is **heavily shrouded**, the objects are invisible instead.
+
+Physical objects can also affect visibility and, independently, provide **cover,** shielding creatures behind them from attacks. There are two kinds of cover, partial cover and full cover. Like visibility, cover is relative to both the actor and the target.
+
+**Partial cover** is provided by things like castle parapets, a pile of boxes or a sturdy tree. While your target is behind partial cover, attacks that you make have disadvantage. Creatures that are at least one tile larger than the target grant partial cover.
+
+**Full cover** is commonly granted by things like solid walls, closed doors or being inside of a monsters's stomach. While your target is behind full cover, your attacks automatically miss, and you cannot target them with other effects such as when applying boons, creating ground effects or using the Scan minor action or Track reaction.
+
+When an effect does not physically originate from the attacking creature, cover needs to be calculated with respect to the target and the source of the effect. This is an important rule when, for example, a ball of fire explodes in mid-air, or the ground becomes covered in a dangerous effect.
 
 In general, when a creature is behind partial cover, they are obscured to you, and when a creature is behind full cover, they are also invisible to you. Transparent objects, such as windows or shimmering walls of force are an obvious exception to this. Unless specifically stated, you do not need to be able to see creatures in order to target them with an attack.
 
