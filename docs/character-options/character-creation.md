@@ -117,7 +117,7 @@ When it comes to **adventuring gear,** characters are said to be **Prepared for 
 
 The table should **set the initial Supplies die** for the party to reflect their state as play begins: are they meeting in a tavern (d8), suddenly ambushed (d6), struggling to make it back to town (d4) or captured and penniless (the Supplies die is fully depleted)?
 
-**For characters starting above level 1, players may pick out two magical sets of arms, one set of magical armor and a collection of trinkets to begin the game with.** These should each have a gear point total equal to their proficiency bonus, ensuring that they are at an appropriate power for their level. As always, prismatic enchantments cannot be used until your character’s proficiency bonus is +5. We suggest experimenting with unusual choices during this initial selection, in order to make sure there’s space for interesting ways for your character to continue to grow and change.
+**For characters starting above level 1,** players may pick out two magical sets of arms, one set of magical armor and a collection of trinkets to begin the game with. These should each have a gear point total equal to their proficiency bonus, ensuring that they are at an appropriate power for their level. If they are level 9 or higher, this should include one prismatic affix. If they are level 17 or higher, include two prismatic affixes. We suggest experimenting with unusual choices during this initial selection, in order to make sure there’s space for interesting ways for your character to continue to grow and change.
 
 ## Ideals
 
@@ -125,9 +125,9 @@ Everyone has a different idea of what it means to be a good person. We use the f
 
 - **Equality:** In diversity, strength.
 - **Harmony:** Peace and prosperity, hand in hand.
-- **Integrity:** My honor is my shield; my word is my bond.
 - **Liberty:** The courage to act; the freedom to choose.
 - **Progress:** Towards a brighter tomorrow.
+- **Sanctity:** I believe in doing what is right.
 
 You can learn more about exactly what these ideals represent in the standard setting in the Ideals section of the Narrative Mechanics chapter.
 
