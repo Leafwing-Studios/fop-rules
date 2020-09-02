@@ -23,13 +23,39 @@ Choose a hiding spot, gain the hidden status, spend all of your movement and mak
   - you can get around this restriction by moving further first, then hiding
   - this restriction avoids terrible paradoxes, but should rarely come into play
 
-If you were already hidden, you may designate new hiding spots. For the purposes of the reachable criteria, distance is measured based on the distance to your nearest current hiding spot, allowing you, in effect, to carefully move while hidden.
+If you were already hidden, you may designate new hiding spots. For the purposes of the reachable criteria, distance is measured from your nearest current hiding spot. This allows you to carefully move while hidden, expanding the network of possible places you could be the longer you go without being found.
+
+<div class="infobox">
+
+**Effective Stealth**
+
+The Hide minor action can be incredibly powerful in the hands of a specialist, but using it effectively requires sophisticated strategy.
+
+The first step is setting up the battlefield properly, to ensure that you have access to appropriate possible hiding places.
+You can become invisible, linger in the shadows by disabling sources of light, create shrouded effects or cause convenient cover to pop into existence.
+Several classes, such as the Shaman, Weaver and Devout have powers that do this effectively, but consumable affixes like _??_ and arms affixes like _??_ are always accesible.
+
+Once you have a place to hide, make sure that you can get to it without getting seen!
+Extra movement, such as from the _fast_ affix or the Dash minor action can make a big difference when you're looking to dive in, strike hard and then vanish back into the shadows.
+
+As you slip away, your biggest worry is the Track reaction, which can completely shut down your attempts to hide.
+Pay attention to which enemies have their reaction available, and do everything you can to force them to use it before you hide.
+Hit so hard that your opponent has to focus on dodging or blocking, team up with durable frontliners who deliberately provoke attacks of opportunity with the _overpowered_ affix, apply stacks of lethargic, or dip in, strike, dip out and then dodge the resulting attack of opportunity!
+
+</div>
 
 # Scan
 
-Attempt to reveal hiding spots. Choose a hiding spot within 6 tiles and reveal it, then make a difficulty 15 Focus (Perception) skill check. If you succeed, repeat this action (including the skill check to repeat it).
+Learn more about the battlefield. When you use the Scan minor action, choose one of the options listed below, then make a skill check of the type listed. If your result is 15 or higher, gain the effects of the Scan minor action again. If there is no more information to gain of the type specified, you may choose another type of information instead for free.
 
-You have advantage on this skill check if you are adjacent to the chosen tile, and disadvantage if it is more than 3 tiles away from you.
+- **Focus (Perception):** Choose a hiding spot within 6 tiles and reveal it. You have advantage on this skill check if you are adjacent to the chosen tile, and disadvantage if it is more than 3 tiles away from you.
+- **Focus (Anima):** Learn the attributes, tier and turns per round of a creature of your choice.
+- **Focus (Medicine):** Learn the percentage of life and the number of stacks of exhaustion that another creature is at.
+- **Expertise (Anima):** Learn either the arms, armor or trinket affixes of a creature of your choice. If you choose to learn their trinket affixes, you also learn the skills that they are proficient in.
+- **Expertise (Arcana):** Learn the details of a single power of your choice. You have advantage on this skill check if this power was used since your last turn.
+- **Expertise (Arcana | Anima | Fontcraft | Tinkering):** Learn the details of a vantage of your choice. If you do not specify a particular vantage, one of the worldspeaker's choice is chosen instead. The skill used depends on the details of the vantage, and is specified in its description.
+
+Mechanical enemies use the 0-cost _mechanical_ trinket affix, which causes the Medicine and Anima skill checks in this list to be made with Tinkering instead. Elemental enemies will have the _primordial_ affix instead, which changes those skill checks into Fontcraft skill checks.
 
 # Track
 
@@ -52,11 +78,9 @@ The hidden status on you ends immediately after:
 
 - one of your hiding spot was revealed, and the investigating creature rolled an X on their discovery roll
 - you spend movement to travel laterally
-- you take an action that targets another creature
+- you make an attack against or apply a boon to a creature other than yourself
 
-After you are revealed, you appear in the the tile from which you took the action in question (having been hiding there all along) and have advantage on basic attacks until the end of the current turn. If the tile(s) are now occupied (and you cannot normally share tiles), you appear in the nearest tile(s) of your choice instead.
-
-When you took the Hide minor action to become hidden, you designated several hiding spots. Hiding spots must always be **suitable.** A hiding spot is suitable if, for all of your tiles:
+After you are revealed, you appear in the the tile from which you took the action in question (having been hiding there all along) and have advantage on single-target attacks until the end of the current turn. If the tile(s) are now occupied (and you cannot normally share tiles), you appear in the nearest tile(s) of your choice instead.
 
 Other creatures can reveal hiding spots by taking the Scan minor action or Track reaction. Hiding spots are also immediately revealed when they no longer suitable, as defined below:
 
@@ -72,15 +96,30 @@ Other creatures can reveal hiding spots by taking the Scan minor action or Track
 When a hiding spot is revealed, the creature who revealed the hiding spot makes a **discovery roll:**
 
 1. Roll 1dX, where X is the remaining number of hiding spots that creature has.
-2. On a result of X, the hidden status ends. Remove all hiding spots associated with that creature from the battlemap.
+2. On a result of 1, the hidden status ends. Remove all hiding spots associated with that creature from the battlemap.
 3. On any other result, remove this hiding spot from the battlemap.
+
+You may always choose to be revealed by a discovery roll.
 
 Creatures (and other entities such as traps or pools of acid) can make attacks can be made against your hiding spot, guessing that you are there:
 
-1. If the attack would hit you, the attacker makes a discovery roll.
-2. On a result of X, you also suffer the attack's effects.
+1. If the attack would hit your defense, the attacker makes a discovery roll, revealing hiding spots in the usual fashion.
+   1. No discovery roll is made (and hence no hiding spots are revealed) if you miss.
+2. On a roll of 1, you also suffer the attack's effects.
 3. On any other roll, you do not suffer the attack's effects (as you were not in that location after all).
 
-Your hiding spots are revealed in the usual fashion as a result of the discovery rolls made in this way. In the case of multi-target attacks, make these discovery rolls sequentially, in the order of the attacker's choice, ensuring that hidden creatures are not accidentally hit more than once by a single area-of-effect attack.
+If multiple hiding spots would be hit by a multi-target attack, the discovery roll is a success on any number less than or equal to the number of hiding spots that would be hit. In that case, reveal all hiding spots other than those that were hit.
 
-Boons (and other effects which do not require an attack roll) function in an identical fashion, except that your hiding spots are not revealed due to the discovery rolls.
+Boons (and other effects which do not require an attack roll) function in an identical fashion, except that your hiding spots are not revealed due to the discovery rolls. BUG: If the boon is sucessfully applied, you are either in that location, or inconsistencies are created.
+
+# Blinded
+
+You have disadvantage on single-target attacks.
+
+You cannot use the Traack reaction or reveal hiding places with the Scan minor action.
+
+# Invisible
+
+Single-target attacks made against you have disadvantage.
+
+Hiding places are always suitable for you, regardless of the environmental conditions.
