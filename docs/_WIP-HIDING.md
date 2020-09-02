@@ -40,7 +40,7 @@ Extra movement, such as from the _fast_ affix or the Dash minor action can make 
 
 As you slip away, your biggest worry is the Track reaction, which can completely shut down your attempts to hide.
 Pay attention to which enemies have their reaction available, and do everything you can to force them to use it before you hide.
-Hit so hard that your opponent has to focus on dodging or blocking, team up with durable frontliners who deliberately provoke attacks of opportunity with the _overpowered_ affix, apply stacks of lethargic, or dip in, strike, dip out and then dodge the resulting attack of opportunity!
+Hit so hard that your opponent has to focus on dodging or blocking, team up with durable frontliners who deliberately provoke attacks of opportunity with the _overpowered_ affix, apply stacks of blinded or lethargic, or dip in, strike, dip out and then dodge the resulting attack of opportunity before you vanish again!
 
 </div>
 
@@ -100,6 +100,27 @@ When a hiding spot is revealed, the creature who revealed the hiding spot makes 
 3. On any other result, remove this hiding spot from the battlemap.
 
 You may always choose to be revealed by a discovery roll.
+
+<div class="infobox">
+
+**Rolling 1dX with rejection sampling**
+
+Discovery rolls tell you to "Roll 1dX, where X is the remaining number of hiding spots that creature has."
+While this makes plenty of sense as a game mechanic, the implementation can be a bit puzzling.
+
+If you're playing on a virtual tabletop, this is trivial. Simply /roll 1d7 and you're good to go.
+Those playing with physical dice may find this more challenging: few people have a d2, d3, d5 or a d7 around!
+
+The fastest and easiest way to mimic dice with unusual numbers of sides is a technique called **rejection sampling:**
+
+1. Pick a die that is slightly larger than the die you wish to simulate. If you were rolling a d7, pick a d8 for example.
+2. Roll the larger die.
+3. If the roll is possible on the desired die (in our example 1 through 7), you're done! Use this roll.
+4. If the roll is larger than the highest value possible on the desired die (in our example, an 8), roll the dice again. Repeat until you get a valid number.
+
+This produces fair results quickly and without the need for any special tools.
+
+</div>
 
 Creatures (and other entities such as traps or pools of acid) can make attacks can be made against your hiding spot, guessing that you are there:
 
