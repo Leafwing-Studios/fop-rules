@@ -110,16 +110,16 @@ Creatures (and other entities such as traps or pools of acid) can make attacks c
 
 If multiple hiding spots would be hit by a multi-target attack, the discovery roll is a success on any number less than or equal to the number of hiding spots that would be hit. In that case, reveal all hiding spots other than those that were hit.
 
-Boons (and other effects which do not require an attack roll) function in an identical fashion, except that your hiding spots are not revealed due to the discovery rolls. BUG: If the boon is sucessfully applied, you are either in that location, or inconsistencies are created.
+Boons (and other effects which do not require an attack roll) function in an identical fashion, except that your hiding spots are not revealed due to the discovery rolls. BUG: If the boon is successfully applied, you are either in that location, or inconsistencies are created.
 
 # Blinded
 
 All other creatures are invisible to you, causing you to have disadvantage on single-target attacks.
 
-You cannot use the Traack reaction or reveal hiding places with the Scan minor action.
+You cannot use the Track reaction or the Scan minor action.
 
 # Invisible
 
-You are invisible to all other creatures, causing single-target attacks made against you have disadvantage.
+You are invisible to all other creatures, causing single-target attacks against you to be made with disadvantage.
 
-Hiding places are always suitable for you, regardless of the environmental conditions.
+Hiding places are always veiled for you.
