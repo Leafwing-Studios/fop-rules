@@ -28,6 +28,21 @@ Once the target is fully **invisible:**
 
 <div class="infobox">
 
+**A Light in the Darkness**
+
+If you have the tools (or patience) to carefully track light levels during combat in your game, a few questions are quickly raised.
+
+Every light sources have a **light radius**, and shed bright light in that radius, and dim light in that radius beyond that.
+The light radius of common objects are:
+
+- 1 tile: a candle
+- 2 tiles: a small fire
+- 3 tiles: a sputtering torch
+- 6 tiles: a blazing torch, bonfire or lantern
+- 12 tiles: a brilliant magical light, gained by the _light_ trinket affix
+
+Players can create objects with up to a 6 tile light radius using **Prepared for Anything.** Lighting or extinguishing your own torch while in combat takes an Interact minor action, as does extinguishing a light source found in the environment (typically at melee range). Creatures carrying a light source can fight normally. Extinguishing other creatures light sources should be left to the _extinguishing_ affix, or similar powers.
+
 </div>
 
 **Shroud** effects, such as a cloud of smoke, rain, thick underbrush or fog make objects both within them and seen from within them harder to see. If a tile is **lightly shrouded**, objects within that shroud and objects seen from within that shroud are objects obscured. If a tile is **heavily shrouded**, the objects are invisible instead.
