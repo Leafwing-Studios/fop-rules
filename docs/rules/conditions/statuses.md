@@ -79,9 +79,30 @@ You have disadvantage on all basic attacks except against the creature(s) you ar
 
 You cannot make Grapple attacks. You may end this status on yourself (and the Grappled status on your target) at the start or end of any of your turns.
 
+## Hidden
+
+While hidden:
+
+- your position is concealed, but must be in one of your active hiding spots
+- you do not impose disadvantage on ranged attacks to creatures in your zone of control
+- you cannot shift
+
+The hidden status on you ends immediately after:
+
+- the hiding spot you are in is revealed
+- you spend movement to travel laterally
+- you make an attack against any creature other than yourself
+- you apply a boon to any creature other than yourself
+
+After you are revealed, you appear in the tile you chose originally and gain the **ambush** boon until the end of the current turn. When you have the ambush boon, gain advantage on all attacks. Some affixes make use of the ambush keyword to provide additional benefits.
+
+Other creatures may reveal hiding spots by taking the Scan minor action or Track reaction. Hiding spots are also immediately revealed when they are no longer veiled, as defined in the [Hide minor action.](rules/combat/acting-in-combat/minor-actions?id=hide)
+
 ## Invisible
 
-You cannot be seen using sight. Creatures who cannot see you are treated as if they were suffering the blinded ailment with respect to attacks by and against you.
+You are invisible to all other creatures, causing single-target attacks against you to be made with disadvantage.
+
+Hiding places are always veiled for you.
 
 ## Prone
 

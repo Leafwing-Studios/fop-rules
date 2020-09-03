@@ -24,3 +24,9 @@ This occurs after any non-damaging effects are applied, but before damage is pre
 ## Dodge
 
 Whenever you would be hit a basic attack, Grapple attack or Shove attack, you may use the Dodge reaction. If you do, make an Agility (Athletics) skill check. If your skill check result is greater than or equal to the attack roll that hit you, the attack misses instead.
+
+## Track
+
+When a creature uses the Hide minor action (including if they are already hidden) and chooses at least one hiding spot that is within 6 tiles of you, you may attempt to track where they are attempting to hide. Like all effects with a range, this is blocked by full cover.
+
+Make a Focus (Perception) skill check. If the result is greater than or equal to the Agility (Stealth) skill check from their Hide minor action, all of their hiding places within 6 tiles of you are immediately revealed.

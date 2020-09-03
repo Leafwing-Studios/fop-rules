@@ -52,14 +52,26 @@ Attacks against you by a creature of your choice have disadvantage against you u
 
 ## Hide
 
-If there is some plausible way to hide from your enemies, you may attempt a difficulty 10 Agility (Stealth) skill check. If you succeed, you are invisible to your enemies and your position is concealed from them until the end of your next turn. This effect ends immediately after you make an attack.
+Slip away from the fray for a moment, hiding on one of several possible places. When you hide, make an Agility (Stealth) skill check, and immediately loose all your remaining movement. Choose a number of valid hiding spots equal to your skill check result divided by 5, **rounded up.** Then, gain the [hidden](rules/conditions/statuses?id=hidden) status, although you do not immediately choose which hiding spot you are actually hiding in. In order for a hiding spot to be valid, it must be both **reasonable** and **veiled**:
 
-You have a plausible way to hide (per the definitions of this action) if, for all enemies, at least one of these conditions is true:
+- **Reasonable**
+  - The spot is within range of your available movement when you take the Hide minor action
+  - The spot is in a place that you could end your turn normally
+  - The spot is large enough to contain all of your tiles
+  - The spot would not trigger an obvious effect when moving into it (such as an *alarm* consumable, walking through a pool of acid, or triggering an attack of opportunity)
+- **Veiled**
+  1. At least one of the following is true:
+     1. the area is in darkness
+     2. the area is heavily shrouded
+     3. the area behind full cover, relative to all enemy creatures
+  2. Or, at least two of the following are true:
+     1. the area is in dim light
+     2. the area is lightly shrouded
+     3. the area is behind partial (or full) cover, relative to all enemy creatures
+     
+After you have selected your hiding spots, choose one that you are hidden in and secretly record it. You are in this space, although no one else is aware of this, including your allies. After you are revealed, show the secret record to your fellow players.
 
-- you are invisible to them (via direct invisibility, heavy shroud, darkness, full cover or some other effect)
-- you are obscured by at least two ailments (such as light shroud, dim light or partial cover)
-
-For more information on handling stealth outside of combat, see the Stealth skill description, or the _Scenes > Trickery Scenes_ section.
+If you take the Hide minor action while already hidden, designate new hiding spots in addition to your current ones. These spots must be veiled and reasonable, except that they do not need to be reachable from your current spot, but they must be reachable from at least one of your active spots. Once you have chosen the new spots, you may move into any of your active hiding spots as long as they are reachable from your current location. This allows you to carefully move while hidden, expanding the network of your potential locations the longer you go without being found.
 
 ## Interact
 
@@ -67,30 +79,30 @@ Interact with an object in your environment. You might pull a lever, quickly sla
 
 ## Scan
 
-Attempt to gain information about your surroundings using one of your skills. This might be:
+Take a moment to learn more about your surroundings. If you are skilled enough to effortlessly learn about what you focus on, you may still have time to learn something else. Whenever you take the Scan minor action, immediately gain one of the benefits listed below. Then, you may roll the listed skill check. If the result is 15 or higher, you may repeat the Scan minor action (choosing a different benefit if desired).
 
-- an opposed Focus (Perception) skill check to find a hidden enemy, pitting your Focus (Perception) against their Agility (Stealth) check results, revealing that creature’s position and breaking their stealth (but not any magical invisibility that they might have)
-- an Expertise (Humanities) skill check to determine the tactics being used by your opponent
-- an Insight skill check to urgently search for clues about your predicament
-- an Focus (Anima) skill check to try to understand an ability or feature of your opponent
-- a Focus (Medicine) skill check to estimate the current life and essence of a creature, according to the table below
-- an Expertise (Arcana) skill check to determine the nature of a magical effect, according to the table below
+- **Reveal:** Choose a hiding spot within 6 tiles and reveal it. 
+  - Focus (Perception). You have advantage on this skill check if you are adjacent to the chosen tile, and disadvantage if it is more than 3 tiles away from you.
+- **Size Up:** Learn the attributes, tier and turns per round of a creature of your choice. 
+  - Focus (Anima)
+- **Triage:** Learn the percentage of life and the number of stacks of exhaustion that another creature is at. 
+  - Focus (Medicine)
+- **Classify:** Learn either the arms, armor, or trinket affixes of a creature of your choice. If you choose to learn their trinket affixes, you also learn the skills that they are proficient in. 
+  - Expertise (Anima)
+- **Identify:** Learn the details of a single power of your choice. You have advantage on this skill check if this power was used since your last turn. 
+  - Expertise (Arcana)
+- **Scout:** Learn the details of a vantage of your choice. If you do not specify a particular vantage, learn one of the worldspeaker's choice instead. 
+  - Expertise (Arcana | Anima | Fontcraft | Tinkering). The skill used depends on the details of the vantage, and is specified in its description.
 
-| Focus (Medicine) check result | Information gained                                                            |
-| ----------------------------- | ----------------------------------------------------------------------------- |
-| 5                             | Is the creature above or below half life? Does it have any essence remaining? |
-| 10                            | What percentage of life and essence are they at, rounded to the nearest 25%?  |
-| 15                            | What percentage of life and essence are they at, rounded to the nearest 10%?  |
-| 20                            | What percentage of life and essence are they at, rounded to the nearest 5%?   |
-| 25                            | What is their current and total maximum life and essence?                     |
+<div class="infobox">
 
-| Expertise (Arcana) check result | Information Gained                                 |
-| ------------------------------- | -------------------------------------------------- |
-| 5                               | Is there magic?                                    |
-| 10                              | Is this magic helpful, harmful, neither or both?   |
-| 15                              | What’s the approximate nature of the magic?        |
-| 20                              | What sort of creature or effect created the magic? |
-| 25                              | What exactly does the magic do?                    |
+**Obscure information**
+
+Some information is, by it's nature, obscure or difficult to come upon. Even spending the time to investigate something, would not give a perfect idea of what it is. For example, if a monster has a strange machine attached to it, the knowledge of what exactly it does may be difficult to come to. This is typically what standard skill checks are for. The worldspeaker may call for a skill check to gain the information from the Scan action, in addition to the skill check to repeat the action. In this case, the worldspeaker **must** still provide some information on the skill check's failure.
+
+</div>
+
+If there is no more information to gain from the benefit you chose, you may swap it out for a different one for free. Mechanical enemies use the 0-cost _mechanical_ trinket affix, which causes the Medicine and Anima skill checks in this list to be made with Tinkering instead. Elemental enemies will have the _primordial_ affix instead, which changes those skill checks into Fontcraft skill checks.
 
 ## Shove
 
