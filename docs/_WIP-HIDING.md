@@ -16,8 +16,10 @@ FLUFF. When you hide, make an Agility (Stealth) skill check, and immediately loo
      1. the area is in dim light
      2. the area is lightly shrouded
      3. the area is behind partial (or full) cover, relative to all enemy creatures
+     
+After you have selected your hiding spots, choose one that you are hidden in and secretly record it. You are in this space, although no one else is aware of this, including your allies. After you are revealed, show the secret record to your fellow players.
 
-If you take the Hide minor action while already hidden, designate new hiding spots in addition to your current ones. Performing this action again gives enemies another opportunity to [Track]() you if they still have a reaction available. When determining the distance requirement, measure from the nearest active hiding spot. This allows you to carefully move while hidden, expanding the network of your potential locations the longer you go without being found.
+If you take the Hide minor action while already hidden, designate new hiding spots in addition to your current ones. These spots must be veiled and reasonable, except that they do not need to be reachable from your current spot, but they must be reachable from at least one of your active spots. Once you have chosen the new spots, you may move into any of your active hiding spots as long as they are reachable from your current location. This allows you to carefully move while hidden, expanding the network of your potential locations the longer you go without being found.
 
 # Scan
 
@@ -56,29 +58,40 @@ Make a Focus (Perception) skill check. If the result is greater than or equal to
 
 While hidden:
 
-- your position is uncertain, as explained below
+- your position is concealed, but must be in one of your active hiding spots
 - you do not impose disadvantage on ranged attacks to creatures in your zone of control
 - you cannot shift
-- for the purposes of determining ranges for your actions (such as attacks of opportunity), you are treated as if you occupied all of the hiding spots you are in
 
 The hidden status on you ends immediately after:
 
-- one of your hiding spot was revealed, and the investigating creature rolled an X on their discovery roll
+- the hiding spot you are in is revealed
 - you spend movement to travel laterally
-- you make an attack against or apply a boon to a creature other than yourself
+- you make an attack against any creature other than yourself
+- you apply a boon to any creature other than yourself
 
-After you are revealed, you appear in the tile from which you took the action in question (having been hiding there all along) and have advantage on single-target attacks until the end of the current turn. If the tile(s) are now occupied (and you cannot normally share tiles), you appear in the nearest tile(s) of your choice instead.
+After you are revealed, you appear in the tile you chose originally and gain the **ambush** boon until the end of the current turn. When you have the ambush boon, gain advantage on all attacks. Some affixes make use of the ambush keyword to provide additional benefits.
 
-Other creatures can reveal hiding spots by taking the Scan minor action or Track reaction. Hiding spots are also immediately revealed when they no longer suitable, as defined below:
+Other creatures may reveal hiding spots by taking the Scan minor action or Track reaction. Hiding spots are also immediately revealed when they are no longer veiled, as defined in the [Hide minor action.]()
 
-1. At least one of the following is true:
-   1. the area is in darkness
-   2. the area is heavily shrouded
-   3. you are behind full cover, relative to all enemies creatures
-2. Or, at least two of the following are true:
-   1. the area is in dim light
-   2. the area is lightly shrouded
-   3. you are behind partial (or full) cover, relative to all enemies creatures
+# Hidden Quantum
+
+While hidden:
+
+- your position is uncertain, as explained below
+- you do not impose disadvantage on ranged attacks to creatures in your zone of control
+- you cannot shift
+- for the purposes of determining ranges for your actions (such as attacks of opportunity), you are treated as if you occupied all of your active hiding spots
+
+The hidden status on you ends immediately after:
+
+- one of your hiding spots is revealed, and the investigating creature rolled an 1 on their discovery roll
+- you spend movement to travel laterally
+- you make an attack against any creature other than yourself
+- you apply a boon to any creature other than yourself
+
+After you are revealed, you appear in the tile from which you took the action in question (having been hiding there all along) and gain the **ambush** boon until the end of the current turn. When you have the ambush boon, gain advantage on all attacks. Some affixes make use of the ambush keyword to provide additional benefits.
+
+Other creatures can reveal hiding spots by taking the Scan minor action or Track reaction. Hiding spots are also immediately revealed when they are no longer veiled, as defined in the [Hide minor action.]()
 
 When a hiding spot is revealed, the creature who revealed the hiding spot makes a **discovery roll:**
 
