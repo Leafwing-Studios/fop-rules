@@ -36,6 +36,14 @@ Take a moment to learn more about your surroundings. If you are skilled enough t
 - **Scout:** Learn the details of a vantage of your choice. If you do not specify a particular vantage, learn one of the worldspeaker's choice instead. 
   - Expertise (Arcana | Anima | Fontcraft | Tinkering). The skill used depends on the details of the vantage, and is specified in its description.
 
+<div class="infobox">
+
+**Obscure information**
+
+Some information is, by it's nature, obscure or difficult to come upon. Even spending the time to investigate something, would not give a perfect idea of what it is. For example, if a monster has a strange machine attached to it, the knowledge of what exactly it does may be difficult to come to. This is typically what standard skill checks are for. The worldspeaker may call for a skill check to gain the information from the Scan action, in addition to the skill check to repeat the action. In this case, the worldspeaker **must** still provide some information on the skill check's failure.
+
+</div>
+
 If there is no more information to gain from the benefit you chose, you may swap it out for a different one for free. Mechanical enemies use the 0-cost _mechanical_ trinket affix, which causes the Medicine and Anima skill checks in this list to be made with Tinkering instead. Elemental enemies will have the _primordial_ affix instead, which changes those skill checks into Fontcraft skill checks.
 
 # Track
@@ -59,7 +67,7 @@ The hidden status on you ends immediately after:
 - you spend movement to travel laterally
 - you make an attack against or apply a boon to a creature other than yourself
 
-After you are revealed, you appear in the the tile from which you took the action in question (having been hiding there all along) and have advantage on single-target attacks until the end of the current turn. If the tile(s) are now occupied (and you cannot normally share tiles), you appear in the nearest tile(s) of your choice instead.
+After you are revealed, you appear in the tile from which you took the action in question (having been hiding there all along) and have advantage on single-target attacks until the end of the current turn. If the tile(s) are now occupied (and you cannot normally share tiles), you appear in the nearest tile(s) of your choice instead.
 
 Other creatures can reveal hiding spots by taking the Scan minor action or Track reaction. Hiding spots are also immediately revealed when they no longer suitable, as defined below:
 
