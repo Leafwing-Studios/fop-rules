@@ -2,7 +2,7 @@
 
 Gear in _Fonts of Power_ is always one-of-a-kind, created to match your exact specifications in both its aesthetics and function. The statistics and appearance of equipment in _Fonts of Power_ are not tightly tied. The same item, in a mechanical sense, could be a mace, a sword, or a scimitar. When you craft or purchase an item, you decide on what it looks like and what it’s made of. Try your best to do this in a way that’s consistent with the affixes that define its mechanics, and the world around you.
 
-You can take a look at the affixes available to create your gear [on our website.](https://data.fontsofpower.com/affixes) To help you get started faster, we’ve included some [prebuilt gear](https://docs.google.com/document/d/1q8qNZ45ASF8R-W_Zg_Sw6TnDlidb-4T5y93zmADEJME/edit) for you, ranging from the standard to the fanciful.
+You can take a look at the affixes available to create your gear [on our website.](https://tools.fontsofpower.com/affixes) To help you get started faster, we’ve included some [prebuilt gear](https://docs.google.com/document/d/1q8qNZ45ASF8R-W_Zg_Sw6TnDlidb-4T5y93zmADEJME/edit) for you, ranging from the standard to the fanciful.
 
 All gear is crafted using downtime activities. In general, your gear’s innate properties are created using the Crafting skill, then enchantments are added through either Anima, Arcana, Fontcraft, or Tinkering.
 
@@ -65,7 +65,7 @@ Lend a hand, make a deal or beg a favor; by combining your skills with your alli
 
 ## Affixes
 
-You can find the complete, searchable list of affixes for this game [here.](https://data.fontsofpower.com/affixes)
+You can find the complete, searchable list of affixes for this game [here.](https://tools.fontsofpower.com/affixes)
 
 Several common affixes speak of increasing or decreasing the size of a die. To do so, change the number of sides on the die rolled by 2. For example, increasing the damage die once for a weapon that deals 1d8 damage increases its damage to 1d10. If your weapon deals more than one die of damage, increasing or decreasing its damage die changes only one die at a time. Dice can never drop below a d4; affixes which would cause this to occur cannot be added.
 
