@@ -2,7 +2,7 @@
 
 **Source of Power:** Carefully manipulating the threads of magic that underlie reality, Weavers are masters of the arcane, creating and destroying matter and warping time and space with deft hands and a quick mind.
 
-**Core Mechanic:** Weavers work their magic through Patterns: simple, subtle spells that take effect at the end of the Weaver’s turn. While the Weaver’s concentration holds, these Patterns can be sustained at the cost of essence, allowing them to carefully manipulate the entire battlefield as they
+**Core Mechanic:** Weavers work their magic through Patterns: simple, subtle spells that take effect at the end of the Weaver’s turn. While the Weaver’s concentration holds, these Patterns can be sustained at the cost of essence, allowing them to carefully manipulate the entire battlefield as they stay out of harm's way.
 
 **Specialization:** Each Weaver belongs to a Guild, which specializes in a particular discipline of the craft. This grants them access to specialized patterns, and allows them to shape reality itself during downtime.
 
