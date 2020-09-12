@@ -162,7 +162,7 @@ Intense negative energy floods your bond, hungering for more life force. Choose 
 
 Souls bound as one, you and the creature you are bound to disappear into the aether. Choose one:
 
-- Apply one stack of banished to yourself, then teleport up to 3 tiles into an empty tile of your choice. then apply one stack of banished to yourself.
+- Apply one stack of banished to yourself, then teleport up to 3 tiles into an empty tile of your choice.
 - Make an Expertise attack against your dual. If you hit, apply one stack of banished to yourself, then teleport them up to 3 tiles into an empty tile of your choice.
 
 ## False Hope
@@ -200,7 +200,7 @@ Falsely soothing energy flows through your bond, revealing the true suffering in
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Focus
 
 **Duration:** Instant
 
@@ -323,7 +323,7 @@ When you use this pulse with your Bidirectional Connection feature and hit with 
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** None
 
 **Duration:** Instant
 
@@ -417,7 +417,7 @@ Your bond pulses and throbs as it robs your foe of their defenses. Choose one:
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** None
 
 **Duration:** Instant
 
