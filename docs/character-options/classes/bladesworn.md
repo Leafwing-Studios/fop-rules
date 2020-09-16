@@ -289,7 +289,7 @@ Proud bearers of the revered armaments of their lineage (genetic or otherwise), 
 
 At level 1, you stand firm in the face of overwhelming odds, bolstered by the heft of your blows. Once per round, you may spend 1 essence to enhance your basic attacks (including those made using a counterattack). The number of remaining uses resets at the start of each of your turns.
 
-When you use this feature, your enhanced basic attacks grant yu 3 \* Rhythm + Presence absorption. Like usual, this absorption gain is doubled on a critical hit. This effect is not halved if you use a counterattack that halves efficacy, or by changes to efficacy caused by various weapon modes.
+When you use this feature, your enhanced basic attacks grant you 3 \* Rhythm + Presence absorption. Like usual, this absorption gain is doubled on a critical hit. This effect is not halved if you use a counterattack that halves efficacy, or by changes to efficacy caused by various weapon modes.
 
 ### Weapon Bond: Spirit Weapon
 

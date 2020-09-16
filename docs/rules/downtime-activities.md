@@ -14,7 +14,7 @@ However, if the party is taking an extended rest in a dangerous area, such as an
 
 There are several well-defined downtime activities within the rules for players to select from, granting fairly general and tangible mechanical benefit. While the downtime activities that follow are the most common and generically useful options, they are not intended as an exhaustive list. Other downtime activities should offer similarly tangible benefits, in order to ensure that the choice stays meaningful.
 
-**Enchanting skill checks** made during Downtime Activities use Expertise with either Anima, Arcana, Fontcraft or Tinkering. For the Enchant and Splice downtime activities, the difficulty of this skill check is set by the rarity of the affix that you are modifying:
+**Enchanting skill checks** made during the Devise, Disenchant, Enchant and Splice downtime activities use Expertise with your choice of Anima, Arcana, Fontcraft or Tinkering. For the Enchant and Splice downtime activities, the difficulty of this skill check is set by the rarity of the affix that you are modifying:
 
 - Common: difficulty 10
 - Advanced: difficulty 15
