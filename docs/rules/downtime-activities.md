@@ -103,7 +103,7 @@ You may **recycle** existing consumables in this process. Add the total gear poi
 
 Enchant an item by adding or modifying one of its magical affixes. Creating new enchantments requires access to incredible energy: **you must be at a font of power in order to use the Enchant downtime activity.**
 
-Select an affix. Successfully adding this affix to your gear, consumes 10 essence crystals per gear point of that affix (to a minimum of 5) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 30 essence crystals must be consumed instead.
+Select an affix. Successfully adding this affix to your gear, consumes 10 essence crystals per gear point of that affix (to a minimum of 0) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 30 essence crystals must be consumed instead.
 
 Make an enchanting skill check. If you succeed, add that affix to the item’s enchantment affixes.
 
