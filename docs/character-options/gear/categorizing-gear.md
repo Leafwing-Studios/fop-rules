@@ -49,9 +49,14 @@ When designing your own consumable affixes, it's helpful to keep the following b
 
 </div>
 
-Affixes come in four different **rarities,** which reflect their in-game mechanical complexity and change how difficult they are to craft: **common, advanced, exotic,** and **prismatic.**
+Affixes come in four different **rarities,** which reflect their in-game mechanical complexity and change how difficult they are to craft:
 
-Prismatic affixes are rare, powerful and build-defining, comparable to the **capstone** feature that you receive upon reaching level 20. You may equip your first prismatic affix at level 9, and your second piece at level 17. You cannot equip more than one prismatic affix of a particular type of gear at once, although you may be attuned to two prismatic affixes on seperate weapons and then swap between them.
+- **common:** straightforward, generally useful affixes that are particularly useful on martial characters
+- **advanced:** more nuanced affixes that tend to support a specific playstyle
+- **exotic:** strange, complex and bizarre affixes that radically change how your character plays the game
+- **prismatic:** incredibly powerful, build-defining effects that are comparable to the **capstone** feature that you receive upon reaching level 20
+
+Common, advanced and exotic affixes are intended to have equivalent power levels, while prismatic affixes are about three times as powerful as other affixes. **You may equip your first prismatic affix at level 9, and your second prismatic affix at level 17.** You cannot equip more than one prismatic affix of a particular type of gear at once, although you may be attuned to two prismatic affixes on separate weapons and then swap between them.
 
 Affixes can be applied either as **innate affixes** or **enchanted affixes** (sometimes called **enchantments**). Innate affixes determine the basic properties of the gear, such as a weapon’s reach, or whether a set of armor is covered in lacerating spikes. **Innate affixes are restricted to the common rarity affixes, reflecting their simpler construction.**
 
