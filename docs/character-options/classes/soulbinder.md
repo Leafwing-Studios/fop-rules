@@ -10,8 +10,8 @@
 
 **Build Fundamentals:** Soulbinders can be built to be insidious controllers, dedicated guardians or even assassin-esque strikers:S
 
-- Controller: Focus on completely locking down a single target with ailments and afflictions and mitigate their effects on yourself with armor affixes like _ailmental immunity_. The _imbued strikes_ and _cruel strikes_ affixes are very useful to allow your basic attacks to generate more stacks.
-- Guardian: Specialize in protecting and empowering a single ally with absorption and subtly supportive effects. Damageless ranged weapons (created by stacking the _defensive_ affix twice) can be a great option for quickly swapping targets when they’re outside the range of your Treat minor action.
+- Controller: Focus on completely locking down a single target with ailments and afflictions and mitigate their effects on yourself with armor affixes like _ailment immunity_. The _imbued strikes_ and _cruel strikes_ affixes are very useful to allow your basic attacks to generate more stacks.
+- Guardian: Specialize in protecting and empowering a single ally with absorption and subtly supportive effects. Ranged weapons with the _harmless strikes_ affix can be a great option for quickly swapping targets when they’re outside the range of your Treat minor action.
 - Striker: The soul burst pulse will be your bread and butter, encouraging you to blend your pulses with your enhanced basic attacks. Isolate a single target and then focus them down relentlessly, selecting pulses that remove their ability to defend themselves or rejoin the group.
 
 <div class="side-panel">

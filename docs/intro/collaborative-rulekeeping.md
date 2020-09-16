@@ -38,7 +38,7 @@ If you're unsure of how a rule or interaction should work, the following princip
 - **Specific rules beat general ones.**
 - **Every option presented should be genuinely useful,** at least sometimes.
   - This also requires that no option be overwhelmingly strong.
-  - Ailmental power is a great tool here.
+  - Conditional power is a great tool here.
 - **Effects intended as an improvement or penalty should work as such,** unless there’s a clear reason why they don’t.
   - Working around limitations or drawbacks should come with a cost in some form, or require specific and narrow circumstances.
   - Previous features, especially skills, should not be invalidated completely.
