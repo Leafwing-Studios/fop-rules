@@ -86,7 +86,7 @@ Pulses work somewhat differently than other powers due to the sustained connecti
 - When the connection is broken, all ongoing effects due to a pulse (other than ailments, afflictions or absorption applied) immediately end.
 - Even though your pulses are ranged attacks, you do not have disadvantage on attacks made with your pulses due to being in an enemy zone of control.
 - You do not need to have line of sight to your dual (or know where they are hidden) to affect your dual with a pulse.
--  If you hit your dual with a pulse attack while they are hidden they are automatically revealed.
+-  If you hit an enemy dual with a pulse attack while they are hidden they are automatically revealed.
   
 You learn two pulses of your choice at level 1, and learn an additional pulse at levels 4, 8, 12, 16 and 19 as shown in the Soulbinder table. You may select these pulses from the list at the end of this class description.
 
