@@ -8,7 +8,7 @@
 
 **Approach to Adventure:** Soulbinders make for excellent spies, scouts and assassins: gaining access to features that improve their ability to manipulate their duals, while several of their pulses enhance their stealth capabilities.
 
-**Build Fundamentals:** Soulbinders can be built to be insidious controllers, dedicated guardians or even assassin-esque strikers:S
+**Build Fundamentals:** Soulbinders can be built to be insidious controllers, dedicated guardians or even assassin-esque strikers:
 
 - Controller: Focus on completely locking down a single target with ailments and afflictions and mitigate their effects on yourself with armor affixes like _ailment immunity_. The _imbued strikes_ and _cruel strikes_ affixes are very useful to allow your basic attacks to generate more stacks.
 - Guardian: Specialize in protecting and empowering a single ally with absorption and subtly supportive effects. Ranged weapons with the _harmless strikes_ affix can be a great option for quickly swapping targets when they’re outside the range of your Treat minor action.
@@ -69,14 +69,25 @@
 
 When a Soulbinder touches a creature, a fleeting connection is forged, linking their souls together in a way that the soulbinder can use to help or harm their target.
 
-Whenever you hit a creature with a basic attack, or use the Treat minor action on an ally, you become **bound** to them, and they become your **dual.** You do not need to attempt to remove ailments or afflictions from your ally in order to gain this benefit. Outside of combat, merely touching a creature, such as by shaking their hand or bumping into them, is sufficient to create this bond.
+Whenever you hit a creature with a basic attack, or use the Treat minor action on an ally, you become **bound** to them, and they become your **dual.** You do not need to attempt to remove ailments or afflictions from your ally in order to gain this benefit. You may only have one dual at a time; hitting a creature with a basic attack or using the Treat minor action on an ally replaces your existing connection if any.
 
-You may only have one dual at a time; forming a new connection replaces the previous one. The bond expires if you end your turn more than 12 tiles away from your dual or your concentration is lost. When this happens, any ongoing effect of your pulses immediately ends.
+Outside of combat, merely touching a creature, such as by shaking their hand or bumping into them, is sufficient to create this bond.
 
-While you are bound to a creature, you may apply a pulse to your dual, exploiting the connection formed to send a carefully crafted packet of essence to them. Pulses always take a minor action and cost 1 essence. Every pulse has two effects available to select: one that primarily affects you, and one that primarily affects the creature you are bound to. When you use a pulse, choose one of these effects.
+While you are bound to a dual, you may use **pulses**, exploiting the connection formed to send a carefully crafted packet of essence to or from them. Pulses always take a minor action and cost 1 essence. Every pulse has two effects available to select: one that primarily affects you, and one that primarily affects the creature you are bound to. When you use a pulse, choose one of these effects.
 
-Even though pulses are ranged attacks, you do not have disadvantage on attacks made with your pulses due to being in an enemy zone of control.
+While you are bound to a creature, you may apply a pulse to your dual, 
 
+Pulses work somewhat differently than other powers due to the sustained connection formed:
+
+- At the start of each of your turns, if you are more than 12 tiles away from your dual the connection is broken.
+  - This ignores line of sight, and scales with modifications to the range of your powers.
+  - If the target is hidden, measure from their closest hiding spot.
+- If your concentration is broken, the connection is broken.
+- When the connection is broken, all ongoing effects due to a pulse (other than ailments, afflictions or absorption applied) immediately end.
+- Even though your pulses are ranged attacks, you do not have disadvantage on attacks made with your pulses due to being in an enemy zone of control.
+- You do not need to have line of sight to your dual (or know where they are hidden) to affect your dual with a pulse.
+-  If you hit an enemy dual with a pulse attack while they are hidden they are automatically revealed.
+  
 You learn two pulses of your choice at level 1, and learn an additional pulse at levels 4, 8, 12, 16 and 19 as shown in the Soulbinder table. You may select these pulses from the list at the end of this class description.
 
 You also learn the two following pulses immediately upon gaining this feature, which do not count against your pulses known. Choose the type of damage that soul burst deals when you learn it.
