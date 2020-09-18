@@ -240,7 +240,7 @@ With a whispered prayer you transform into the wind for a moment, before reappea
 
 </div>
 
-Nothing occurs when you first cast this miracle, although a strange breeze begins to blow over your allies. Select up to 6 allied creatures within range when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
+Nothing occurs when you first cast this miracle, although a strange breeze begins to blow over your allies. Select any number of allied creatures within range when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
 While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and you and your allies are carried away as you become one with the four winds.
 
@@ -328,7 +328,7 @@ Your blade hardens to stone, crushing your enemies. Make a basic attack against 
 
 </div>
 
-Your body hardens to stone as you are granted incredible strength. For the duration of this effect, your basic attacks are automatically criticals if they hit. you have advantage on all Prowess (Athletics) checks, and you gain 4 absorption at the start of each of your turns.
+Your body hardens to stone as you are granted incredible strength. For the duration of this effect, your basic attacks are automatically criticals if they hit. You have advantage on all Prowess (Athletics) checks, and you gain 4 absorption at the start of each of your turns.
 
 ### Blessing of Diamonds
 
@@ -598,6 +598,307 @@ The earth quakes and roars with the might of a god. Select a tile within range. 
 For the duration of this effect, whenever a creature starts their turn in the earthquake or enters it for the first time on their turn, make an Agility attack against them. If you hit, deal 4d6 + 4 \* Presence earth damage. If you miss, they suffer the effects at half efficacy.
 
 ## Fire
+
+### Avatar of the Blaze
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon ignites with an otherworldly fire. Make a basic attack against a creature of your choice. If you hit, all damage dealt is converted to fire damage and apply 2 stacks of aflame.
+
+### Avatar of the Blaze - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Self
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Your body is surrounded by intense flames, cracking and burning. For the duration of this effect, your basic attacks are automatically criticals if they hit. After you hit a creature with a basic attack, deal 1d8 + Presence fire damage to all creatures within 1 tile of them, other than yourself. At the end of each of your turns, apply 6 + Presence stacks of aflame to each other creature within a 1 tile radius of yourself.
+
+### Blessing of the Hearth
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+Cinders swirl around your ally, granting them its blessing. Select a creature within range. They gain 6 + Presence absorption and are resistant to fire damage for the duration of this effect.
+
+### Blessing of the Hearth - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+The familiar comfort of the hearth warms your allies hearts, bolstering their courage. Select a creature within range. For the duration of this effect, they ignore all ailments and are immune to damage from afflictions.
+
+### Curse of Embers
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Focus
+
+**Duration:** Until the end of the target's next turn
+
+</div>
+
+Your foe ignites as you curse their name. Make a Focus attack against a creature of your choice within range. If you hit, apply 6 + Presence stacks of aflame.
+
+### Curse of Embers - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Focus
+
+**Duration:** Concentration
+
+</div>
+
+Embers form under the feet of your victim, burning them if they stop moving, mocking them as they attempt to escape the curse.
+
+When you cast this miracle, select a creature within range. At the start of each of your turns, make an Agility attack against them. If you hit, apply 3 + 1/2 Presence stacks of aflame, then double their current stacks of aflame. Hit or miss, deal fire damage to them equal to their current stacks of aflame.
+
+### Gift of Flames
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Instant
+
+</div>
+
+Crackling flames retaliate against those who strike your ally. Until the end of your next turn, whenever the creature affected is hit by a single-target attack, deal 1d8 + Presence fire damage to the creature that hit them.
+
+### Gift of Flames - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Focus
+
+**Duration:** Concentration
+
+</div>
+
+A trail of flame follows your chosen bringer of destruction, scorching everything in their wake.
+
+When you use this miracle, choose a creature within range. For the duration of this effect, at the end of each of the affected creature's turns, create the scorched earth ground effect in each tile that they moved through this turn, and remove all other scorched earth ground effects created by this effect.
+
+Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
+
+### Genesis of Ash
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 12 tiles
+
+**Targets:** Multi-target
+
+**Attack:** None
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+The land begins to smoulder and burn as it turns to ash. Choose up to 6 adjacent tiles. They are affected by the scorched earth ground effect until the end of your next turn.
+
+Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
+
+### Genesis of Ash - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 12 tiles
+**Targets:** Multi-target
+
+**Attack:** None
+
+**Duration:** Concentration, Persisting
+
+</div>
+
+The land itself ignites, devouring all.
+
+For the duration of this effect, scorched earth ground effects are not removed at the end of their duration (or as part of _gift of flame_). Whenever a creature takes damage due to the scorched earth ground effect, add the scorched earth ground effect to an unaffected tile of your choice that is connected to the tile that dealt damage. If a creature takes damage due to passing through multiple scorched earth ground effects, create one new tile for each tile that dealt damage.
+
+Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
+
+### Portent of the Phoenix
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Instant
+
+</div>
+
+As you pray, an ally is wrapped in rejuvenating flame, bringing them back from the brink of death. Select a creature that is on death's door. Until the end of your next turn, the first time that they would die, they are restored to half life instead, and gain stacks of aflame equal to half their life.
+
+### Portent of the Phoenix - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 24 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Prowess
+
+**Duration:** Concentration
+
+</div>
+
+Nothing occurs when you first cast this miracle, although tiny harmless flames begin to flicker along the bodies of any number of willing creatures within range that you select when you first cast this miracle. The portent comes to pass the first time that, at the start of your turn, your Favor is 5 or more. Your concentration on this Miracle ends and the creatures that you selected are wrapped in flame as they are reborn and reinvigorated.
+
+For the next 5 rounds, the creatures that you selected are stunned but immune to all effects, including attacks, damage, other boons, forced movement, ailments or afflictions. At the end of this effect, the party gains the benefit of a rest.
+
+Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect. You cannot attempt to Pray to cast other miracles while you are concentrating on this effect.
+
+### Wrath of the Inferno
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Agility
+
+**Duration:** Instant
+
+</div>
+
+Flames fall from the sky ominously. Make an Agility attack against all creatures in a 5 foot radius. Deal 1d4 + Presence fire damage to all that you hit.
+
+### Wrath of the Inferno - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 24 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Agility
+
+**Duration:** Concentration
+
+</div>
+
+Fire and brimstone pour forth from the heavens, wreaking devastation and spreading chaos. Select a tile within range, and create a 20 foot radius firestorm around it.
+
+These tiles gain the scorched earth ground effect and firestorm tile effect.
+
+Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
+
+Tiles that have the firestorm tile effect deal 2d6 + 2 \* Presence fire damage to creatures that occupy them.
 
 ## Water
 
