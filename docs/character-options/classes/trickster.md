@@ -138,7 +138,7 @@ Also at level 2, you revel in the mockery of your opponents as they swing wildly
 
 At level 3, you learn to vanish into thin air, becoming invisible for a brief period of time. Whenever you use the Hide minor action, you may become invisible until the start of your next turn. The invisibility breaks immediately after making an attack.
 
-If you choose, you may decide to apply this invisibility to only the parts of your body and objects that you are wearing or carrying of your choice. You have advantage on all Agility (Trickery) skill checks to conceal items if you use this feature to make the item invisible.
+If you choose, you may decide to apply this invisibility to only the parts of your body and objects that you are wearing or carrying of your choice. Doing so prevents you from gaining the invisible status (or any of its benefits), but you have advantage on all Agility (Trickery) skill checks to conceal items if you use this feature to make the item invisible.
 
 ## Double or Nothing
 
@@ -180,7 +180,7 @@ At level 6, you can talk your way out of almost anything. Once per rest, after y
 
 ## Disappear
 
-When you reach level 10, you’ve mastered the art of invisibility. The invisibility granted by your Vanish class feature now lasts until the end of your next turn instead, allowing you to stay invisible by repeatedly using the Hide minor action. This invisibility is still broken immediately after making an attack.
+When you reach level 10, you’ve mastered the art of invisibility. The invisibility granted by your Vanish class feature now lasts until the end of your next turn instead. This allows you to stay invisible by repeatedly using the Hide minor action. This invisibility is still broken immediately after making an attack.
 
 ## Dirty Trick
 
