@@ -29,7 +29,7 @@ Every item was originally created by a particular skill, and its appearance clea
 
 ## Attune
 
-Forge a connection with pieces of magical gear, allowing you to tap into its magic. You only gain the benefits (or drawbacks) of any enchanted affixes of gear that you have equipped while you are attuned to it. When you use this downtime activity, you may complete change the items that you are attuned to, attuning (or unattuning) to any number of items up to your personal **attument limit** of:
+Forge a connection with pieces of magical gear, allowing you to tap into its magic. You only gain the benefits (or drawbacks) of any enchanted affixes of gear that you have equipped while you are attuned to it. When you use this downtime activity, you may complete change the items that you are attuned to, attuning (or unattuning) to any number of items up to your personal **attunement limit** of:
 
 - two sets of arms
 - one set of armor
@@ -138,7 +138,7 @@ Remove an additional stack of exhaustion or restore half your maximum life.
 
 ## Resupply
 
-Purchase supplies, borrow them from the locals or scavenge them from the surrounding environment. Reset the party’s Supplies die to a d6 and remove all existing adventuring gear that you have. The details of how and where you resupply influence the plausibility of having various useful pieces of equipment; it’s trivial to find firewood in the middle of a dark forest but quite hard to come across a new set of lockpicks.
+Purchase supplies, borrow them from the locals or scavenge them from the surrounding environment. Reset the party’s Supplies die to a d6 and remove all existing adventuring gear that you have. The details of how and where you resupply influence the plausibility of having various useful pieces of equipment; it’s trivial to find firewood in the middle of a dark forest but quite hard to come across a new set of lock-picks.
 
 See the Prepared for Anything section in the Gear chapter for more details on how Supply and adventuring gear works.
 
