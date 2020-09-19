@@ -58,17 +58,17 @@ Slip away from the fray for a moment, hiding on one of several possible places. 
   - The spot is within range of your available movement when you take the Hide minor action
   - The spot is in a place that you could end your turn normally
   - The spot is large enough to contain all of your tiles
-  - The spot would not trigger an obvious effect when moving into it (such as an *alarm* consumable, walking through a pool of acid, or triggering an attack of opportunity)
+  - Reaching the spot would not trigger an tile effect or attack of opportunity
 - **Veiled**
   1. At least one of the following is true:
-     1. the area is in darkness
-     2. the area is heavily shrouded
-     3. the area behind full cover, relative to all enemy creatures
+     1. the spot is in darkness
+     2. the spot is heavily shrouded
+     3. the spot behind full cover, relative to all enemy creatures
   2. Or, at least two of the following are true:
-     1. the area is in dim light
-     2. the area is lightly shrouded
-     3. the area is behind partial (or full) cover, relative to all enemy creatures
-     
+     1. the spot is in dim light
+     2. the spot is lightly shrouded
+     3. the spot is behind partial (or full) cover, relative to all enemy creatures
+
 After you have selected your hiding spots, choose one that you are hidden in and secretly record it. You are in this space, although no one else is aware of this, including your allies. After you are revealed, show the secret record to your fellow players.
 
 If you take the Hide minor action while already hidden, designate new hiding spots in addition to your current ones. These spots must be veiled and reasonable, except that they do not need to be reachable from your current spot, but they must be reachable from at least one of your active spots. Once you have chosen the new spots, you may move into any of your active hiding spots as long as they are reachable from your current location. This allows you to carefully move while hidden, expanding the network of your potential locations the longer you go without being found.
@@ -81,17 +81,17 @@ Interact with an object in your environment. You might pull a lever, quickly sla
 
 Take a moment to learn more about your surroundings. If you are skilled enough to effortlessly learn about what you focus on, you may still have time to learn something else. Whenever you take the Scan minor action, immediately gain one of the benefits listed below. Then, you may roll the listed skill check. If the result is 15 or higher, you may repeat the Scan minor action (choosing a different benefit if desired).
 
-- **Reveal:** Choose a hiding spot within 6 tiles and reveal it. 
+- **Reveal:** Choose a hiding spot within 6 tiles and reveal it.
   - Focus (Perception). You have advantage on this skill check if you are adjacent to the chosen tile, and disadvantage if it is more than 3 tiles away from you.
-- **Size Up:** Learn the attributes, tier and turns per round of a creature of your choice. 
+- **Size Up:** Learn the attributes, tier and turns per round of a creature of your choice.
   - Focus (Anima)
-- **Triage:** Learn the percentage of life and the number of stacks of exhaustion that another creature is at. 
+- **Triage:** Learn the percentage of life and the number of stacks of exhaustion that another creature is at.
   - Focus (Medicine)
-- **Classify:** Learn either the arms, armor, or trinket affixes of a creature of your choice. If you choose to learn their trinket affixes, you also learn the skills that they are proficient in. 
+- **Classify:** Learn either the arms, armor, or trinket affixes of a creature of your choice. If you choose to learn their trinket affixes, you also learn the skills that they are proficient in.
   - Expertise (Anima)
-- **Identify:** Learn the details of a single power of your choice. You have advantage on this skill check if this power was used since your last turn. 
+- **Identify:** Learn the details of a single power of your choice. You have advantage on this skill check if this power was used since your last turn.
   - Expertise (Arcana)
-- **Scout:** Learn the details of a vantage of your choice. If you do not specify a particular vantage, learn one of the worldspeaker's choice instead. 
+- **Scout:** Learn the details of a vantage of your choice. If you do not specify a particular vantage, learn one of the worldspeaker's choice instead.
   - Expertise (Arcana | Anima | Fontcraft | Tinkering). The skill used depends on the details of the vantage, and is specified in its description.
 
 <div class="infobox">
