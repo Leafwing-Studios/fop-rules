@@ -2,14 +2,21 @@
 
 ## Tile Effects
 
-While in combat, tiles are commonly modified in dangerous or interesting ways: sacred shrines, clinging fog, walls of fire and so on. Collectively, these are referred to as **tile effects.** Creatures moving by teleportation ignore the tile effects of the tiles that they cross. Typically, a tile effect will trigger "the first time that a creature enters this effect, or begins their turn in this tile efffect" which ensures that they trigger once for every turn that the creature takes, no matter how they end up moving.
+While in combat, tiles are commonly modified in dangerous or interesting ways: sacred shrines, clinging fog, walls of fire and so on. Collectively, these are referred to as **tile effects.** Creatures moving by teleportation ignore the tile effects of the tiles that they cross.
+
+Tile effects (including ground effects) always trigger when:
+
+- a creature begins their turn in the tile effect
+- a creature enters the tile effect for the first time in a turn
+
+This ensures that they trigger once for every turn that the creature takes, no matter how they end up moving.
 
 Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground. This subset of tile effects are called **ground effects.** As you might expect, flying creatures ignore ground effects.
 
-The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions, unsteady footing or something similar. While on difficult terrain:
+The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions, unsteady footing or something similar. The difficult terrain ground effect causes:
 
-- Double all lateral movement costs.
-- Tiles covered with difficult terrain count as 2 tiles for the purposes of forced movement (other than teleportation).
+- Lateral movement costs are doubled.
+- These tiles count as 2 tiles for the purposes of forced movement (other than teleportation).
 
 ## Visibility and Cover
 
@@ -51,7 +58,7 @@ Physical objects can also affect visibility and, independently, provide **cover,
 
 **Partial cover** is provided by things like castle parapets, a pile of boxes or a sturdy tree. While your target is behind partial cover, attacks that you make have disadvantage. Creatures that are at least one tile larger than the target grant partial cover.
 
-**Full cover** is commonly granted by things like solid walls, closed doors or being inside of a monsters's stomach. While your target is behind full cover, your attacks automatically miss, and you cannot target them with other effects such as when applying boons, creating ground effects or using the Scan minor action or Track reaction.
+**Full cover** is commonly granted by things like solid walls, closed doors or being inside of a monster's stomach. While your target is behind full cover, your attacks automatically miss, and you cannot target them with other effects such as when applying boons, creating ground effects or using the Scan minor action or Track reaction.
 
 When an effect does not physically originate from the attacking creature, cover needs to be calculated with respect to the target and the source of the effect. This is an important rule when, for example, a ball of fire explodes in mid-air, or the ground becomes covered in a dangerous effect.
 
@@ -69,11 +76,11 @@ Creatures can safely travel up or down a height tiers (either by forced movement
 
 When you shift, you may travel up or down in this fashion instead. You cannot split your climbing over several turns: at the end of your turn, you return to the height tier of the tile that you are standing on. To make flying in combat more fun (and balanced), this applies to flying creatures as well. Flying creatures cannot increase their height tier freely, and are always considered to be at the height tier of the tile that they are above.
 
-Edges betweeen height tiers can be marked as **gradual**, which is useful when creating hills, stairs or ramps. Travelling up or down a height tier over a gradual edge costs only one tile of movement.
+Edges between height tiers can be marked as **gradual**, which is useful when creating hills, stairs or ramps. Travelling up or down a height tier over a gradual edge costs only one tile of movement.
 
 Spending movement in this way only moves you vertically; if, for examples, you are trying to climb on top of a table, you would need to spend two tiles of movement to move up, then an additional tile of movement to move from the tile on the floor to the tile above the table.
 
-When determinining ranges, treat tiles as if they were one tile further away for each height tier between the attacker and the defender.
+When determining ranges, treat tiles as if they were one tile further away for each height tier between the attacker and the defender.
 Height tiers provide different types of cover depending on the relative positioning of the attacker and the defender.
 
 When a higher tier is in-between the two combatants:
@@ -88,7 +95,7 @@ When the combatants are at different height tiers:
 - When the creature on the higher tier is one tile back from the relevant edge of their tier, both creatures have partial cover.
 - When the creature on the higher tier is one tile back from the relevant edge of their tier, both creatures have full cover.
 
-### Falling {docsify-ignore}
+### Falling
 
 When falling from a higher tier to a lower one, characters take damage based on the height fallen. Jumping down to another tier inflicts falling damage but does not cost extra movement.
 
