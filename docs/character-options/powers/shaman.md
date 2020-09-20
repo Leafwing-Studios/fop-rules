@@ -1,5 +1,7 @@
 # Manifestations
 
+The available manifestations are listed below, while the domain-specific customizations for each manifestation is listed after the end of the list.
+
 ## Blade
 
 When you use the Swap minor action, you may summon a blade of swirling elements to your hand. These weapons (which can take any form you wish) are powered by your innate energy, granting you additional power but fading shortly after they leave your grasp.
@@ -8,28 +10,28 @@ When you learn this manifestation, create a set of arms using the standard rules
 
 These arms always have the _elemental weaponry_ affix corresponding to the element associated with your domain, changing the type of damage that they deal.
 
-When you use the Strike major action (including as an attack of opportunity), you can Surge this manifestation:
+When you use the Strike major action (including as an attack of opportunity) while you have these arms equipped, you can Surge this manifestation:
 
-- **Odd:** These arms gain additional affixes that persist until the sooner of a) the next time you make a basic attack or b) the start of your next turn or c) you unequip these arms.
-- **Even:** The next basic attack with these arms deal additional damage if it hits.
+- **Odd:** The basic attack made benefits from a number of copies of the affix specified in your domain.
+- **Even:** The basic attack made deal additional elemental damage if it hits.
 
-**Characteristic Manifestation:** Your arms created by the Blade manifestation have the **shifting** affix. This affix allows you to select two forms for the arms created, which you may choose between whenever you use the Swap minor action. When you use the Attune downtime activity you may change their form completely, replacing their innate affixes with new ones.
+**Characteristic Manifestation:** Your arms created by the Blade manifestation have the _shifting_ affix. This affix allows you to select two forms for the arms created, which you may choose between whenever you use the Swap minor action. When you use the Attune downtime activity you may change their form completely, replacing their innate affixes with new ones.
 
-| Surge | Additional Affixes |  Additional Damage  |
-| :---: | :----------------: | :-----------------: |
-|   0   |         0          |          0          |
-|   1   |         1          |          0          |
-|   2   |         1          |   1d8 + Presence    |
-|   3   |         2          |   1d8 + Presence    |
-|   4   |         2          | 2d8 + 2 \* Presence |
-|   5   |         3          | 2d8 + 2 \* Presence |
-|   6   |         3          | 3d8 + 3 \* Presence |
-|   7   |         4          | 3d8 + 3 \* Presence |
-|   8   |         4          | 4d8 + 4 \* Presence |
-|   9   |         5          | 4d8 + 4 \* Presence |
-|  10   |         5          | 5d8 + 5 \* Presence |
-|  11   |         6          | 5d8 + 5 \* Presence |
-|  12   |         6          | 6d8 + 6 \* Presence |
+| Surge | Affix Copies |  Additional Damage  |
+| :---: | :----------: | :-----------------: |
+|   0   |      0       |          0          |
+|   1   |      1       |          0          |
+|   2   |      1       |   1d8 + Presence    |
+|   3   |      2       |   1d8 + Presence    |
+|   4   |      2       | 2d8 + 2 \* Presence |
+|   5   |      3       | 2d8 + 2 \* Presence |
+|   6   |      3       | 3d8 + 3 \* Presence |
+|   7   |      4       | 3d8 + 3 \* Presence |
+|   8   |      4       | 4d8 + 4 \* Presence |
+|   9   |      5       | 4d8 + 4 \* Presence |
+|  10   |      5       | 5d8 + 5 \* Presence |
+|  11   |      6       | 5d8 + 5 \* Presence |
+|  12   |      6       | 6d8 + 6 \* Presence |
 
 ## Blast
 
@@ -126,28 +128,28 @@ When you learn this manifestation, create a set of arms using the standard rules
 
 These arms always have the _grasping_ affix, which makes you unable to make basic attacks with them but grants you an automatic Expose attack after you hit a creature with a Grapple attack.
 
-When you use the Grapple major action (including as an attack of opportunity), you can Surge this manifestation:
+Whenever you use the Swap minor action, you may choose to augment these arms, and do not need to replace your currently equipped arms. At higher surge levels:
 
-- **Odd:** These arms gain additional affixes that persist until the sooner of a) the start of your next turn or b) you unequip these arms.
-- **Even:** These arms deal additional elemental damage at the end of each of your turns to each creature that you are grappling.
+- **Odd:** Make a Prowess attack against a creature of your choice within range. If you hit, pull them into the nearest empty tile(s). Ties are broken by distance to the shaman, then distance to the creature's original position, then the shaman's choice.
+- **Even:** At the end of your turn, deal additional elemental damage to each creature that you are grappling.
 
-| Surge | Additional Affixes |  Additional Damage  |
-| :---: | :----------------: | :-----------------: |
-|   0   |         0          |          0          |
-|   1   |         1          |          0          |
-|   2   |         1          |   1d8 + Presence    |
-|   3   |         2          |   1d8 + Presence    |
-|   4   |         2          | 2d8 + 2 \* Presence |
-|   5   |         3          | 2d8 + 2 \* Presence |
-|   6   |         3          | 3d8 + 3 \* Presence |
-|   7   |         4          | 3d8 + 3 \* Presence |
-|   8   |         4          | 4d8 + 4 \* Presence |
-|   9   |         5          | 4d8 + 4 \* Presence |
-|  10   |         5          | 5d8 + 5 \* Presence |
-|  11   |         6          | 5d8 + 5 \* Presence |
-|  12   |         6          | 6d8 + 6 \* Presence |
+| Surge | Pull Range |  Additional Damage  |
+| :---: | :--------: | :-----------------: |
+|   0   |     0      |          0          |
+|   1   |     2      |          0          |
+|   2   |     2      |   1d8 + Presence    |
+|   3   |     4      |   1d8 + Presence    |
+|   4   |     4      | 2d8 + 2 \* Presence |
+|   5   |     6      | 2d8 + 2 \* Presence |
+|   6   |     6      | 3d8 + 3 \* Presence |
+|   7   |     8      | 3d8 + 3 \* Presence |
+|   8   |     8      | 4d8 + 4 \* Presence |
+|   9   |     10     | 4d8 + 4 \* Presence |
+|  10   |     10     | 5d8 + 5 \* Presence |
+|  11   |     12     | 5d8 + 5 \* Presence |
+|  12   |     12     | 6d8 + 6 \* Presence |
 
-**Characteristic Manifestation:** The arms created by your Grasp manifestation have the _grasping appendages_ affix, which allows you to grapple any number of creatures at once.
+**Characteristic Manifestation:** The arms created by your Grasp manifestation have the _grasping appendages_ affix, which allows you to continue to make Grapple attacks against new creatures even once you have a creature grappled.
 
 ## Meteor
 
@@ -227,37 +229,36 @@ When you Surge this manifestation:
 ## Shaping
 
 The elements coat the ground or form a barrier, shaping the battlefield to your advantage.
-You may use this Manifestation as a minor action with a range of 12 tiles.
-Your Shaping manifestation creates a tile effect as described by your Domain. The tiles that you modify with each use of this manifestation must always be connected, although separate uses of it need not be.
+You may use this Manifestation as a major action, creating tile effects described in your Domain in a range of 12 tiles.
 
-After you create new tile effects, roll a d20 to see if the Shaping manifestation is triggered.
-If the result is at least the triggering threshold, a special effect occurs on all tiles covered by your Shaping manifestation as described by your domain.
-As a party, you may spend a Resolve to modify the outcome of this triggering roll.
+Each time you use this manifestation, you must create the exact number of tiles specified in the Surge table. You cannot affect a tile that already has this tile effect, although they need not be connected. If there are not enough suitable tiles within range, convert all remaining tiles instead.
 
-You may have any number of tiles affected by your Shaping manifestation. It persists as long as you maintain your concentration but if you lose your concentration during this time, the effect immediately ends. You may also choose to end this effect for all affected tiles at the end of each of your turns.
+After you create new tile effects, an active effect, specified in your domain, occurs in a single tile of your choice within range that has this tile effect. These active effects alway persists until at least the end of your next turn.
+
+You may have any number of tiles affected by your Shaping manifestation. It persists as long as you maintain your concentration but if you lose your concentration during this time, the effect immediately ends. At the end of each of your turns, you may choose to end this effect completely.
 
 When you Surge this manifestation:
 
 - **Odd:** The number of tiles affected increases.
-- **Even:** The triggering threshold decreases.
+- **Even:** The active effect occurs more times.
 
 **Characteristic Manifestation:** When you use your Shaping manifestation, roll twice to determine whether it is triggered, and choose the roll you prefer.
 
-| Surge | Affected Tiles | Triggering Threshold |
-| :---: | :------------: | :------------------: |
-|   0   |       3        |          15          |
-|   1   |       6        |          15          |
-|   2   |       6        |          13          |
-|   3   |       9        |          13          |
-|   4   |       9        |          11          |
-|   5   |       12       |          11          |
-|   6   |       12       |          9           |
-|   7   |       15       |          9           |
-|   8   |       15       |          7           |
-|   9   |       18       |          7           |
-|  10   |       18       |          5           |
-|  11   |       21       |          5           |
-|  12   |       21       |          3           |
+| Surge | Affected Tiles | Copies of Active Effect |
+| :---: | :------------: | :---------------------: |
+|   0   |       3        |            1            |
+|   1   |       6        |            1            |
+|   2   |       6        |            2            |
+|   3   |       9        |            2            |
+|   4   |       9        |            3            |
+|   5   |       12       |            3            |
+|   6   |       12       |            4            |
+|   7   |       15       |            4            |
+|   8   |       15       |            5            |
+|   9   |       18       |            5            |
+|  10   |       18       |            6            |
+|  11   |       21       |            6            |
+|  12   |       21       |            7            |
 
 ## Shelter
 
@@ -397,18 +398,122 @@ When you Surge this manifestation:
 
 **Characteristic Manifestation:** Whenever you use your Word manifestation you may choose which affliction to apply, rather than always applying unstable.
 
-| Surge | Stacks of Ailment | Stacks of Unstable |
-| :---: | :---------------: | :----------------: |
-|   0   |         0         |    6 + Presence    |
-|   1   |         1         |    6 + Presence    |
-|   2   |         1         | 12 + 2 \* Presence |
-|   3   |         2         | 12 + 2 \* Presence |
-|   4   |         2         | 18 + 3 \* Presence |
-|   5   |         3         | 18 + 3 \* Presence |
-|   6   |         3         | 24 + 4 \* Presence |
-|   7   |         4         | 24 + 4 \* Presence |
-|   8   |         4         | 30 + 5 \* Presence |
-|   9   |         5         | 30 + 5 \* Presence |
-|  10   |         5         | 36 + 6 \* Presence |
-|  11   |         6         | 42 + 7 \* Presence |
-|  12   |         6         | 42 + 7 \* Presence |
+| Surge | Ailment Stacks | Stacks of Unstable |
+| :---: | :------------: | :----------------: |
+|   0   |       0        |    6 + Presence    |
+|   1   |       1        |    6 + Presence    |
+|   2   |       1        | 12 + 2 \* Presence |
+|   3   |       2        | 12 + 2 \* Presence |
+|   4   |       2        | 18 + 3 \* Presence |
+|   5   |       3        | 18 + 3 \* Presence |
+|   6   |       3        | 24 + 4 \* Presence |
+|   7   |       4        | 24 + 4 \* Presence |
+|   8   |       4        | 30 + 5 \* Presence |
+|   9   |       5        | 30 + 5 \* Presence |
+|  10   |       5        | 36 + 6 \* Presence |
+|  11   |       6        | 42 + 7 \* Presence |
+|  12   |       6        | 42 + 7 \* Presence |
+
+# Domains
+
+## Forest
+
+**Blade:** Your _blade_ manifestation gains copies of the [???]() affix.
+
+**Roots:** Your _roots_ manifestation applies stacks of ??? to all creatures who come near.
+
+**Shaping:** Your _shaping_ manifestation creates the ??? tile effect:
+
+- ??
+- ??
+
+When you activate your shaping manifestation...
+
+**Storm:** Your _storm_ manifestation also ??? to creatures that it hits.
+
+**Word:** Your _word_ manifestation applies stacks of the ??? ailment.
+
+## Mountain
+
+**Blade:** Your _blade_ manifestation gains copies of the [???]() affix.
+
+**Roots:** Your _roots_ manifestation applies stacks of ??? to all creatures who come near.
+
+**Shaping:** Your _shaping_ manifestation creates the ??? tile effect:
+
+- ??
+- ??
+
+When you activate your shaping manifestation...
+
+**Storm:** Your _storm_ manifestation also ??? to creatures that it hits.
+
+**Word:** Your _word_ manifestation applies stacks of the ??? ailment.
+
+## Sea
+
+**Blade:** Your _blade_ manifestation gains copies of the [???]() affix.
+
+**Roots:** Your _roots_ manifestation applies stacks of ??? to all creatures who come near.
+
+**Shaping:** Your _shaping_ manifestation creates the ??? tile effect:
+
+- ??
+- ??
+
+When you activate your shaping manifestation...
+
+**Storm:** Your _storm_ manifestation also ??? to creatures that it hits.
+
+**Word:** Your _word_ manifestation applies stacks of the ??? ailment.
+
+## Sky
+
+**Blade:** Your _blade_ manifestation gains copies of the [???]() affix.
+
+**Roots:** Your _roots_ manifestation applies stacks of ??? to all creatures who come near.
+
+**Shaping:** Your _shaping_ manifestation creates the ??? tile effect:
+
+- ??
+- ??
+
+When you activate your shaping manifestation...
+
+**Storm:** Your _storm_ manifestation also ??? to creatures that it hits.
+
+**Word:** Your _word_ manifestation applies stacks of the ??? ailment.
+
+## Volcano
+
+**Blade:** Your _blade_ manifestation gains copies of the [???]() affix.
+
+**Roots:** Your _roots_ manifestation applies stacks of ??? to all creatures who come near.
+
+**Shaping:** Your _shaping_ manifestation creates the ??? tile effect:
+
+- ??
+- ??
+
+When you activate your shaping manifestation...
+
+**Storm:** Your _storm_ manifestation also ??? to creatures that it hits.
+
+**Word:** Your _word_ manifestation applies stacks of the ??? ailment.
+
+## Swamp
+
+**Blade:** Your _blade_ manifestation gains copies of the [???]() affix.
+
+**Roots:** Your _roots_ manifestation applies stacks of ??? to all creatures who come near.
+
+**Shaping:** Your _shaping_ manifestation creates the ??? tile effect:
+
+- ??
+- ??
+
+When you activate your shaping manifestation...
+
+**Storm:** Your _storm_ manifestation also ??? to creatures that it hits.
+
+**Word:** Your _word_ manifestation applies stacks of the ??? ailment.
