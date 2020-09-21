@@ -12,7 +12,7 @@ You may spend movement equal to half of your movement speed to **stand up from p
 
 <div class="infobox">
 
-## So how big is a tile?
+**So how big is a tile?**
 
 _Fonts of Power_, as a system, isn't intended for simulating precise imaginary realities. That said, it's often handy to have a sense of how big something might be, in order to imagine it more clearly or estimate feasibility of activities outside of combat. Tiles (and height tiers) in fonts of power are, by default, about 1 meter in size.
 
