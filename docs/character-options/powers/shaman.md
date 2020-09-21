@@ -198,7 +198,7 @@ Planting yourself solidly in place, you channel the elemental energy of the land
 
 If you have not yet spent movement this turn, you may use the Roots manifestation as a minor action. When you do:
 
-- Until the start of your next turn, a 2 tile radius around you gains the _crackling power_ tile effect.
+- Until the start of your next turn, a 1 tile radius around you gains the _crackling power_ tile effect.
   - Make a Prowess attack against creatures who trigger your _crackling power_ tile effect. If you hit, apply stacks of the ailment specified by your Domain.
 - Until the start of your next turn, you cannot spend movement and are immune to forced movement.
 - At higher surge tiers, you also gain absorption.
@@ -233,9 +233,9 @@ You may use this Manifestation as a major action, creating tile effects describe
 
 Each time you use this manifestation, you must create the exact number of tiles specified in the Surge table. You cannot affect a tile that already has this tile effect, although they need not be connected. If there are not enough suitable tiles within range, convert all remaining tiles instead.
 
-After you create new tile effects, an active effect, specified in your domain, occurs in a single tile of your choice within range that has this tile effect. These active effects alway persists until at least the end of your next turn.
+After you create new tile effects, an active effect, specified in your domain, occurs in a single tile of your choice within range that has this tile effect.
 
-You may have any number of tiles affected by your Shaping manifestation. It persists as long as you maintain your concentration but if you lose your concentration during this time, the effect immediately ends. At the end of each of your turns, you may choose to end this effect completely.
+Tile effects created by this manifestation persist as long as you maintain your concentration but if you lose your concentration during this time, the effect immediately ends. At the end of each of your turns, you may choose to end this effect completely.
 
 When you Surge this manifestation:
 
@@ -328,7 +328,7 @@ When you Surge this manifestation:
 
 As a major action, you cause the elements rain fury down upon an area.
 Create an elemental storm tile effect with a 1 tile radius centered a point that you have line of sight to within 12 tiles.
-This tile effect always deals elemental damage with an Agility attack, but also has an additional effect based on your Domain.
+This tile effect always deals elemental damage with a Prowess attack, but also has an additional effect based on your Domain.
 If you miss, the target suffers the attack's effects at half efficacy.
 
 You may only have one Storm manifestation active at once; using this ability again ends the previous effect. It persists as long as you maintain your concentration but if you lose your concentration during this time, the effect immediately ends. You may also choose to end this effect at the end of each of your turns.
@@ -357,35 +357,6 @@ When you summon this storm with a major action, or use a minor action to summon 
 |  10   |      6       |       12       |  6d4 + 6 \* Presence   |
 |  11   |      7       |       14       |  6d4 + 6 \* Presence   |
 |  12   |      7       |       14       |  7d4 + 7 \* Presence   |
-
-## Vapor
-
-Forming swirling, colored mist, you completely obscuring your true position as mist begins to coalesce in several locations.
-
-When you take the Hide minor action, Before you choose hiding spot, a tile of your choice within 12 tiles of you becomes heavily shrouded while you have the hidden status. This can be used to create more viable hiding spots, as heavily shrouded tiles fulfill the [veiled](../../rules/combat/acting-in-combat/minor-actions.md?id=hide) condition.
-
-When you Surge this manifestation:
-
-- **Odd:** The number of tiles that become shrouded increases. These do not need to be connected.
-- **Even:** Gain additional movement and increase the maximum number of hiding spots you can select.
-
-**Characteristic Manifestation:** When you use the Hide minor action, you move by teleportation to your hiding spots as you fade into mist yourself, allowing you to avoid triggering tile effects or attacks of opportunity.
-
-| Surge | Shrouded Tiles | Additional Hiding Spots | Bonus Movement |
-| :---: | :------------: | :---------------------: | :------------: |
-|   0   |       1        |            0            |       0        |
-|   1   |       2        |            0            |       0        |
-|   2   |       2        |            1            |       1        |
-|   3   |       3        |            1            |       1        |
-|   4   |       3        |            2            |       2        |
-|   5   |       4        |            2            |       2        |
-|   6   |       4        |            3            |       3        |
-|   7   |       5        |            3            |       3        |
-|   8   |       5        |            4            |       4        |
-|   9   |       6        |            4            |       4        |
-|  10   |       6        |            5            |       5        |
-|  11   |       7        |            5            |       5        |
-|  12   |       7        |            6            |       6        |
 
 ## Word
 
@@ -418,102 +389,102 @@ When you Surge this manifestation:
 
 ## Forest
 
-**Blade:** Your _blade_ manifestation gains copies of the [???]() affix.
+**Blade:** Your _blade_ manifestation gains copies of the [siphoning strikes](https://tools.fontsofpower.com/affixes/5f21f72b6e887500176313c5) affix.
 
-**Roots:** Your _roots_ manifestation applies stacks of ??? to all creatures who come near.
+**Roots:** Your _roots_ manifestation applies stacks of pacified to all creatures who come near.
 
-**Shaping:** Your _shaping_ manifestation creates the ??? tile effect:
+**Shaping:** Your _shaping_ manifestation creates the living thorns ground effect:
 
 - ??
 - ??
 
-When you activate your shaping manifestation...
+When you activate your _shaping_ manifestation, pull creatures around.
 
-**Storm:** Your _storm_ manifestation also ??? to creatures that it hits.
+**Storm:** Your _storm_ manifestation also 3 + 1/2 Presence stacks of bleeding to creatures that it hits.
 
-**Word:** Your _word_ manifestation applies stacks of the ??? ailment.
+**Word:** Your _word_ manifestation applies stacks of the rooted ailment.
 
 ## Mountain
 
-**Blade:** Your _blade_ manifestation gains copies of the [???]() affix.
+**Blade:** Your _blade_ manifestation gains copies of the [effervescent triumph - earth](https://tools.fontsofpower.com/affixes/5f19b5d03145950017c9b22a) affix.
 
-**Roots:** Your _roots_ manifestation applies stacks of ??? to all creatures who come near.
+**Roots:** Your _roots_ manifestation applies stacks of blinded to all creatures who come near.
 
-**Shaping:** Your _shaping_ manifestation creates the ??? tile effect:
+**Shaping:** Your _shaping_ manifestation creates the pillars of the earth tile effect:
 
 - ??
 - ??
 
-When you activate your shaping manifestation...
+When you activate your _shaping_ manifestation, grant absorption to creatures who are standing on it.
 
-**Storm:** Your _storm_ manifestation also ??? to creatures that it hits.
+**Storm:** Your _storm_ manifestation also knocks creatures that it hits prone.
 
-**Word:** Your _word_ manifestation applies stacks of the ??? ailment.
+**Word:** Your _word_ manifestation applies stacks of the blunted ailment.
 
 ## Sea
 
-**Blade:** Your _blade_ manifestation gains copies of the [???]() affix.
+**Blade:** Your _blade_ manifestation gains twice as many copies as usual of the [cruel strikes - brittle](https://tools.fontsofpower.com/affixes/5f1788f357ef5b001712e319) affix.
 
-**Roots:** Your _roots_ manifestation applies stacks of ??? to all creatures who come near.
+**Roots:** Your _roots_ manifestation applies stacks of defenseless to all creatures who come near.
 
-**Shaping:** Your _shaping_ manifestation creates the ??? tile effect:
+**Shaping:** Your _shaping_ manifestation creates the consuming fog tile effect:
 
 - ??
 - ??
 
-When you activate your shaping manifestation...
+When you activate your _shaping_ manifestation, make an Expertise attack against a creature of your choice that is occupying a consuming fog tile. If you hit, select 3 hiding spots within consuming fog tiles of your choice within a 12 tile range. They teleport to one of these hiding spots (their choice) and gain the hidden status.
 
-**Storm:** Your _storm_ manifestation also ??? to creatures that it hits.
+**Storm:** Your _storm_ manifestation also applies one stack of blinded to creatures that it hits.
 
-**Word:** Your _word_ manifestation applies stacks of the ??? ailment.
+**Word:** Your _word_ manifestation applies stacks of the chilled ailment.
 
 ## Sky
 
-**Blade:** Your _blade_ manifestation gains copies of the [???]() affix.
+**Blade:** Your _blade_ manifestation gains copies of the [keen](https://tools.fontsofpower.com/affixes/5f1797fb57ef5b001712e34a) affix.
 
-**Roots:** Your _roots_ manifestation applies stacks of ??? to all creatures who come near.
+**Roots:** Your _roots_ manifestation does not apply ailments. Instead, it pushes creatures who come close 1 tile in a direction of your choices for each stack of ailment that would be applied.
 
-**Shaping:** Your _shaping_ manifestation creates the ??? tile effect:
+**Shaping:** Your _shaping_ manifestation creates the soaring winds tile effect:
 
-- ??
-- ??
+- creatures in this tile effect are flying unless they are immune to forced movement
 
-When you activate your shaping manifestation...
+When you activate your _shaping_ manifestation, the wind begins to blow fiercely in a direction of your choice, creating a secondary fierce winds tile effect that persists until the end of your next turn. Choose a direction for each fierce wind tile when they are created. Whenever a creature enters these tiles, they are pushed up to 1 tile in the direction specified.
 
-**Storm:** Your _storm_ manifestation also ??? to creatures that it hits.
+Like usual, creatures with the aloft ailment or flying status gain double the effect of forced movement.
 
-**Word:** Your _word_ manifestation applies stacks of the ??? ailment.
+**Storm:** Your _storm_ manifestation pushes creatures that it hits one tile in a direction of your choice.
+
+**Word:** Your _word_ manifestation applies stacks of the aloft ailment.
 
 ## Volcano
 
-**Blade:** Your _blade_ manifestation gains copies of the [???]() affix.
+**Blade:** Your _blade_ manifestation gains twice as many copies of the [cruel strikes - aflame](https://tools.fontsofpower.com/affixes/5f1788f357ef5b001712e319) affix.
 
-**Roots:** Your _roots_ manifestation applies stacks of ??? to all creatures who come near.
+**Roots:** Your _roots_ manifestation applies stacks of blinded to all creatures who come near.
 
-**Shaping:** Your _shaping_ manifestation creates the ??? tile effect:
+**Shaping:** Your _shaping_ manifestation creates the scorching lava tile effect:
 
 - ??
 - ??
 
-When you activate your shaping manifestation...
+When you activate your _shaping_ manifestation, do damage.
 
-**Storm:** Your _storm_ manifestation also ??? to creatures that it hits.
+**Storm:** Your _storm_ manifestation also applies 3 + 1/2 Presence stacks of aflame to creatures that it hits.
 
-**Word:** Your _word_ manifestation applies stacks of the ??? ailment.
+**Word:** Your _word_ manifestation applies stacks of the frightened ailment.
 
 ## Swamp
 
-**Blade:** Your _blade_ manifestation gains copies of the [???]() affix.
+**Blade:** Your _blade_ manifestation gains twice as many copies of the [cruel strikes - bleeding](https://tools.fontsofpower.com/affixes/5f1788f357ef5b001712e319) affix.
 
-**Roots:** Your _roots_ manifestation applies stacks of ??? to all creatures who come near.
+**Roots:** Your _roots_ manifestation applies stacks of frightened to all creatures who come near.
 
-**Shaping:** Your _shaping_ manifestation creates the ??? tile effect:
+**Shaping:** Your _shaping_ manifestation creates the ethereal swamp tile effect:
 
-- ??
-- ??
+- these tiles are difficult terrain
 
-When you activate your shaping manifestation...
+When you activate your _shaping_ manifestation, do will o' wisp things.
 
-**Storm:** Your _storm_ manifestation also ??? to creatures that it hits.
+**Storm:** Your _storm_ manifestation also applies one stack of withered to creatures that it hits.
 
-**Word:** Your _word_ manifestation applies stacks of the ??? ailment.
+**Word:** Your _word_ manifestation applies stacks of the crazed ailment.
