@@ -201,6 +201,7 @@ If you have not yet spent movement this turn, you may use the Roots manifestatio
 - Until the start of your next turn, a 1 tile radius around you gains the _crackling power_ tile effect.
   - Make a Prowess attack against creatures who trigger your _crackling power_ tile effect. If you hit, apply stacks of the ailment specified by your Domain.
 - Until the start of your next turn, you cannot spend movement and are immune to forced movement.
+- End the flying and aloft conditions on yourself.
 - At higher surge tiers, you also gain absorption.
 
 When you Surge this manifestation:
@@ -233,7 +234,7 @@ You may use this Manifestation as a major action, creating tile effects describe
 
 Each time you use this manifestation, you must create the exact number of tiles specified in the Surge table. You cannot affect a tile that already has this tile effect, although they need not be connected. If there are not enough suitable tiles within range, convert all remaining tiles instead.
 
-After you create new tile effects, an active effect, specified in your domain, occurs in a single tile of your choice within range that has this tile effect.
+After you create new tile effects, an active effect, specified in your domain, occurs in a single tile of your choice within range that has this tile effect. You may choose the resolution order for multiple copies of an active effect, and cannot choose the same tile twice each time you use this manifestation.
 
 Tile effects created by this manifestation persist as long as you maintain your concentration but if you lose your concentration during this time, the effect immediately ends. At the end of each of your turns, you may choose to end this effect completely.
 
@@ -242,7 +243,7 @@ When you Surge this manifestation:
 - **Odd:** The number of tiles affected increases.
 - **Even:** The active effect occurs more times.
 
-**Characteristic Manifestation:** When you use your Shaping manifestation, roll twice to determine whether it is triggered, and choose the roll you prefer.
+**Characteristic Manifestation:** When you use your Shaping manifestation, you may choose to affected fewer tiles than the number of tiles listed in the Surge table.
 
 | Surge | Affected Tiles | Copies of Active Effect |
 | :---: | :------------: | :---------------------: |
@@ -393,12 +394,9 @@ When you Surge this manifestation:
 
 **Roots:** Your _roots_ manifestation applies stacks of pacified to all creatures who come near.
 
-**Shaping:** Your _shaping_ manifestation creates the living thorns ground effect:
+**Shaping:** Your _shaping_ manifestation creates the _living thorns_ ground effect. These tiles are difficult terrain. At the end of each turn, apply two stack of bleeding to each creature for each living thorns tile that they entered this turn.
 
-- ??
-- ??
-
-When you activate your _shaping_ manifestation, pull creatures around.
+When you activate your _shaping_ manifestation, your thorns come to life, grabbing at those nearby. Choose a living thorns tile, then make a Prowess attack against a creature of your choice within a 2 tile range. If you hit, pull them into the chosen tile and end the flying or aloft conditions on them.
 
 **Storm:** Your _storm_ manifestation also 3 + 1/2 Presence stacks of bleeding to creatures that it hits.
 
@@ -410,12 +408,16 @@ When you activate your _shaping_ manifestation, pull creatures around.
 
 **Roots:** Your _roots_ manifestation applies stacks of blinded to all creatures who come near.
 
-**Shaping:** Your _shaping_ manifestation creates the pillars of the earth tile effect:
+**Shaping:** Your _shaping_ manifestation creates the _pillars of the earth_ tile effect:
 
-- ??
-- ??
+- create a solid block of stone, one height tier in size
+  - you can freely stack these blocks on top of each other
+- these pillars are destructible but durable
+  - they have 1 life, and gain 4 times your proficiency bonus absorption at the start of each of your turns
+  - when a block in a stack is destroyed, reduce the height of that stack by 1 tier
+- you cannot crush creatures with these pillars; if they would be crushed by the ceiling, instead push them into an empty tile of the creature's choice
 
-When you activate your _shaping_ manifestation, grant absorption to creatures who are standing on it.
+When you activate your _shaping_ manifestation, create a secondary _strength of the earth_ ground effect on top of a _pillars of the earth tile effect_ that persists until the start of your next turn. This ground effect grants 6 + Presence absorption to creatures who trigger it.
 
 **Storm:** Your _storm_ manifestation also knocks creatures that it hits prone.
 
@@ -427,12 +429,9 @@ When you activate your _shaping_ manifestation, grant absorption to creatures wh
 
 **Roots:** Your _roots_ manifestation applies stacks of defenseless to all creatures who come near.
 
-**Shaping:** Your _shaping_ manifestation creates the consuming fog tile effect:
+**Shaping:** Your _shaping_ manifestation creates the _consuming fog_ tile effect. These tiles are heavily shrouded
 
-- ??
-- ??
-
-When you activate your _shaping_ manifestation, make an Expertise attack against a creature of your choice that is occupying a consuming fog tile. If you hit, select 3 hiding spots within consuming fog tiles of your choice within a 12 tile range. They teleport to one of these hiding spots (their choice) and gain the hidden status.
+When you activate your _shaping_ manifestation, the fogs swallow creatures lost in them, causing them to mysteriously appear some distance away. Make an Expertise attack against a creature of your choice that is occupying a _consuming fog tile_ within a 6 tile range. If you hit, select 3 hiding spots within consuming fog tiles of your choice within a 6 tile range. They teleport to one of these hiding spots (their choice) and gain the hidden status.
 
 **Storm:** Your _storm_ manifestation also applies one stack of blinded to creatures that it hits.
 
@@ -444,13 +443,11 @@ When you activate your _shaping_ manifestation, make an Expertise attack against
 
 **Roots:** Your _roots_ manifestation does not apply ailments. Instead, it pushes creatures who come close 1 tile in a direction of your choices for each stack of ailment that would be applied.
 
-**Shaping:** Your _shaping_ manifestation creates the soaring winds tile effect:
-
-- creatures in this tile effect are flying unless they are immune to forced movement
+**Shaping:** Your _shaping_ manifestation creates the _soaring winds_ tile effect. Creatures in these tiles are flying. This does not apply to creatures who are immune to forced movement
 
 When you activate your _shaping_ manifestation, the wind begins to blow fiercely in a direction of your choice, creating a secondary fierce winds tile effect that persists until the end of your next turn. Choose a direction for each fierce wind tile when they are created. Whenever a creature enters these tiles, they are pushed up to 1 tile in the direction specified.
 
-Like usual, creatures with the aloft ailment or flying status gain double the effect of forced movement.
+Like usual, forced movement is doubled against creatures with the aloft or flying conditions.
 
 **Storm:** Your _storm_ manifestation pushes creatures that it hits one tile in a direction of your choice.
 
@@ -462,12 +459,9 @@ Like usual, creatures with the aloft ailment or flying status gain double the ef
 
 **Roots:** Your _roots_ manifestation applies stacks of blinded to all creatures who come near.
 
-**Shaping:** Your _shaping_ manifestation creates the scorching lava tile effect:
+**Shaping:** Your _shaping_ manifestation creates the _scorching lava_ ground effect. These tiles deal 1d4 + Presence fire damage to creatures who trigger them.
 
-- ??
-- ??
-
-When you activate your _shaping_ manifestation, do damage.
+When you activate your _shaping_ manifestation, the lava erupts in a burning explosion. Choose a _scorching lava_ tile within a 6 tile range, then make an Agility attack against all creatures within a 2 tile radius. Deal 1d6 + Presence fire damage to each creature that you hit. Creatures that you miss still suffer the attack's effects at half efficacy.
 
 **Storm:** Your _storm_ manifestation also applies 3 + 1/2 Presence stacks of aflame to creatures that it hits.
 
@@ -479,11 +473,11 @@ When you activate your _shaping_ manifestation, do damage.
 
 **Roots:** Your _roots_ manifestation applies stacks of frightened to all creatures who come near.
 
-**Shaping:** Your _shaping_ manifestation creates the ethereal swamp tile effect:
+**Shaping:** Your _shaping_ manifestation creates the _ethereal swamp_ ground effect. These tiles are difficult terrain.
 
-- these tiles are difficult terrain
+When you activate your _shaping_ manifestation, create a glowing will o' wisp that lures creatures towards it. Choose an _ethereal swamp_ tile within a 6 tile range. Then, make a Presence attack against a creature of your choice within 6 tiles of the selected tile. If you hit, at the start of their next turn, they must spend all of their movement to travel directly towards the selected tile before they take any other actions. If they are prone, they stand up before spending this movement; if they can fly and are not flying, they first take flight.
 
-When you activate your _shaping_ manifestation, do will o' wisp things.
+Unlike standard effects which apply forced movement, this movement provokes attacks of opportunity.
 
 **Storm:** Your _storm_ manifestation also applies one stack of withered to creatures that it hits.
 
