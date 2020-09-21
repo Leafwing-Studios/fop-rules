@@ -92,6 +92,7 @@ The hidden status on you ends immediately after:
 - the hiding spot you are in is revealed
 - you spend movement to travel laterally
 - you make an attack against any creature other than yourself
+  - attacks that you make due to tile effects triggering do not end your hidden status
 - you apply a boon to any creature other than yourself
 
 After you are revealed, you appear in the tile you chose originally and gain the **ambush** boon until the end of the current turn. When you have the ambush boon, gain advantage on all attacks. Some affixes make use of the ambush keyword to provide additional benefits.
