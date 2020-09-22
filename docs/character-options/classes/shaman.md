@@ -43,23 +43,23 @@
 | Level | Proficiency Bonus |                    Features                    | Manifestations Known |
 | :---: | :---------------: | :--------------------------------------------: | :------------------: |
 |   1   |        +1         |       Domain, Manifestations, Surge (1)        |          3           |
-|   2   |        +1         |       Speak for the Beasts, Regeneration       |          3           |
+|   2   |        +1         |         Lay of the Land, Regeneration          |          3           |
 |   3   |        +1         | Characteristic Manifestation (1), Energy Cycle |          3           |
 |   4   |        +1         |             Attribute Improvement              |          4           |
 |   5   |        +2         |    Proficiency Bonus Improvement, Surge (2)    |          4           |
-|   6   |        +2         |                Lay of the Land                 |          4           |
+|   6   |        +2         |                  Cultivation                   |          4           |
 |   7   |        +2         |               Elemental Mastery                |          4           |
 |   8   |        +2         |             Attribute Improvement              |          5           |
 |   9   |        +3         |    Proficiency Bonus Improvement, Surge (3)    |          5           |
-|  10   |        +3         |              Speak for the Trees               |          5           |
+|  10   |        +3         |               Lay of the Locale                |          5           |
 |  11   |        +3         |                    Cascade                     |          5           |
 |  12   |        +3         |             Attribute Improvement              |          6           |
 |  13   |        +4         |    Proficiency Bonus Improvement, Surge (4)    |          6           |
-|  14   |        +4         |               Lay of the Locale                |          6           |
+|  14   |        +4         |                  Permaculture                  |          6           |
 |  15   |        +4         |        Characteristic Manifestation (2)        |          6           |
 |  16   |        +4         |             Attribute Improvement              |          7           |
 |  17   |        +5         |    Proficiency Bonus Improvement, Surge (5)    |          7           |
-|  18   |        +5         |               Speak for the Land               |          7           |
+|  18   |        +5         |                Lay of the Font                 |          7           |
 |  19   |        +5         |             Attribute Improvement              |          8           |
 |  20   |        +5         |                   Wild Magic                   |          8           |
 
@@ -92,11 +92,17 @@ At the start of each of your turns:
 
 In addition, your concentration is no longer tested when you lose life due to taking damage of the type associated with your Domain.
 
-# Speak for the Beasts
+# Lay of the Land
 
-At level 2, you learn to speak on behalf of the voiceless beasts of the world, communicating with them directly so you can understand their concerns. You are able to communicate verbally with any creature that would not normally be capable of language. These creatures may not be very intelligent, and do not become unusually friendly to you as a result of this ability.
+At level 2, you learn to tap into the primal energy of the land; allowing you to gain a high-level overview of the nearest font of power.
 
-In addition, you now have advantage on any skill checks made that involve working directly with animals (but not monsters), including social skill checks made to influence them.
+You gain access to the Commune downtime activity. When you use this downtime activity, you learn the following facts about the nearest font of power:
+
+- the elements it is associated with
+- the zones that make up the font, their connections and their danger level
+- any font-level vantages, which modify the rules of the game for creatures in that font of power
+
+You may also make a Focus (Fontcraft) skill check at this time. You learn information about the font's origin, status and goals based on the result of your skill check according to the worldspeaker's discretion. You may repeat this skill check each time that you complete the Commune downtime activity.
 
 ## Regeneration
 
@@ -132,33 +138,52 @@ At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the
 
 See the Leveling Up section in the Narrative Mechanics chapter for a reminder of the factors that change when this occurs.
 
-## Lay of the Land
+## Cultivation
 
-At level 6, you are able to infer the geography of your surroundings from the patterns in the earth, by placing your hand to the ground. Once per rest when you use the Scan minor action, you may touch the ground (or the surface of a body of water) to gain information about your surroundings. You learn the approximate location of any structures, bodies of water, hills and cavern systems (natural or manmade), within a mile of you. You also learn of the existence, location, and element type(s) of any fonts of power within that range.
+When you reach level 6, you are able to carefully shape and remake the land itself to reflect your home domain as you fortify your position.
 
-You may use this feature again after its initial use is expended, but gain 1 stack of exhaustion each time you do so.
+You gain access to the Cultivate downtime activity. When you use this downtime activity, create or remove any number of nearby tile effects of the type associated with your home domain's _shaping_ manifestation. These tile effects persist until the end of your next rest. Each tile effect created or removed in this way must be within a 12 tile range of all other tile effects created during this downtime activity.
 
 ## Elemental Mastery
 
 At level 7, you are a master of your element, learning to twist and shape it to bypass your enemies' resistances. Your attacks ignore resistance to the specified elemental damage type and treat immunity to the specified elemental damage type as if it was only resistance.
 
-## Speak for the Trees
+## Lay of the Locale
 
-At level 10, you gain the ability to speak to the trees and fungi of the world, learning of their plights and sharing in their contentment. You are able to communicate verbally with any form of plant life or fungi, listening to their chemical signals and quiet rustling. These creatures have quite limited senses and intelligence, but are typically quite helpful and able to answer questions about what has occurred in their limited vicinity, and eager to share any difficulties they might be having.
+At level 10, your connection to the fonts allows you to carefully scout areas
 
-You also gain advantage on any Crafting skill checks to grow or harvest plants.
+When you use the Commune downtime activity, choose an arena (or other important area) that exists within the font of power. You learn:
+
+- the arena's topology
+- the arena's general construction
+- any objects that exist within that arena
+- the details of any vantages that exist within that arena
+- any secret connections or hiding places that exist within that arena
+
+You do not learn:
+
+- whether the arena contains any creatures, or any details about them
+- the details of the objects in that arena, such as what is depicted on a mural or inside that chest
+
+In addition, once per rest while outside of combat you may immediately gain the benefit of the Commune downtime activity.
 
 ## Cascade
 
 At level 11, you can use extra energy that you absorb to fuel the strength of your magic. Whenever you lose life due to taking damage from your element, gain advantage on the next attack you make before the end of your next turn.
 
-## Lay of the Locale
+## Permaculture
 
-At level 14, you are able to carefully discern the contents of areas on the other side of solid material. When you use your Lay of the Land feature, you may instead choose to gain knowledge about the detailed contents on the other side of a wall, floor or ceiling. You can detect creatures, objects and the general geometry up to 24 tiles away, clearly seeing the shapes that they form but gaining no other information.
+At level 14, you learn to permanently shape the land, planting a seed of your domain in a strange land.
 
-## Speak for the Land
+When you use the Cultivate downtime activity, the tile effects created are permanent, although they can be removed with further uses of this downtime activity by a Shaman affiliated with the same Domain. In addition, the tile effects created must be within a 24 tile range of each other, rather than 12.
 
-At level 18, you learn to speak with the land itself, as it tells you of its troubles and shares its memories. You gain access to the Commune downtime activity. When you speak with the land using this feature, you may attempt a difficulty 20 Presence (Fontcraft) check to gain detailed information about any event that has occurred within the last year and within 10 miles of your current location.
+## Lay of the Font
+
+At level 18, your expert connection with the land allows you to learn the secrets of the fonts as you tap into their energy.
+
+When you use the Commune downtime activity, learn the details of all arenas in the font, as specified in your 10 Lay of the Locale class feature.
+
+In addition, you have advantage on all Focus (Fontcraft) skill checks made to learn more about a font, as specified in your Lay of the Land class feature.
 
 ## Wild Magic
 
