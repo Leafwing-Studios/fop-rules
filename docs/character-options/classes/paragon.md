@@ -183,16 +183,6 @@ At level 1, your belief in Harmony lets you shrug off blows as if they had never
 
 At level 5, you chastise those that you strike, encouraging them to turn away from violence and evil. When you hit a creature with a basic attack or Grapple attack, you may spend 1 essence. If you do, apply 3 + ½ Presence temperance.
 
-## Integrity
-
-### Hold Your Ground: Valor
-
-At level 1, your belief in Integrity lets you drive your foes before you as you personally demonstrate unsurpassed courage in the face of danger. At the start of each of your turns, you may choose to stand firm in order to reduce your critical hit threshold by 4 until the start of your next turn. Until the start of your next turn, you cannot spend movement and are immune to forced movement.
-
-### Fervent Blows: Purify
-
-At level 5, your blade glows with a holy flame as you strike down the wicked, blinding them with its purity. When you hit a creature with a basic attack or Grapple attack, you may spend 1 essence. If you do, apply one stack of blinded.
-
 ## Liberty
 
 ### Hold Your Ground: Struggle
@@ -212,3 +202,13 @@ At level 1, your belief in Progress lets you focus in order to gain true mastery
 ### Fervent Blows: Surge
 
 At level 5, your blade surges with incredible energy, destabilizing the essence inside those you strike. When you hit a creature with a basic attack or Grapple attack, you may spend 1 essence. If you do, apply cursed.
+
+## Sanctity
+
+### Hold Your Ground: Valor
+
+At level 1, your belief in Sanctity lets you drive your foes before you, purging the impure with righteous anger. At the start of each of your turns, you may choose to stand firm in order to reduce your critical hit threshold by 4 until the start of your next turn. Until the start of your next turn, you cannot spend movement and are immune to forced movement.
+
+### Fervent Blows: Purify
+
+At level 5, your blade glows with a holy flame as you strike down the wicked, blinding them with its purity. When you hit a creature with a basic attack or Grapple attack, you may spend 1 essence. If you do, apply one stack of blinded.
