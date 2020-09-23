@@ -128,6 +128,6 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |  5   | A primate.                               |
 |  6   | A pack hunter.                           |
 
-**One for All:** Whenever a creature within 1 tile is hit by an attack, you may use your reaction to Block the attack. You take all effects of that hit instead of them if you do so.
+**One for All:** Gain access to the **One for All** reaction. Whenever a creature within your zone of control is targeted by a basic attack, you may use the One for All reaction to inflict disadvantage on that attack as if you were threatening that creature.
 
 **All for One:** You have advantage on any skill check made to help with another creature’s skill check.
