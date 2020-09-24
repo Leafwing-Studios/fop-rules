@@ -31,6 +31,8 @@ Offensive power effects:
 - knock the creature hit prone
 - steal 3 + 1/2 Presence absorption
 
+The elemental damage type selected for these effects must correspond to one of the elements selected for your Companion at level 1.
+
 Utility power effects:
 
 - gain 3 + 1/2 Presence absorption
