@@ -11,7 +11,7 @@
 **Build Fundamentals:** Touched are natural skirmishers, dancing in and out of the fray of battle. They are most easily built as lightweight highly mobile strikers, but with enough disruption and survivability they can live in the frontline instead:
 
 - Skirmisher: Make sure to have versatile options for both ranged and melee, in both your weapons and powers. The _swapping_, _wild_ and _shifting_ affixes are particularly useful for making this painless. Focus on mobility and avoiding attacks of opportunity with affixes like _deft_ or _shifty_ and try to make sure you end every turn out of the immediate fray.
-- Frontline: Draw attention by diving deep into the backlines, then stick to your foes with attacks that limit mobility and the proactive combat talent. Back out when you drop low on health, and then heal back up with your Balance of Power: Host feature.
+- Frontline: Draw attention by diving deep into the backline, then stick to your foes with attacks that limit mobility and the proactive combat talent. Back out when you drop low on health, and then heal back up with your Balance of Power: Host feature.
 
 <div class="side-panel">
 
