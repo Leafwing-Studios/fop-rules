@@ -902,6 +902,325 @@ Tiles that have the firestorm tile effect deal 2d6 + 2 \* Presence fire damage t
 
 ## Water
 
+### Avatar of the Blizzard
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your blade becomes coated with crystals of ice. Make a basic attack against a creature of your choice. If you hit, all damage dealt is converted to water damage and apply one stack of chilled.
+
+### Avatar of the Blizzard - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Self
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Your body is surrounded by a fierce blizzard as you attack with the strength of the winter winds. For the duration of this effect, your basic attacks are automatically criticals if they hit. In addition, a 1 tile radius around you is surrounded by the _terrible winter_ tile effect. Tiles affected are:
+
+- heavily shrouded by blowing snow
+- when triggered, applies 2 stacks of chilled, and then deals 1d6 + Presence water damage for each stack of chilled that the creature has
+- applies disadvantage on Treat skill checks made to remove the chilled ailment
+
+If you are hidden, a 1 tile radius around each of your hiding spots is surrounded by the 1 tile radius instead. You ignore all effects of the _terrible winter_ tile effect, including the heavy shroud.
+
+### Blessing of the Mists
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+Fog wards and swirls around your ally, granting them them the blessing of the mists. Select a creature within range. They gain 6 + Presence absorption and are resistant to water damage for the duration of this effect.
+
+### Blessing of the Mist - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Mists hide your allies, concealing their position as they slip in and out of the mists. Select a creature within range, and for the duration of this effects they gain the following boons:
+
+- whenever they use the Hide minor action, before you choose your hiding spots, a number of tiles equal to the number of hiding places they rolled become heavily shrouded until they lose the hidden status
+- whenever they use the Hide minor action, they move by teleportation to your hiding spots, allowing you to avoid triggering tile effects or attacks of opportunity
+- they have advantage on all skill checks made to use the Hide minor action in combat
+
+### Curse of Despair
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Focus
+
+**Duration:** Until the end of the target's next turn
+
+</div>
+
+As you curse your foe, their hope drains from them as they are struck with a sudden chill. Make a Focus attack against a creature of your choice within range. If you hit, deal 1d4 + Presence water damage and inflict chilled.
+
+### Curse of Despair - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Self
+
+**Targets:** Single-target
+
+**Attack:** Focus
+
+**Duration:** Concentration
+
+</div>
+
+The overwhelming might of your god begins to sink in to your foe as your curse them, and they feel a crushing urge to give in and let the cold take them to their final rest. Make a Focus attack against a creature of your choice within range. If it hits, deal 1d8 + Presence water damage, apply one stack of pacified and one stack of chilled.
+
+### Gift of the Vortex
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Prowess
+
+**Duration:** Instant
+
+</div>
+
+A strange current surrounds a creature of your choice within range. Choose either clockwise or counterclockwise, then make a Prowess attack against all other creatures within 1 tile of that creature. If you hit, push them 1 tile in the chosen direction around the target.
+
+### Gift of the Vortex - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Prowess
+
+**Duration:** Concentration
+
+</div>
+
+A creature of your choice is surrounded by a swirling sphere of water that sucks in and then drags all creatures around them in its current. When you cast this miracle, choose either clockwise or counterclockwise.
+
+At the end of each of that creature’s turn:
+
+- make a Prowess attack against all creatures within a 3 tile radius of that creature
+- those hit are pulled into the nearest empty, adjacent tile to that creature and knocked prone
+- then, push all creatures (including those that you may have missed) 1 tile in the chosen direction around the affected creature
+
+### Genesis of Water
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 12 tiles
+
+**Targets:** Multi-target
+
+**Attack:** None
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+A small spring of clean, drinkable water appears, welling up from the earth before babbling back down. Choose a tile within range, and create the _cleansing spring_ tile effect there. Whenever a creature triggers the _cleansing spring_ tile effect, you gain the benefit of the Treat minor action targeting them. This is not optional, and you do not have disadvantage on Treat checks made in this way targeting yourself.
+
+### Genesis of Water - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 12 tiles
+
+**Targets:** Multi-target
+
+**Attack:** None
+
+**Duration:** Concentration, Persisting
+
+</div>
+
+A bubbling wellspring of sacred water appears, gently but steadily flowing. Create the _cleansing spring_ tile effect in a 1 tile radius within range. Whenever a creature triggers the _cleansing spring_ tile effect, you gain the benefit of the Treat minor action targeting them. This is not optional, and you do not have disadvantage on Treat checks made in this way targeting yourself.
+
+While your concentration holds, whenever you successfully use the Treat minor action, the creatures treated ignores new stacks of afflictions or ailments applied until the end of their next turn.
+
+The Recover and Treat downtime activities restore an additional stack of exhaustion when performed in the vicinity of this spring.
+
+### Portent of Winter
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Prowess
+
+**Duration:** Instant
+
+</div>
+
+A strange cold breeze blows over the battlefield. Make a Prowess attack against up to three creatures of your choice within range, applying one stack of chilled on hit.
+
+### Portent of Winter - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 24 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Prowess
+
+**Duration:** Concentration
+
+</div>
+
+Nothing occurs when you first cast this miracle, although the air begins to chill and those nearby get a strange but certain sense that winter is coming. Select a tile within range. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
+
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and a terrible chill falls over the battlefield.
+
+A 24 tile radius surrounding you gains the _terrible winter_ tile effect. Tiles affected are:
+
+- heavily shrouded by blowing snow
+- when triggered, applies 2 stacks of chilled, and then deals 1d6 + Presence water damage for each stack of chilled that the creature has
+- applies disadvantage on Treat skill checks made to remove the chilled ailment
+
+At the same time, create a _comforting warmth_ tile effect in a 2 tile radius, centered around a tile of your choice within 12 tiles. The _comforting warmth_ tile effect's only impact is to negate the _terrible winter_ tile effect.
+
+Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect. You cannot attempt to Pray to cast other miracles while you are concentrating on this effect. This effect ends after your party completes a rest.
+
+### Wrath of the Tides
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 12 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Prowess
+
+**Duration:** Instant
+
+</div>
+
+A huge wave suddenly appears, sweeping across the battlefield before vanishing just as suddenly. Choose a direction (either ebb or flow), then make a Prowess attack against all creatures in a 3 tile by 12 tile line who are not flying or aloft. If you chose ebb, pull all creatures hit 3 tiles towards you. If you chose flow, push all creatures hit 3 tiles towards you. Creatures that you miss still suffer the attack's effects at half efficacy.
+
+### Wrath of the Tides - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 24 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Agility
+
+**Duration:** Concentration
+
+</div>
+
+Waves crash and roar, flooding in and out as they wash all away. When you cast this miracle, choose whether to begin in the ebb state or the flow state. This is apparent to all creatures on the battlefield. Then, at the start of each of your turns for the duration of this effect:
+
+- Swap ebb / flow states. If you were in ebb, you enter flow. If you were in flow, you enter ebb.
+- Make a Prowess attack against all other creatures within range who are not flying or aloft.
+- If you hit, deal 1d6 + Presence water damage, knock the creatures hit prone and apply forced movement. If you are in ebb, pull all creatures hit 3 tiles towards you. If you are in flow, push all creatures hit 3 tiles towards you.
+- Creatures that you miss still suffer the attack's effects at half efficacy.
+
+Like usual, these attacks are blocked by full cover, and partial cover applies disadvantage to attacks.
+
 ## Arcane
 
 ## Eldritch
