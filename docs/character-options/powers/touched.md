@@ -13,10 +13,13 @@ Unlike other classes, the powers available to the Touched are fully personalized
 10. **Effects:** Choose two effects from the list of offensive power effects list below, or one from the offensive power effects list and one from the utility powers list. These effects only apply if you hit. Complete the sentence “If you hit...” by adding the effects chosen. You can select the same offensive power twice (choosing the same or different options for it), and as when you are applying affixes to gear, you must specify the type of elemental damage / ailments / afflictions when these powers are created, rather than choosing every time you use the power.
 
 <div class="infobox">
-Power-building guidelines
+
+**Power-building guidelines**
+
 When selecting powers, we strongly encourage you to follow the two following guidelines:
+
 1. Make sure you know at least one ranged and at least one melee power.
-2. Make sure all of your powers differ mechanically.
+2. Make sure all of your powers are mechanically distinct.
 
 This will help make sure your character is fun and versatile to play, and helps you take advantage of your Duet class feature at level 5.
 
