@@ -946,7 +946,9 @@ Your body is surrounded by a fierce blizzard as you attack with the strength of 
 - when triggered, applies 2 stacks of chilled, and then deals 1d6 + Presence water damage for each stack of chilled that the creature has
 - applies disadvantage on Treat skill checks made to remove the chilled ailment
 
-If you are hidden, a 1 tile radius around each of your hiding spots is surrounded by the 1 tile radius instead. You ignore all effects of the _terrible winter_ tile effect, including the heavy shroud.
+If you are hidden, a 1 tile radius around each of your hiding spots is surrounded by the 1 tile radius of _terrible winter_ instead.
+
+You ignore all effects of the _terrible winter_ tile effect, including the heavy shroud.
 
 ### Blessing of the Mists
 
@@ -968,7 +970,7 @@ If you are hidden, a 1 tile radius around each of your hiding spots is surrounde
 
 Fog wards and swirls around your ally, granting them them the blessing of the mists. Select a creature within range. They gain 6 + Presence absorption and are resistant to water damage for the duration of this effect.
 
-### Blessing of the Mist - Miracle
+### Blessing of the Mists - Miracle
 
 <div class="tight">
 
@@ -986,10 +988,10 @@ Fog wards and swirls around your ally, granting them them the blessing of the mi
 
 </div>
 
-Mists hide your allies, concealing their position as they slip in and out of the mists. Select a creature within range, and for the duration of this effects they gain the following boons:
+Mists hide your allies, concealing their position as they slip in and out of the mists. Select a creature within range. For the duration of this miracle they gain the following boons:
 
-- whenever they use the Hide minor action, before you choose your hiding spots, a number of tiles equal to the number of hiding places they rolled become heavily shrouded until they lose the hidden status
-- whenever they use the Hide minor action, they move by teleportation to your hiding spots, allowing you to avoid triggering tile effects or attacks of opportunity
+- whenever they use the Hide minor action, before they choose their hiding spots, a number of tiles of their choice equal to the number of hiding places they rolled become heavily shrouded until they lose the hidden status
+- whenever they use the Hide minor action, they move by teleportation to their hiding spots, allowing them to avoid triggering tile effects or attacks of opportunity
 - they have advantage on all skill checks made to use the Hide minor action in combat
 
 ### Curse of Despair
@@ -1010,7 +1012,7 @@ Mists hide your allies, concealing their position as they slip in and out of the
 
 </div>
 
-As you curse your foe, their hope drains from them as they are struck with a sudden chill. Make a Focus attack against a creature of your choice within range. If you hit, deal 1d4 + Presence water damage and inflict chilled.
+As you curse your foe, their hope drains from them as they are struck with a sudden chill. Make a Focus attack against a creature of your choice within range. If you hit, deal 1d4 + Presence water damage and apply one stack of chilled.
 
 ### Curse of Despair - Miracle
 
@@ -1030,7 +1032,7 @@ As you curse your foe, their hope drains from them as they are struck with a sud
 
 </div>
 
-The overwhelming might of your god begins to sink in to your foe as your curse them, and they feel a crushing urge to give in and let the cold take them to their final rest. Make a Focus attack against a creature of your choice within range. If it hits, deal 1d8 + Presence water damage, apply one stack of pacified and one stack of chilled.
+The terrible might of your god begins to sink in to your foe as your curse them, and they feel a crushing urge to give in and let the cold take them to their final rest. At the start of each of your turns for the duration of this effect, make a Focus attack against a creature of your choice within range. If it hits, apply two stacks of chilled, two stack of pacified and two stacks of rooted.
 
 ### Gift of the Vortex
 
@@ -1050,7 +1052,7 @@ The overwhelming might of your god begins to sink in to your foe as your curse t
 
 </div>
 
-A strange current surrounds a creature of your choice within range. Choose either clockwise or counterclockwise, then make a Prowess attack against all other creatures within 1 tile of that creature. If you hit, push them 1 tile in the chosen direction around the target.
+A strange current begins to pull creatures in around your chosen ally. Choose a central creature. Make a Prowess attack against all creatures within a 3 tile radius. Pull creatures that you hit into the nearest empty tile to that central creature. You choose the order in which creatures are pulled after you see which attacks hit.
 
 ### Gift of the Vortex - Miracle
 
@@ -1070,13 +1072,27 @@ A strange current surrounds a creature of your choice within range. Choose eithe
 
 </div>
 
-A creature of your choice is surrounded by a swirling sphere of water that sucks in and then drags all creatures around them in its current. When you cast this miracle, choose either clockwise or counterclockwise.
+A streaming trail of water follows your ally as they stir up tremendous currents in their wake. Choose a willing creature within range. For the duration of this miracle:
 
-At the end of each of that creature’s turn:
+- Their movement speed is doubled.
+- Whenever they complete a loop in a single turn, create the _swirling vortex_ ground effect on all tiles that made up the loop and are contained within it
+  - When a loop is created, they must pick and mark a central tile. Central tiles cannot be on the edge of the loop.
+  - These tiles are difficult terrain.
+  - When this ground effect is triggered, make a Prowess attack against the triggering creature. If you hit, deal 2d6 + 2 \* Presence water damage and pull the creature hit up to 3 tiles towards the central tile for that loop.
 
-- make a Prowess attack against all creatures within a 3 tile radius of that creature
-- those hit are pulled into the nearest empty, adjacent tile to that creature and knocked prone
-- then, push all creatures (including those that you may have missed) 1 tile in the chosen direction around the affected creature
+<div class="infobox">
+
+**Strange loops**
+
+For the purpose of the _gift of the vortex_ miracle, loops work how you expect they should.
+But, for tables with that one player who really likes crunchy graph theory definitions:
+
+- loops are the continuous series of tiles that the creature moved through this turn
+- loops are complete when they encircle at least one non-edge tile, and every edge tile is connected to at least two other edge tiles (to account for teleportation)
+- if a loop would be completed but is invalid, ignore the completion (but the tiles remain for future loops)
+- edges can be shared by multiple loops if they are created in the same turn (such as in a figure eight pattern)
+
+</div>
 
 ### Genesis of Water
 
@@ -1096,7 +1112,7 @@ At the end of each of that creature’s turn:
 
 </div>
 
-A small spring of clean, drinkable water appears, welling up from the earth before babbling back down. Choose a tile within range, and create the _cleansing spring_ tile effect there. Whenever a creature triggers the _cleansing spring_ tile effect, you gain the benefit of the Treat minor action targeting them. This is not optional, and you do not have disadvantage on Treat checks made in this way targeting yourself.
+A small spring of clean, drinkable water appears, welling up from the earth before babbling back down. Choose a tile within range, and create the _cleansing spring_ tile effect there that persists until the end of your next turn. Whenever a creature triggers the _cleansing spring_ tile effect, you gain the benefit of the Treat minor action targeting them. This is not optional, and you do not have disadvantage on Treat checks made in this way targeting yourself.
 
 ### Genesis of Water - Miracle
 
@@ -1192,7 +1208,7 @@ Unlike with other miracles, you cannot voluntarily choose to end your concentrat
 
 </div>
 
-A huge wave suddenly appears, sweeping across the battlefield before vanishing just as suddenly. Choose a direction (either ebb or flow), then make a Prowess attack against all creatures in a 3 tile by 12 tile line who are not flying or aloft. If you chose ebb, pull all creatures hit 3 tiles towards you. If you chose flow, push all creatures hit 3 tiles towards you. Creatures that you miss still suffer the attack's effects at half efficacy.
+A huge wave suddenly appears, sweeping across the battlefield before vanishing just as suddenly. Choose a direction (either ebb or flow), then make a Prowess attack against all creatures in a 3 tile by 12 tile line starting at yourself who are not flying or aloft. If you chose ebb, pull all creatures hit 3 tiles towards you. If you chose flow, push all creatures hit 3 tiles away you. Creatures that you miss still suffer the attack's effects at half efficacy.
 
 ### Wrath of the Tides - Miracle
 
@@ -1222,6 +1238,307 @@ Waves crash and roar, flooding in and out as they wash all away. When you cast t
 Like usual, these attacks are blocked by full cover, and partial cover applies disadvantage to attacks.
 
 ## Arcane
+
+### Avatar of the Weave
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your blade crackles with pure magical power. Make a basic attack against a creature of your choice. If you hit, all damage dealt is converted to arcane damage and they are teleported up to 10 feet to an empty tile of your choice.
+
+### Avatar of the Weave - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Self
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Your body is surrounded by intense flames, cracking and burning. For the duration of this effect, your basic attacks are automatically criticals if they hit. After you hit a creature with a basic attack, deal 1d8 + Presence fire damage to all creatures within 1 tile of them, other than yourself. At the end of each of your turns, apply 6 + Presence stacks of aflame to each other creature within a 1 tile radius of yourself.
+
+### Blessing of the Hearth
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+Cinders swirl around your ally, granting them its blessing. Select a creature within range. They gain 6 + Presence absorption and are resistant to fire damage for the duration of this effect.
+
+### Blessing of the Hearth - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+The familiar comfort of the hearth warms your allies hearts, bolstering their courage. Select a creature within range. For the duration of this effect, they ignore all ailments and are immune to damage from afflictions.
+
+### Curse of Embers
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Focus
+
+**Duration:** Until the end of the target's next turn
+
+</div>
+
+Your foe ignites as you curse their name. Make a Focus attack against a creature of your choice within range. If you hit, apply 6 + Presence stacks of aflame.
+
+### Curse of Embers - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Focus
+
+**Duration:** Concentration
+
+</div>
+
+Embers form under the feet of your victim, burning them if they stop moving, mocking them as they attempt to escape the curse.
+
+When you cast this miracle, select a creature within range. At the start of each of your turns, make an Agility attack against them. If you hit, apply 3 + 1/2 Presence stacks of aflame, then double their current stacks of aflame. Hit or miss, deal fire damage to them equal to their current stacks of aflame.
+
+### Gift of Flames
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Instant
+
+</div>
+
+Crackling flames retaliate against those who strike your ally. Until the end of your next turn, whenever the creature affected is hit by a single-target attack, deal 1d8 + Presence fire damage to the creature that hit them.
+
+### Gift of Flames - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Focus
+
+**Duration:** Concentration
+
+</div>
+
+A trail of flame follows your chosen bringer of destruction, scorching everything in their wake.
+
+When you use this miracle, choose a creature within range. For the duration of this effect, at the end of each of the affected creature's turns, create the scorched earth ground effect in each tile that they moved through this turn, and remove all other scorched earth ground effects created by this effect.
+
+Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
+
+### Genesis of Ash
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 12 tiles
+
+**Targets:** Multi-target
+
+**Attack:** None
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+The land begins to smoulder and burn as it turns to ash. Choose up to 6 adjacent tiles. They are affected by the scorched earth ground effect until the end of your next turn.
+
+Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
+
+### Genesis of Ash - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 12 tiles
+**Targets:** Multi-target
+
+**Attack:** None
+
+**Duration:** Concentration, Persisting
+
+</div>
+
+The land itself ignites, devouring all.
+
+For the duration of this effect, scorched earth ground effects are not removed at the end of their duration (or as part of _gift of flame_). Whenever a creature takes damage due to the scorched earth ground effect, add the scorched earth ground effect to an unaffected tile of your choice that is connected to the tile that dealt damage. If a creature takes damage due to passing through multiple scorched earth ground effects, create one new tile for each tile that dealt damage.
+
+Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
+
+### Portent of the Phoenix
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Instant
+
+</div>
+
+As you pray, an ally is wrapped in rejuvenating flame, bringing them back from the brink of death. Select a creature that is on death's door. Until the end of your next turn, the first time that they would die, they are restored to half life instead, and gain stacks of aflame equal to half their life.
+
+### Portent of the Phoenix - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 24 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Prowess
+
+**Duration:** Concentration
+
+</div>
+
+Nothing occurs when you first cast this miracle, although tiny harmless flames begin to flicker along the bodies of any number of willing creatures within range that you select when you first cast this miracle. The portent comes to pass the first time that, at the start of your turn, your Favor is 5 or more. Your concentration on this Miracle ends and the creatures that you selected are wrapped in flame as they are reborn and reinvigorated.
+
+For the next 5 rounds, the creatures that you selected are stunned but immune to all effects, including attacks, damage, other boons, forced movement, ailments or afflictions. At the end of this effect, the party gains the benefit of a rest.
+
+Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect. You cannot attempt to Pray to cast other miracles while you are concentrating on this effect.
+
+### Wrath of the Inferno
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Agility
+
+**Duration:** Instant
+
+</div>
+
+Flames fall from the sky ominously. Make an Agility attack against all creatures in a 5 foot radius. Deal 1d4 + Presence fire damage to all that you hit.
+
+### Wrath of the Inferno - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 24 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Agility
+
+**Duration:** Concentration
+
+</div>
+
+Fire and brimstone pour forth from the heavens, wreaking devastation and spreading chaos. Select a tile within range, and create a 20 foot radius firestorm around it.
+
+These tiles gain the scorched earth ground effect and firestorm tile effect.
+
+Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
+
+Tiles that have the firestorm tile effect deal 2d6 + 2 \* Presence fire damage to creatures that occupy them.
 
 ## Eldritch
 
