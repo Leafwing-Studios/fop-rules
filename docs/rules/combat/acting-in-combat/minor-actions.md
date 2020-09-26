@@ -81,7 +81,7 @@ Take a moment to learn more about your surroundings. If you are skilled enough t
   - Focus (Perception). You have advantage on this skill check if you are adjacent to the chosen tile, and disadvantage if it is more than 3 tiles away from you.
 - **Size Up:** Learn the attributes, tier and turns per round of a creature of your choice.
   - Focus (Anima)
-- **Triage:** Learn the percentage of life and the number of stacks of exhaustion that another creature is at.
+- **Triage:** Learn the percentage of life, percentage of essence and the number of stacks of exhaustion that another creature is at.
   - Focus (Medicine)
 - **Classify:** Learn either the arms, armor, or trinket affixes of a creature of your choice. If you choose to learn their trinket affixes, you also learn the skills that they are proficient in.
   - Expertise (Anima)
