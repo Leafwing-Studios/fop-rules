@@ -72,7 +72,7 @@ Every class has a form of customization: a specific school of training, elements
 
 If you have a character idea that doesn’t match the mechanics described in any of the classes well, talk to your table about making changes to help you play the character you’re imagining. There are several options for this, in order of increasing effort required in order to ensure your new class is fun and balanced:
 
-1. Reflavour the features or spells, keeping the mechanics the same, to better match your vision of what your character is doing.
+1. Reflavor the features or spells, keeping the mechanics the same, to better match your vision of what your character is doing.
 1. Create new powers to select from, allowing you to take different actions within the framework of the class.
 1. Create a new subclass, using the patterns established in the class, in order to change the style in which a class is played.
 1. Modify features, using affixes or other class or racial features as guidelines, in order to better match the playstyle you want.
@@ -86,7 +86,7 @@ No one is good at everything. Decide what areas your character has focused their
 
 Characters in Fonts of Power are designed to feel unique from the very beginning. When you build a character, select:
 
-- A **skill talent,** which lets you specialize in a particular skill.
+- A **skill talent,** which lets you specialize in a particular skill. You must be proficient in the skill corresponding to the skill talent that you select.
 - A **combat talent,** which starts to define your unique style of fighting.
 
 Don’t worry if more than one talent appeals to you: every talent is also available as an affix that you can enchant onto your gear.
@@ -139,7 +139,7 @@ Changing the ideals to match the moral dilemmas in your own world is easy: just 
 
 ## Backstory
 
-Every character in the game has a past, events and connections and ideals from before the game begins to tell their story that influences their behaviour and ties them to the world. As you work out their backstory, take notes on the ideas you come up with to share with the worldspeaker and other players in the game. Feel free to leave your backstory fairly vague, and fill in the details as the story of your campaign unfolds.
+Every character in the game has a past, events and connections and ideals from before the game begins to tell their story that influences their behavior and ties them to the world. As you work out their backstory, take notes on the ideas you come up with to share with the worldspeaker and other players in the game. Feel free to leave your backstory fairly vague, and fill in the details as the story of your campaign unfolds.
 
 Begin by working with your worldspeaker and the other players in your party to determine how everyone met, and what ties them together even in the face of danger and hardship. Several reasonable starting points are listed in the table below, with the tables beneath that expanding on those options. If you’re not sure what sort of campaign you’d like to play, the answer to this question can be a great place to start.
 
@@ -221,7 +221,7 @@ From there, think about what their life before adventuring was like.
 Finally, think about the questions most pertinent to their life as an adventurer, tying together their past and explaining how they mesh with the party.
 
 - How did they gain their magical powers that they develop through their class?
-- **\* How** do they feel about these powers?
+- How do they feel about these powers?
 - What sort of moral standards do they hold themselves and others to?
 - What ideals do they pursue, even when it’s inconvenient?
 - What flaws do they struggle with that tend to land them in trouble?

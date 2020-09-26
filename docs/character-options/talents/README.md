@@ -1,6 +1,10 @@
 # Talents
-This is the root page for all the talents in the game. Talents are...
+
+This is the root page for all the talents in the game. Talents are innate, largely non-magical aspects of who your character is: making them distinct from others of the same class and species.
+
+When you create your character, select on skill talent and one combat talent. You must be proficient in the skill corresponding to the skill talent that you select.
 
 ## Sections {docsify-ignore}
-* [Skill Talents](character-options/talents/skill-talents.md)
-* [Combat Talents](character-options/talents/combat-talents.md)
+
+- [Skill Talents](character-options/talents/skill-talents.md)
+- [Combat Talents](character-options/talents/combat-talents.md)
