@@ -1,5 +1,7 @@
 # Skill Talents
 
+Skill talents let you further specialize in a skill you are already proficient in.
+
 ## Anima: Instinctive
 
 You have advantage on skill checks made to learn more about monsters when using the Scan minor action.
