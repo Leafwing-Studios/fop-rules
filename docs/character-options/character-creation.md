@@ -86,7 +86,7 @@ No one is good at everything. Decide what areas your character has focused their
 
 Characters in Fonts of Power are designed to feel unique from the very beginning. When you build a character, select:
 
-- A **skill talent,** which lets you specialize in a particular skill. You must be proficient in the skill corresponding to the skill talent that you select.
+- A **skill talent,** which lets you specialize in a skill you are already proficient in.
 - A **combat talent,** which starts to define your unique style of fighting.
 
 Don’t worry if more than one talent appeals to you: every talent is also available as an affix that you can enchant onto your gear.
