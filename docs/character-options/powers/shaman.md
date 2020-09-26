@@ -126,7 +126,7 @@ Elements grasp at your foe, holding them tight as they crush them with raw force
 
 When you learn this manifestation, create a set of arms using the standard rules. You are always attuned to these arms, and they do not count against your attunement limit. You may change these arms when you level up as one of the two choices you may modify, but cannot alter them using the Craft downtime activity.
 
-These arms always have the _grasping_ affix, which makes you unable to make basic attacks with them but grants you an automatic Expose attack after you hit a creature with a Grapple attack.
+These arms always have the _grasping_ affix, which makes you unable to make basic attacks with them but grants allies an attack of opportunity after you hit a creature with a Grapple attack.
 
 Whenever you use the Swap minor action, you may choose to augment these arms, and do not need to replace your currently equipped arms. At higher surge levels:
 
