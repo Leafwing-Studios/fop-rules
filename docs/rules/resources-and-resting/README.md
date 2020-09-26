@@ -16,7 +16,7 @@ Occasionally, the distinction between **losing life** and **taking damage** can 
 
 Creatures can gain **absorption,** a short-lasting replacement for life points that represents absorptive armoring or a protective force. Damage taken is subtracted from your absorption before your life. At the start of each of your turns (before any other effects occur), reduce your absorption by the amount of absorption you had at the end of your last turn, to a minimum of 0. Ordinarily, this just causes your absorption to be reduced to 0 at the start of each of your turns. The only time this does not occur is when you gain absorption at a time when it was not your turn, such as when it was received as a boon from an ally.
 
-Absorption gained can stack, increasing the buffer of life points that must be dealt with before you suffer actual damage.
+Absorption gained can stack, increasing the buffer of life points that must be dealt with before you suffer actual damage. The amount of absorption that a creature has is always public information.
 
 ## Essence
 
@@ -28,7 +28,7 @@ Each player character has proficiency bonus × (6 + Focus) essence, which can be
 
 Magic is your very life force: your concern should not be running out of essence, but whether overusing your powers will leave you drained beyond saving or accidentally kill you.
 
-You can recover essence by using the Essence Tap minor action, replenishing your essence at the risk of exhaustion. When you attempt to spend more essence than you currently have, you automatically and immediately gain the benefits of the Essence Tap minor action, but only restore essence equal to twice your profiency bonus.
+You can recover essence by using the Essence Tap minor action, replenishing your essence at the risk of exhaustion. When you attempt to spend more essence than you currently have, you automatically and immediately gain the benefits of the Essence Tap minor action, but only restore essence equal to twice your proficiency bonus.
 
 ## Exhaustion
 

@@ -79,7 +79,7 @@ Take a moment to learn more about your surroundings. If you are skilled enough t
 
 - **Reveal:** Choose a hiding spot within 6 tiles and reveal it.
   - Focus (Perception). You have advantage on this skill check if you are adjacent to the chosen tile, and disadvantage if it is more than 3 tiles away from you.
-- **Size Up:** Learn the attributes, tier and turns per round of a creature of your choice.
+- **Size Up:** Learn the attributes, basic defense, special defenses, tier and turns per round of a creature of your choice.
   - Focus (Anima)
 - **Triage:** Learn the percentage of life, percentage of essence and the number of stacks of exhaustion that another creature is at.
   - Focus (Medicine)
@@ -99,6 +99,8 @@ Some information is, by it's nature, obscure or difficult to come upon. Even spe
 </div>
 
 If there is no more information to gain from the benefit you chose, you may swap it out for a different one for free. Mechanical enemies use the 0-cost _mechanical_ trinket affix, which causes the Medicine and Anima skill checks in this list to be made with Tinkering instead. Elemental enemies will have the _primordial_ affix instead, which changes those skill checks into Fontcraft skill checks.
+
+Each creature's current absorption, as well as any conditions it may have, are always public information.
 
 ## Shove
 
