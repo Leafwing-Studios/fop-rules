@@ -14,6 +14,7 @@ Effects which qualify as a boon include but are not limited to:
 - granting additional movement
 - turning them invisible
 - granting them the benefit of an action
+- blocking for them
 
 Effects which do not, on their own, qualify as a boon include:
 
