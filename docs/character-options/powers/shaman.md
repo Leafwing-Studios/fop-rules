@@ -297,7 +297,7 @@ When you Surge this manifestation:
 Block blows with a swirling elemental shield, allowing you to absorb elemental damage, transforming it into an explosive cone of your own energy.
 When you use the Block reaction, this manifestation activates:
 
-- Until the start of your next turn, whenever your Block reaction would absorb damage until the start of your next turn, absorb additional elemental damage.
+- Until the start of your next turn, whenever your Block reaction would absorb damage until the start of your next turn, absorb additional elemental damage. This takes priority over the base damage absorption gained by the Block reaction.
 - When you absorb elemental damage int his way, deal the same amount of elemental damage, but of the type specified by your domain, to all creatures in a 2 tile cone, directed towards the source of the damage.
 - Your Block reaction now persists until just after your Surge class feature deals damage to you, rather than ending just before like usual.
 
