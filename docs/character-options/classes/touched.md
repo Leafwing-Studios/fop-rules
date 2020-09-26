@@ -140,7 +140,7 @@ At level 9, your companion lashes out at those who dare to strike you, and snaps
 
 ## Counterpoint
 
-At level 11, you and your companion move in a deadly dance, exposing your enemies weaknesses for each other. The first time during your turn that you hit a creature with an attack, you may make an Expose attack against them. You may now benefit from your own Expose attacks.
+At level 11, you and your companion move in a deadly dance, exposing your enemies weaknesses for each other. Whenever a creature loses life due to one of your attacks, you may make an attack of opportunity against them.
 
 ## Symbiosis
 

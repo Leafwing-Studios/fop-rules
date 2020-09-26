@@ -403,7 +403,7 @@ Your bond pulses rhymically, canceling out any sound that you might make. Choose
 Your bond pulses and throbs as it robs your foe of their defenses. Choose one:
 
 - Gain the benefit of the Defend major action and the Treat minor action, targeting yourself.
-- Make an Expertise attack against your dual. If you hit, apply one stack of defenseless to them and gain the benefits of an Expose attack against them.
+- Make an Expertise attack against your dual. If you hit, apply one stack of defenseless to them and each of your allies whose zone of control that creature is in may make an attack of opportunity against them.
 
 ## Uncanny Focus
 

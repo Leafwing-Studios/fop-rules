@@ -42,10 +42,6 @@ When you attempt to spend more essence than you currently have, you automaticall
 
 When monsters Essence Tap, they gain 6 stacks of exhaustion, reduced by their skill check result in the usual fashion.
 
-## Expose
-
-Make a melee Expertise attack against an enemy of your choice within your zone of control. If it hits, an ally of your choice (other than yourself) may make an attack of opportunity against that enemy.
-
 ## Guard
 
 Attacks against you by a creature of your choice have disadvantage against you until the start of your next turn.

@@ -2,7 +2,7 @@
 
 **Source of Power:** Driven by relentless self-improvement, Ascendants hone their body into the perfect weapon, powered purely by their force of will and intense training (or strange experiments).
 
-**Core Mechanic:** Ascendants chain their attacks together using their Combination Strikes feature, gaining the ability to make a new Strike, Grapple, Shove or Expose attack after landing their last one. In the face of danger, Ascendants calmly meditate, healing and dodging attacks as they take the Defend major action.
+**Core Mechanic:** Ascendants chain their attacks together using their Combination Strikes feature, gaining the ability to make a new Strike, Grapple or Shove attack after landing their last one. In the face of danger, Ascendants calmly meditate, healing and dodging attacks as they take the Defend major action.
 
 **Specialization:** Every Ascendant’s body adapts in a unique fashion, giving them access to a remarkable number of affixes of their choice via the Natural Offense, Natural Defense and Self-Improvement class features to support truly unique build choices.
 
@@ -62,7 +62,7 @@
 
 ## Combination Strikes
 
-In battle, the Ascendant is an unstoppable martial force, striking their enemy with a flurry of chained blows from the improved body they have created. At level 1, whenever you hit a non-allied creature with an attack, you may spend one essence to immediately make another Strike, Grapple, Shove or Expose attack against them. At level 1, you may only use this feature once per round. The number of times per round that you can use this feature increases by one at levels 5, 9, 13 and 17.
+In battle, the Ascendant is an unstoppable martial force, striking their enemy with a flurry of chained blows from the improved body they have created. At level 1, whenever you hit a non-allied creature with an attack, you may spend one essence to immediately make another Strike, Grapple or Shove attack against them. At level 1, you may only use this feature once per round. The number of times per round that you can use this feature increases by one at levels 5, 9, 13 and 17.
 
 While you cannot usually spend essence while making attacks of opportunity, you can spend essence on Combination Strikes to follow up on attacks of opportunity that you land.
 
@@ -151,6 +151,6 @@ When you reach level 20, you have achieved your ideal form: body and mind existi
 - There is no limit to the number of times that you may use your Combination Strikes feature per round but you may no longer take the Defend major action.
 - At the start of each of your turns, remove one stack of each affliction and ailment from yourself. When you use the Defend major action and take advantage of your Meditation class feature, gain 12 absorption.
 - Your movement speed is doubled, attacks of opportunity against you have disadvantage and you may pass through enemy tiles.
-- You have advantage on all special attacks. You may make Shove and Expose attacks using your Combination Strikes feature without spending any extra essence or counting against the total number of attacks used, although your chain still breaks if you miss them.
+- You have advantage on all special attacks. You may make Shove attacks using your Combination Strikes feature without spending any extra essence or counting against the total number of attacks used, although your chain still breaks if you miss them.
 
 The chosen effect persists until it is replaced by another in this list.

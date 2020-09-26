@@ -45,7 +45,6 @@ Utility power effects:
 - teleport the creature hit into an adjacent empty tile of your choice
 - permanently create difficult terrain in a one tile radius around yourself
 - permanently create difficult terrain in a one tile radius around the creature struck
-- automatically hit the creature struck with an Expose attack
 - gain the benefit of your Balance of Power: Companion minor action
 - gain the benefit of your Balance of Power: Host minor action
 - gain the benefit of the Break Grapple minor action

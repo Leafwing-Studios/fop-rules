@@ -135,7 +135,7 @@ Once you reach level 10, you are unwavering in your convictions, and nearly impo
 
 ## Rallying Blow
 
-At level 11, your blows inspire and guide your allies, highlighting weaknesses in the foes’ defenses. Whenever you hit a creature with a basic attack or Grapple attack, you may immediately make an Expose attack against them.
+At level 11, your blows inspire and guide your allies, highlighting weaknesses in the foes’ defenses. Whenever you hit a creature with a basic attack or Grapple attack, each ally within a 10 foot radius of you may make an attack of opportunity against that creature.
 
 ## Battlefield Beacon
 

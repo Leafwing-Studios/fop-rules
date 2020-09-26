@@ -18,9 +18,9 @@
 
 </div>
 
-Teaming up with an ally, you capitalize on a foe's weaknesses and overwhelm their defenses. This attack of opportunity triggers whenever you are the benificiary of an Expose attack.
+Teaming up with an ally, you capitalize on a foe's weaknesses and overwhelm their defenses. This attack of opportunity triggers whenever an ally makes an attack of opportunity against a creature that is within your weapon's range.
 
-Make an Expertise attack against the creature who you could have made an attack of opportunity against. If you hit, the target suffers the effect of a basic attack from you at half efficacy and gain the benefit of an Expose attack targeting that creature.
+Make an Expertise attack against the creature who you could have made an attack of opportunity against. If you hit, the target suffers the effect of a basic attack from you.
 
 ## Destabilize
 

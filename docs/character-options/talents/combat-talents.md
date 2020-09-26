@@ -58,7 +58,7 @@ Remove two stacks of each ailment from yourself at the end of each of your turns
 
 ### Pragmatic
 
-You have advantage on Shove and Expose attacks.
+You have advantage on Shove attacks.
 
 ### Opportunistic
 
@@ -167,6 +167,10 @@ The critical hit threshold for your attacks is reduced by 2. Whenever you roll a
 ### Careful
 
 You have disadvantage on attacks that you make against allied creatures.
+
+### Ferocious
+
+Whenever a creature loses life due to one of your attacks, you may make an attack of opportunity against them.
 
 ### Lithe
 

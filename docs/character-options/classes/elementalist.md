@@ -40,28 +40,29 @@
 
 <div class="class-table">
 
-| Level | Proficiency Bonus | Features                                               | Spells Known |
-| :---: | :---------------: | ------------------------------------------------------ | :----------: |
-|   1   |        +1         | Spellcasting, Duality: First Pairing, Unbridled Energy |      2       |
-|   2   |        +1         | Element Twisting (Minor), Equilibrium                  |      2       |
-|   3   |        +1         | Detonation, Power Siphon                               |      2       |
-|   4   |        +1         | Attribute Improvement                                  |      3       |
-|   5   |        +2         | Proficiency Bonus Improvement, Spell Mirror (2)        |      3       |
-|   6   |        +2         | Elemental Intuition                                    |      3       |
-|   7   |        +2         | Duality: Second Pairing                                |      5       |
-|   8   |        +2         | Attribute Improvement                                  |      6       |
-|   9   |        +3         | Proficiency Bonus Improvement, Spell Mirror (3)        |      6       |
-|  10   |        +3         | Element Twisting (Major)                               |      6       |
-|  11   |        +3         | Shaped Charge                                          |      6       |
-|  12   |        +3         | Attribute Improvement                                  |      7       |
-|  13   |        +4         | Proficiency Bonus Improvement, Spell Mirror (4)        |      7       |
-|  14   |        +4         | Elemental Crafting                                     |      7       |
-|  15   |        +4         | Spell Prism                                            |      7       |
-|  16   |        +4         | Attribute Improvement                                  |      8       |
-|  17   |        +5         | Proficiency Bonus Improvement, Spell Mirror (5)        |      8       |
-|  18   |        +5         | Element Twisting (Grand)                               |      8       |
-|  19   |        +5         | Attribute Improvement                                  |      9       |
-|  20   |        +5         | Fusion                                                 |      9       |
+|                   Level                    | Proficiency Bonus | Features                                        | Spells Known |
+| :----------------------------------------: | :---------------: | ----------------------------------------------- | :----------: |
+|                     1                      |        +1         |
+| , Duality: First Pairing, Unbridled Energy |         2         |
+|                     2                      |        +1         | Element Twisting (Minor), Equilibrium           |      2       |
+|                     3                      |        +1         | Detonation, Power Siphon                        |      2       |
+|                     4                      |        +1         | Attribute Improvement                           |      3       |
+|                     5                      |        +2         | Proficiency Bonus Improvement, Spell Mirror (2) |      3       |
+|                     6                      |        +2         | Elemental Intuition                             |      3       |
+|                     7                      |        +2         | Duality: Second Pairing                         |      5       |
+|                     8                      |        +2         | Attribute Improvement                           |      6       |
+|                     9                      |        +3         | Proficiency Bonus Improvement, Spell Mirror (3) |      6       |
+|                     10                     |        +3         | Element Twisting (Major)                        |      6       |
+|                     11                     |        +3         | Shaped Charge                                   |      6       |
+|                     12                     |        +3         | Attribute Improvement                           |      7       |
+|                     13                     |        +4         | Proficiency Bonus Improvement, Spell Mirror (4) |      7       |
+|                     14                     |        +4         | Elemental Crafting                              |      7       |
+|                     15                     |        +4         | Spell Prism                                     |      7       |
+|                     16                     |        +4         | Attribute Improvement                           |      8       |
+|                     17                     |        +5         | Proficiency Bonus Improvement, Spell Mirror (5) |      8       |
+|                     18                     |        +5         | Element Twisting (Grand)                        |      8       |
+|                     19                     |        +5         | Attribute Improvement                           |      9       |
+|                     20                     |        +5         | Fusion                                          |      9       |
 
 </div>
 
@@ -116,7 +117,7 @@ Whenever you cast a _meld_ spell (after you learn whether it is a critical hit o
 
 ## Unbridled Energy
 
-At level 1, elemental energy begins to leak out of you as you struggle to control its energy. At the end of each of your turns while your exposure to an element is 4, 5 or 6, cast a spell of your choice that belongs to that element. This does not cost essence or an action. When you gain access to your second pairing, if your exposure to two seperate elements is 4, 5 or 6, you may choose to cast a spell that belongs to either element.
+At level 1, elemental energy begins to leak out of you as you struggle to control its energy. At the end of each of your turns while your exposure to an element is 4, 5 or 6, cast a spell of your choice that belongs to that element. This does not cost essence or an action. When you gain access to your second pairing, if your exposure to two separate elements is 4, 5 or 6, you may choose to cast a spell that belongs to either element.
 
 ## Element Twisting
 
@@ -671,7 +672,7 @@ If you are level 18 or higher, you are able to carefully manipulate essence and 
 
 </div>
 
-Acid drips and bubbles as it reveals weaknesses of all sorts. Select a creature or object within range. When you use this spell against a creature, make an Expose attack against them with advantage. When you use this spell against an object, you have advantage on the next skill check made in the next ten minutes to break or destroy it.
+Acid drips and bubbles as it reveals weaknesses of all sorts. Select a creature or object within range. When you use this spell against a creature, all creatures within that creature's zone of control may make an attack of opportunity against them. When you use this spell against an object, you have advantage on the next skill check made in the next ten minutes to break or destroy it.
 
 If you are level 10 or higher, you can slowly eat away at nonliving material that is not being held or worn by any creature, causing it to sizzle into dust. It takes five casts of this spell to obliterate a single one-tile cube of solid material.
 

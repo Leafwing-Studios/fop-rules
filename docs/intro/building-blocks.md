@@ -82,9 +82,9 @@ On each of their turns, creatures can (in any order):
   _ **Use a power** granted by their class.
 - Take a **minor action** such as:
   _ **Shove:** knock a creature down or push them into an adjacent tile.
-  _ **Expose:** grant an ally an attack of opportunity against the enemy.
   _ **Treat:** cure yourself or an adjacent ally of a ailment or affliction.
-  _ **Hide:** attempt to make yourself unseen so that you can attack with advantage. \* **Scan:** find a hidden creature, or figure out something about the scene.
+  _ **Hide:** attempt to make yourself unseen so that you can attack with advantage.
+  _ **Scan:** find a hidden creature, or figure out something about the scene.
 
 <div class="infobox">
 

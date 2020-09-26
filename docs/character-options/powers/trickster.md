@@ -246,26 +246,6 @@ With a small puff of smoke, every creature near your trick suddenly vanishes, be
 
 With a puff of smoke you vanish, suddenly reappearing where your trick detonated. When detonated, you teleport to the location of this trick.
 
-## Overexposure
-
-<div class="tight">
-
-**Action:** Minor action
-
-**Cost:** 0 essence
-
-**Range:** Melee, 3 tiles
-
-**Targets:** Multi-target
-
-**Attack:** Expertise
-
-**Duration:** Instant
-
-</div>
-
-The trick explodes in a blinding flash of light, causing those nearby to drop their guard for just a moment. When detonated, make an Expose attack against all creatures with a 2 tile radius around the trick. You may be the beneficiary of any Expose attacks made in this manner. The worldspeaker may select the beneficiary of any Expose attacks that you land on your allies in this way.
-
 ## Poof!
 
 <div class="tight">

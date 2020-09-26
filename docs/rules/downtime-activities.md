@@ -53,7 +53,7 @@ After you perform this downtime activity, you are particularly in touch with you
 Grow closer to another party member, improving your cooperation. Both party members must select this downtime activity in order to gain its benefits. Until you next complete a rest:
 
 - you have advantage on any skill check made to attempt to help each other them on skill checks
-- you have advantage on any skill checks or attack rolls made to use the Treat, Break Grapple or Expose actions to benefit each other
+- you have advantage on any skill checks or attack rolls made to use the Treat or Break Grapple minor actions to benefit each other
 
 ## Challenge
 
