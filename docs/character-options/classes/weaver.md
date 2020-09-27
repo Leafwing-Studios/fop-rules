@@ -46,7 +46,7 @@
 |   2   |        +1         | Sense the Weave, Mending                          |       4        |
 |   3   |        +1         | Warded by the Weave, Thread Twisting              |       4        |
 |   4   |        +1         | Attribute Improvement                             |       5        |
-|   5   |        +2         | Proficiency Bonus Improvement, Mirrored Patterns  |       5        |
+|   5   |        +2         | Proficiency Bonus Improvement, Flick of the Wrist |       5        |
 |   6   |        +2         | Guild: World Weaving                              |       5        |
 |   7   |        +2         | Step Through the Weave                            |       5        |
 |   8   |        +2         | Attribute Improvement                             |       6        |
@@ -54,7 +54,7 @@
 |  10   |        +3         | Sleight of Hand                                   |       6        |
 |  11   |        +3         | Guild: Elaborate Pattern                          |       6        |
 |  12   |        +3         | Attribute Improvement                             |       7        |
-|  13   |        +4         | Proficiency Bonus Improvement, Flick of the Wrist |       7        |
+|  13   |        +4         | Proficiency Bonus Improvement, Mirrored Patterns  |       7        |
 |  14   |        +4         | Read the Weave                                    |       7        |
 |  15   |        +4         | Snapped Threads                                   |       7        |
 |  16   |        +4         | Attribute Improvement                             |       8        |
@@ -81,8 +81,8 @@ Patterns work somewhat differently than other powers due to the sustained connec
   - This ignores line of sight, and scales with modifications to the range of your powers.
   - If the target is hidden, measure from their closest hiding spot.
 - If your concentration is broken, you cannot sustain patterns at the start of your next turn.
-- You can sustain patterns even while otherwise impaired (such as if you were banished, stunned or pacified); only casting new patterns is affected. 
-- Even though your patterns are ranged attacks, you do not have disadvantage on attacks made with your patterns due to being in an enemy zone of control. 
+- You can sustain patterns even while otherwise impaired (such as if you were banished, stunned or pacified); only casting new patterns is affected.
+- Even though your patterns are ranged attacks, you do not have disadvantage on attacks made with your patterns due to being in an enemy zone of control.
 - You do not need to have line of sight to your dual to affect a creature with a pattern you have sustained or already cast (but you do need to have line of sight and see them).
 - If the target of your pattern is hidden, you do not need to know where they are (although patterns do not reveal their position if they hit).
 
@@ -93,6 +93,10 @@ Each Weaver belongs to a professional association, a Guild, which specializes in
 ### Signature Pattern
 
 When you select a Guild at level 1 you gain access to an exclusive pattern that does not count towards your limit of patterns known.
+
+## Flick of the Wrist
+
+At 5th level, you can incorporate patterns into the movements you are already making, casting them more quickly. You may cast patterns as a minor action at the cost of 1 essence.
 
 ### Reality Weaving
 
@@ -140,10 +144,6 @@ At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the
 
 See the Leveling Up section in the Narrative Mechanics chapter for a reminder of the factors that change when this occurs.
 
-## Mirrored Patterns
-
-When you reach level 5, you learn to mirror the motions you are making with the other hand, producing two copies of the same effect. Whenever you cast a Pattern as a major action, you may spend one essence to create a second copy of it. You do not need to use the same target for this pattern.
-
 ## Step through the Weave
 
 When you reach level 7, you gain the ability to step through the Weave itself, teleporting a short distance. You no longer gain movement when you take the Dash minor action. Instead, declare a tile within a range equal to twice the movement that you would have gained from your Dash. At the start of your next turn, teleport into that tile. Any creatures occupying that tile are pushed into the nearest empty tile of their choice.
@@ -158,9 +158,9 @@ As a reminder, when you choose to sustain a pattern at the start of your turn, y
 
 Once you reach 10th level, you learn to mask your patterns with ordinary movements and work with incredible subtlety. If you succeed on a difficulty 15 Agility (Trickery) skill check at the end of each turn that you cast or sustain a pattern, observers are completely unaware of the fact that you are using magic. You have disadvantage on this skill check if there is more than one observer or you are being closely watched.
 
-## Flick of the Wrist
+## Mirrored Patterns
 
-At 13th level, you can incorporate patterns into the movements you are already making, casting them more quickly. You may cast patterns as a minor action at the cost of 1 essence. You may not use your Mirrored Patterns feature with this feature as you are not casting the pattern as a major action.
+When you reach level 13, you learn to mirror the motions you are making with the other hand, producing two copies of the same effect. Whenever you cast a pattern as a major action (but not as a minor action or reaction), you may spend one essence to create a second copy of it. You do not need to use the same target for this pattern.
 
 ## Read the Weave
 
