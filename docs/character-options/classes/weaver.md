@@ -148,7 +148,7 @@ At 5th level, you can incorporate patterns into the movements you are already ma
 
 ## Step through the Weave
 
-When you reach level 7, you gain the ability to step through the Weave itself, teleporting a short distance. You no longer gain movement when you take the Dash minor action. Instead, declare a tile within a range equal to twice the movement that you would have gained from your Dash. At the start of your next turn, teleport into that tile. Any creatures occupying that tile are pushed into the nearest empty tile of their choice.
+When you reach level 7, you gain the ability to step through the Weave itself, teleporting a short distance. You gain access to the Telegraphed Teleportation power. As a minor action, choose a tile within a range equal to half your movement speed. At the start of your next turn, you may teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into the empty tile of their choice.
 
 ## Split Focus
 
