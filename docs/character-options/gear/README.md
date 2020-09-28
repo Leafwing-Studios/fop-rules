@@ -7,5 +7,4 @@ Treasure, magical trinkets, fantastical swords and elaborate suits of armor lie 
 - [Categorizing Gear](character-options/gear/categorizing-gear.md)
 - [Equipping Gear](character-options/gear/equipping-gear.md)
 - [Creating Gear](character-options/gear/creating-gear.md)
-- [Quirks](character-options/gear/quirks.md)
 - [Prebuilt Gear](character-options/gear/prebuilt-gear.md)

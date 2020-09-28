@@ -6,7 +6,7 @@ You can take a look at the affixes available to create your gear [on our website
 
 All gear is crafted using downtime activities. In general, your gear’s innate properties are created using the Crafting skill, then enchantments are added through either Anima, Arcana, Fontcraft, or Tinkering.
 
-The skill used in crafting affects the aesthetics of the item, and the quirk it comes with. For example, a magical staff created using Tinkering might be a metal rod with a glowing gemstone, but the same item crafted using Anima might be a twisted oak branch with a monster’s eyeball.
+The skill used in crafting affects the aesthetics of the item, and further modifications are easier when using the same skill. For example, a magical staff created using Tinkering might be a metal rod with a glowing gemstone, but the same item crafted using Anima might be a twisted oak branch with a monster’s eyeball.
 
 ## Building on a Base
 
