@@ -73,7 +73,9 @@ Weaving a pattern takes a major action, but does not cost any essence. Patterns 
 
 Weavers can **sustain** their patterns for lasting effects. At the start of each of your turns, you may choose to sustain any pattern that you cast or were sustaining last turn. Sustaining a pattern costs 1 essence, and you may only sustain one pattern at a time at level 1.
 
-At the end of each of your turns, gain the effects of any patterns you cast that turn or that you were sustaining. Like always, your simultaneous effects resolve in the order of your choice.
+At the end of each of your turns, gain the effects of any patterns you cast that turn or that you were sustaining.
+Like always, your simultaneous effects resolve in the order of your choice.
+For the purpose of effects such as the _encouraging_ combat talent, patterns which later apply boons (such as _pattern of absorption_) count as applying boons at the end of the turn when they trigger.
 
 Patterns work somewhat differently than other powers due to the sustained connection formed:
 
