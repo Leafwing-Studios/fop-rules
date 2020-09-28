@@ -18,6 +18,8 @@ Creatures can gain **absorption,** a short-lasting replacement for life points t
 
 Absorption gained can stack, increasing the buffer of life points that must be dealt with before you suffer actual damage. The amount of absorption that a creature has is always public information.
 
+If an effect **steals** absorption, it removes that much absorption (but does not deal damage) and causes the stealing creature to gain absorption equal to the amount removed.
+
 ## Essence
 
 Essence is the magical energy of _Font of Power,_ permeating the world and pulsing through the veins of every creature, including your characters. It is innate and omnipresent, but the concentration of it varies from creature to creature and place to place. Too much essence can quickly make one sick, or cause other bizarre and unexpected results. As your character trains and practices, they become more adept with essence, able to draw deeper from their own reserves and capable of handling more powerful magical items without becoming overwhelmed.
