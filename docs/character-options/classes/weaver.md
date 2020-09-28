@@ -61,7 +61,7 @@
 |  17   |        +5         | Proficiency Bonus Improvement, Split Focus (3)    |       8        |
 |  18   |        +5         | Guild: Warp the Weave                             |       8        |
 |  19   |        +5         | Attribute Improvement                             |       9        |
-|  20   |        +5         | Masterpiece                                       |       9        |
+|  20   |        +5         | Threads of Magic                                  |       9        |
 
 </div>
 
@@ -93,10 +93,6 @@ Each Weaver belongs to a professional association, a Guild, which specializes in
 ### Signature Pattern
 
 When you select a Guild at level 1 you gain access to an exclusive pattern that does not count towards your limit of patterns known.
-
-## Flick of the Wrist
-
-At 5th level, you can incorporate patterns into the movements you are already making, casting them more quickly. You may cast patterns as a minor action at the cost of 1 essence.
 
 ### Reality Weaving
 
@@ -144,6 +140,10 @@ At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the
 
 See the Leveling Up section in the Narrative Mechanics chapter for a reminder of the factors that change when this occurs.
 
+## Flick of the Wrist
+
+At 5th level, you can incorporate patterns into the movements you are already making, casting them more quickly. You may cast patterns as a minor action at the cost of 1 essence.
+
 ## Step through the Weave
 
 When you reach level 7, you gain the ability to step through the Weave itself, teleporting a short distance. You no longer gain movement when you take the Dash minor action. Instead, declare a tile within a range equal to twice the movement that you would have gained from your Dash. At the start of your next turn, teleport into that tile. Any creatures occupying that tile are pushed into the nearest empty tile of their choice.
@@ -170,9 +170,9 @@ At level 14, you learn to decipher the tangles of magic written in the Weave. Yo
 
 When you reach level 15, the raw energy released whenever another creature causes your concentration to break banishes them into the Weave for a moment. Whenever another creature causes your concentration to break, make an Expertise attack against them, applying one stack of banished if you hit.
 
-## One With the Weave
+## Threads of Magic
 
-At level 20, you are able to seamlessly slip in and out of reality in response to threats. After you use the Block reaction, you may choose to gain one stack of banished. You automatically succeed on any Treat skill checks you make to remove the banished ailment.
+At level 20, you can freely twist and shape magic to your will, altering the nature of strange effects. Whenever you cast or sustain a pattern targeting a single creature, remove one stack of an ailment of your choice from them, then add one stack of a (possibly different) ailment of your choice to them.
 
 # Guilds
 
@@ -224,7 +224,7 @@ At level 18, your mastery over the threads of fate is so great that you are able
 
 ## Maker
 
-An optimistic guild open to any who might display signs of this talent, they ply their crafts as the most expert craftspeople in the entire realm. Working with the very fabric of reality, they toil to create splendours, both magical and mundane for the love of art, the good of the people or unimaginable wealth.
+An optimistic guild open to any who might display signs of this talent, they ply their crafts as the most expert craftspeople in the entire realm. Working with the very fabric of reality, they toil to create splendors, both magical and mundane for the love of art, the good of the people or unimaginable wealth.
 
 Deeply prized, the few masters of this work are often sought after by the powerful as a unique tool, whether in pursuit of prosperity, vanity, or war. Commoners are easily awed (and often envious), but those who show a true love for creation have much to learn from any of the Guild of Makers that they might encounter.
 
@@ -316,18 +316,18 @@ Casting time: Major action
 Range: 6 tiles
 Duration: Until the end of your next turn
 
-Shaping the Weave, you mimic the forms of your allies, creating illusory copies for them to control. Choose a creature within range to copy. At the end of each of your turns:
-If a copy does not already exist due to this pattern, make an illusory copy of the creature, which appears in an empty tile adjacent to the creature that they’re copying.
+Shaping the Weave, you mimic the forms of your allies, creating illusory copies for them to control. Choose a creature within range to copy. At the end of each of your turns, if a copy does not already exist due to this pattern, make an illusory copy of the creature, which appears in an empty tile adjacent to the creature that they’re copying.
+
 Illusory copies act according to the wishes of the creature they are copying on their turns, and are capable of all of the same actions.
-The first time that an affected creature or its illusory double:
-succeeds on a skill check
-lands an attack (after damage was rolled and the choice to use the Block reaction was used)
-is hit by an attack
-takes damage
-Roll a d20.
-On a result of 11 or higher, the illusory copy was targeted or made the attack, and the attack or skill check made has no effect.
-If so, the illusory copy disappears.
-As a party, you may spend a Resolve to modify the outcome of this d20.
+
+- The first time that an affected creature or its illusory double:
+  - succeeds on a skill check
+  - lands an attack (after damage was rolled and the choice to use the Block reaction was used)
+  - is hit by an attack
+  - takes damage
+    Roll a d20. On a result of 11 or higher, the illusory copy was targeted or made the attack, and the attack or skill check made has no effect.
+    If so, the illusory copy disappears.
+    As a party, you may spend a Resolve to modify the outcome of this d20.
 
 When this pattern ends, the affected creature is able to choose freely which copy was real, and the illusory copy disappears.
 
@@ -337,7 +337,7 @@ At level 18, you are able to impart a whole set of beliefs or view of the world 
 
 ### Unmaker
 
-The most feared of the guilds, the Unmakers specialize in severing the threads holding together reality. Their teachings hold that flaws in the tapestry are an inevitable and unfortunate occurrence: when they occur, it is the Unmaker’s job to cut them out of the fabric of existence.
+The most feared of the guilds, the Unmakers specialize in severing the threads holding together reality. Their teachings hold that flaws in the tapestry are an inevitable and unfortunate occurrence: when they occur, it is the Unmakers' job to cut them out of the fabric of existence.
 
 Working as ruthless monster hunters or inscrutable assassins, their footsteps echo with whispers wherever they travel. From the outside, their purposes seem unknowable and their power terrible. But to the members of the guild, it is simple. Mistakes must be corrected.
 
