@@ -9,7 +9,7 @@ You may use any attack of your choice to make an attack of opportunity, so long 
 There are several ways to trigger this reaction. By default, you can make attacks of opportunity when:
 
 - An enemy creature spends movement to both enter and leave your zone of control in a single turn. This occurs regardless of the order.
-- Whenever a creature in your zone of control loses life due to one of your allies' attacks, you may make an attack of opportunity against them.
+- Whenever an enemy in your zone of control loses life due to one of your allies' attacks, you may make an attack of opportunity against them.
 
 Attacks of opportunity always occur before the triggering action is complete. For example, if an enemy attempts to run past you, you could make a Grapple attack against them, holding them in place just before they leave your zone of control.
 
