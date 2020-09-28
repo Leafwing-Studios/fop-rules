@@ -361,7 +361,7 @@ When you summon this storm with a major action, or use a minor action to summon 
 
 ## Word
 
-With a single word of power, you control your foes with the power of the elements as they are wracked by the incredible energy surging through them. As a major action, make a Focus attack against a creature of your choice within range. If you hit, apply the number of stacks of unstable specified in the table below. At higher surge levels, you also apply stacks of the ailment specified by your Domain.
+With a single word of power, you control your foes with the power of the elements as they are wracked by the incredible energy surging through them. As a major action, make a Focus attack against a creature of your choice within a 6 tile range. If you hit, apply the number of stacks of unstable specified in the table below. At higher surge levels, you also apply stacks of the ailment specified by your Domain.
 
 When you Surge this manifestation:
 
