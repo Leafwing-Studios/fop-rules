@@ -4,19 +4,23 @@
 
 While in combat, tiles are commonly modified in dangerous or interesting ways: sacred shrines, clinging fog, walls of fire and so on. Collectively, these are referred to as **tile effects.** Creatures moving by teleportation ignore the tile effects of the tiles that they cross.
 
-Tile effects (including ground effects) always trigger when:
+Tile effects (including ground effects) are triggered when:
 
 - a creature begins their turn in the tile effect
-- a creature enters the tile effect for the first time in a turn
+- a creature enters the tile effect for the first time during their turn
+- a creature shifts out of a tile effect when it is not their turn
 
-This ensures that they trigger once for every turn that the creature takes, no matter how they end up moving. Attacks that you make due to tile effects triggering do not end your hidden status.
+Occupying a tile effect when it is created counts as entering it for the first time during your turn.
 
-Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground. This subset of tile effects are called **ground effects.** As you might expect, flying creatures ignore ground effects.
+This ensures that they trigger once for every turn that the creature takes, no matter how they end up moving.
+Attacks that you make due to tile effects that you created triggering do not end your hidden status.
 
-The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions, unsteady footing or something similar. The difficult terrain ground effect causes:
+Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground. Tile effects like these are classified as **ground effects** and as you might expect, creatures that are flying or aloft ignore ground effects.
 
-- Lateral movement costs are doubled.
-- These tiles count as 2 tiles for the purposes of forced movement (other than teleportation).
+The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions, unsteady footing or something similar. While on difficult terrain:
+
+- lateral movement costs are doubled
+- these tiles count as 2 tiles for the purposes of forced movement (other than teleportation)
 
 ## Visibility and Cover
 
