@@ -92,7 +92,7 @@ At the start of each of your turns:
 
 In addition, your concentration is no longer tested when you lose life due to taking damage of the type associated with your Domain.
 
-# Lay of the Land
+## Lay of the Land
 
 At level 2, you learn to tap into the primal energy of the land; allowing you to gain a high-level overview of the nearest font of power.
 
