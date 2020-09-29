@@ -10,8 +10,8 @@
 
 **Build Fundamentals:** Elementalists are easily built as strikers, but with the right choices they can serve as controllers or guardians instead:
 
-- Striker: Double-down on critical strikes to get off detonation after detonation and blast everything to smithereens. Dash and Guard will be your most useful minor actions.
-- Controller: Focus on your ailments and forced movement, taking combat talents like _merciless_ or _blowhard_ and keep your exposure in the danger zone by alternating elements. The _telekinesis_ affix lets you use the Shove minor action at long range, giving you more control from a safe distance, while the _patient_ combat talent lets you get off more attacks of opportunity with your weapons to recover essence.
+- Striker: Double-down on critical strikes to get off detonation after detonation and blast everything to smithereens. Dash, Guard and Hide will be your most useful minor actions, while the _patient_ combat talent lets you build up extra reactions in case of detonation chains.
+- Controller: Focus on your ailments and forced movement, taking combat talents like _merciless_ or _blowhard_ and keep your exposure in the danger zone by alternating elements. The _telekinesis_ affix lets you use the Shove minor action at long range, giving you more control from a safe distance, and the _cantrip_ or _outburst_ affixes gives you minor action powers to make your attacks of opportunity more useful.
 - Guardian: The barrier cycle of spells lets you give absorption to your allies; amplify its effectiveness with combat talents like _encouraging_ or _supportive_. You’ll often find yourself using the Treat minor action, consider investing in affixes like _combat medic_ to make it more effective.
 
 <div class="side-panel">
@@ -19,7 +19,7 @@
 | Roll | How are you tied to the elements?                |
 | :--: | ------------------------------------------------ |
 |  1   | I carefully study them out of academic interest. |
-|  2   | .I draw power from the fonts.                    |
+|  2   | I draw power from the fonts.                     |
 |  3   | They are essential to my spirituality.           |
 |  4   | I have been somehow altered by them.             |
 |  5   | I use them to bond with the natural world.       |
