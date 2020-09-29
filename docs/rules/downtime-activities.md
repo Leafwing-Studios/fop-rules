@@ -201,7 +201,7 @@ When you return from the dead, you immediately suffer exhaustion equal to your p
 
 Transfer an affix from one piece of gear to another, quickly and easily giving it a new property.
 
-Make an enchanting skill check, adding a bonus of 5 times the danger level of the area you are resting in. If you succeed, the affix is removed from the original item and added to the new item, If you fail, you must try again later but the original affix is not lost.
+Make an enchanting skill check, adding a bonus of 5 times the danger level of the area you are resting in. If you succeed, the affix is removed from the original item and added to the new item, If you fail, the original affix is not lost but you must try again later.
 
 When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus. In addition, you may choose to immediately attune to the piece of gear you just spliced the enchantment onto, replacing your attunement to an existing piece of gear of the same type if needed.
 
