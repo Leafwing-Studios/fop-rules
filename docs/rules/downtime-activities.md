@@ -1,6 +1,6 @@
 # Downtime Activities
 
-As the party rests, characters can choose a downtime activity that they would like to spend their time doing. Downtime represents a break in the standard action, giving characters the opportunity to spend time with each other, prepare for upcoming dangers, catch up on gear upgrades, or just spend some extra time relaxing. Downtime activities provide excellent opportunities to develop or reveal character and the world.
+As the party rests, characters can choose a downtime activity that they would like to spend their time doing. Downtime represents a break in the standard action, giving characters the opportunity to spend time with each other, prepare for upcoming dangers, catch up on gear upgrades, or simply relax. Downtime activities provide excellent opportunities to develop or reveal character and the world.
 
 <div class="infobox">
 
@@ -8,11 +8,25 @@ As the party rests, characters can choose a downtime activity that they would li
 
 If the party is resting for an extended period in a safe location, such as while they are in town, they may continue selecting downtime activities for each rest before they return to adventuring. If the number of rests is unclear, we recommend taking two downtime activities for the extended period of rest. For extended rests of this nature, we recommend performing small scenes, either based on the downtime activities themselves, or separate scenes in-between rests. These scenes help to break up the monotony of numerous downtimes, and keep the world from feeling stagnant.
 
-However, if the party is taking an extended rest in a dangerous area, such as an aggressive font of power, it is best to run a [gradual success Attrition Scene](rules/scenes/attrition-scenes), with each rest risking consequences from the nearby threat.
+If the party is taking an extended rest in a dangerous area, such as an aggressive font of power, remember that each rest triggers a one success attrition scene as the party risks consequences from the nearby threat.
 
 </div>
 
 There are several well-defined downtime activities within the rules for players to select from, granting fairly general and tangible mechanical benefit. While the downtime activities that follow are the most common and generically useful options, they are not intended as an exhaustive list. Other downtime activities should offer similarly tangible benefits, in order to ensure that the choice stays meaningful.
+
+## Danger Levels
+
+In the world of _Fonts of Power_, some areas are incredibly dangerous, crawling with monsters and bubbling with magical power, while others, such as towns, are quite safe. This is captured in the idea of the **danger level** of an area.
+
+Areas with a higher danger level carry more risk but come with greater rewards. The danger level of areas is always between 0 and 3, and is readily apparent to all those who enter it.
+
+As the danger level of your current area changes:
+
+- if you rest in an area with a danger level greater than 0, you must complete a one-success attrition scene, suffering consequences if you fail
+- the difficulty of skill checks during attrition scenes, increasing their difficulty by 5 times the danger level
+- the success of the Devise, Enchant, Harvest, Resurrect and Splice downtime activities, adding a bonus of 5 times the danger level
+- the difficulty of combat encounters, as described in the [_Worldspeaker's Guide to Fonts of Power_](http://worldspeakers.fontsofpower.com/#/)
+- the amount of treasure found, as described in the [_Worldspeaker's Guide to Fonts of Power_](http://worldspeakers.fontsofpower.com/#/)
 
 ## Enchanting skill checks
 
@@ -20,12 +34,12 @@ Magical items of all sorts can be created by players during downtime activities 
 
 Enchanting skill checks use Expertise as their attribute, along with your choice of Anima, Arcana, Fontcraft or Tinkering. For the Enchant and Splice downtime activities, the difficulty of this skill check is set by the rarity of the affix that you are modifying:
 
-- Common: difficulty 10
-- Advanced: difficulty 15
-- Exotic: difficulty 20
-- Prismatic: difficulty 25
+- **Common:** difficulty 10
+- **Advanced:** difficulty 15
+- **Exotic:** difficulty 20
+- **Prismatic:** difficulty 25
 
-Every item was originally created by a particular skill, and its appearance clearly reflects that origin. You have disadvantage on enchanting skill checks made with a skill other than the original skill made to make the gear.
+Every item was originally enchanted by a particular skill, and its appearance clearly reflects that origin. You have disadvantage on enchanting skill checks made with a skill other than the original skill used to enchant the gear.
 
 ## Attune
 
@@ -99,17 +113,17 @@ Create a small batch of consumable magic items for your party to use out of what
 
 Design a consumable by combining consumable affixes. The gear point total of consumables must be less than or equal to your proficiency bonus.
 
-Then, make an enchanting skill check. You create a number of copies of the consumable you designed equal to your skill check result divided by 5, rounded down.
+Then, make an enchanting skill check, adding a bonus of 5 times the danger level of the area you are resting in. You create a number of copies of the consumable you designed equal to your skill check result divided by 5, rounded down.
 
 You may **recycle** existing consumables in this process. Add the total gear points of any consumables sacrificed in this way to your skill check result.
 
 ## Enchant
 
-Enchant an item by adding or modifying one of its magical affixes. Creating new enchantments requires access to incredible energy: **you must be at a font of power in order to use the Enchant downtime activity.**
+Enchant an item by adding or modifying one of its magical affixes.
 
 Select an affix. Successfully adding this affix to your gear, consumes 10 essence crystals per gear point of that affix (to a minimum of 0) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 30 essence crystals must be consumed instead.
 
-Make an enchanting skill check. If you succeed, add that affix to the item’s enchantment affixes.
+Make an enchanting skill check, dding a bonus of 5 times the danger level of the area you are resting in.. If you succeed, add that affix to the item’s enchantment affixes.
 
 If you have access to a relevant **source of knowledge,** you have advantage on this skill check. Each crafting skill uses a different source of knowledge:
 
@@ -122,9 +136,9 @@ When you successfully perform this downtime activity, you may remove any affixes
 
 ## Harvest
 
-Gather essence crystals from the font of power around you. For example, you might process part of a dead monster using Anima, collect strange minor magical items using Arcana, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering.
+Gather essence crystals from the environment around you. For example, you might process part of a dead monster using Anima, collect strange minor magical items using Arcana, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering.
 
-Make a Focus skill check with the appropriate skill. Gain 1 essence crystal for every 5 points of the skill check result.
+Make a Focus skill check with the appropriate skill, adding a bonus of 5 times the danger level of the area you are resting in. Gain 1 essence crystal for every 5 points of the skill check result.
 
 ## Prepare
 
@@ -161,7 +175,9 @@ Death is not always the end of the story. Fonts of power capture souls as they d
 
 Whenever a creature dies while at a font of power, they start to become one with its magical energy, eventually becoming absorbed. Each time the party benefits from a rest (including from Resolve) or fails a resurrection check, the dead creature gains one stack of **transcendence,** which represents the gradual absorption of their soul by the font. Whenever you gain a stack of transcendence that increases your transcendence to a level greater than or equal to 7 + your Focus, you must make a Focus (Fontcraft) skill check with a difficulty of 10 + your current transcendence. If you fail, you disappear as your spirit slips away forever.
 
-As a downtime activity, your allies can attempt to **Resurrect** you. They must succeed on three separate skill checks, with a difficulty of 15 + your Transcendence. They may make as many of these skill checks in a single downtime activity as desired, but remember that the target gains transcendence after each failure. This skill check always uses Focus, but the skill used and which species you reincarnate as varies based on the vessel used, as shown in the table below. If multiple party members are performing this downtime activity, use the rules for [group skill checks](rules/skills/making-skill-checks?id=group-skill-checks) instead.
+As a downtime activity, your allies can attempt to **Resurrect** you. They must succeed on three separate skill checks, with a difficulty of 15 + your Transcendence, adding a bonus of 5 times the danger level of the area you are resting in.
+
+They may make as many of these skill checks in a single downtime activity as desired, but remember that the target gains transcendence after each failure. This skill check always uses Focus, but the skill used and which species you reincarnate as varies based on the vessel used, as shown in the table below. If multiple party members are performing this downtime activity, use the rules for [group skill checks](rules/skills/making-skill-checks?id=group-skill-checks) instead.
 
 If more than one character uses the Resurrect downtime activity and both have proficiency in the required skill, use the highest skill modifier with advantage as per the standard rules for group skill checks.
 
@@ -185,7 +201,7 @@ When you return from the dead, you immediately suffer exhaustion equal to your p
 
 Transfer an affix from one piece of gear to another, quickly and easily giving it a new property.
 
-Make an enchanting skill check. If you succeed, the affix is removed from the original item and added to the new item, If you fail, you must try again later but the original affix is not lost.
+Make an enchanting skill check, adding a bonus of 5 times the danger level of the area you are resting in. If you succeed, the affix is removed from the original item and added to the new item, If you fail, you must try again later but the original affix is not lost.
 
 When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus. In addition, you may choose to immediately attune to the piece of gear you just spliced the enchantment onto, replacing your attunement to an existing piece of gear of the same type if needed.
 

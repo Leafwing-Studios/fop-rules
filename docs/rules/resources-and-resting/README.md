@@ -46,11 +46,13 @@ The only way to recover from exhaustion is by resting, or by using the Recover o
 
 ## Resting
 
-Characters can recover their resources and shake off exhaustion by resting. In order to rest, the party must be able to eat, sleep and relax (at least in a relative sense). They should be somewhere relatively safe and deliberately attempt to take a break to make camp. When you rest:
+Characters can recover their resources and shake off exhaustion by resting. In order to rest, the party must be able to eat, sleep and relax (at least in a relative sense). When you rest:
 
 - Recover all your essence
 - Heal for half of your total life
 - Remove one stack of exhaustion
-- Perform a single **downtime activity**
+- Perform a single [downtime activity](../downtime-activities.md)
+
+Whenever the party completes a rest (other than by spending Resolve) in an area with a [danger level](../downtime-activities.md?id=danger-levels) greater than zero, they must complete a one-success [attrition scene](../scenes/attrition-scenes.md) to rest peacefully. If they fail, they still gain the benefit of their rest, but some complication occurs.
 
 The party can also spend one Resolve in order to immediately gain the benefits of a rest, other than the downtime activity, at any point while outside of combat.

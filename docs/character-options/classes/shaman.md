@@ -98,6 +98,7 @@ At level 2, you learn to tap into the primal energy of the land; allowing you to
 
 You gain access to the Commune downtime activity. When you use this downtime activity, you learn the following facts about the nearest font of power:
 
+- the range of danger levels present in that font
 - the elements it is associated with
 - the zones that make up the font, their connections and their danger level
 - any font-level vantages, which modify the rules of the game for creatures in that font of power
@@ -152,7 +153,7 @@ At level 7, you are a master of your element, learning to twist and shape it to 
 
 At level 10, your connection to the fonts allows you to carefully scout areas
 
-When you use the Commune downtime activity, choose an arena (or other important area) that exists within the font of power. You learn:
+When you use the Commune downtime activity, choose an arena (or other important area) that exists within the font of power. You learn the danger level of that area, as well as:
 
 - the arena's topology
 - the arena's general construction

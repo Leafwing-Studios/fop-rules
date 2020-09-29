@@ -1,6 +1,8 @@
 # Attrition Scenes
 
-In many cases, the drama is not in whether a task is possible, but in how painful the road to get there will be. When, with enough determination and time, the outcome is a foregone conclusion, use an Attrition Scene. The party must attempt to complete their task through a series of challenging skill checks, facing complications whenever they fail. 
+In many cases, the drama is not in whether a task is possible, but in how painful the road to get there will be. When, with enough determination and time, the outcome is a foregone conclusion, use an Attrition Scene. The party must attempt to complete their task through a series of challenging skill checks, facing complications whenever they fail.
+
+Whenever the party completes a rest (other than by spending Resolve) in an area with a [danger level](../downtime-activities.md?id=danger-levels) greater than zero, they must complete a one-success attrition scene to rest peacefully. If they fail, they still gain the benefit of their rest, but some complication occurs.
 
 <div class="infobox">
 
@@ -10,7 +12,7 @@ Attrition scenes function on pressure and the consequences of delay. As with ski
 
 </div>
 
-In order to accomplish their goal, the party must complete a series of difficulty 15 skill checks. They might:
+In order to accomplish their goal, the party must complete a series of skill checks. They might:
 
 - Use Prowess (Athletics) to break down a door.
 - Use Focus (Fontcraft) to safely navigate through dangerous terrain.
@@ -18,6 +20,8 @@ In order to accomplish their goal, the party must complete a series of difficult
 - Use Presence (Guidance) to win over allies to their fledgling rebellion.
 
 Unless a complication rules out their previous approach, the party can continue to reuse it (or choose a new one).
+
+The difficulty of these skill checks is 10, increased by 5 times the current area's danger level.
 
 The number of skill checks required should be set by the table (the worldspeaker may overrule this decision in the case of hidden information) in one of three ways:
 
@@ -31,22 +35,15 @@ The number of skill checks required should be set by the table (the worldspeaker
   - There are three waves of monsters attacking this settlement; but you may be able to stop some with your traps.
 - **Gradual success,** where the party can choose to stop at any time to take home the rewards they have won so far.
   - The party is searching the ancient ruins for clues.
-  - The party is attempting to Resurrect their fallen companion using a profane altar in the heart of an ancient temple. 
-  * The party is holding their position in the caldera of a volcano as they attempt to Enchant magical items.
-
-When the party is holding a position at an aggressive font of power to accomplish downtime activities, such as crafting or resurrection:
-
-1. Use a gradual success attrition scene.
-1. Use the rules laid out in the Downtime Activities chapter to see whether the party was successful.
-1. Make an additional skill check using this system to see if the party attempts to hold off or avoid danger, suffering complications if the party fails.
-1. The party may attempt to rest again, repeating from 2.
+  - The party is attempting to Resurrect their fallen companions using a profane altar in the heart of an ancient temple.
+  - The party is holding their position in the caldera of a volcano as they attempt to Enchant magical items.
 
 There are four possible outcomes, based on the result of the party’s skill check:
 
-- **Abject Failure (≤ 11):** The party suffers two complications.
-- **Failure (15-19):** The party suffers a complication.
-- **Success (20-24):** The party earns a success.
-- **Smashing Success (≥ 25):** The party earns two successes.
+- **Abject Failure (Failure by 5 or more):** The party suffers two complications.
+- **Failure (Failure by less than 5):** The party suffers a complication.
+- **Success (Success by less than 5):** The party earns a success.
+- **Smashing Success (Success by 5 or more):** The party earns two successes.
 
 What those complications entail is up to the worldspeaker, and should fit the details of the scenario. However, here are some ideas to get you started:
 
@@ -54,15 +51,20 @@ What those complications entail is up to the worldspeaker, and should fit the de
 - Every member of the party gains a level of exhaustion.
 - Reduce the size of the party’s Supply Die once.
 - Something goes wrong, and they cannot continue to use the same method to complete the attrition scene.
-- The environment the party is in becomes more dangerous in some way.
+- The environment the party is in becomes more dangerous in some way. Add a vantage, and increase the danger level of the area once.
 - The plot advances, or the party’s adversary somehow prepares.
 - They lose the trust of an ally, and their loyalty decreases by 1.
 - Combat encounter!
 
-## Interrupting Attrition Scenes
+<div class="infobox">
+
+**Interrupting Attrition Scenes**
 
 Sometimes, an attrition scene will be interrupted or diverted to take care of another task. In this case, there are two options:
-1. Pause the attrition scene, determining if and when any progress should be reset
-1. Extend the current Attrition Scene to include the new diversion
+
+1. Pause the attrition scene, determining if and when any progress should be reset.
+2. Extend the current Attrition Scene to include the new diversion.
 
 For example, suppose the party is digging a tunnel under some enemy fortifications, but are having difficulty making progress. The party may decide to go find an ally to help dig the fortifications. The process of finding and making a deal with this NPC should be added to the current Attrition Scene, since it is working towards the same goal, but with a different method. Suppose instead that the party came upon a town in urgent need of help, and decided to leave their tunnel digging for later. In this case, the Attrition Scene should be paused. As a table, determine how many successes, if any, to reset based on the power and ability of their enemies and the time taken for the diversion.
+
+</div>
