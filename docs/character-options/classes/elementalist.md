@@ -40,29 +40,28 @@
 
 <div class="class-table">
 
-|                   Level                    | Proficiency Bonus | Features                                        | Spells Known |
-| :----------------------------------------: | :---------------: | ----------------------------------------------- | :----------: |
-|                     1                      |        +1         |
-| , Duality: First Pairing, Unbridled Energy |         2         |
-|                     2                      |        +1         | Element Twisting (Minor), Equilibrium           |      2       |
-|                     3                      |        +1         | Detonation, Power Siphon                        |      2       |
-|                     4                      |        +1         | Attribute Improvement                           |      3       |
-|                     5                      |        +2         | Proficiency Bonus Improvement, Spell Mirror (2) |      3       |
-|                     6                      |        +2         | Elemental Intuition                             |      3       |
-|                     7                      |        +2         | Duality: Second Pairing                         |      5       |
-|                     8                      |        +2         | Attribute Improvement                           |      6       |
-|                     9                      |        +3         | Proficiency Bonus Improvement, Spell Mirror (3) |      6       |
-|                     10                     |        +3         | Element Twisting (Major)                        |      6       |
-|                     11                     |        +3         | Shaped Charge                                   |      6       |
-|                     12                     |        +3         | Attribute Improvement                           |      7       |
-|                     13                     |        +4         | Proficiency Bonus Improvement, Spell Mirror (4) |      7       |
-|                     14                     |        +4         | Elemental Crafting                              |      7       |
-|                     15                     |        +4         | Spell Prism                                     |      7       |
-|                     16                     |        +4         | Attribute Improvement                           |      8       |
-|                     17                     |        +5         | Proficiency Bonus Improvement, Spell Mirror (5) |      8       |
-|                     18                     |        +5         | Element Twisting (Grand)                        |      8       |
-|                     19                     |        +5         | Attribute Improvement                           |      9       |
-|                     20                     |        +5         | Fusion                                          |      9       |
+| Level | Proficiency Bonus | Features                                                           | Spells Known |
+| :---: | :---------------: | ------------------------------------------------------------------ | :----------: |
+|   1   |        +1         | Spellcasting, Detonation, Unbridled Energy, Duality: First Pairing |              |
+|   2   |        +1         | Element Twisting (Minor), Equilibrium                              |      2       |
+|   3   |        +1         | Failsafe Detonation, Power Draw                                    |      2       |
+|   4   |        +1         | Attribute Improvement                                              |      3       |
+|   5   |        +2         | Proficiency Bonus Improvement, Spell Mirror (2)                    |      3       |
+|   6   |        +2         | Elemental Intuition                                                |      3       |
+|   7   |        +2         | Duality: Second Pairing                                            |      5       |
+|   8   |        +2         | Attribute Improvement                                              |      6       |
+|   9   |        +3         | Proficiency Bonus Improvement, Spell Mirror (3)                    |      6       |
+|  10   |        +3         | Element Twisting (Major)                                           |      6       |
+|  11   |        +3         | Controlled Detonation                                              |      6       |
+|  12   |        +3         | Attribute Improvement                                              |      7       |
+|  13   |        +4         | Proficiency Bonus Improvement, Spell Mirror (4)                    |      7       |
+|  14   |        +4         | Elemental Crafting                                                 |      7       |
+|  15   |        +4         | Spell Prism                                                        |      7       |
+|  16   |        +4         | Attribute Improvement                                              |      8       |
+|  17   |        +5         | Proficiency Bonus Improvement, Spell Mirror (5)                    |      8       |
+|  18   |        +5         | Element Twisting (Grand)                                           |      8       |
+|  19   |        +5         | Attribute Improvement                                              |      9       |
+|  20   |        +5         | Fusion                                                             |      9       |
 
 </div>
 
@@ -77,9 +76,9 @@ Whenever you cast a spell, your exposure shifts towards that element by 1.
 If it is a critical hit, the exposure changes by 2 instead.
 Effects which can hit multiple creatures only change your exposure once for each time they are cast.
 
-You cannot cast spells that would increase your exposure above 7 in any element. Once you gain access to the Detonation feature at level 3, you Detonate at 7 stacks instead.
+Whenever your exposure to an element is 4 or more, your spells of that element (other than _twisting_ spells) are more powerful but gain a drawback. However, the critical hit threshold for spells of the opposite element is reduced by 2. _Meld_ spells gain both of these benefits, as they count as both elements. Your stacks of exposure reset at the end of each combat.
 
-Whenever your exposure to an element is 4 or more, your spells of that element (other than _twisting_ spells) are more powerful but gain a drawback. However, the critical hit threshold for spells of the opposite element is reduced by 4. _Meld_ spells gain both of these benefits, as they count as both elements. Your stacks of exposure reset 10 minutes after you last cast a spell.
+Once your Exposure in an element hits 7, you Detonate, as described in your Detonation class feature.
 
 <div class="infobox">
 
@@ -95,6 +94,22 @@ If you’re playing an elementalist during a physical game of _Fonts of Power_, 
 </div>
 
 You may select 3 spells of your choice at level 1, and learn more spells at levels 4, 7, 8, 12, 16 and 19. The spells for Elementalist are listed at the end of the class description. You may only select spells that are associated with elements in your pairing(s), and you must always know at least one spell from each of the elements in your pairings.
+
+## Detonation
+
+At level 1, your elemental energy builds up, exploding in a powerful burst when it overwhelms you.
+
+Whenever you reach 7 exposure in an element, you Detonate. All other creatures within a 2 tile radius suffer an intense effect, corresponding to the element of your exposure and listed in the Pairings section below. Then, roll 1d8 - 1d8. Set your exposure associated with that element to that result, treating negative values as exposure in the opposite element. This can cause you to immediately Detonate again.
+
+Detonating counts as a multi-target power for the purpose of effects such as the _imbued thaumaturgy_ affix.
+
+When you Detonate, you may use the Channel Energy reaction to attempt to control the explosion's intense energy as it rips through your body. If you do not, make a Focus (Arcana) skill check. Gain 4 stacks of exhaustion, reduced by 1 for every 5 points of your skill check result.
+
+When you gain your second pairing of elements at level 7, each pair of elements detonates independently (possibly on the same turn), with no effect on the other stack of exposure. When this happens, you may choose which order the Detonation resolves in.
+
+## Unbridled Energy
+
+At level 1, elemental energy begins to leak out of you as you struggle to control its energy. At the end of each of your turns while your exposure to an element is 4, 5 or 6, and you did not Detonate this turn, cast a spell of your choice that belongs to that element. This does not cost essence or an action, or change your exposure. When you gain access to your second pairing, if your exposure to two separate elements is 4, 5 or 6, you may choose to cast a spell that belongs to either element.
 
 ## Duality
 
@@ -115,10 +130,6 @@ In addition, whenever you select a new pairing, you learn a _meld_ spell that co
 
 Whenever you cast a _meld_ spell (after you learn whether it is a critical hit or not), your exposure moves towards the center. If you are at 0 exposure, you may choose which direction your exposure changes by instead. Multiple copies of a _meld_ spell created using your Spell Mirror always move your exposure in the same direction as the initial cast.
 
-## Unbridled Energy
-
-At level 1, elemental energy begins to leak out of you as you struggle to control its energy. At the end of each of your turns while your exposure to an element is 4, 5 or 6, cast a spell of your choice that belongs to that element. This does not cost essence or an action. When you gain access to your second pairing, if your exposure to two separate elements is 4, 5 or 6, you may choose to cast a spell that belongs to either element.
-
 ## Element Twisting
 
 When you reach level 2, you learn to manipulate the elements around you in ways that help you solve problems outside of combat. The _twisting_ spells associated with each pairing are listed in the Pairings section below. Twisting spells do not count against the number of spells that you know.
@@ -127,19 +138,15 @@ When you reach level 7 and gain access to your second pairing, you also learn th
 
 ## Equilibrium
 
-Also at level 2, you can call on the power of the elements to close your wounds, literally patching your body with elemental substances as you hold the forces within yourself in perfect opposition. At the end of each of your turns while your exposure is exactly 0 to all elements, gain the benefit of the Defend major action and spend essence equal to twice your proficiency bonus. Regain life equal to eight times your proficiency bonus.
+Also at level 2, you can call on the power of the elements to close your wounds, literally patching your body with elemental substances as you hold the forces within yourself in perfect opposition. At the end of each of your turns while your exposure is exactly 0 to all elements, you may spend essence equal to twice your proficiency bonus. Regain life equal to eight times your proficiency bonus.
 
-## Detonation
+## Failsafe Detonation
 
-At level 3, your elemental energy builds up, exploding in a powerful burst when it overwhelms you.
+At level 3, you've learned to mitigate the worst excesses of the elemental detonation, even if you fail to control it. You have advantage on the Focus (Arcana) skill check made to avoid exhaustion when using your Detonation class feature.
 
-At the end of each of your turns, if your exposure to an element is 7 or more, you Detonate. All creatures within 2 tiles of you suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Then, reduce your exposure associated with that element to 0. This counts as a multi-target power for the purpose of effects such as the _imbued thaumaturgy_ affix.
+## Power Draw
 
-When you gain your second pairing of elements at level 7, each pair of elements detonates independently (possibly on the same turn), with no effect on the other stack of exposure. When this happens, you may choose which order the Detonation resolves in.
-
-## Power Siphon
-
-Also at level 3, you gain the ability to leech magical power from those you attack. Whenever you hit an enemy with a basic attack, restore 1 essence. If it was a critical hit, restore 2 essence instead.
+Also at level 3, your experience with the intense magical energy of the elements helps you tap deep into your own essence reserves. You have advantage on all skill checks made to use the Essence Tap minor action.
 
 ## Attribute Improvement
 
@@ -161,30 +168,36 @@ See the Leveling Up section in the Narrative Mechanics chapter for a reminder of
 
 ## Spell Mirror
 
-When you reach level 5, you learn the ability to mirror the spells you cast. Whenever you cast a spell, you may copy it some number of times based on your level. For each copy you cast, you must spend one essence and may choose a new target. These copies resolve in the order of your choice and casting multiple copies affects your exposure multiple times, as you would expect. Whenever you cast a spell, you can create a total number of copies of it equal to your proficiency bonus, at the cost of 1 essence per copy.
+When you reach level 5, you learn the ability to mirror the spells you cast. Whenever you use you major action to cast a spell, you can create a total number of copies of it equal to your proficiency bonus, at the cost of 1 essence per copy.
+
+You may choose a new target for each copy. These copies resolve in the order of your choice and casting multiple copies affects your exposure multiple times, as you would expect.
+
+If you Detonate in the middle of these copies, they continue to resolve, changing your Exposure appropriately.
 
 ## Elemental Intuition
 
 At level 6, your intuition allows you to innately sense the elements around you. You automatically detect any source or usage of your chosen elements within 12 tiles of you, and understand approximately what it is being used for. Additionally, you have advantage on any Arcana checks to understand or modify magic that uses your chosen elements.
 
-## Spell Prism
+## Controlled Detonation
 
-When you reach level 11, you are able to refract different elements and spells when mirroring them, using your skill to find common factors between each spell. When you use your Spell Mirror feature, you can pick different spells, as long as one of the following ailments is true:
+At level 11, you are able to carefully focus your outbursts of magical energy. When you use your Detonation feature, select one of the following shapes for the effect:
 
-- All of the spells you selected share the same element (meld spells count as both elements)
-- All of the spells you selected are part of the same cycle (for example, all the _meld_ or _spray_ spells form a cycle)
+- a 2 tile radius sphere centered on yourself
+- a 4 tile cone centered on yourself, in a direction of your choosing
+- a 8 tile by 1 tile line, starting at yourself, in a direction of your choosing
+
+In addition, whenever you Detonate and roll to determine your new Exposure, roll twice and then choose the result you prefer.
 
 ## Elemental Crafting
 
 At level 14, your knowledge of the push and pull of elemental forces allows you to balance them in the physical objects around you. You have advantage on all skill checks made to Enchant, Disenchant or Splice affixes as a downtime activity as long as the affix has at least one of the elements in your pairings as a tag.
 
-## Shaped Charge
+## Spell Prism
 
-At level 15, you are able to carefully focus your outbursts of magical energy. When you use your Detonation feature, select one of the following shapes for the effect:
+When you reach level 15, you are able to refract different elements and spells when mirroring them, using your skill to find common factors between each spell. When you use your Spell Mirror feature, you can pick different spells, as long as one of the following ailments is true:
 
-- a 2 tile radius sphere centered on yourself
-- a 4 tile cone centered on yourself, in a direction of your choosing
-- a 8 tile by 1 tile line, starting at yourself, in a direction of your choosing
+- All of the spells you selected share the same element (meld spells count as both elements)
+- All of the spells you selected are part of the same cycle (for example, all the _meld_ or _spray_ spells form a cycle)
 
 ## Fusion
 
