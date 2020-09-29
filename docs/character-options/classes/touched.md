@@ -182,7 +182,7 @@ While in your host form, you:
 
 While in your companion form, you:
 
-- are immune to the damage types corresponding to your companion
+- are immune to the elemental damage types corresponding to your companion
 - gain the benefit of new deviances with a gear point total of 2, selected when you gain this feature
 
 While blended, your critical hits are more powerful, tripling rather than doubling the efficacy of your attacks.
