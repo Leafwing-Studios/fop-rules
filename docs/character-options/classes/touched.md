@@ -172,16 +172,17 @@ This feature works differently in concert with the Unleash major action, as thes
 
 When you reach level 20, you have mastered the interplay yourself and your companion, allowing you to change mental and physical state at will.
 
-As a minor action, you may Switch, allowing either host or companion to take full control, or swap back into a blended state.
+As a minor action, you may Switch, allowing either host or companion to take full control, or change back into a blended state. When you use your Balance of Power: Host minor action, change to your host form. When you use your Balance of Power: Companion minor action, change to your Companion form.
 
 While in your host form, you:
 
-- gain resistance to physical damage
-- add half your proficiency bonus to skill checks that you are not proficient in.
+- are resistant to physical damage
+- add half your proficiency bonus to skill checks that you are not proficient in
+- ignore all of your deviances
 
 While in your companion form, you:
 
-- gain immunity to the damage types corresponding to your companion
-- your deviance cap increases by 2. Select the new deviances to be used when you gain this feature.
+- are immune to the damage types corresponding to your companion
+- gain the benefit of new deviances with a gear point total of 2, selected when you gain this feature
 
 While blended, your critical hits are more powerful, tripling rather than doubling the efficacy of your attacks.
