@@ -12,7 +12,7 @@ Tile effects (including ground effects) are triggered when:
 
 Occupying a tile effect when it is created counts as entering it for the first time during your turn.
 
-This ensures that they trigger once for every turn that the creature takes, no matter how they end up moving.
+Not all tile effects have an associated trigger, but this ensures that they trigger once for every turn that the creature takes, no matter how they end up moving.
 Attacks that you make due to tile effects that you created triggering do not end your hidden status.
 
 Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground. Tile effects like these are classified as **ground effects** and as you might expect, creatures that are flying or aloft ignore ground effects.
