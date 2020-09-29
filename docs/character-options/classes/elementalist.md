@@ -103,7 +103,7 @@ Whenever you reach 7 exposure in an element, you Detonate. All other creatures w
 
 Detonating counts as a multi-target power for the purpose of effects such as the _imbued thaumaturgy_ affix.
 
-When you Detonate, you may use the Channel Energy reaction to attempt to control the explosion's intense energy as it rips through your body. If you do not, make a Focus (Arcana) skill check. Gain 4 stacks of exhaustion, reduced by 1 for every 5 points of your skill check result.
+When you Detonate, you may use the Channel Energy reaction to attempt to control the explosion's intense energy as it rips through your body. If you do not, make a Focus (Arcana) skill check. Gain 3 stacks of exhaustion, reduced by 1 for every 5 points of your skill check result.
 
 When you gain your second pairing of elements at level 7, each pair of elements detonates independently (possibly on the same turn), with no effect on the other stack of exposure. When this happens, you may choose which order the Detonation resolves in.
 
