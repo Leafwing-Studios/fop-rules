@@ -91,35 +91,6 @@ When you Surge this manifestation:
 |  11   |   6    |   6    |
 |  12   |   6    |   7    |
 
-## Expel
-
-By destabilizing existing ailments in a creature’s body, you can transmute them into an intense burst of elemental energy, curing your target even as you blast everything around them.
-
-As a minor action, select a creature of your choice within 6 tiles of you. Gain the benefit of the Treat minor action targeting them. If you successfully remove ailments or afflictions from them, make a Prowess attack against all creatures within a radius around them, including the creature you treated. If you hit, deal 1 elemental damage for each stack removed, up to the maximum damage listed in the table below. Creatures that you miss still suffer the attack's effects at half efficacy.
-
-When you Surge this manifestation:
-
-- **Odd:** The radius of the damage increases.
-- **Even:** The maximum damage dealt increases.
-
-**Characteristic Manifestation:** When you use your Expel manifestation, you may shift your target once before they explode.
-
-| Surge | Radius | Max Damage |
-| :---: | :----: | :--------: |
-|   0   |   1    |     5      |
-|   1   |   2    |     5      |
-|   2   |   2    |     10     |
-|   3   |   3    |     10     |
-|   4   |   3    |     15     |
-|   5   |   4    |     15     |
-|   6   |   4    |     20     |
-|   7   |   5    |     20     |
-|   8   |   5    |     25     |
-|   9   |   6    |     25     |
-|  10   |   6    |     30     |
-|  11   |   7    |     30     |
-|  12   |   7    |     35     |
-
 ## Grasp
 
 Elements grasp at your foe, holding them tight as they crush them with raw force. When you use the Swap minor action, you may augment your grasp with terrible elemental energy.
