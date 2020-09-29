@@ -134,6 +134,28 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport.
 
+### Wind Strike
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 1 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon swirls with a vortex of wind as you strike. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to air damage.
+
+If you have at least 4 stacks of air exposure, you have disadvantage on this attack but it is automatically a critical if it hits.
+
 ### Wind Tendrils
 
 <div class="tight">
@@ -155,28 +177,6 @@ If you have at least 4 stacks of air exposure, you can only teleport up to 1 til
 Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of aloft.
 
 If you have at least 4 stacks of air exposure, this spell becomes multi-target, and targets all creatures in a 1 tile radius within range instead.
-
-### Wind Touch
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 1 essence
-
-**Range:** Melee, zone of control
-
-**Targets:** Single-target
-
-**Attack:** None
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
-
-If you have at least 4 stacks of air exposure, you have disadvantage on the attack but it is automatically a critical hit if your attack hits.
 
 ## Earth
 
@@ -268,6 +268,28 @@ Rocky plating swirls tightly around you as you focus your magic completely upon 
 
 If you have at least 4 stacks of earth exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
+### Stone Strike
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 1 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon turns to solid stone as you strike. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to earth damage.
+
+If you have at least 4 stacks of air exposure, you have disadvantage on this attack but it is automatically a critical if it hits.
+
 ### Stone Spray
 
 <div class="tight">
@@ -333,28 +355,6 @@ If you have at least 4 stacks of earth exposure, you can only teleport up to 1 t
 Grasping tendrils of stone surround your foe, clutching and grabbing as they anchor your foe to the ground. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of rooted.
 
 If you have at least 4 stacks of earth exposure, this spell becomes multi-target, and targets all creatures in a 1 tile radius within range instead.
-
-### Stone Touch
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 1 essence
-
-**Range:** Melee, zone of control
-
-**Targets:** Single-target
-
-**Attack:** None
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your hand rumbles with the power of the earth as you turn a nearby foe to sluggish stone with a single touch. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply two stacks of lethargic.
-
-If you have at least 4 stacks of earth exposure, you have disadvantage on the attack but it is automatically a critical hit if your attack hits.
 
 ## Fire
 
@@ -464,7 +464,7 @@ If you have at least 4 stacks of fire exposure, the absorption gained increases 
 
 </div>
 
-As you fan your hands, flickering flames pours forth from your fingertips, igniting your foes. Make an Agility attack against each creature within a 3 tile radius cone, including youserlf. If you hit, apply 6 + Presence stacks of aflame.
+As you fan your hands, flickering flames pours forth from your fingertips, igniting your foes. Make an Agility attack against each creature within a 3 tile radius cone, including yourself. If you hit, apply 6 + Presence stacks of aflame.
 
 If you have at least 4 stacks of fire exposure, make an attack against each creature within a 3 tile radius of yourself, including yourself, instead.
 
@@ -490,6 +490,28 @@ Vanishing into thin air, you appear a short distance away, propelled by a burst 
 
 If you have at least 4 stacks of fire exposure, you can only teleport up to 1 tile, but you have advantage on the attack made before you teleport.
 
+### Flame Strike
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 1 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon bursts into flame as you strike. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to fire damage.
+
+If you have at least 4 stacks of fire exposure, you have disadvantage on this attack but it is automatically a critical if it hits.
+
 ### Flame Tendrils
 
 <div class="tight">
@@ -511,28 +533,6 @@ If you have at least 4 stacks of fire exposure, you can only teleport up to 1 ti
 Grasping fire tendrils pull at your foes, tossing them around effortlessly. Make a Shove attack against a creature of your choice within range. If you hit, deal 1d6 + Presence fire damage.
 
 If you have at least 4 stacks of fire exposure, pull them into an empty tile that is adjacent to you instead of hitting them with a Shove attack.
-
-### Flame Touch
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 1 essence
-
-**Range:** Melee, zone of control
-
-**Targets:** Single-target
-
-**Attack:** Agility
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your hand sears with fiery energy as you burn a foe to cinders. Make an Agility attack against an adjacent creature of your choice. If you hit, deal 1d8 + Presence fire damage.
-
-If you have at least 4 stacks of fire exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
 ## Water
 
@@ -670,6 +670,28 @@ This ice disappears at the end of your next turn.
 
 If you have at least 4 stacks of water exposure, you can only teleport up to 1 tile, but the ice persists until the end of your next rest instead.
 
+### Frost Strike
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 1 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon is coated with crystals of ice as you strike. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to water damage.
+
+If you have at least 4 stacks of water exposure, you have disadvantage on this attack but it is automatically a critical if it hits.
+
 ### Frost Tendrils
 
 <div class="tight">
@@ -691,28 +713,6 @@ If you have at least 4 stacks of water exposure, you can only teleport up to 1 t
 Grasping tendrils of frost surround your foe as they chill their victim to the bone. Make a Focus attack against a creature of your choice within range. If you hit, apply two stacks of chilled.
 
 If you have at least 4 stacks of water exposure, apply three stacks of chilled to that creature and two stacks to yourself instead if you hit.
-
-### Frost Touch
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 1 essence
-
-**Range:** Melee, zone of control
-
-**Targets:** Single-target
-
-**Attack:** Agility
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your hand glistens with a terrible frost as you freeze foe in an impenetrable block of ice with a single touch. Make an Agility attack against an adjacent creature of your choice. If you hit, apply two stacks of banished.
-
-If you have at least 4 stacks of water exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
 ## Arcane
 
@@ -848,6 +848,28 @@ Vanishing into thin air, you appear a short distance away, while another creatur
 
 If you have at least 4 stacks of arcane exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport. The attack made after you teleport now applies one stack of banished instead of swapping their position.
 
+### Essence Strike
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 1 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon transforms into raw energy as you strike. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to arcane damage.
+
+If you have at least 4 stacks of arcane exposure, you have disadvantage on this attack but it is automatically a critical if it hits.
+
 ### Essence Tendrils
 
 <div class="tight">
@@ -871,28 +893,6 @@ Grasping tendrils of magic surround your target as they vanish from sight, warpi
 If you have at least 4 stacks of arcane exposure, also apply two stacks of banished to yourself.
 
 While creatures are banished by this effect, they are invisible to creatures who are not banished.
-
-### Essence Touch
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 1 essence
-
-**Range:** Melee, zone of control
-
-**Targets:** Single-target
-
-**Attack:** Agility
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your hand crackles with overwhelming energy as you surge excess magical energy into a nearby foe with a single touch. Make an Agility attack against an adjacent creature of your choice. If you hit, apply 6 + Presence stacks of unstable.
-
-If you have at least 4 stacks of arcane exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
 ## Eldritch
 
@@ -1028,6 +1028,28 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of eldritch exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport.
 
+### Mind Strike
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 1 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon disappears for a moment, existing only as psionic force as you strike. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to eldritch damage.
+
+If you have at least 4 stacks of eldritch exposure, you have disadvantage on this attack but it is automatically a critical if it hits.
+
 ### Mind Tendrils
 
 <div class="tight">
@@ -1049,28 +1071,6 @@ If you have at least 4 stacks of eldritch exposure, you can only teleport up to 
 Grasping tendrils of an imaginary creature surround your foe as they tear away at feeble sanity. Make a Focus attack against a creature of your choice within range. If you hit, apply two stacks of crazed.
 
 If you have at least 4 stacks of eldritch exposure, apply three stacks of crazed to that creature and two stacks to yourself instead if you hit.
-
-### Mind Touch
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 1 essence
-
-**Range:** Melee, zone of control
-
-**Targets:** Single-target
-
-**Attack:** Agility
-
-**Duration:** Instant
-
-</div>
-
-Your hand pulsates with psionic energy as you momentarily wipe the mind of a nearby foe with a single touch. Make an Agility attack against an adjacent creature of your choice. If you hit, apply two stacks of pacified.
-
-If you have at least 4 stacks of eldritch exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
 ## Radiant
 
@@ -1206,6 +1206,28 @@ VVanishing into thin air, you appear a short distance away with a sudden flash. 
 
 If you have at least 4 stacks of radiant exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport.
 
+### Brilliant Strike
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 1 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon transforms into shining light as you strike. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to radiant damage.
+
+If you have at least 4 stacks of radiant exposure, you have disadvantage on this attack but it is automatically a critical if it hits.
+
 ### Brilliant Tendrils
 
 <div class="tight">
@@ -1227,28 +1249,6 @@ If you have at least 4 stacks of radiant exposure, you can only teleport up to 1
 Grasping tendrils of light surround your foe as they stay your foe’s hand. Make a Presence attack against a creature of your choice within range. If you hit, apply two stacks of blunted. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of blunted.
 
 If you have at least 4 stacks of radiant exposure, apply three stacks of blunted to that creature and two stacks to yourself instead if you hit.
-
-### Brilliant Touch
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 1 essence
-
-**Range:** Melee, zone of control
-
-**Targets:** Single-target
-
-**Attack:** None
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your hand glows with judgemental energy as your touch forces a nearby foe to reconsider everything they are fighting for. Make an Agility attack against an adjacent creature of your choice. If you hit, apply 6 + Presence stacks of temperance.
-
-If you have at least 4 stacks of radiant exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
 ## Umbral
 
@@ -1286,7 +1286,7 @@ If you have at least 4 stacks of umbral exposure, the absorption granted increas
 
 **Targets:** Multi-target
 
-**Attack:** Focua
+**Attack:** Focus
 
 **Duration:** Instant
 
@@ -1384,6 +1384,28 @@ Vanishing into thin air, you appear moments later as your cloak of shadows fades
 
 If you have at least 4 stacks of umbral exposure, you can only teleport up to 1 tile, but the area of darkness created increases to 2 tiles.
 
+### Shadow Strike
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 1 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon flickers with darkness as you strike. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to umbral damage.
+
+If you have at least 4 stacks of umbral exposure, you have disadvantage on this attack but it is automatically a critical if it hits.
+
 ### Shadow Tendrils
 
 <div class="tight">
@@ -1405,28 +1427,6 @@ If you have at least 4 stacks of umbral exposure, you can only teleport up to 1 
 Grasping tendrils of shadow surround your foe as they block out their vision. Make a Focus attack against a creature of your choice within range. If you hit, apply two stacks of blinded.
 
 If you have at least 4 stacks of umbral exposure, apply three stacks of blinded to that creature and two stacks to yourself instead if you hit.
-
-### Shadow Touch
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 1 essence
-
-**Range:** Melee, zone of control
-
-**Targets:** Single-target
-
-**Attack:** None
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your hand pulses with shadowy energy as you wrack a nearby foe with pain with a single touch. Make an Agility attack against an adjacent creature of your choice. If you hit, apply 6 + Presence stacks of anguish.
-
-If you have at least 4 stacks of umbral exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
 ## Primal
 
@@ -1562,6 +1562,28 @@ Vanishing into thin air, you appear a short distance away, granting glowing gree
 
 If you have at least 4 stacks of primal exposure, you can only teleport up to 1 tile, but grant 6 + Presence absorption after you teleport instead.
 
+### Life Strike
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 1 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon pulses with intense vigor as you strike. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to primal damage.
+
+If you have at least 4 stacks of primal exposure, you have disadvantage on this attack but it is automatically a critical if it hits.
+
 ### Life Tendrils
 
 <div class="tight">
@@ -1582,29 +1604,7 @@ If you have at least 4 stacks of primal exposure, you can only teleport up to 1 
 
 Powerful tendrils of glowing green energy wrap your foe in place. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of rooted.
 
-If you have at least 4 stacks of primall exposure, apply three stacks of rooted to that creature and two stacks to yourself instead if you hit.
-
-### Life Touch
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 1 essence
-
-**Range:** Melee, zone of control
-
-**Targets:** Single-target
-
-**Attack:** None
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your hand glows with invigorating energy, throwing a creature into an uncontrollable frenzy as you touch them. Make an Agility attack against a creature of your choice within range. If you hit, apply 6 + Presence stacks of rage.
-
-If you have at least 4 stacks of primal exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
+If you have at least 4 stacks of primal exposure, apply three stacks of rooted to that creature and two stacks to yourself instead if you hit.
 
 ## Decay
 
@@ -1738,7 +1738,29 @@ If you have at least 4 stacks of decay exposure, make an attack against each oth
 
 Vanishing into thin air, you appear a short distance away, powered by the life force of those you left behind. Make a Focus attack against all creatures within 1 tile of you. If you hit, deal 1d4 + Presence decay damage. Teleport to an empty tile of your choice. The distance that you can teleport in this way is 3 tiles plus 1 tile for each creature you struck with your initial attack.
 
-If you have at least 4 stacks of decay exposure, the base distance telported is reduced to 1 tile, but you have advantage on the attack made before you teleport.
+If you have at least 4 stacks of decay exposure, the base distance teleported is reduced to 1 tile, but you have advantage on the attack made before you teleport.
+
+### Death Strike
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 1 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon seems to feed upon life force as you strike. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to decay damage.
+
+If you have at least 4 stacks of decay exposure, you have disadvantage on this attack but it is automatically a critical if it hits.
 
 ### Death Tendrils
 
@@ -1761,28 +1783,6 @@ If you have at least 4 stacks of decay exposure, the base distance telported is 
 Grasping tendrils of decay surround your foe as they sap away their energy. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of withered.
 
 If you have at least 4 stacks of decay exposure, apply three stacks of withered to that creature and two stacks to yourself instead if you hit.
-
-### Death Touch
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 1 essence
-
-**Range:** Melee, zone of control
-
-**Targets:** Single-target
-
-**Attack:** Agility
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your hand pulses with dark energy as you pull your foe closer to death with a single touch. Make an Agility attack against an adjacent creature of your choice. If you hit, deal 1d6 + Presence decay damage. This damage is increased to 1d12 + Presence if they are below half of their maximum life.
-
-If you have at least 4 stacks of decay exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
 ## Electric
 
@@ -1918,6 +1918,28 @@ Vanishing into thin air, you appear a short distance away, riding a crackling tr
 
 If you have at least 4 stacks of electric exposure, you can only teleport into tiles that would result in an attack being made against at least one other creature, but you have advantage on the attack made during your teleportation.
 
+### Lightning Strike
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 1 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon crackles with lightning as you strike. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to electric damage.
+
+If you have at least 4 stacks of primal exposure, you have disadvantage on this attack but it is automatically a critical if it hits.
+
 ### Lightning Tendrils
 
 <div class="tight">
@@ -1940,29 +1962,7 @@ Grasping tendrils of lightning dull your foes attacks. Make a Prowess attack aga
 
 If you have at least 4 stacks of electric exposure, apply three stacks of blunted to that creature and two stacks to yourself instead if you hit.
 
-### Lightning Touch
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 1 essence
-
-**Range:** Melee, zone of control
-
-**Targets:** Single-target
-
-**Attack:** Agility
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your hand crackles with electricity as you electrocute a nearby foe with a single touch. Make an Agility attack against an adjacent creature of your choice. If you hit, deal 1d6 + Presence electric damage and apply one stack of lethargic.
-
-If you have at least 4 stacks of electric exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
-
-## Corrosive
+## corrosive
 
 ### Acid Barrier
 
@@ -2096,6 +2096,28 @@ Vanishing into thin air, you appear a short distance away with a splash of acid.
 
 If you have at least 4 stacks of corrosive exposure, you can only teleport up to 1 tile, but you have advantage on the attack made after you teleport.
 
+### Acid Strike
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 1 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your weapon drips with bubbling acid as you strike. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to corrosive damage.
+
+If you have at least 4 stacks of corrosive exposure, you have disadvantage on this attack but it is automatically a critical if it hits.
+
 ### Acid Tendrils
 
 <div class="tight">
@@ -2117,25 +2139,3 @@ If you have at least 4 stacks of corrosive exposure, you can only teleport up to
 Grasping tendrils of acid surround your foe, eating away at their defenses. Make an Agility attack against a creature of your choice within range. If you hit, apply two stacks of defenseless.
 
 If you have at least 4 stacks of corrosive exposure, this spell becomes multi-target, and targets all creatures in a 1 tile radius within range instead.
-
-### Acid Touch
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 1 essence
-
-**Range:** Melee, zone of control
-
-**Targets:** Single-target
-
-**Attack:** None
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your hand drips with acid as you eat away at a nearby foe with a single touch. Make an Agility attack against an adjacent creature of your choice. If you hit, apply 6 + Presence stacks of fragile.
-
-If you have at least 4 stacks of corrosive exposure, you have disadvantage on the attack but it is automatically a critical hit if your attack hits.
