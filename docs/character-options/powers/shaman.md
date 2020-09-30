@@ -384,7 +384,7 @@ When you activate your _shaping_ manifestation, your thorns come to life, grabbi
 - create a solid block of stone, one height tier in size
   - you can freely stack these blocks on top of each other
 - these pillars are destructible but durable
-  - they have 1 life, and gain 4 times your proficiency bonus absorption at the start of each of your turns
+  - they have 1 life, and gain 4 times your proficiency bonus absorption at the start of each of your turns (and when they are first created)
   - when a block in a stack is destroyed, reduce the height of that stack by 1 tier
 - you cannot crush creatures with these pillars; if they would be crushed by the ceiling, instead push them into an empty tile of the creature's choice
 
