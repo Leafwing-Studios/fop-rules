@@ -80,7 +80,7 @@ You may not use the Essence Tap minor action. However, consuming essence crystal
 
 **Carefully Hewn:** The base basic defense in your Crystalline Structure feature is now 14, but your base movement speed is 6 tiles like normal.
 
-**Perfectionist:** You are proficient in Crafting.
+**Perfectionist:** You are proficient in Craftsmanship.
 
 ## Geode
 

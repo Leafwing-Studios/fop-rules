@@ -39,7 +39,7 @@ Splendidly diverse, sylvan deliberately attempt to create novel forms and functi
 
 **Take Root:** At the start of each of your turns, you may gain 4 absorption. If you do, you cannot spend movement until the start of your next turn.
 
-**Bioengineering:** Once per rest, while out of combat you may gain the benefits of the Craft downtime activity, using Anima in place of Crafting as you attempt to create items, and modify arms or armor out of nearby plant life. You do not need to roll on the Supplies die to check whether you have tools or materials.
+**Bioengineering:** Once per rest, while out of combat you may gain the benefits of the Craft downtime activity, using Anima in place of Craftsmanship as you attempt to create items, and modify arms or armor out of nearby plant life. You do not need to roll on the Supplies die to check whether you have tools or materials.
 
 **Land’s Bounty:** So long as you have access to light for photosynthesis, and water from the soil beneath you, you don’t need to eat or drink.
 
