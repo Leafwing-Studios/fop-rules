@@ -6,7 +6,7 @@ Strike suddenly, taking advantage of an opening in your opponent’s defenses.
 
 You may use any attack of your choice to make an attack of opportunity, so long as it does not cost essence and you meet the attack’s other requirements, such as being within range.
 
-There are several ways to trigger this reaction. By default, you can make attacks of opportunity when:
+There are several ways to trigger this reaction. By default, you can make an attack of opportunity whenever:
 
 - An enemy creature spends movement to both enter and leave your zone of control in a single turn. This occurs regardless of the order.
 - An enemy in your zone of control loses life due to one of your allies' attacks, you may make an attack of opportunity against them.
