@@ -126,6 +126,10 @@ Whenever you take the Dash minor action, attacks of opportunity against you have
 
 You have advantage on Agility (Athletics) skill checks made as part of the Dodge reaction.
 
+### Flashy
+
+Your Block reaction now negates the blocked attack completely. Whenever you use the Block reaction, enemies whose zone of control you are in may make an attack of opportunity against you.
+
 ### Flexible
 
 You may use Agility (Athletics) instead of Prowess (Athletics) to maintain a grapple. You have advantage on all skill checks made to escape a grapple.
