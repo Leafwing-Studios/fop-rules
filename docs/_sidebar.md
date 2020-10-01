@@ -52,7 +52,6 @@
     - [Bladesworn](character-options/classes/bladesworn.md)
     - [Conduit](character-options/classes/conduit.md)
     - [Devout](character-options/classes/devout.md)
-    - [Elementalist](character-options/classes/elementalist.md)
     - [Incarnation](character-options/classes/incarnation.md)
     - [Paragon](character-options/classes/paragon.md)
     - [Shaman](character-options/classes/shaman.md)
