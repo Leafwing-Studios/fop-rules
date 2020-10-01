@@ -176,9 +176,7 @@ Death is not always the end of the story. Fonts of power capture souls as they d
 
 Whenever a creature dies while at a font of power, they start to become one with its magical energy, eventually becoming absorbed. Each time the party benefits from a rest (including from Resolve) or fails a resurrection check, the dead creature gains one stack of **transcendence,** which represents the gradual absorption of their soul by the font. Whenever you gain a stack of transcendence that increases your transcendence to a level greater than or equal to 7 + your Focus, you must make a Focus (Fontcraft) skill check with a difficulty of 10 + your current transcendence. If you fail, you disappear as your spirit slips away forever.
 
-As a downtime activity, your allies can attempt to **Resurrect** you. In order to use the Resurrect downtime activity, they must be in the area with the highest danger level of the font that absorbed you. Additionally, they must have an adequate **vessel**, as described in the table below. They then must succeed on three separate skill checks, with a difficulty of 10 + your Transcendence.
-
-They may make as many of these skill checks in a single downtime activity as desired, but remember that the target gains transcendence after each failure. This skill check always uses Focus, but the skill used and which species you reincarnate as varies based on the vessel used, as shown in the table below. If multiple party members are performing this downtime activity, use the rules for [group skill checks](rules/skills/making-skill-checks?id=group-skill-checks) instead.
+As a downtime activity, your allies can attempt to **Resurrect** you. In order to use the Resurrect downtime activity, they must be in the area with the highest danger level of the font that absorbed you. Additionally, they must have an adequate **vessel**, as described in the table below. They then must succeed on three separate skill checks, with a difficulty of 10 + your transcendence. These skill checks always use Focus, but the skill used (and the species you reincarnate as) varies based on the vessel used.
 
 **Resurrection Options**
 
@@ -193,6 +191,26 @@ They may make as many of these skill checks in a single downtime activity as des
 | Sylvan                       | A plant that was special to the deceased             | Anima          |
 | Crystalline                  | 10 essence crystals                                  | Arcana         |
 | Fae                          | Something from a wild place                          | Anima          |
+
+<div class="infobox">
+
+**Resurrection Example**
+
+Consider the scenario where 4 party members are attempting to resurrect a dead ally. Firstly, the party must acquire a vessel and journey into the most dangerous part of the font. They choose to use the original body, but they take two days to travel to the font's center, fighting progressively tougher monsters on the way.
+
+Finally, they reach the center of the font, which is a danger level of 3. When the party arrives, their ally has 2 transcendence. They have a focus score of 2, so do not risk burning away until they reach 9 transendence (7 + 2 = 9).
+
+The party immediately starts getting to work resurrecting their ally. They decide to all take the Resurrect downtime activity, for a total of 4 attempts. Because of the current transcendence and the chosen vessel, they all roll Focus (Medicine) against a difficulty of 12. After rolling, there are 2 successes and 2 failures. The two failures increase the target's transcendence to 4. 
+
+Then, because the party is in a danger level of 3 while trying to rest, they must perform a single-success attrition scene with a difficulty of 25. Unfortunately, the party fails, and they are forced into a tough fight by their worldspeaker.
+
+After the dust has settled, the party completes their rest, and the target's transcendence increases one last time to 5. The next day, they all try to resurrect again, but this time against a difficulty of 15. They get their final success, reviving their dead ally.
+
+Their ally returns as their original species with 5 stacks of exhaustion. Then, the party completes one last attrition scene as before, which they succeed without consequences. With their task completed, they return to a safer area to take a few days of rest.
+
+</div>
+
+Each ally may make take the Resurrect downtime activity during the same rest. This can dramatically increase speed and success rate, but remember that the target gains transcendence after each failure. As always, they must all chose whether to Resurrect *before* any allies have rolled to see if they succeed. Then, all allies roll at the same time, tallying up successes and failures appropriately.
 
 When you return from the dead, you immediately suffer exhaustion equal to your previous transcendence. Like usual, gaining this exhaustion can kill you. Any skill checks made to resurrect you after you have died due to the exhaustion of being brought back from the dead are made with disadvantage.
 
