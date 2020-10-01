@@ -1,4 +1,4 @@
-# Conduit Spells
+# Conduit Charges
 
 ## Baleful Jinx
 

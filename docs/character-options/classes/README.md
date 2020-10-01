@@ -120,6 +120,20 @@ Standing firm in the heart of the battle, Paragons inspire their allies and demo
 
 </div>
 
+### [Runeseeker](character-options/classes/runeseeker.md)
+
+Consummate academics, Runeseekers prefer to do their research in the field: uncovering lost knowledge as they blast away obstacles with modifiable spells.
+
+<div class="inline-box">
+
+**Approach:** Caster
+
+**Position:** Backline, _Skirmisher_
+
+**Role:** Controller, Striker
+
+</div>
+
 ### [Shaman](character-options/classes/shaman.md)
 
 Manifesting the natural elements with unparalleled versatility, Shamans wrestle with its intense and uncontrollable power as they devastate the battlefield.

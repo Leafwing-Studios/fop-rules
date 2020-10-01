@@ -73,7 +73,7 @@ Whenever you hit a creature with a basic attack, or use the Treat minor action o
 
 Outside of combat, merely touching a creature, such as by shaking their hand or bumping into them, is sufficient to create this bond.
 
-While you are bound to a dual, you may use **pulses**, exploiting the connection formed to send a carefully crafted packet of essence to or from them. Pulses always take a minor action and cost 1 essence. Every pulse has two effects available to select: one that primarily affects you, and one that primarily affects the creature you are bound to. When you use a pulse, choose one of these effects.
+While you are bound to a dual, you may use **pulses**, exploiting the connection formed to send a carefully crafted payload of essence to or from them. Pulses always take a minor action and cost 1 essence. Every pulse has two effects available to select: one that primarily affects you, and one that primarily affects the creature you are bound to. When you use a pulse, choose one of these effects.
 
 While you are bound to a creature, you may apply a pulse to your dual,
 
