@@ -46,7 +46,7 @@ In short, if you are a burly frontliner, you probably want to Block, but if you'
 
 ## Block
 
-Whenever you would be hit by an attack, you may use the Block reaction. If you do, the efficacy of all attacks made against you is halved until the end of the current turn.
+Whenever you would be hit by an attack, you may use the Block reaction. If you do, you **block** all attacks made against you until the end of the current turn. Halve the efficacy of blocked attacks made against you.
 
 ## Dodge
 
