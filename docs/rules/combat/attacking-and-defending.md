@@ -22,7 +22,7 @@ Every special attack targets a different special defense corresponding to an att
 
 </div>
 
-Unless there are particularly strange extenuating circumstances (such as if your ally is being carried away on horseback, or very far away through a cloud of smoke), **you can always hit a willing creature with an attack without needing to roll.**
+**You can always choose to be hit by an attack, after seeing the initial results of the attack.** This can be a surprisingly useful tactical option: you might choose to be hit by an attack when an ally is attempting to teleport you, when you have the _cruel shield_ affix and want to apply afflictions to a creature whose attack you are blocking, when you want to provoke attacks of opportunity, or when you want to get swept away by a large forced movement effect.
 
 If an effect tells you to select a creature within range, or something to that effect, you can always select yourself as the target unless there is some specific reason that you could not.
 

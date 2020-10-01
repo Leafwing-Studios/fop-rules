@@ -88,11 +88,11 @@ When you reach level 2, your confidence and conviction is apparent to all you sp
 
 ## Faith is my Shield
 
-Also at level 2, your belief shields you from harm, granting additional protection when you use the Block reaction. After you use the Block reaction, you may spend essence up to your proficiency bonus to prevent additional damage. For every point of essence spent in this way, prevent additional damage increase the damage prevented by 4 (for this source of damage only).
+Also at level 2, your belief shields you from harm, granting additional protection when you use the Block reaction. After you use the Block reaction, you may spend essence up to your proficiency bonus to prevent additional damage. For every point of essence spent in this way, prevent 4 additional damage from the initial attack blocked.
 
 ## Intervention
 
-At level 3, you gain an unflinching willingness to step in front of blows meant for your allies. You may use your Block reaction to prevent damage that would be dealt to any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well.
+At level 3, you gain an unflinching willingness to step in front of blows meant for your allies. You may use your Block reaction to reduce the efficacy of attacks made against any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well and they gain any additional effects of your Block reaction.
 
 ## Martyr
 
@@ -127,7 +127,6 @@ At 7th level, Paragons stand above the fray, drawing enemy attention with their 
 ## Unassailable
 
 At level 9, the Paragon’s belief in the cause bolsters their shield. After you use the Block reaction, gain absorption equal to twice your Presence (minimum of 1). This absorption is applied after damage is dealt to you, and so does not reduce the damage of the attack that you blocked.
-towards you to the skill check result. If you succeed, their value in your chosen Ideal permanently increases by 1. This skill check benefits from your Muster feature. If you fail this skill check by 10 or more their loyalty towards you decreases by 1.
 
 ## Unwavering
 
@@ -155,7 +154,8 @@ At level 17, your conviction radiates intensely, bolstering your allies and cowi
 
 ## Redemption
 
-At level 18, the Paragon believes that no one is beyond redemption, and is able to work to slowly change even the most hardened villain's views. As a downtime activity, you may attempt to Sway a creature that you can have a focused conversation with. Make a difficulty 25 Presence (Guidance) skill check, adding their loyalty
+At level 18, the Paragon believes that no one is beyond redemption, and is able to work to slowly change even the most hardened villain's views. As a downtime activity, you may attempt to Sway a creature that you can have a focused conversation with. Make a difficulty 25 Presence (Guidance) skill check, adding their loyalty towards you to the skill check result.
+If you succeed, their value in your chosen Ideal permanently increases by 1. This skill check benefits from your Muster feature. If you fail this skill check by 10 or more their loyalty towards you decreases by 1.
 
 ## Unbreakable
 

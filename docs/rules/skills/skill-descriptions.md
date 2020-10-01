@@ -36,21 +36,21 @@ Charm is used to openly and directly influence people by whatever means necessar
 
 Charm skill checks are, by default, made using Presence, as they rely on your strength of personality and understanding of other people. However, if you are attempting to influence people in a way that relies on your ability to perform a particular feat, you should use an appropriate ability score for that feat instead, such as Agility for playing an instrument, Prowess for scaring them away by pounding on the table, Expertise for weaving a convincing illusion or so on.
 
-## Crafting
+## Craftsmanship
 
-Crafting is used to understand and craft mundane items of all sorts, ranging from swords to plate armor to masonry to woven cloth. When you encounter an item, you may inspect it, attempting to learn more about its innate properties. Complex mechanical devices would typically call for a Tinkering check instead, while learning about the details of an item’s enchantments would use the skill with which it was constructed. Your worldspeaker can use the table below as a guide to tell you what you learn about the item.
+Craftsmanship is used to understand and craft mundane items of all sorts, ranging from swords to plate armor to masonry to woven cloth. When you encounter an item, you may inspect it, attempting to learn more about its innate properties. Complex mechanical devices would typically call for a Tinkering check instead, while learning about the details of an item’s enchantments would use the skill with which it was constructed. Your worldspeaker can use the table below as a guide to tell you what you learn about the item.
 
-| Expertise (Crafting) check result | Information Gained                        |
-| --------------------------------- | ----------------------------------------- |
-| 5                                 | What, approximately, is the item made of? |
-| 10                                | What is the item used for?                |
-| 15                                | How is the item made?                     |
-| 20                                | What clues are there to this item’s past? |
-| 25                                | What hidden secrets does this item hold?  |
+| Expertise (Craftsmanship) check result | Information Gained                        |
+| -------------------------------------- | ----------------------------------------- |
+| 5                                      | What, approximately, is the item made of? |
+| 10                                     | What is the item used for?                |
+| 15                                     | How is the item made?                     |
+| 20                                     | What clues are there to this item’s past? |
+| 25                                     | What hidden secrets does this item hold?  |
 
-You may craft nonmagical gear using Crafting using the rules described in the Crafting section in the Gear chapter. Mundane items can be made using the Craft downtime activity, or during normal play using standard skill checks, depending on the complexity of the task at hand.
+You may craft nonmagical gear using Craftsmanship using the rules described in the [Creating Gear](https://rules.fontsofpower.com/#/character-options/gear/creating-gear) section in the Gear chapter. Mundane items and gear can both be made using the Craft downtime activity, or quickly during normal play using standard skill checks, depending on the complexity of the task at hand.
 
-Crafting checks typically involve Expertise, but may also call for Agility or Prowess at times during the crafting process. Expertise (Crafting) checks are used when your knowledge of a talent is tested, such as when designing an item or examining its construction. If a step involved in the process is particularly onerous or delicate, a Prowess (Crafting) or Agility (Crafting) check may be appropriate to reflect the challenges involved.
+Craftsmanship checks typically involve Expertise, but may also call for Agility or Prowess at times during the crafting process. Expertise (Craftsmanship) checks are used when your knowledge of a talent is tested, such as when designing an item or examining its construction. If a step involved in the process is particularly onerous or delicate, a Prowess (Craftsmanship) or Agility (Craftsmanship) check may be appropriate to reflect the challenges involved.
 
 ## Endurance
 

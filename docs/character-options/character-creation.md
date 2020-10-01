@@ -100,7 +100,7 @@ Attributes impact your effectiveness with skills and in combat. Unlike in many o
 Fonts of Power uses five attributes, which are briefly summarized below:.
 
 - **Prowess:** the ability to use more powerful weapons, armor and shields, holding creatures in a grapple, feats of strength and endurance, maintaining concentration
-- **Agility:** dodging and blocking basic attacks, more accurate basic attacks, stealth, feats of dexterity, escaping grapples
+- **Agility:** dodging attacks, more accurate basic attacks, stealth, feats of dexterity, escaping grapples
 - **Expertise:** hitting with spells and special attacks, beginning to grapple or shove another creature, crafting items
 - **Focus:** essence to use abilities, noticing things, maintaining concentration, using magical consumables
 - **Presence:** social skills, damage and absorption from spells and special attacks

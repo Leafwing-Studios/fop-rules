@@ -268,9 +268,8 @@ When you Surge this manifestation:
 Block blows with a swirling elemental shield, allowing you to absorb elemental damage, transforming it into an explosive cone of your own energy.
 When you use the Block reaction, this manifestation activates:
 
-- Until the start of your next turn, whenever your Block reaction would absorb damage until the start of your next turn, absorb additional elemental damage. This takes priority over the base damage absorption gained by the Block reaction.
+- Until the end of the current turn, whenever you would be hit by an attack, absorb additional elemental damage. This occurs before the efficacy of the attack would be modified by your Block reaction
 - When you absorb elemental damage int his way, deal the same amount of elemental damage, but of the type specified by your domain, to all creatures in a 2 tile cone, directed towards the source of the damage.
-- Your Block reaction now persists until just after your Surge class feature deals damage to you, rather than ending just before like usual.
 
 If you took elemental damage from a tile effect or your Surge class feature, you may choose to direct the cone in the direction of your choice.
 When you Surge this manifestation:
@@ -282,19 +281,19 @@ When you Surge this manifestation:
 
 | Surge | Cone Radius | Elemental Damage Absorbed |
 | :---: | :---------: | :-----------------------: |
-|   0   |      2      |      1d4 + Presence       |
-|   1   |      3      |      1d4 + Presence       |
-|   2   |      3      |    2d4 + 2 \* Presence    |
-|   3   |      4      |    2d4 + 2 \* Presence    |
-|   4   |      4      |    3d4 + 3 \* Presence    |
-|   5   |      5      |    3d4 + 3 \* Presence    |
-|   6   |      5      |    4d4 + 4 \* Presence    |
-|   7   |      6      |    4d4 + 4 \* Presence    |
-|   8   |      6      |    5d4 + 5 \* Presence    |
-|   9   |      7      |    5d4 + 5 \* Presence    |
-|  10   |      7      |    6d4 + 6 \* Presence    |
-|  11   |      8      |    6d4 + 6 \* Presence    |
-|  12   |      8      |    7d4 + 7 \* Presence    |
+|   0   |      2      |      1d6 + Presence       |
+|   1   |      3      |      1d6 + Presence       |
+|   2   |      3      |    2d6 + 2 \* Presence    |
+|   3   |      4      |    2d6 + 2 \* Presence    |
+|   4   |      4      |    3d6 + 3 \* Presence    |
+|   5   |      5      |    3d6 + 3 \* Presence    |
+|   6   |      5      |    4d6 + 4 \* Presence    |
+|   7   |      6      |    4d6 + 4 \* Presence    |
+|   8   |      6      |    5d6 + 5 \* Presence    |
+|   9   |      7      |    5d6 + 5 \* Presence    |
+|  10   |      7      |    6d6 + 6 \* Presence    |
+|  11   |      8      |    6d6 + 6 \* Presence    |
+|  12   |      8      |    7d6 + 7 \* Presence    |
 
 ## Storm
 
@@ -384,7 +383,8 @@ When you activate your _shaping_ manifestation, your thorns come to life, grabbi
 - create a solid block of stone, one height tier in size
   - you can freely stack these blocks on top of each other
 - these pillars are destructible but durable
-  - they have 1 life, and gain 4 times your proficiency bonus absorption at the start of each of your turns
+  - they have 1 life, and gain 4 times your proficiency bonus absorption at the start of each of your turns (and when they are first created)
+  - they are immune to earth damage
   - when a block in a stack is destroyed, reduce the height of that stack by 1 tier
 - you cannot crush creatures with these pillars; if they would be crushed by the ceiling, instead push them into an empty tile of the creature's choice
 

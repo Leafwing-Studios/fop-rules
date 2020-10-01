@@ -148,7 +148,7 @@ At level 10, you are able to handle unusual amounts of magical energy safely. Yo
 
 ## Exception Handling
 
-When you reach level 11, you learn to recover gracefully from unexpected failure. Whenever you use your Block reaction on a critical hit, treat it as a normal hit instead.
+When you reach level 11, you learn to recover gracefully from unexpected failure. Once per rest, you may treat a skill check made as part of combat as if you had rolled a 15 after you see its results.
 
 ## Arcing
 

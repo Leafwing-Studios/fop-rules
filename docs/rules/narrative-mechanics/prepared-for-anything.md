@@ -26,12 +26,12 @@ While this system is deliberately open-ended, here are some examples of what adv
 
 **Examples of Adventuring Gear**
 
-| Type      | Examples                                        | Effect                                                                                             |
-| --------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Tool      | shovel, chalk, rope, lock picks, crowbar, torch | You can perform a new sort of behaviour or have advantage on a skill check made to perform a task. |
-| Knowledge | book, map, letter                               | You get advantage on a skill check made to know something.                                         |
-| Leisure   | dice, delicious ale, lute                       | You have advantage on a skill check made to win someone’s loyalty.                                 |
-| Wealth    | sack of gold, masterful painting, precious gems | Increase the payoff of a deal by 1.                                                                |
-| Medicine  | bandages, ointments, surgery supplies           | You have advantage on the Tend downtime activity when treating a certain type of injury.           |
-| Tricks    | forgery kit, elaborate clothes, mask            | You have advantage on a Trickery skill check made to disguise yourself or forge documents.         |
-| Materials | assorted gears, scrap leather, nails            | You can use the Craft downtime activity to make a new item using the Crafting skill.               |
+| Type      | Examples                                        | Effect                                                                                            |
+| --------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Tool      | shovel, chalk, rope, lock picks, crowbar, torch | You can perform a new sort of behavior or have advantage on a skill check made to perform a task. |
+| Knowledge | book, map, letter                               | You get advantage on a skill check made to know something.                                        |
+| Leisure   | dice, delicious ale, lute                       | You have advantage on a skill check made to win someone’s loyalty.                                |
+| Wealth    | sack of gold, masterful painting, precious gems | Increase the payoff of a deal by 1.                                                               |
+| Medicine  | bandages, ointments, surgery supplies           | You have advantage on the Tend downtime activity when treating a certain type of injury.          |
+| Tricks    | forgery kit, elaborate clothes, mask            | You have advantage on a Trickery skill check made to disguise yourself or forge documents.        |
+| Materials | assorted gears, scrap leather, nails            | You can use the Craft downtime activity to make a new item using the Crafting skill.              |

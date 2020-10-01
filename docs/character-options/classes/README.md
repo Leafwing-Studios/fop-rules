@@ -1,5 +1,6 @@
 # Classes
-Every player character has a class: the source of their magical powers. As you level up, you will learn to master this power, gaining new class features and expanding your repertoire of powers. *The Player’s Guide to Fonts of Power* contains 12 classes, each with their own source of magic and unique playstyle. You can click the header names to go directly to the full description of that class.
+
+Every player character has a class: the source of their magical powers. As you level up, you will learn to master this power, gaining new class features and expanding your repertoire of powers. _The Player’s Guide to Fonts of Power_ contains 12 classes, each with their own source of magic and unique playstyle. You can click the header names to go directly to the full description of that class.
 
 <div class="infobox">
 
@@ -7,32 +8,31 @@ Every player character has a class: the source of their magical powers. As you l
 
 By categorizing the patterns in which various classes (and characters) play in combat, we can describe their **playstyle** in a way that helps us think and communicate about how they work across several important axes. This classification is intended to act as a guide, not a prescription, helping you make quick and informed decisions during character building.
 
-The  **approach** of a character describes the tools they use in combat:
+The **approach** of a character describes the tools they use in combat:
 
-* **Martial:** Uses traditional weaponry almost exclusively.
+- **Martial:** Uses traditional weaponry almost exclusively.
 
-* **Caster:** Uses magical spells almost exclusively.
+- **Caster:** Uses magical spells almost exclusively.
 
-* **Spellblade:** Combines traditional weaponry and magic spells.
-
+- **Spellblade:** Combines traditional weaponry and magic spells.
 
 The **position** of a character reflects where they prefer to fight from, relative to the fray:
 
-* **Frontline:** Take and land hits in melee.
+- **Frontline:** Take and land hits in melee.
 
-* **Backline:** Sling attacks from a safe distance.
+- **Backline:** Sling attacks from a safe distance.
 
-* **Skirmisher:** Highly mobile, moving in and out between different ranges as needed.
+- **Skirmisher:** Highly mobile, moving in and out between different ranges as needed.
 
 The **role** of a character captures the methods that they use to help their party prevail:
 
-* **Striker:** Ensure that your opponents’ life hits 0 before your party’s does.
+- **Striker:** Ensure that your opponents’ life hits 0 before your party’s does.
 
-* **Controller:** Limit your opponents’ actions by shaping the battlefield or impairing their effectiveness.
+- **Controller:** Limit your opponents’ actions by shaping the battlefield or impairing their effectiveness.
 
-* **Guardian:** Support your allies by protecting and enhancing them.
+- **Guardian:** Support your allies by protecting and enhancing them.
 
-When a playstyle is listed in *italics*, opting into that classification will require more specific character choices.
+When a playstyle is listed in _italics_, opting into that classification will require more specific character choices.
 
 </div>
 
@@ -44,7 +44,7 @@ With a singular focus on self-improvement, Ascendants focus their mind and hone 
 
 **Approach:** Martial
 
-**Position:** Frontline, *Backline,* Skirmisher
+**Position:** Frontline, _Backline,_ Skirmisher
 
 **Role:** Striker, Controller
 
@@ -52,15 +52,15 @@ With a singular focus on self-improvement, Ascendants focus their mind and hone 
 
 ### [Bladesworn](character-options/classes/bladesworn.md)
 
-The latest in a line of creatures bound to a sentient weapon, Bladesworn dance through the battlefield, answering their opponents every step, 
+The latest in a line of creatures bound to a sentient weapon, Bladesworn dance through the battlefield, answering their opponents every step,
 
 <div class="inline-box">
 
 **Approach:** Martial
 
-**Position:** Frontline, *Backline,* Skirmisher
+**Position:** Frontline, _Backline,_ Skirmisher
 
-**Role:** Striker, *Controller*
+**Role:** Striker, _Controller_
 
 </div>
 
@@ -84,25 +84,11 @@ Drawing on the power of a fickle god, Devout build up favor before working incre
 
 <div class="inline-box">
 
-**Approach:** Caster, *Spellblade*
+**Approach:** Caster, _Spellblade_
 
-**Position:** *Frontline,* Backline
+**Position:** _Frontline,_ Backline
 
 **Role:** Striker, Controller, Guardian
-
-</div>
-
-### [Elementalist](character-options/classes/elementalist.md)
-
-A classic spellslinger, the Elementalist carefully balances pairs of elements against each other, living in the danger zone before the excess energy explodes.
-
-<div class="inline-box">
-
-**Approach:** Caster, *Spellblade*
-
-**Position:** *Frontline,* Backline, Skirmisher
-
-**Role:** Striker, Controller, *Guardian*
 
 </div>
 
@@ -114,7 +100,7 @@ Biding their time and shrugging off ailments as their emotions grow in strength,
 
 **Approach:** Martial
 
-**Position:** Frontline, Backline, *Skirmisher*
+**Position:** Frontline, Backline, _Skirmisher_
 
 **Role:** Striker, Controller
 
@@ -158,7 +144,7 @@ With a gentle touch or the tip of a blade, Soulbinders form a connection between
 
 **Position:** Backline, Skirmisher
 
-**Role:** *Striker,* Controller, Guardian
+**Role:** _Striker,_ Controller, Guardian
 
 </div>
 
@@ -170,9 +156,9 @@ Two entities bound to the same form, the Touched must slowly learn to work toget
 
 **Approach:** Spellblade
 
-**Position:** *Frontline,* Skirmisher
+**Position:** _Frontline,_ Skirmisher
 
-**Role:** Striker, *Controller*
+**Role:** Striker, _Controller_
 
 </div>
 
@@ -184,7 +170,7 @@ Masters of luck itself, Tricksters play the odds as they roll the dice on huge a
 
 **Approach:** Martial, Spellblade
 
-**Position:** *Backline,* Skirmisher
+**Position:** _Backline,_ Skirmisher
 
 **Role:** Striker, Controller
 
@@ -200,6 +186,6 @@ Weaving together simple patterns into a brilliant tapestry, Weavers toy with the
 
 **Position:** Backline
 
-**Role:** *Striker,* Controller, Guardian
+**Role:** _Striker,_ Controller, Guardian
 
 </div>

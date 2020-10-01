@@ -304,7 +304,7 @@ Make a Presence attack against that creature. If you hit, the target suffers the
 
 </div>
 
-Masterfully blocking an attack, you counterattack in a single smooth motion. This attack of opportunity triggers whenever you would take damage from an attack made by a creature within range.
+Masterfully blocking an attack, you counterattack in a single smooth motion. This attack of opportunity triggers whenever you would be hit by an attack made by a creature within range.
 
 Make an Expertise attack against that creature. If you hit, the target suffers the effect of a basic attack from you at half efficacy and you gain the benefits of the Block reaction.
 

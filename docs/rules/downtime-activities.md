@@ -92,11 +92,11 @@ Attempt to create a mundane item, or modify the innate affixes of a set of arms 
 
 In order to use this downtime activity, you must have access to both the appropriate tools and raw materials. You can get these by using the Prepared for Anything system and rolling the Supplies die. Tools are not consumed, but raw materials are, whether you succeed or fail.
 
-In order to create or modify the innate affixes of a set of arms or armor, make an Expertise (Crafting) skill check result: You may add or remove an innate affix from the set of arms or armor for every 5 points of your skill check result.
+In order to create or modify the innate affixes of a set of arms or armor, make an Expertise (Craftsmanship) skill check result: You may add or remove an innate affix from the set of arms or armor for every 5 points of your skill check result.
 
 Like always, innate affixes must always be of common rarity.
 
-Creating mundane items or structures other than arms and armor requires an Expertise (Crafting) skill check, with the difficulty set by the table in the usual fashion.
+Creating mundane items or structures other than arms and armor requires an Expertise (Craftsmanship) skill check, with the difficulty set by the table in the usual fashion.
 
 ## Disenchant
 

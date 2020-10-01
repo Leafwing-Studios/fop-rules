@@ -44,10 +44,6 @@ Learn two additional powers from your class.
 
 ## Frontline
 
-### Dependable
-
-You have advantage on rolls made to determine how much damage is absorbed when you use the Block reaction.
-
 ### Enduring
 
 You have advantage on Endurance skill checks made to Essence Tap and on concentration checks made while at death’s door.
@@ -78,7 +74,7 @@ After you take the Defend major action, ignore any stacks of ailments or afflict
 
 ### Stout
 
-You may now use the Block reaction in response to attacks that only apply forced movement but do not deal damage. When you use the Block reaction, prevent all forced movement that would be applied by the attack blocked.
+You are immune to forced movement from blocked attacks.
 
 ### Upbeat
 
@@ -128,7 +124,11 @@ Whenever you take the Dash minor action, attacks of opportunity against you have
 
 ### Dodgy
 
-You have advantage on Agility(Athletics) skill checks made as part of the Dodge reaction.
+You have advantage on Agility (Athletics) skill checks made as part of the Dodge reaction.
+
+### Flashy
+
+Your Block reaction now negates all effects of the blocked attack, but does not block any further attacks in the current turn. Whenever you use the Block reaction, each other enemy whose zone of control you are in may make an attack of opportunity against you.
 
 ### Flexible
 
@@ -222,7 +222,7 @@ After you apply a single-target boon to another creature, they may shift once.
 
 ### Protective
 
-You may use your Block reaction to prevent damage that would be dealt to any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well.
+You may use your Block reaction to reduce the efficacy of attacks made against any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well and they gain any additional effects of your Block.
 
 ### Reactive
 

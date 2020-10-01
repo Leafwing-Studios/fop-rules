@@ -118,7 +118,7 @@ At level 2, the intense flow of magical energy runs through you, knitting your w
 
 ## Warded by the Weave
 
-At level 3, you wrap the threads of magic around you, distorting the fabric of space to protect you from blows. After you use the Block reaction (and take the triggering damage), gain absorption equal to the roll of your Block reaction.
+At level 3, you wrap the threads of magic around you, distorting the fabric of space to protect you from blows. After you use the Block reaction, until the end of the current turn, after you lose life, gain that much absorption.
 
 ## Thread Twisting.
 
@@ -324,7 +324,7 @@ Illusory copies act according to the wishes of the creature they are copying on 
 
 - The first time that an affected creature or its illusory double:
   - succeeds on a skill check
-  - lands an attack (after damage was rolled and the choice to use the Block reaction was used)
+  - lands an attack (after damage was rolled and the choice to use the Block or Dodge reaction was used)
   - is hit by an attack
   - takes damage
     Roll a d20. On a result of 11 or higher, the illusory copy was targeted or made the attack, and the attack or skill check made has no effect.
