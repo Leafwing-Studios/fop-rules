@@ -46,7 +46,7 @@ You have disadvantage on all special attacks and all special attacks against you
 
 ## Defenseless
 
-Damage dealt to you cannot be prevented by absorption or the Block reaction.
+Damage dealt to you cannot be prevented by absorption.
 
 ## Frightened
 
