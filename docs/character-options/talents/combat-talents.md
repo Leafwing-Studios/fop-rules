@@ -128,7 +128,7 @@ Whenever you take the Dash minor action, attacks of opportunity against you have
 
 ### Dodgy
 
-You have advantage on Agility(Athletics) skill checks made as part of the Dodge reaction.
+You have advantage on Agility (Athletics) skill checks made as part of the Dodge reaction.
 
 ### Flexible
 
