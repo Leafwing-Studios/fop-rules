@@ -74,7 +74,7 @@ After you take the Defend major action, ignore any stacks of ailments or afflict
 
 ### Stout
 
-When you use the Block reaction, you are immune to forced movement until the end of the current turn.
+You are immune to forced movement from blocked attacks.
 
 ### Upbeat
 
