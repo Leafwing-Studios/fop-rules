@@ -110,7 +110,9 @@ If you animated a set of arms:
 
 </div>
 
-The Weave wraps tightly around the weapons of a creature of your choice, causing them to glow faintly with an arcane aura. For the duration of this effect, they have advantage on basic attacks and roll with advantage to determine how much damage is prevented when using the Block reaction.
+The Weave wraps tightly around the weapons of a creature of your choice, causing them to glow faintly with an arcane aura. For the duration of this effect, they have advantage on basic attacks and gain absorption when they Block attacks.
+
+For the duration of this effect, after they use the Block reaction, until the end of the current turn, whenever they would be hit by an attack gain 3 + 1/2 Presence absorption before they suffer the attack's effects.
 
 ## Pattern of Binding
 

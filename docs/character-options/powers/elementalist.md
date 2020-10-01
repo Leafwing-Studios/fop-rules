@@ -308,7 +308,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on this att
 
 </div>
 
-As you fan your hands, a spray of sharp rocks pours forth from your fingertips, blasting through your enemies' defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d8 + Presence earth damage. This effect deals twice as much damage to absorption and the Block reaction is half as effective against it.
+As you fan your hands, a spray of sharp rocks pours forth from your fingertips, blasting through your enemies' defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d8 + Presence earth damage. This effect deals twice as much damage to absorption.
 
 If you have at least 4 stacks of earth exposure, make an attack against each other creature within a 3 tile radius of yourself instead.
 

@@ -318,7 +318,7 @@ When you trigger this aura, make a Focus attack against all enemies within range
 
 </div>
 
-When you learn this aura, select a damage type. When you trigger this aura, make a Focus attack against all enemies within range. Damage dealt by this power is twice as effective against absorption and the Block reaction.
+When you learn this aura, select a damage type. When you trigger this aura, make a Focus attack against all enemies within range. If you hit, deal 1d4 + Presence damage of the chosen type. Damage dealt by this power is twice as effective against absorption.
 
 ## Aura of Strength
 

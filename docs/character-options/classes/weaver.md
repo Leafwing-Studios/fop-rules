@@ -324,7 +324,7 @@ Illusory copies act according to the wishes of the creature they are copying on 
 
 - The first time that an affected creature or its illusory double:
   - succeeds on a skill check
-  - lands an attack (after damage was rolled and the choice to use the Block reaction was used)
+  - lands an attack (after damage was rolled and the choice to use the Block or Dodge reaction was used)
   - is hit by an attack
   - takes damage
     Roll a d20. On a result of 11 or higher, the illusory copy was targeted or made the attack, and the attack or skill check made has no effect.

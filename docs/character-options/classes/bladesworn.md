@@ -75,7 +75,7 @@ Rhythm grants you various bonuses, and changes in the following ways:
 - If you end your turn without having made a basic attack, your Rhythm goes down by 1 (to a minimum of 0).
 - Your Rhythm is reset to 0 at the end of each combat.
 
-If you make a multitarget basic attack (such as those gained through the _cleaving_ affix), the attack is a hit if any creature is hit, and a miss otherwise. Your Rhythm only changes once, no matter how many creatures were targeted.
+If you make a multi-target basic attack (such as those gained through the _cleaving_ affix), the attack is a hit if any creature is hit, and a miss otherwise. Your Rhythm only changes once, no matter how many creatures were targeted.
 
 ## Counterattacks
 
@@ -317,7 +317,7 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 </div>
 
-Dashing to the rescue, you retaliate on behalf of an ally as you shield them from harm. This attack of opportunity triggers whenever an ally within your zone of control would take damage from an enemy within range.
+Dashing to the rescue, you retaliate on behalf of an ally as you shield them from harm. This attack of opportunity triggers whenever an ally within your zone of control would be hit by an attack from an enemy within range.
 
 Make an Agility attack against the enemy that would damage your ally. If you hit, the target suffers the effect of a basic attack from you at half efficacy and your ally gains the benefit of your Block reaction.
 
@@ -327,4 +327,4 @@ At level 14, you can feel the blade tugging you towards its own goals. When you 
 
 ### Rhythmic Possession: Forebearers’ Fortification
 
-At level 20, as the frenzy of battle washes over you completely, you become one with the blade you are sworn to. When you are at 5 stacks of Rhythm or above, you automatically gain the benefits of the Block reaction when you are hit with an attack. You may not use the Block reaction (or benefit from any other effects that grant its effect) while this effect is active.
+At level 20, as the frenzy of battle washes over you completely, you become one with the blade you are sworn to. When you are at 5 stacks of Rhythm or above, the first time each turn that you are hit by an attack you automatically gain the benefits of the Block reaction when you are hit with an attack. You may not use the Block reaction (or benefit from any other effects that grant its effect) while this effect is active.
