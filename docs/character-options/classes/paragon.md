@@ -92,7 +92,7 @@ Also at level 2, your belief shields you from harm, granting additional protecti
 
 ## Intervention
 
-At level 3, you gain an unflinching willingness to step in front of blows meant for your allies. You may use your Block reaction to prevent damage that would be dealt to any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well.
+At level 3, you gain an unflinching willingness to step in front of blows meant for your allies. You may use your Block reaction to reduce the efficacy of attacks made against any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well and they gain any additional effects of your Block reaction.
 
 ## Martyr
 
