@@ -242,7 +242,7 @@ A creature or object of your choice within range begins to disintegrate as their
 
 Magical energy crackles and pops as tiny rifts in the Weave appear around a creature of your choice. At the end of each of your turns for the duration of this effect, make an Expertise attack against the affected creature. If you hit, teleport the affected creature up to 3 tiles into an empty tile of your choice.
 
-## Pattern of Empoweremnt
+## Pattern of Empowerment
 
 <div class="tight">
 
@@ -429,7 +429,7 @@ The Weave enters the mind of a creature of your choice within range, driving the
 
 </div>
 
-You tangle the threads of the Weave around an object or creature, anchoring them to their current place in space and time. At the end of each of your turns for the duration of this effect, amke an Expertise attack against them. If you hit, apply two stacks of chilled to them. In addition, if you hit, they are immune to falling damage and forced movement until the end of your next turn.
+You tangle the threads of the Weave around an object or creature, anchoring them to their current place in space and time. At the end of each of your turns for the duration of this effect, make an Expertise attack against them. If you hit, apply two stacks of chilled to them. In addition, if you hit, they are immune to falling damage and forced movement until the end of your next turn.
 
 ## Pattern of Prolonging
 
@@ -529,7 +529,7 @@ The Weave shelters a creature you can see, making them seem somehow not entirely
 
 </div>
 
-By weaving this Pattern, you grant a creature of your choice the ability to sense the invisible lines of the fabric of reality. For the duration of this effect, the affected creature is unimpeded by any shroud or invisbility effects.
+By weaving this Pattern, you grant a creature of your choice the ability to sense the invisible lines of the fabric of reality. For the duration of this effect, the affected creature is unimpeded by any shroud or invisibility effects.
 
 ## Pattern of Soothing
 
@@ -617,7 +617,7 @@ These effects apply to yourself as well. If you are affected by multiple copies 
 
 </div>
 
-The Weave shields a creature you can see from harm with a crackling forcefield. For the duration of this effect, basic attacks against the affected creature have disadvantage. The first time each round that they are struck by an attack the energy discharges. When it discharges, make a Focus attack against all creatures within 1 tile of the warded creature, dealing 1d4 + Presence arcane damage on a hit.
+The Weave shields a creature you can see from harm with a crackling force field. For the duration of this effect, basic attacks against the affected creature have disadvantage. The first time each round that they are struck by an attack the energy discharges. When it discharges, make a Focus attack against all creatures within 1 tile of the warded creature, dealing 1d4 + Presence arcane damage on a hit.
 
 ## Pattern of Warping
 
