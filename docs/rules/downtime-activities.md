@@ -20,13 +20,14 @@ In the world of _Fonts of Power_, some areas are incredibly dangerous, crawling 
 
 Areas with a higher danger level carry more risk but come with greater rewards. The danger level of areas is always between 0 and 3, and is readily apparent to all those who enter it.
 
-As the danger level of your current area changes:
+The danger level of an area affects the following:
 
-- if you rest in an area with a danger level greater than 0, you must complete a one-success attrition scene, suffering consequences if you fail
-- the difficulty of skill checks during attrition scenes, increasing their difficulty by 5 times the danger level
-- the success of the Devise, Enchant, Harvest, Resurrect and Splice downtime activities, adding a bonus of 5 times the danger level
-- the difficulty of combat encounters, as described in the [_Worldspeaker's Guide to Fonts of Power_](http://worldspeakers.fontsofpower.com/#/)
-- the amount of treasure found, as described in the [_Worldspeaker's Guide to Fonts of Power_](http://worldspeakers.fontsofpower.com/#/)
+- If you rest in an area with a danger level greater than 0, you must complete a one-success [attrition scene](rules/scenes/attrition-scenes), suffering consequences if you fail
+- The difficulty of skill checks during attrition scenes increases by 5 for each danger level
+- The Harvest, Enchant, and Splice downtime activities gain a bonus of +5 for each danger level
+- Harvest can only be used if the danger level is 1 or greater
+- Players can only be resurrected at a font from the area of highest danger. In most cases, this is the epicenter of the font.
+- The difficulty of combat encounters and the amount of treasure found scales with the danger level, as described in the [_Worldspeaker's Guide to Fonts of Power_](http://worldspeakers.fontsofpower.com/#/)
 
 ## Enchanting skill checks
 
@@ -113,7 +114,7 @@ Create a small batch of consumable magic items for your party to use out of what
 
 Design a consumable by combining consumable affixes. The gear point total of consumables must be less than or equal to your proficiency bonus.
 
-Then, make an enchanting skill check, adding a bonus of 5 times the danger level of the area you are resting in. You create a number of copies of the consumable you designed equal to your skill check result divided by 5, rounded down.
+Then, make an enchanting skill check. You create a number of copies of the consumable you designed equal to your skill check result divided by 5, rounded down. Additionally, you may spend any number of essence crystals after seeing the result of the enchanting skill check. Gain 1 additional copy of the consumable for every essence crystal consumed in this way.
 
 You may **recycle** existing consumables in this process. Add the total gear points of any consumables sacrificed in this way to your skill check result.
 
@@ -136,7 +137,7 @@ When you successfully perform this downtime activity, you may remove any affixes
 
 ## Harvest
 
-Gather essence crystals from the environment around you. For example, you might process part of a dead monster using Anima, collect strange minor magical items using Arcana, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering.
+Gather essence crystals from the environment around you. For example, you might process part of a dead monster using Anima, collect strange minor magical items using Arcana, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering. You may only use the Harvest downtime activity if the current danger level is 1 or greater.
 
 Make a Focus skill check with the appropriate skill, adding a bonus of 5 times the danger level of the area you are resting in. Gain 1 essence crystal for every 5 points of the skill check result.
 
@@ -175,11 +176,9 @@ Death is not always the end of the story. Fonts of power capture souls as they d
 
 Whenever a creature dies while at a font of power, they start to become one with its magical energy, eventually becoming absorbed. Each time the party benefits from a rest (including from Resolve) or fails a resurrection check, the dead creature gains one stack of **transcendence,** which represents the gradual absorption of their soul by the font. Whenever you gain a stack of transcendence that increases your transcendence to a level greater than or equal to 7 + your Focus, you must make a Focus (Fontcraft) skill check with a difficulty of 10 + your current transcendence. If you fail, you disappear as your spirit slips away forever.
 
-As a downtime activity, your allies can attempt to **Resurrect** you. They must succeed on three separate skill checks, with a difficulty of 15 + your Transcendence, adding a bonus of 5 times the danger level of the area you are resting in.
+As a downtime activity, your allies can attempt to **Resurrect** you. In order to use the Resurrect downtime activity, they must be in the area with the highest danger level of the font that absorbed you. Additionally, they must have an adequate **vessel**, as described in the table below. They then must succeed on three separate skill checks, with a difficulty of 10 + your Transcendence.
 
 They may make as many of these skill checks in a single downtime activity as desired, but remember that the target gains transcendence after each failure. This skill check always uses Focus, but the skill used and which species you reincarnate as varies based on the vessel used, as shown in the table below. If multiple party members are performing this downtime activity, use the rules for [group skill checks](rules/skills/making-skill-checks?id=group-skill-checks) instead.
-
-If more than one character uses the Resurrect downtime activity and both have proficiency in the required skill, use the highest skill modifier with advantage as per the standard rules for group skill checks.
 
 **Resurrection Options**
 
