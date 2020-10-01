@@ -128,7 +128,7 @@ You have advantage on Agility (Athletics) skill checks made as part of the Dodge
 
 ### Flashy
 
-Your Block reaction now negates the blocked attack completely. Whenever you use the Block reaction, each other enemy whose zone of control you are in may make an attack of opportunity against you.
+Your Block reaction now negates the blocked attack completely, but does not reduce the efficacy of further attacks in the current turn. Whenever you use the Block reaction, each other enemy whose zone of control you are in may make an attack of opportunity against you.
 
 ### Flexible
 
