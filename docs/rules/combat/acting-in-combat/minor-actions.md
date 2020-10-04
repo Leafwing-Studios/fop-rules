@@ -85,7 +85,7 @@ Take a moment to learn more about your surroundings. If you are skilled enough t
   - Focus (Medicine)
 - **Classify:** Learn either the arms, armor, or trinket affixes of a creature of your choice. If you choose to learn their trinket affixes, you also learn the skills that they are proficient in.
   - Expertise (Anima)
-- **Identify:** Learn the details of a single power of your choice. You have advantage on this skill check if this power was used since your last turn.
+- **Identify:** Learn the details of a single power of your choice. You have advantage on this skill check if this power was used since your last turn or a creature is currently concentrating on the power.
   - Expertise (Arcana)
 - **Scout:** Learn the details of a vantage of your choice. If you do not specify a particular vantage, learn one of the worldspeaker's choice instead.
   - Expertise (Arcana | Anima | Fontcraft | Tinkering). The skill used depends on the details of the vantage, and is specified in its description.
