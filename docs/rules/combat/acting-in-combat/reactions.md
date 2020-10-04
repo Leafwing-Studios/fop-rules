@@ -50,7 +50,7 @@ Whenever you would be hit by an attack (after seeing the initial results of the 
 
 ## Dodge
 
-Whenever you would be hit a basic attack, Grapple attack or Shove attack (after seeing the initial results of the attack), you may use the Dodge reaction. If you do, make an Agility (Athletics) skill check. If your skill check result is greater than or equal to the attack roll that hit you, the attack misses instead.
+Whenever you would be hit a basic attack, Grapple attack or Shove attack (after seeing the initial results of the attack), you may use the Dodge reaction. If you do, make an Agility (Athletics) skill check. If your skill check result is greater than or equal to the attack roll that hit you, dodge the attack. Attacks that you dodge are treated as if the attacker missed.
 
 ## Track
 
