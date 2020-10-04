@@ -2,18 +2,14 @@
 
 ## Attack of Opportunity
 
-Strike suddenly, taking advantage of an opening in your opponent’s defenses.
+Strike suddenly, taking advantage of an opening in your opponent’s defenses. You may spend your reaction to make an attack of opportunity whenever an enemy in your zone of control **provokes** an attack of opportunity. By default, creatures provoke an attack of opportunity whenever they:
 
-There are several ways to trigger this reaction. By default, you can make an attack of opportunity whenever:
+- Spend movement to enter and leave a hostile creature's zone of control in a single turn. This occurs regardless of the order.
+- Lose life due to an enemy attack.
 
-- An enemy creature spends movement to both enter and leave your zone of control in a single turn. This occurs regardless of the order.
-- An enemy in your zone of control loses life due to one of your allies' attacks, you may make an attack of opportunity against them.
-
-You may use any attack of your choice to make an attack of opportunity, so long as it does not cost essence and you meet the attack’s other requirements, such as being within range.
+You may use any attack to make an attack of opportunity, so long as it does not cost essence and you meet the attack’s other requirements, such as being within range.
 
 Attacks of opportunity always occur before the triggering action is complete. For example, if an enemy attempts to run past you, you could make a Grapple attack against them, holding them in place just before they leave your zone of control.
-
-Enemies do not provoke an attack of opportunity when they lose life due to self-inflicted damage, friendly fire, afflictions or tile effects.
 
 Attacks which hit more than one creature can be used as attacks of opportunity so long as they meet the other requirements. However, you have disadvantage on any attack rolls made in this way against creatures other than the one who provoked the attack of opportunity.
 
@@ -50,7 +46,7 @@ Whenever you would be hit by an attack (after seeing the initial results of the 
 
 ## Dodge
 
-Whenever you would be hit a basic attack, Grapple attack or Shove attack (after seeing the initial results of the attack), you may use the Dodge reaction. If you do, make an Agility (Athletics) skill check. If your skill check result is greater than or equal to the attack roll that hit you, dodge the attack. Attacks that you dodge are treated as if the attacker missed.
+Whenever you would be hit a basic attack, Grapple attack or Shove attack (after seeing the initial results of the attack), you may use the Dodge reaction. If you do, make an Agility (Athletics) skill check. If your skill check result is greater than or equal to the attack roll that hit you, **dodge** the attack. Attacks that you dodge are treated as if the attacker missed.
 
 ## Track
 
