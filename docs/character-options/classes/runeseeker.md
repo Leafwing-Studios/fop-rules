@@ -66,7 +66,30 @@
 
 ## Runecasting
 
+Runeseekers draw on the magic of knowledge, perfectly capturing the essence of a phenomenon as they trace the corresponding sigil in the air.
+
+As a level 1 Runeseeker, you have access to the Cast major action, allowing you to cast diverse spells to blast away your foes or control the battlefield.
+
+In their most basic form, Runeseeker spells always cost 1 essence, use a major action and make an attack against a single creature.
+When you cast a spell, you may spend additional essence to empower its effects, up the maximum total essence shown in the table below.
+
+| Level | Max Essence per Spell |
+| :---: | :-------------------: |
+|  1-4  |           1           |
+|  5-8  |           2           |
+| 9-12  |           3           |
+| 13-16 |           4           |
+| 17-20 |           5           |
+
+At level 1, you know 4 spells, and learn a new spell at level 4, 8, 12, 16 and 19. At least half of the spells that you know must be from the spell list associated with your school of magic; other spells can be chosen freely from other schools of magic.
+
 ## Schools of Magic
+
+At level 1, each Runeseeker chooses a **school of magic**, specializing in a particular form of magic according to their unique training. This choice determines the primary spell list available to you.
+
+### Runic Alteration: ?Weird?
+
+At level 15, each Runeseeker gains access to a unique Runic Alteration that is specific to their school of magic, allowing them to alter their spells in strange and interesting ways. Select one of the three available runic alterations specified for your school of magic, listed at the end of this class description.
 
 ## Self-Preservation
 
