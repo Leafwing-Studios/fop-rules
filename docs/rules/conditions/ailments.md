@@ -22,7 +22,7 @@ When this ailment ends, reappear in the nearest empty tile. You can still percei
 
 ## Blinded
 
-All other creatures are invisible to you, causing you to have disadvantage on single-target attacks.
+You have disadvantage on all basic attacks and all basic attacks against you have advantage.
 
 You cannot use the Track reaction or the Scan minor action.
 
