@@ -28,7 +28,7 @@ You cannot use the Track reaction or the Scan minor action.
 
 ## Blunted
 
-You have disadvantage on all attacks.
+The efficacy of your attacks is halved.
 
 ## Chilled
 
@@ -72,4 +72,4 @@ Attacks that you make must target the creature that applied this ailment to you.
 
 ## Withered
 
-You have disadvantage on basic attack rolls. Double all lateral movement costs.
+You have disadvantage on skill checks made to use the Break Grapple minor action, and Grapple attacks against you have advantage. Double all lateral movement costs.
