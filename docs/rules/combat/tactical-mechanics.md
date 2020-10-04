@@ -67,6 +67,9 @@ This can however be combined with the increased effect of critical hits and the 
 - the intervening tiles do not need to be passable
 - distance is measured directly, rather than based on the path taken
 
+Like all forced movement, you can still teleport and be teleported while you have the rooted ailment, as you are not spending movement.
+Similarly, you can still teleport and be teleported while you are grappled (or grappling) and bring the creature(s) you are grappling with you, dividing the distance travelled between you.
+
 ## Shifts
 
 Various effects allow you to carefully move across the battlefield. When you shift, you may move into an adjacent empty tile of your choice. This does not cost movement and never provokes attacks of opportunity.
