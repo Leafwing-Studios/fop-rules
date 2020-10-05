@@ -63,7 +63,7 @@ This can however be combined with the increased effect of critical hits and the 
 
 **Teleportation** is a special kind of forced movement, which moves you directly from one tile to another. Teleportation is different from ordinary forced movement in the following ways:
 
-- it ignores the effects of difficult terrain or other ground effects that you would cross over
+- it ignores any tile effects that you would cross over
 - the intervening tiles do not need to be passable
 - distance is measured directly, rather than based on the path taken
 

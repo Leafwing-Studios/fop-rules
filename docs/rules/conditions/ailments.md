@@ -14,7 +14,7 @@ While aloft:
 
 ## Banished
 
-You are sent to a strange, alternate plane of existence. While banished, you can only interact with other banished creatures. Creatures who are not banished can occupy and move through the same tile as you and vice versa.
+You are sent to a strange, alternate plane of existence. While banished, you can only interact with other banished creatures. Tile effects created by banished creatures only affect other banished creatures. Creatures who are not banished can occupy and move through the same tile as you and vice versa.
 
 Other creatures may use the Treat minor action (or other effects which remove ailments) to remove the banished ailment, even if they are not themselves banished.
 
