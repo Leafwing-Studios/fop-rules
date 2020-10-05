@@ -81,32 +81,31 @@ When you cast a spell, you may spend additional essence to empower its effects, 
 | 13-16 |           4           |
 | 17-20 |           5           |
 
-At level 1, you know 4 spells, and learn a new spell at level 4, 8, 12, 16 and 19. At least half of the spells that you know must be from the spell list associated with your school of magic; other spells can be chosen freely from other schools of magic.
+At level 1, you know 4 spells, and learn a new spell at level 4, 8, 12, 16 and 19. At least half of the spells that you know must be from the spell list associated with your school of magic (described immediately below); other spells can be chosen freely from other schools of magic.
 
 ## Schools of Magic
 
-At level 1, each Runeseeker chooses a **school of magic**, specializing in a particular form of magic according to their unique training. This choice determines the primary spell list available to you.
+At level 1, each Runeseeker chooses a **school of magic**, specializing in a particular form of magic according to their unique training. This choice determines the primary spell list available to you, as well as the benefits of your level 15 Runic Alteration: Style and level 20 Pinnacle of Knowledge class feature.
 
 Each school is associated with a particular **academic skill**. You are proficient in this skill (in addition to the five skill you select), and several of your features grant additional uses or bonuses to the academic skill associated with your choice of school.
 
 ## Elaborate Runes
 
-While the runeseeker's spells are exceptionally powerful, they are more complicated to cast during combat than those of other classes. At level 1, choose one of the following drawbacks for your spells. Like with all choices made as part of your class (such as any Runic Alteration class feature or a spell you selected), you may change up to two of these choices each time you level up.
+While the runeseeker's spells are exceptionally powerful, they are more complicated to cast during combat than those of other classes. At level 1, choose one of the following drawbacks for your spells. Like with all choices made as part of character creation (such as which spell you selected, the option chosen for one of your Runic Alteration class features or your attribute spread), you may change up to two of these choices each time you level up.
 
 ### Hurried Casting
 
-Your spells are quick but inefficient. You have disadvantage on skill checks made to use the Essence Tap minor action.
+Your spells are quick but inefficient. You have disadvantage on skill checks made to use the Essence Tap minor action. Your Essence Tap minor action now only restores essence equal to twice your proficiency bonus, rather than three times your proficiency bonus like usual.
 
 ### Risky Casting
 
-Your spells are powerful but leave you open to counterattack as you focus intently on their completion. Whenever you cast a spell, provoke an attack of opportunity.
+Your spells are powerful but leave you open to counterattack as you pour all of your attention into drawing the required rune. Whenever you cast a spell, provoke an attack of opportunity.
 
 Like all attacks of opportunity, this attack of opportunity resolves before the triggering action (casting a spell in this case) is complete.
 
 ### Focused Casting
 
-Your spells are perfectly executed but require your careful concentration to complete. After you cast a spell, its effects do not immediately complete.
-Instead, the spell you cast takes effect at the start of your next turn, targeted at that time. You must hold your [concentration](../rules/combat/tactical-mechanics?id=concentration) during this time. If you fail a concentration check before the start of your next, the spell is lost.
+Your spells are perfectly executed but require your careful concentration to complete. The effects of this power do not trigger until the start of your next turn (although you must spend essence upfront). You must maintain [concentration](../rules/combat/tactical-mechanics?id=concentration) for this duration, or the power fails. Choose the target(s) of the spell at that time, along with any alterations.
 
 ## Secrets of the Past
 
@@ -114,11 +113,11 @@ At level 2, your studies give you a distinct edge when attempting to research, r
 
 ## Self-Reliance
 
-Also at level 2, you are able to convert some of the essence that you draw upon into magical healing, allowing you to press on in pursuit of treasure and knowledge. After you use the Essence Tap minor action, you may spend essence equal to twice your proficiency bonus to restore life equal to eight times your proficiency bonus.
+Also at level 2, you are able to convert some of the essence that you draw upon into magical healing, allowing you to press on in pursuit of treasure and knowledge. After you use the Essence Tap minor action (but not after you automatically trigger it due to running out of essence), you may spend essence up to twice your proficiency bonus to restore life equal to four times the essence spent.
 
 ## Runic Alteration: Quantifier
 
-At level 3, you unlock the first of many advanced techniques; combining the inscribed rune with a quantifier to allow it to affect many creatures at once. Learn one of the three following **alterations**. Whenever you cast a spell, you may choose whether or not to apply each alteration that you know.
+At level 3, you unlock the first of many advanced techniques; combining the inscribed rune with a quantifier to allow it to affect many creatures at once. Learn one of the following three **alterations**. Whenever you cast a spell, you may choose to apply any number of alterations that you know.
 
 ### Spherical Alteration
 
@@ -130,41 +129,39 @@ The altered spell becomes multi-target, hitting all creatures within a 3 tile co
 
 ### Spreading Alteration
 
-When this alteration is applied, the spell becomes multi-target, hitting the 3 creatures nearest to a tile selected within range, up to a maximum range of 4 tiles from the targeted tile. In the event of a tie, the caster may choose which creatures to affect. Halve the efficacy of spells altered in this way.
+When this alteration is applied, the spell becomes multi-target, jumping from creature to creature. At each jump, select the closest creature (within 2 tiles) of the previous one. This chain can contain up to three targets total. Creatures can only be part of each chain once; you cannot return to them. In the event of a tie, the caster may choose which creatures to affect. Halve the efficacy of spells altered in this way.
 
 ## Rune Seeking
 
-At level 6, you have begun to learn the art of runeseeking, granting you the ability to carefully scry for rare and powerful treasure that holds deep secrets. Gain access to the **Runeseek** downtime activity. When you use this downtime activity, make a Focus skill check using the academic skill associated with your school of magic.
+<div class="infobox">
+
+**Questions for the Runeseek downtime activity**
+
+1. What dangers about this entity have I not noticed?
+
+</div>
+
+At level 6, you have begun to learn the art of runeseeking, granting you the ability to carefully scry for rare and powerful treasure, uncovering their secrets. Gain access to the **Runeseek** downtime activity. When you use this downtime activity, make a Focus skill check using your academic skill.
+
+You can **uncover** treasure (magical items) in this way. When you do, the worldspeaker provides the name, short description and complete list of affixes for each uncovered treasure.
 
 Choose a nearby font of power, then choose one of the following options:
 
-- **Breadth:** Uncover one treasure found in that font of power (that you have not previously uncovered) at random for every five points of your skill check result. The worldspeaker provides the name, short description and complete list of affixes for each uncovered treasure.
-- **Depth:** Choose one treasure that you have previously uncovered, or one treasure that you currently possess. For every ten points of your skill check result, you may learn the answer to one question of your choice about that treasure. These questions must have clear, objective answers that rely only on the state of the world (either presently or in the past), and cannot rely on information about the internal mental state of creatures.
-
-For example, you might ask:
-
-- Who first created this treasure?
-- Who is the current owner of that treasure?
-- Where is this treasure currently?
-
-But you could not ask:
-
-- Why was this treasure created?
-- What could this treasure be used for?
-- Who holds this treasure dear to their heart?
+- **Breadth:** Uncover one new treasure found in that font of power at random for every five points of your skill check result.
+- **Depth:** Choose one treasure that you have previously uncovered, or one treasure that you currently possess. For every ten points of your skill check result, you may learn the answer to one question of your choice about that treasure.
 
 ## Runic Alteration: Accent
 
 At level 7, you master your second technique; adding an accent to the inscribed rune that causes it to be more effective in some circumstances, but less in others.
-Learn one of the three following **alterations**. Whenever you cast a spell, you may choose whether or not to apply each alteration that you know.
+Learn one of the following three alterations. Whenever you cast a spell, you may choose to apply any number of alterations that you know.
 
-### Pointblank Alteration
+### Point-blank Alteration
 
-The altered spell becomes melee, with a range equal to the radius of your zone of control. As a result, you no longer have disadvantage on attacks made with this spell while in an enemy zone of control. When used in concert with an alteration from your Runic Alteration: Quantifier class feature, the area of effect is centered around you, rather than a tile of your choice within range (although you may choose the direction of any relevant effects).
+The altered spell becomes melee, with a range equal to your zone of control. As a result, you no longer have disadvantage on attacks made with this spell while in an enemy zone of control. When used in concert with an alteration from your Runic Alteration: Quantifier class feature, the area of effect is centered around you, rather than a tile of your choice within range (although you may choose the direction of any relevant effects), although it does not affect you.
 
 ### Swelling Alteration
 
-You have disadvantage on attacks made with the altered spell against targets within half of the maximum range of the spell, and advantage on all other attacks made with the altered spell.
+You have disadvantage on attacks made with the altered spell against targets within half of the range of the spell, and advantage on all other attacks made with the altered spell.
 
 ### Reckless Alteration
 
@@ -177,16 +174,16 @@ At level 10, you learn to take full advantage of the unique academic opportuniti
 ## Runic Alteration: Script
 
 At level 11, you master your third technique; altering the script of the inscribed rune in a way that changes the fundamental components of the spell.
-Learn one of the three following **alterations**. Whenever you cast a spell, you may choose whether or not to apply each alteration that you know.
+Learn one of the following three alterations. Whenever you cast a spell, you may choose to apply any number of alterations that you know.
 
 <div class="side-panel">
 
-| **School**  | **Elements**              | **Ailments**                    |
-| ----------- | ------------------------- | ------------------------------- |
-| ?Anima?     | primal, decay, air        | rooted, withered, aloft         |
-| ?Arcana?    | arcane, eldritch, water   | banished, crazed, chilled       |
-| ?Fontcraft? | radiant, umbral, earth    | pacified, cursed, blunted       |
-| ?Tinkering? | electric, corrosion, fire | lethargic, defenseless, blinded |
+| **School**  | **Elements**              | **Ailments**                     |
+| ----------- | ------------------------- | -------------------------------- |
+| ?Anima?     | primal, decay, air        | rooted, withered, aloft          |
+| ?Arcana?    | arcane, eldritch, water   | banished, crazed, chilled        |
+| ?Fontcraft? | radiant, umbral, earth    | pacified, cursed, blunted        |
+| ?Tinkering? | electric, corrosion, fire | frightened, defenseless, blinded |
 
 </div>
 
@@ -204,15 +201,15 @@ Change the special attack type used by the altered spell to correspond to an att
 
 ## Lore Seeking
 
-At level 14, the power of your rune seeking magic grows, letting you learn much broader types of information. When you use the Rune Seeking downtime activity, you may choose to learn about characters or locations within the font of power instead. You may choose which type of entity you wish to learn about (treasure, character or location) after each entity is revealed for the Breadth option.
+At level 14, the power of your rune seeking magic grows, letting you learn much broader types of information. When you use the Rune Seeking downtime activity, you may choose to learn about characters or locations within the font of power instead. You may choose which type of entity you wish to learn about (treasure, character or location) after each entity is revealed for the Breadth option. You may choose any character or location that has been uncovered, you have met or you have visited for the Depth option.
 
-When you learn about a character during the Breadth option, you learn their name, basic appearance and loyalty towards any other creatures or factions that you know.
+When you uncover a character with the Breadth option, you learn their name, basic appearance and loyalty towards any other creatures or factions that you know.
 
-When you learn about a location during the Runeseek downtime activity, you learn its basic appearance (averaged over the past year), and any vantages that the arena may contain.
+When you uncover a location with the Breadth option, you learn its basic appearance (averaged over the past year), approximate location, and any vantages that the arena may contain.
 
 ## Runic Alteration: Style
 
-At level 15, you master your fourth and final technique; adding a unique twist to the runes that you inscribe that embodies the essential nature of your school of magic. Learn one of the three **alterations** described in the section for your school of magic, found at the end of this class description. Whenever you cast a spell, you may choose whether or not to apply each alteration that you know.
+At level 15, you master your fourth and final technique; adding a unique twist to the runes that you inscribe that embodies the essential nature of your school of magic. Learn one of the three alterations described in the section for your school of magic, found at the end of this class description. Whenever you cast a spell, you may choose to apply any number of alterations that you know.
 
 ## Allure of the Unknown
 
@@ -222,6 +219,6 @@ At level 18, the dangerous wilds and ruins of the world call to you, strengtheni
 
 At level 20, you have reached the current pinnacle of knowledge of your magic, and begin to invent new techniques.
 
-You gain access to the Scholarship downtime activity. When you use this downtime activity, you may replace one of your spells or alterations known (or the choice made for your Elaborate Runes class feature), replacing it with another choice from the same class feature.
+You gain access to the Scholarship downtime activity. When you use this downtime activity, you may replace any of your class decision (such as one of your spells or alterations known), replacing it with another choice from the same class feature.
 
 In addition, you gain a powerful bonus to your spells, as described in the section for your school of magic, found at the end of this class description.
