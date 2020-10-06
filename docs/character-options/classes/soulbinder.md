@@ -69,7 +69,7 @@
 
 When a Soulbinder touches a creature, a fleeting connection is forged, linking their souls together in a way that the soulbinder can use to help or harm their target.
 
-Whenever you hit a creature with a basic attack, or use the Treat minor action on them, you become **bound** to them, and they become your **dual.** You do not need to attempt to remove ailments or afflictions from your ally in order to gain this benefit. You may only have one dual at a time; hitting a new creature with a basic attack or using the Treat minor action on a new creature replaces any existing connection.
+Whenever you hit a creature with a basic attack, Shove attack, Grapple attack or use the Treat minor action on them, you become **bound** to them, and they become your **dual.** You do not need to attempt to remove ailments or afflictions from your ally in order to gain this benefit. You may only have one dual at a time; hitting a new creature with a basic attack or using the Treat minor action on a new creature replaces any existing connection.
 
 Outside of combat, merely touching a creature, such as by shaking their hand or bumping into them, is sufficient to create this bond.
 
