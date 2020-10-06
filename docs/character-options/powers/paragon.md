@@ -74,7 +74,7 @@ When you trigger this aura, shift each enemy within range once.
 
 **Attack:** None
 
-**Duration:** Instant
+**Duration:** Until the end of your next turn
 
 </div>
 
@@ -98,7 +98,7 @@ When you trigger this aura, allies within range have advantage on special attack
 
 </div>
 
-When you trigger this aura, allies within range have advantage on special attacks until the end of your next turn.
+When you trigger this aura, allies within range have advantage on special attacks for the duration of this effect.
 
 ## Aura of Deflection
 
@@ -118,7 +118,7 @@ When you trigger this aura, allies within range have advantage on special attack
 
 </div>
 
-When you trigger this aura, basic attacks against allies within range have disadvantage until the end of your next turn.
+When you trigger this aura, basic attacks against allies within range have disadvantage for the duration of this effect.
 
 ## Aura of Determination
 
@@ -134,11 +134,11 @@ When you trigger this aura, basic attacks against allies within range have disad
 
 **Attack:** None
 
-**Duration:** Instant
+**Duration:** Until the end of your next turn
 
 </div>
 
-When you trigger this aura, allies within range are immune to forced movement until the end of your next turn.
+When you trigger this aura, allies within range are immune to forced movement for the duration of this effect.
 
 ## Aura of Leadership
 
@@ -338,7 +338,7 @@ When you learn this aura, select a damage type. When you trigger this aura, make
 
 </div>
 
-When you trigger this aura, all allies within range have advantage on basic attacks until the end of your next turn.
+When you trigger this aura, all allies within range have advantage on basic attacks for the duration of this effect.
 
 ## Aura of Temperance
 
@@ -374,11 +374,11 @@ When you trigger this aura, make a Focus attack against all enemies within range
 
 **Attack:** None
 
-**Duration:** Instant
+**Duration:** Until the end of your next turn
 
 </div>
 
-When you trigger this aura, special attacks made against allies within range have disadvantage until the end of your next turn.
+When you trigger this aura, special attacks made against allies within range have disadvantage for the duration of this effect.
 
 ## Aura of Vitality
 
