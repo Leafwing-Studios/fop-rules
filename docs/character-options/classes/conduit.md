@@ -45,7 +45,7 @@
 |   2   |        +1         |                   Persistence, Reverse Polarity                    |       4       |
 |   3   |        +1         |                    Injection Attack, Capacitor                     |       4       |
 |   4   |        +1         |                       Attribute Improvement                        |       5       |
-|   5   |        +2         |  Proficiency Bonus Improvement, Buffer Overflow (2), Parallelism   |       5       |
+|   5   |        +2         |         Proficiency Bonus Improvement, Buffer Overflow (2)         |       5       |
 |   6   |        +2         |                          Design Patterns                           |       5       |
 |   7   |        +2         |                           Mastery: Armor                           |       5       |
 |   8   |        +2         |                       Attribute Improvement                        |       6       |
@@ -72,9 +72,11 @@ At level 1, whenever you cast a charge, you may choose to channel it into your w
 
 Each set of arms may only hold one charge at a time. Casting any further charges into it causes the previous charge to fizzle away harmlessly. Your holstered weapons can continue to hold stored charges.
 
-You learn 4 charges at level 1, each of which takes a minor action and costs 1 essence. You learn an additional charge at level 4, 8, 12, 16 and 19. Select these from the charges section at the end of this class description.
+Once per turn, without spending an action, you may spend 1 essence to cast a charge into your weapon.
 
-These charges can also be cast on their own, directly at the target, with a 4 tile range, and using the attack roll specified in the charge description.
+You learn 4 charges at level 1, and learn an additional charge at level 4, 8, 12, 16 and 19. Select these from the charges section at the end of this class description.
+
+You may spend 1 essence to use **Cast** minor action. When you do, choose whether to cast the charge into your weapon or directly at a target of your choice within range.
 
 ## Mastery: Weaponry
 
@@ -125,10 +127,6 @@ Once you reach level 5, you learn to chain energy through your enemies as the ma
 Each new target must be within 2 tiles of the previous one, and the chain can contain up to two targets total. Creatures can only be part of each chain once; you cannot return to them. You must hit targets beyond the first that the magic jumps to with the special attack specified in the charge description, even if you use this feature as part of an imbued basic attack.
 
 The total number of creatures hit in this chain increases to 3 at level 9, 4 at level 13 and 5 at level 17. You must pay one essence for each jump made.
-
-## Parallelism
-
-Also at level 5, you learn to imbue your weapon with a charge as part of your Strike major action. This costs 1 essence, just as if you had imbued your weapon as a separate minor action.
 
 ## Static Analysis
 
