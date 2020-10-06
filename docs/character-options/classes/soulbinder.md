@@ -42,7 +42,7 @@
 
 | Level | Proficiency Bonus |                        Features                         | Pulses Known |
 | :---: | :---------------: | :-----------------------------------------------------: | :----------: |
-|   1   |        +1         |            Pulse, Qualia: Distinctive Pulse             |      1       |
+|   1   |        +1         | Pulse, Qualia: Distinctive Pulse, Unnerving Connection  |      1       |
 |   2   |        +1         |                Empathy, A Sorrow Shared                 |      1       |
 |   3   |        +1         |           Amplitude Moderation, Precognition            |      1       |
 |   4   |        +1         |                  Attribute Improvement                  |      2       |
@@ -143,6 +143,10 @@ At level 15, your A Sorrow Shared feature is enhanced based on your Qualia.
 ### Soulbound
 
 At level 20, the bond you form between souls is deep and rich, full of the Qualia that defines your bond. While you are bound to another creature, both you and that creature are affected by a powerful passive effect.
+
+## Unnerving Connection
+
+Also at level 1, the connection that you form unnerves and distracts hostile souls that you are bound to. Allied creatures (other than yourself) have advantage on attacks of opportunity against your dual if they are hostile to you.
 
 ## Empathy
 
