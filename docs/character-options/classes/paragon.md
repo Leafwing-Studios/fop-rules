@@ -84,7 +84,7 @@ At level 5, the Cause adds extra moral weight to their strikes. Whenever you use
 
 ## Muster
 
-When you reach level 2, your confidence and conviction is apparent to all you speak to. When attempting to convince someone to act to directly benefit your Cause, you have advantage on all Guidance and Charisma skill checks made.
+When you reach level 2, your confidence and conviction is apparent to all you speak to. When attempting to convince someone to act to directly benefit your Cause, you have advantage on all Guidance and Charm skill checks made.
 
 ## Faith is my Shield
 
