@@ -1257,7 +1257,7 @@ Like usual, these attacks are blocked by full cover, and partial cover applies d
 
 </div>
 
-Your blade crackles with pure magical power. Make a basic attack against a creature of your choice. If you hit, all damage dealt is converted to arcane damage and they are teleported up to 10 feet to an empty tile of your choice.
+Your blade crackles with pure magical power. Make a basic attack against a creature of your choice. If you hit, all damage dealt is converted to arcane damage and teleport the creature hit up to 2 tiles.
 
 ### Avatar of the Weave - Miracle
 

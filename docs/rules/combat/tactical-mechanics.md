@@ -48,9 +48,9 @@ As a special case, particularly small creatures, such as faeries, are said to ta
 
 Many effects, such as shoving an enemy or getting knocked back by a giant blast of wind, move creatures against their will. This is known as **forced movement.**
 
-If a creature is **pushed away,** they travel along the line between you and them away from you, ending in the nearest empty tile to their computed location. If they are **pulled towards** you, they travel along that same line, but move towards your current position.
+If a creature is **pushed away,** they travel along the line between you and them away from you, ending in the nearest empty tile to their computed location. If they are **pulled towards** you, they travel along that same line, but move towards your current position. Unless otherwise stated, creatures cannot be moved into occupied tiles by forced movement.
 
-Whenever you would be forcibly moved into an occupied tile, you are instead placed in the nearest empty tile instead. Unless a creature is moved by teleportation, attempt to maintain the direction of movement as best as possible while doing so. If the final location of a creature is ever ambiguous, the attacker chooses between the viable options.
+Whenever a creature would be forcibly moved into an occupied tile, they are instead placed in the nearest empty tile instead. Unless a creature is moved by teleportation, attempt to maintain the direction of movement as best as possible while doing so. If the final location of a creature is ever ambiguous, the creature that applied the forced movement chooses between the viable options.
 
 Forced movement never provokes attacks of opportunity.
 
