@@ -181,7 +181,7 @@ At level 3, your connection to the soul of your dual allows you to respond to th
 
 If your dual is an enemy, whenever they lose life, you may make an attack of opportunity against them. Your dual has disadvantage on attacks of opportunity against you.
 
-If your dual is an ally, at the start of their turn you may spend your reaction to use a pulse of your choice that affects them. You cannot spend essence as part of this action.
+If your dual is an ally, at the start of their turn you may spend your reaction to use a pulse of your choice that affects them. As always, you cannot spend essence as part of this reaction.
 
 ## Attribute Improvement
 
@@ -200,6 +200,10 @@ At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the
 | 17-20 | +5                |
 
 See the Leveling Up section in the Narrative Mechanics chapter for a reminder of the factors that change when this occurs.
+
+## Bidirectional Connection
+
+At level 5, you are able to send pulses in both directions across your bond at once. Once during your turn, you may spend 1 essence to apply both effects of your pulse.
 
 ## Parting Gift
 
