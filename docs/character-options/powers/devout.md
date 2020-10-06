@@ -848,11 +848,9 @@ As you pray, an ally is wrapped in rejuvenating flame, bringing them back from t
 
 </div>
 
-Nothing occurs when you first cast this miracle, although tiny harmless flames begin to flicker along the bodies of any number of willing creatures within range that you select when you first cast this miracle. The portent comes to pass the first time that, at the start of your turn, your Favor is 5 or more. Your concentration on this Miracle ends and the creatures that you selected are wrapped in flame as they are reborn and reinvigorated.
+When you first cast this miracle, select any number of willing creatures within range. Those creatures become immune to all effects, including attacks, damage, other boons, forced movement, aliments, and afflictions. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
-For the next 5 rounds, the creatures that you selected are stunned but immune to all effects, including attacks, damage, other boons, forced movement, ailments or afflictions. At the end of this effect, the party gains the benefit of a rest.
-
-Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect. You cannot attempt to Pray to cast other miracles while you are concentrating on this effect.
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and the party gains the benefit of a rest.
 
 ### Wrath of the Inferno
 
@@ -1277,9 +1275,9 @@ Your blade crackles with pure magical power. Make a basic attack against a creat
 
 </div>
 
-Your body is surrounded by intense flames, cracking and burning. For the duration of this effect, your basic attacks are automatically criticals if they hit. After you hit a creature with a basic attack, deal 1d8 + Presence fire damage to all creatures within 1 tile of them, other than yourself. At the end of each of your turns, apply 6 + Presence stacks of aflame to each other creature within a 1 tile radius of yourself.
+The threads and fabric of magic part before you as you effortlessly flicker across the battlefield. For the duration of this effect, your basic attacks are automatically criticals if they hit. In addition, all of your movement occurs by teleportation, letting you avoid tile effects and attacks of opportunity.
 
-### Blessing of the Hearth
+### Blessing of the Shroud
 
 <div class="tight">
 
@@ -1297,9 +1295,9 @@ Your body is surrounded by intense flames, cracking and burning. For the duratio
 
 </div>
 
-Cinders swirl around your ally, granting them its blessing. Select a creature within range. They gain 6 + Presence absorption and are resistant to fire damage for the duration of this effect.
+The Weave shourds your ally, granting them its blessing. Select a creature within range. They gain 6 + Presence absorption and are resistant to arcane damage for the duration of this effect.
 
-### Blessing of the Hearth - Miracle
+### Blessing of the Shroud - Miracle
 
 <div class="tight">
 
@@ -1317,29 +1315,9 @@ Cinders swirl around your ally, granting them its blessing. Select a creature wi
 
 </div>
 
-The familiar comfort of the hearth warms your allies hearts, bolstering their courage. Select a creature within range. For the duration of this effect, they ignore all ailments and are immune to damage from afflictions.
+Reality itself warps around your ally, rendering them completely unseen. Select a creature within range. For the duration of this effect, they are invisible.
 
-### Curse of Embers
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** Focus
-
-**Duration:** Until the end of the target's next turn
-
-</div>
-
-Your foe ignites as you curse their name. Make a Focus attack against a creature of your choice within range. If you hit, apply 6 + Presence stacks of aflame.
-
-### Curse of Embers - Miracle
+### Curse of Unmaking
 
 <div class="tight">
 
@@ -1351,37 +1329,77 @@ Your foe ignites as you curse their name. Make a Focus attack against a creature
 
 **Targets:** Single-target
 
-**Attack:** Focus
-
-**Duration:** Concentration
-
-</div>
-
-Embers form under the feet of your victim, burning them if they stop moving, mocking them as they attempt to escape the curse.
-
-When you cast this miracle, select a creature within range. At the start of each of your turns, make an Agility attack against them. If you hit, apply 3 + 1/2 Presence stacks of aflame, then double their current stacks of aflame. Hit or miss, deal fire damage to them equal to their current stacks of aflame.
-
-### Gift of Flames
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** None
+**Attack:** Expertise
 
 **Duration:** Instant
 
 </div>
 
-Crackling flames retaliate against those who strike your ally. Until the end of your next turn, whenever the creature affected is hit by a single-target attack, deal 1d8 + Presence fire damage to the creature that hit them.
+As you curse your foe, they begin to fade, slipping out of existence. Make an Expertise attack against a creature within range. If you hit, apply two stacks of banished.
 
-### Gift of Flames - Miracle
+### Curse of Unmaking - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Expertise
+
+**Duration:** Concentration
+
+</div>
+
+You invoke an ancient and terrible curse that progressively unravels the very reality of your foe.  Select a creature within range when you first cast this miracle. At the start of each of your turns for the duration of this effect, make an Expertise attack against that creature, even if they are banished. If you hit, apply one stack of banished to them then double the stacks of banished that they currently have.
+
+If the affected creature ever reaches 15 stacks of banished, they permanently cease to exist.
+
+### Gift of Foresight
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+You offer an ally a tiny glimpse into the vast and unknowable future, allowing them to strike with uncanny precision. Select an ally within range. For the duration of this effect, they have advantage on all attacks.
+
+### Gift of Foresight - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Choose an ally within range. For the duration of this effect, after using an action and seeing its immediate effect, the affected creature may spend their reaction to completely negate the effects of their action, refunding its cost (and any other costs incurred in response to it). Additionally, at the start of each of their turns, they gain an extra reaction.
+
+### Genesis of Magic
 
 <div class="tight">
 
@@ -1395,17 +1413,13 @@ Crackling flames retaliate against those who strike your ally. Until the end of 
 
 **Attack:** Focus
 
-**Duration:** Concentration
+**Duration:** Until the end of combat
 
 </div>
 
-A trail of flame follows your chosen bringer of destruction, scorching everything in their wake.
+You pull open a pinhole in the Weave, as magic spills out over the battlefield. Select a tile within range, then create the *unstable magic* tile effect in a 1 tile radius around it. When triggered, make a Focus attack against the triggering creature. If you hit, apply 3 + 1/2 Presence stacks of unstable.
 
-When you use this miracle, choose a creature within range. For the duration of this effect, at the end of each of the affected creature's turns, create the scorched earth ground effect in each tile that they moved through this turn, and remove all other scorched earth ground effects created by this effect.
-
-Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
-
-### Genesis of Ash
+### Genesis of Magic - Miracle
 
 <div class="tight">
 
@@ -1413,29 +1427,8 @@ Tiles that have the scorched earth ground effect are difficult terrain and deal 
 
 **Cost:** 0 essence
 
-**Range:** 12 tiles
+**Range:** 6 tiles
 
-**Targets:** Multi-target
-
-**Attack:** None
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-The land begins to smoulder and burn as it turns to ash. Choose up to 6 adjacent tiles. They are affected by the scorched earth ground effect until the end of your next turn.
-
-Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
-
-### Genesis of Ash - Miracle
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 12 tiles
 **Targets:** Multi-target
 
 **Attack:** None
@@ -1444,13 +1437,13 @@ Tiles that have the scorched earth ground effect are difficult terrain and deal 
 
 </div>
 
-The land itself ignites, devouring all.
+You tear open a rift in the weave itself, as magic spills forth uncontrollably.
 
-For the duration of this effect, scorched earth ground effects are not removed at the end of their duration (or as part of _gift of flame_). Whenever a creature takes damage due to the scorched earth ground effect, add the scorched earth ground effect to an unaffected tile of your choice that is connected to the tile that dealt damage. If a creature takes damage due to passing through multiple scorched earth ground effects, create one new tile for each tile that dealt damage.
+Select a tile within range, then create the *power overwhelming* tile effect in a 3 tile radius around it. Whenever a creature uses a power while in the *power overwhelming* tile effect, all other creatures within the effect may copy the power, with themselves as the caster, selecting new targets. Then, all creatures who copied the power trigger any stacks of unstable they have, and then gain 6 + Presence stacks of unstable. If any creatures copied the power, the caster also gains 6 + Presence stacks of unstable.
 
-Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
+Like always, you can only trigger an affliction once per turn. These copies resolve in turn order, beginning with the creature whose turn it currently is.
 
-### Portent of the Phoenix
+### Portent of the Future
 
 <div class="tight">
 
@@ -1464,13 +1457,13 @@ Tiles that have the scorched earth ground effect are difficult terrain and deal 
 
 **Attack:** None
 
-**Duration:** Instant
+**Duration:** Until the end of your next turn
 
 </div>
 
-As you pray, an ally is wrapped in rejuvenating flame, bringing them back from the brink of death. Select a creature that is on death's door. Until the end of your next turn, the first time that they would die, they are restored to half life instead, and gain stacks of aflame equal to half their life.
+You pray to your god, getting a glimpse of the futures that could be. When you cast this prayer, roll a d20. Once during the duration of this effect, you may swap the die roll of any attack or skill check with the one you rolled. Like with spending a Resolve, you may choose to do this after seeing the immediate effects.
 
-### Portent of the Phoenix - Miracle
+### Portent of the Future - Miracle
 
 <div class="tight">
 
@@ -1478,23 +1471,23 @@ As you pray, an ally is wrapped in rejuvenating flame, bringing them back from t
 
 **Cost:** 0 essence
 
-**Range:** 24 tiles
+**Range:** Self
 
-**Targets:** Multi-target
+**Targets:** None
 
-**Attack:** Prowess
+**Attack:** None
 
 **Duration:** Concentration
 
 </div>
 
-Nothing occurs when you first cast this miracle, although tiny harmless flames begin to flicker along the bodies of any number of willing creatures within range that you select when you first cast this miracle. The portent comes to pass the first time that, at the start of your turn, your Favor is 5 or more. Your concentration on this Miracle ends and the creatures that you selected are wrapped in flame as they are reborn and reinvigorated.
+Nothing occurs when you first cast this miracle, although you see a vague vision of events that might occur in the near future unfolding before your eyes. Choose what you saw in your vision. You may choose any events, but not the causes that led to them. Your worldspeaker can help ensure that the vision shows what you think it does. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
-For the next 5 rounds, the creatures that you selected are stunned but immune to all effects, including attacks, damage, other boons, forced movement, ailments or afflictions. At the end of this effect, the party gains the benefit of a rest.
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and the events seen in your vision become set in stone and begin to play out. 
 
-Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect. You cannot attempt to Pray to cast other miracles while you are concentrating on this effect.
+However, not everything may be as it seemed. While your worldspeaker must stay on the script that you provided, they may attempt to corrupt it by changing details that you did not specify, or providing unexpected causes for events.
 
-### Wrath of the Inferno
+### Wrath of the Arcane
 
 <div class="tight">
 
@@ -1504,17 +1497,17 @@ Unlike with other miracles, you cannot voluntarily choose to end your concentrat
 
 **Range:** 6 tiles
 
-**Targets:** Multi-target
+**Targets:** Single-target
 
-**Attack:** Agility
+**Attack:** Focus
 
 **Duration:** Instant
 
 </div>
 
-Flames fall from the sky ominously. Make an Agility attack against all creatures in a 5 foot radius. Deal 1d4 + Presence fire damage to all that you hit.
+Overwhelming magical energy floods your foe, burning them if they attempt to control it. Make an Focus attack against a creature of your choice within range. If you hit, inflict 6 + Presence stacks of unstable.
 
-### Wrath of the Inferno - Miracle
+### Wrath of the Arcane - Miracle
 
 <div class="tight">
 
@@ -1526,19 +1519,13 @@ Flames fall from the sky ominously. Make an Agility attack against all creatures
 
 **Targets:** Multi-target
 
-**Attack:** Agility
+**Attack:** Focus
 
-**Duration:** Concentration
+**Duration:** Concentration, Persisting
 
 </div>
 
-Fire and brimstone pour forth from the heavens, wreaking devastation and spreading chaos. Select a tile within range, and create a 20 foot radius firestorm around it.
-
-These tiles gain the scorched earth ground effect and firestorm tile effect.
-
-Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
-
-Tiles that have the firestorm tile effect deal 2d6 + 2 \* Presence fire damage to creatures that occupy them.
+Runes circle and surround an area, strictly forbidding the use of magical power. Select a tile within range, and create the *nullification* tile effect in a 6 tile radius around it. When a creature in this tile effect spends essence or uses the Activate minor action for the first time each turn, make a Focus attack against them. If you hit, the triggering effect is negated and they lose all their reactions. If it is their turn, they immediately end their turn. Hit or miss, deal arcane damage to them equal to their current stacks of unstable.
 
 ## Eldritch
 
