@@ -42,7 +42,7 @@ At the end of the duration of this effect, or if you miss with your attack, they
 
 </div>
 
-A deafening bang explodes from the trick, sending those nearby reeling. When detonated, make a Prowess attack against all creatures with a 2 tile radius around the trick. Knock each creature hit prone and apply one stack of lethargic to them.
+A deafening bang explodes from the trick, sending those nearby reeling. When detonated, make a Prowess attack against all creatures with a 2 tile radius around the trick. Knock each creature hit prone and apply one stack of blunted to them.
 
 ## Cold Shower
 

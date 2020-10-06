@@ -52,10 +52,6 @@ Damage dealt to you cannot be prevented by absorption.
 
 You have disadvantage on all special attacks. You cannot willingly move closer to the source of your fear if you know where it is. If a different source applies frightened to you, the object of your fear changes to the most recent source.
 
-## Lethargic
-
-You cannot take reactions.
-
 ## Pacified
 
 You cannot make attacks (i.e. take any actions that involve making an immediate attack roll).
