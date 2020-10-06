@@ -96,7 +96,7 @@ Also at level 2, you learn to wrench power away from your companion, healing you
 
 ## Punctuated Equilibrium
 
-At level 3, you and your companion dance together, moving in short bursts as you attack. Whenever you hit a creature with an attack, you may shift once.
+At level 3, you and your companion dance together, moving in short bursts as you attack. After you hit a creature with an attack, you may shift once. This effect only triggers once for each multi-target attack that you hit.
 
 ## Balance of Power: Companion
 
@@ -122,11 +122,15 @@ See the Leveling Up section in the Narrative Mechanics chapter for a reminder of
 
 ## Duet
 
-At level 5, you learn to play your attacks off of those of your companion, attacking both at range and up close in a single fluid movement. When you use your major action to make any attack, until the end of your turn you can use a power as a minor action at the cost of 1 essence. The power used cannot be in the same range category as the attack you made as a major action.
+At level 5, you learn to play your attacks off of those of your companion, attacking both at range and up close in a single fluid movement. When you use your major action to make an attack, you may then combine one of your Balance of Power actions with another attack. Until the end of your turn:
+
+- After you use the Balance of Power: Host feature, if your major action attack was not a power, you may spend 1 essence to make an attack with one of your powers.
+- After you use the Balance of Power: Companion feature, if your major action attack was a power, you may spend 1 essence to make a basic attack.
+- The attack made as part of this feature cannot be in the same range category as your major action attack.
 
 ## Unleash
 
-At level 7, you learn to work in tandem with your companion to unleash your joint fury, leaving yourself completely open in order to obliterate those nearby. You learn to use the Unleash major action at the cost of 3 essence. Make two attacks, in the order of your choice against every creature within range of your weapon: a basic attack and a power of your choice in the same range class. These attacks are automatically treated as criticals if you hit.
+At level 7, you learn to work in tandem with your companion to unleash your joint fury, leaving yourself completely open in order to obliterate those nearby. You learn to use the Unleash major action at the cost of 3 essence. Make two attacks (in the order of your choice) against every creature within range of your weapon: a basic attack and a power of your choice in the same range class. These attacks are automatically treated as criticals if you hit.
 
 When you use this action, immediately gain a level of exhaustion. Until the start of your next turn:
 
