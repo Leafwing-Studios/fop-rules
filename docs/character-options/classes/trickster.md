@@ -208,9 +208,9 @@ Whether they were chosen by a god, a supernatural force, or simply due to an ela
 
 At level 1, your opponents defenses always seem to fail at the most convenient times. Whenever you hit a creature with a basic attack that you made with advantage, apply one stack of defenseless.
 
-### Bail: Tilt
+### Bail: Improbable Dodge
 
-At level 7, your style of fighting sets your foes on edge, causing them to miss obvious openings. Whenever you hit a creature with a basic attack that you made with advantage, apply one stack of lethargic.
+At level 7, you are able to dodge even effects that lack a physical form or velocity. You may now use the Dodge reaction in response to being hit by any attack. You have disadvantage on all skill checks made to Dodge special attacks other than Grapple or Shove attacks.
 
 ### Ace Up The Sleeve: Plot Armor
 
