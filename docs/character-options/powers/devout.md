@@ -1030,7 +1030,7 @@ As you curse your foe, their hope drains from them as they are struck with a sud
 
 </div>
 
-The terrible might of your god begins to sink in to your foe as your curse them, and they feel a crushing urge to give in and let the cold take them to their final rest. At the start of each of your turns for the duration of this effect, make a Focus attack against a creature of your choice within range. If it hits, apply two stacks of chilled, two stack of pacified and two stacks of rooted.
+The terrible might of your god begins to sink in to your foe as your curse them, and they feel a crushing urge to give in and let the cold take them to their final rest. At the start of each of your turns for the duration of this effect, make a Focus attack against a creature of your choice within range. If you hit, apply two stacks of chilled, two stack of pacified and two stacks of rooted.
 
 ### Gift of the Vortex
 
@@ -1295,7 +1295,7 @@ The threads and fabric of magic part before you as you effortlessly flicker acro
 
 </div>
 
-The Weave shourds your ally, granting them its blessing. Select a creature within range. They gain 6 + Presence absorption and are resistant to arcane damage for the duration of this effect.
+The Weave shrouds your ally, granting them its blessing. Select a creature within range. They gain 6 + Presence absorption and are resistant to arcane damage for the duration of this effect.
 
 ### Blessing of the Shroud - Miracle
 
@@ -1355,7 +1355,7 @@ As you curse your foe, they begin to fade, slipping out of existence. Make an Ex
 
 </div>
 
-You invoke an ancient and terrible curse that progressively unravels the very reality of your foe.  Select a creature within range when you first cast this miracle. At the start of each of your turns for the duration of this effect, make an Expertise attack against that creature, even if they are banished. If you hit, apply one stack of banished to them then double the stacks of banished that they currently have.
+You invoke an ancient and terrible curse that progressively unravels the very reality of your foe. Select a creature within range when you first cast this miracle. At the start of each of your turns for the duration of this effect, make an Expertise attack against that creature, even if they are banished. If you hit, apply one stack of banished to them then double the stacks of banished that they currently have.
 
 If the affected creature ever reaches 15 stacks of banished, they permanently cease to exist.
 
@@ -1417,7 +1417,7 @@ Choose an ally within range. For the duration of this effect, after using an act
 
 </div>
 
-You pull open a pinhole in the Weave, as magic spills out over the battlefield. Select a tile within range, then create the *unstable magic* tile effect in a 1 tile radius around it. When triggered, make a Focus attack against the triggering creature. If you hit, apply 3 + 1/2 Presence stacks of unstable.
+You pull open a pinhole in the Weave, as magic spills out over the battlefield. Select a tile within range, then create the _unstable magic_ tile effect in a 1 tile radius around it. When triggered, make a Focus attack against the triggering creature. If you hit, apply 3 + 1/2 Presence stacks of unstable.
 
 ### Genesis of Magic - Miracle
 
@@ -1439,7 +1439,7 @@ You pull open a pinhole in the Weave, as magic spills out over the battlefield. 
 
 You tear open a rift in the weave itself, as magic spills forth uncontrollably.
 
-Select a tile within range, then create the *power overwhelming* tile effect in a 3 tile radius around it. Whenever a creature uses a power while in the *power overwhelming* tile effect, all other creatures within the effect may copy the power, with themselves as the caster, selecting new targets. Then, all creatures who copied the power trigger any stacks of unstable they have, and then gain 6 + Presence stacks of unstable. If any creatures copied the power, the caster also gains 6 + Presence stacks of unstable.
+Select a tile within range, then create the _power overwhelming_ tile effect in a 3 tile radius around it. Whenever a creature uses a power while in the _power overwhelming_ tile effect, all other creatures within the effect may copy the power, with themselves as the caster, selecting new targets. Then, all creatures who copied the power trigger any stacks of unstable they have, and then gain 6 + Presence stacks of unstable. If any creatures copied the power, the caster also gains 6 + Presence stacks of unstable.
 
 Like always, you can only trigger an affliction once per turn. These copies resolve in turn order, beginning with the creature whose turn it currently is.
 
@@ -1483,7 +1483,7 @@ You pray to your god, getting a glimpse of the futures that could be. When you c
 
 Nothing occurs when you first cast this miracle, although you see a vague vision of events that might occur in the near future unfolding before your eyes. Choose what you saw in your vision. You may choose any events, but not the causes that led to them. Your worldspeaker can help ensure that the vision shows what you think it does. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
-While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and the events seen in your vision become set in stone and begin to play out. 
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and the events seen in your vision become set in stone and begin to play out.
 
 However, not everything may be as it seemed. While your worldspeaker must stay on the script that you provided, they may attempt to corrupt it by changing details that you did not specify, or providing unexpected causes for events.
 
@@ -1525,9 +1525,328 @@ Overwhelming magical energy floods your foe, burning them if they attempt to con
 
 </div>
 
-Runes circle and surround an area, strictly forbidding the use of magical power. Select a tile within range, and create the *nullification* tile effect in a 6 tile radius around it. When a creature in this tile effect spends essence or uses the Activate minor action for the first time each turn, make a Focus attack against them. If you hit, the triggering effect is negated and they lose all their reactions. If it is their turn, they immediately end their turn. Hit or miss, deal arcane damage to them equal to their current stacks of unstable.
+Runes circle and surround an area, strictly forbidding the use of magical power. Select a tile within range, and create the _nullification_ tile effect in a 6 tile radius around it. When a creature in this tile effect spends essence or uses the Activate minor action for the first time each turn, make a Focus attack against them. If you hit, the triggering effect is negated and they lose all their reactions. If it is their turn, they immediately end their turn. Hit or miss, deal arcane damage to them equal to their current stacks of unstable.
 
 ## Eldritch
+
+### Avatar of Misfortune
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your blade warps with strange energy as it brings misfortune to everything it touches. Make a basic attack against a creature of your choice. If you hit, all damage dealt is converted to water damage and apply one stack of hapless.
+
+### Avatar of Misfortune - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Self
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Your body is surrounded by a strange aura as you suck the luck out of every nearby creature. For the duration of this effect, your basic attacks are automatically criticals if they hit. In addition, a 2 tile radius around you is surrounded by the _terrible luck_ tile effect. Creatures in the affected tiles, other than you, roll all attacks and skill checks with disadvantage, no matter how many stacks of advantage or disadvantage they might have.
+
+### Blessing of Knowledge
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+Your ally has learned the true way of things, blessed with knowledge that protects them from insanity. Select a creature within range. They gain 6 + Presence absorption and are resistant to eldritch damage for the duration of this effect,
+
+### Blessing of Knowledge - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Your ally learns the true way of things, embracing a bizarre and paranoid worldview in exchange for incredible protection. Make a Focus attack against a creature within range. If you hit, for the duration of this effect, they gain the following "boons":
+
+- All attacks and skill checks targeting them are rolled with disadvantage, no matter how many stacks of advantage or disadvantage the acting creature might have.
+- They ignore the effects of all ailments.
+- They have advantage on all skill checks made to maintain their concentration.
+- At the start of each of their turns, they gain the benefit of the Dash minor action.
+
+In addition, they suffer effects that mirror those of the [crazed](https://rules.fontsofpower.com/#/rules/conditions/ailments?id=crazed) ailment. They cannot become immune to these effects, and do not gain any stacks of this ailment.
+
+### Curse of Woe
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Focus
+
+**Duration:** Until the end of the target's next turn
+
+</div>
+
+As you curse your foe, strange coincidences begin to pile up against them. Make a Focus attack against a creature of your choice within range. If you hit, apply two stacks of cursed.
+
+### Curse of Woe - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Self
+
+**Targets:** Single-target
+
+**Attack:** Focus
+
+**Duration:** Concentration
+
+</div>
+
+The curse of your god twists your foe’s luck, tearing at their sanity as misfortune and terrible coincidences chase them at every turn. At the start of each of your turns for the duration of this effect, make a Focus attack against a creature of your choice within range. If you hit, apply two stacks of hapless, two stack of cursed and two stacks of blinded.
+
+### Gift of Power
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Focus
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+Incredible power courses through those willing to accept this gift, blurring their focus. Make a Focus attack against a creature within range. If you hit, for the duration of this effect they roll all attacks with disadvantage, no matter how many stacks of advantage or disadvantage they might have but their attacks are automatically criticals if they hit.
+
+### Gift of Power - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Prowess
+
+**Duration:** Concentration
+
+</div>
+
+Your god offers unbelievable power to a creature, asking only their sanity in return. Make a Focus attack against a creature within range. If you hit, for the duration of this effect, they gain the following "boons":
+
+- They have advantage on all attack rolls, no matter how many stacks of advantage or disadvantage the acting creature might have.
+  - This effect supersedes any similar effects, such as the prayer version of this spell or the _blessing of knowledge - miracle_ effect on another creature.
+- The range of all of their attacks and powers are doubled. Their zone of control doubles in size.
+- The area of effect of their powers is increased. Any distance which scales with area or volume (such as radius of a sphere) is now 3 times larger. Any linear distance (such as the length of a wall created) is now 4 times larger.
+- Damage that they deal cannot be prevented by any means. This includes damage resistance or immunity, absorption, and the Block reaction, although they can still miss. and Self-inflicted effects which reduce the efficacy of your attacks, such as modes still function normally.
+
+In addition, they suffer effects that mirror those of the [crazed](https://rules.fontsofpower.com/#/rules/conditions/ailments?id=crazed) ailment. They cannot become immune to these effects, and do not gain any stacks of this ailment.
+
+### Genesis of Horror
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Multi-target
+
+**Attack:** None
+
+**Duration:** Instant
+
+</div>
+
+Your visage warps and shifts, appearing as a horrifying creature. Make a Presence attack against each creature within range. If you hit, apply one stack of frightened.
+
+### Genesis of Horror - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 12 tiles
+
+**Targets:** Multi-target
+
+**Attack:** None
+
+**Duration:** Concentration, Persisting
+
+</div>
+
+As reality seems to twist, friends begin to suspect each other and mundane events horrify even the most hardened. Choose a tile within range and create the _terrifying ambience_ tile effect in a 6 tile radius around it. While a creature is in the _terrifying ambience_ tile effect:
+
+- the frightened ailment cannot be removed or ignored by any means
+- whenever a creature is hit by an attack, they gain one stack of frightened, with the creature who hit you with the attack as the object of their fear
+- when this tile effect is triggered, make a Focus attack against the triggering creature. If you hit, deal 1d4 + Presence eldritch damage for each stack of frightened that the triggering creature has
+
+### Portent of Doom
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Presence
+
+**Duration:** Instant
+
+</div>
+
+You tell of a prophecy of terrible doom that is to come to all. Make a Presence attack against all creatures within range, applying one stack of crazed if you hit.
+
+### Portent of Doom - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 24 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Prowess
+
+**Duration:** Concentration, Persisting
+
+</div>
+
+Nothing occurs when you first cast this miracle, although strange unnatural events begin to occur at an alarming rate. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
+
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and a terrifying abomination crawls forth from a rift in reality.
+
+Select an empty set of tiles within range for the horror to spawn in, which occupies a 1 tile radius. This horror has three times as much maximum life as you do, 6 essence and acts three times per round, getting its own side in the round order. When it uses the Essence Tap minor action, it restores 3 essence.
+
+The horror's vital statistics match your own. Its basic attacks deal 2d8 + Presence + Prowess physical damage, and it may immediately make a Grapple attack against any creatures that it hits. It may grapple any number of creatures at once, and at the end of each of its turns, it deals 1d6 physical damage to each creature that it has grappled.
+
+It has access to the Shatter Minds power. As a minor action at the cost of 1 essence, the horror makes a Focus attack against all creatures within a 6 tile radius, dealing 1d8 + Presence eldritch damage and applying one stack of crazed to all those that it hits.
+
+At the beginning of each of this creature’s turns, you may make a difficulty 20 Focus (Guidance) check to attempt to control it. If you succeed, it acts as you choose for this turn. Success or failure, you immediately suffer one level of exhaustion. If you fail (or choose not to control the horror):
+
+- the horror acts as if under the effects of the crazed ailment
+- after it completes the tasks specified in the crazed ailment, the horror attempts to move towards the nearest creature until it is adjacent to them
+- after it has moved, it spends its minor action to use its Shatter Minds power
+
+Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect. You cannot attempt to Pray to cast other miracles while you are concentrating on this effect. This effect ends after your party completes a rest.
+
+### Wrath of the Old Gods
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Presence
+
+**Duration:** Instant
+
+</div>
+
+The seeds of paranoia begin to grow within your target’s head. Make a Presence attack against a creature within range. If you hits, deal 1d4 + Presence eldritch damage and apply one stack of crazed.
+
+### Wrath of the Old Gods - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 12 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Focus
+
+**Duration:** Concentration, Persisting
+
+</div>
+
+The fabric of society begins to come unwoven as allies turn upon each other in a terrible cascade as they listen to forbidden whispers. Choose a tile within range and create the _eldritch riot_ tile effect in a 6 tile radius around it. While a creature is in the _eldritch riot_ tile effect:
+
+- the crazed ailment cannot be removed or ignored by any means
+- whenever a creature is hit by an attack, they gain one stack of crazed
+- when this tile effect is triggered, make a Focus attack against the triggering creature. If you hit, apply one stack of crazed
 
 ## Radiant
 
