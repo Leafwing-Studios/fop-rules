@@ -177,7 +177,11 @@ Also at level 3, you learn to carefully control the strength of your pulses, spr
 
 ## Precognition
 
-At level 3, your connection to the soul of your dual allows you to read their movements while they are still intentions. You have advantage on attacks of opportunity made against your dual, and attacks of opportunity that your dual makes against you have disadvantage.
+At level 3, your connection to the soul of your dual allows you to respond to their shifting situations, reading their intent before they even begin to act.
+
+If your dual is an enemy, whenever they lose life, you may make an attack of opportunity against them. Your dual has disadvantage on attacks of opportunity against you.
+
+If your dual is an ally, at the start of their turn you may spend your reaction to use a pulse of your choice that affects them. You cannot spend essence as part of this action.
 
 ## Attribute Improvement
 
