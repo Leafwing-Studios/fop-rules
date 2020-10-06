@@ -41,6 +41,8 @@ While suffering from the crazed ailment:
 - Whenever you would make an attack, the target is chosen randomly from those within range of that attack, excluding yourself.
   - When making a multi-target attack, select a creature at random normally. You must include that creature as one of the targets.
 - At the start of each of their turns, you must spend your major action to make an attack.
+  - If you cannot (due to no creatures being in range of any of your attacks, or the pacified condition), you first must spend movement to first stand up from prone, then move directly towards the nearest creature until they are within range .
+  - If you still cannot, you take the Defend major action.
 - You are treated as an enemy for all other creatures and vice versa.
 - You must take attacks of opportunity when presented with the option to do so, and whenever a creature in your zone of control loses life due to a third party's attack, you may make an attack of opportunity against them.
 - You cannot willingly choose to be hit by an attack.
