@@ -122,7 +122,10 @@ At level 3, you wrap the threads of magic around you, distorting the fabric of s
 
 ## Thread Twisting.
 
-Also at 3rd level, you begin to master the true deftness required to work with the Weave. As a minor action, you may change the target of a pattern you have cast this turn or sustained, so long as the new target would be valid if you were to cast the pattern anew.
+Also at 3rd level, you begin to master the true deftness required to work with the Weave. You gain access to the Twist minor action. When you use this action, choose one:
+
+- change the target of one of the patterns that you have cast or sustained to another valid target
+- replace one of the patterns you have cast or sustained with another pattern with the same target
 
 ## Attribute Improvement
 
@@ -144,7 +147,7 @@ See the Leveling Up section in the Narrative Mechanics chapter for a reminder of
 
 ## Flick of the Wrist
 
-At 5th level, you can incorporate patterns into the movements you are already making, casting them more quickly. You may cast patterns as a minor action at the cost of 1 essence.
+At 5th level, you can incorporate patterns into the movements you are already making, casting them more quickly. When you use the Twist minor action, you may spend 1 essence to cast an additional pattern of your choice on one of the targets of your Twist minor action. As always, you may choose the order in which your own effects apply if it is not clearly specified.
 
 ## Step through the Weave
 
