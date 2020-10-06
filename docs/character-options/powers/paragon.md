@@ -118,7 +118,7 @@ When you trigger this aura, allies within range have advantage on special attack
 
 </div>
 
-When you trigger this aura, basic attacks against allies within range have disadvantage on basic attacks until the end of your next turn.
+When you trigger this aura, basic attacks against allies within range have disadvantage until the end of your next turn.
 
 ## Aura of Determination
 
