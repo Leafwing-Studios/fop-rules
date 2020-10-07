@@ -120,7 +120,7 @@ As you curse your foe, they stumble and gasp for air. Make a Prowess attack agai
 
 </div>
 
-Your god denies the blessing of air to your foe, watching as they slowly suffocate. At the beginning of each of your turns, make a Prowess attack against a creature within range. If it hits, deal 1d12 + Presence air damage and apply blunted. Each time you hit with this attack during a single miracle, increase the damage dealt by 1d12 + Presence.
+Your god denies the blessing of air to your foe, watching as they slowly suffocate. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Prowess attack against them. If it hits, deal 1d12 + Presence air damage and apply one stack of blunted. Each time you hit with this attack during a single miracle, increase the damage dealt by 1d12 + Presence.
 
 ### Gift of Grace
 
@@ -417,13 +417,9 @@ _ Ailments \* Afflictions
 
 Your gaze pierces the very fiber of your enemies, turning them to stone. At the beginning of each of your turns, make a Focus attack against a creature within range. This attack automatically misses against creatures suffering from the blinded ailment. If you hit, they are petrified until the end of their next turn:
 
-- The target is immune to all effects, including:
-  _ Damage
-  _ Forced movement
-  _ Boons
-  _ Ailments \* Afflictions
-- The target cannot take actions, reactions, or spend movement
-- The target is conscious and can use all of their senses normally
+- The target is immune to all effects.
+- The target cannot take actions, reactions, or spend movement.
+- The target is conscious and their senses function normally.
 
 ### Gift of the Sands
 
@@ -719,7 +715,7 @@ Your foe ignites as you curse their name. Make a Focus attack against a creature
 
 Embers form under the feet of your victim, burning them if they stop moving, mocking them as they attempt to escape the curse.
 
-When you cast this miracle, select a creature within range. At the start of each of your turns, make an Agility attack against them. If you hit, apply 3 + 1/2 Presence stacks of aflame, then double their current stacks of aflame. Hit or miss, deal fire damage to them equal to their current stacks of aflame.
+When you cast this miracle, choose a creature within range. At the start of each of your turns, make an Agility attack against them. If you hit, apply 3 + 1/2 Presence stacks of aflame, then double their current stacks of aflame. Hit or miss, deal fire damage to them equal to their current stacks of aflame.
 
 ### Gift of Flames
 
@@ -1024,13 +1020,13 @@ As you curse your foe, their hope drains from them as they are struck with a sud
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Attack:** Presence
 
 **Duration:** Concentration
 
 </div>
 
-The terrible might of your god begins to sink in to your foe as your curse them, and they feel a crushing urge to give in and let the cold take them to their final rest. At the start of each of your turns for the duration of this effect, make a Focus attack against a creature of your choice within range. If you hit, apply two stacks of chilled, two stack of pacified and two stacks of rooted.
+The terrible might of your god begins to sink in to your foe as your curse them, and they feel a crushing urge to give in and let the cold take them to their final rest. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Presence attack against them. If you hit, apply two stacks of chilled, two stack of pacified and two stacks of rooted.
 
 ### Gift of the Vortex
 
@@ -1355,7 +1351,7 @@ As you curse your foe, they begin to fade, slipping out of existence. Make an Ex
 
 </div>
 
-You invoke an ancient and terrible curse that progressively unravels the very reality of your foe. Select a creature within range when you first cast this miracle. At the start of each of your turns for the duration of this effect, make an Expertise attack against that creature, even if they are banished. If you hit, apply one stack of banished to them then double the stacks of banished that they currently have.
+You invoke an ancient and terrible curse that progressively unravels the very reality of your foe. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make an Expertise attack against them, even if they are banished. If you hit, apply one stack of banished to them then double the stacks of banished that they currently have.
 
 If the affected creature ever reaches 15 stacks of banished, they permanently cease to exist.
 
@@ -1654,7 +1650,7 @@ As you curse your foe, strange coincidences begin to pile up against them. Make 
 
 </div>
 
-The curse of your god twists your foe’s luck, tearing at their sanity as misfortune and terrible coincidences chase them at every turn. At the start of each of your turns for the duration of this effect, make a Focus attack against a creature of your choice within range. If you hit, apply two stacks of hapless, two stack of cursed and two stacks of blinded.
+The curse of your god twists your foe’s luck, tearing at their sanity as misfortune and terrible coincidences chase them at every turn. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Focus attack against them. If you hit, apply two stacks of hapless, two stack of cursed and two stacks of blinded.
 
 ### Gift of Power
 
@@ -1846,9 +1842,312 @@ The fabric of society begins to come unwoven as allies turn upon each other in a
 
 - the crazed ailment cannot be removed or ignored by any means
 - whenever a creature is hit by an attack, they gain one stack of crazed
-- when this tile effect is triggered, make a Focus attack against the triggering creature. If you hit, apply one stack of crazed
+- when this tile effect is triggered, make a Focus attack against the triggering creature. If you hit, apply one stack of crazed.
 
 ## Radiant
+
+### Avatar of the Stars
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Weapon
+
+**Targets:** Single-target
+
+**Attack:** Basic
+
+**Duration:** Instant
+
+</div>
+
+Your blade shines with a brilliant light, blinding your foes. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to air damage and apply one stack of blinded.
+
+### Avatar of the Stars - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Self
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Your body sparkles with the starlight as you slice through your enemies’ defenses with solid light. For the duration of this effect, your basic attacks are automatically criticals if they hit. Additionally, you treat you enemies' basic defense as 10 + their Agility and damage from your basic attacks ignores absorption.
+
+### Blessing of the Moon
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+Dappled light flickers over the skin of your ally, granting them the blessing of the moon. Select a creature within range. They gain 6 + Presence absorption and are resistant to radiant damage for the duration of this effect.
+
+### Blessing of the Moon - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Moonlight glows faintly from the eyes of your allies, granting them a strange protection from magic. Select a creature within range. For the duration of this effect, complete negate any special attacks that they block.
+
+### Curse of Mercy
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Presence
+
+**Duration:** Instant
+
+</div>
+
+With a short prayer, you grant a brief respite from the fury of the world. Make a Presence attack against a creature of your choice within range. If you hit, grant them 6 + Presence absorption and apply 2 stacks of pacified.
+
+### Curse of Mercy - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Presence
+
+**Duration:** Concentration
+
+</div>
+
+By the grace of your god, you grant absolute mercy to your foe, cursing them to live out their existence in peace. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Presence attack against them. If you hit, apply one stack of pacified to them then double the stacks of pacified that they currently have.
+
+If the affected creature ever reaches 15 stacks of pacified, they permanently suffer the effects of the pacified ailment. Whenever they lose life, they may ignore this effect until the end of their next turn.
+
+### Gift of Hope
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Instant
+
+</div>
+
+As you pull an ally towards you with a shining tether, you grant them the gift of hope. Select a willing creature within range. Pull them to the nearest empty tile adjacent to you and gain the benefit of the Treat minor action targeting them.
+
+### Gift of Hope - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Your god grants an ally the gift of inextinguishable hope, allowing them to serve as a beacon for their allies. Choose an ally within range. For the duration of this effect, a 2 tile radius around them (including their own tile) has the _unquenchable hope_ tile effect. This tile effect has the following effects:
+
+- allied creatures in this tile effect are immune to the frightened and crazed ailments
+- allied creatures in this tile effect have advantage on all attack rolls and skill checks
+
+### Genesis of Light
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Until the end of combat
+
+</div>
+
+With the power of your god, light begins to shine out of nowhere. Choose up to 3 tiles within range, and create the _shining light_ tile effect there. These tiles are filled with bright light, and a 1 tile radius around them is filled with dim light. All shroud and invisibility effects in these tiles are negated.
+
+### Genesis of Light - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Self
+
+**Targets:** None
+
+**Attack:** None
+
+**Duration:** Concentration, Persisting
+
+</div>
+
+Light pours forth from you, the ground itself glowing where you walk as you shoot out concentrated light in a beam. At the start of each of your turns for the duration of this effect create the _shining light_ tile effect in all tiles within a 3 tile radius of you then gain the benefits of the Scan minor action.
+
+_Shining light_ tiles are filled with bright light, and a 1 tile radius around them is filled with dim light. All shroud and invisibility effects in these tiles are negated.
+
+For the duration of this effect, you have advantage on all attacks and Treat skill checks against creatures in the _shining light_ tile effect.
+
+When this miracle persists, all _shining light_ tile effects on the battlefield become permanent. If this miracle ends before it persists, remove all _shining light_ tile effects from the battlefield.
+
+### Portent of the Inquisition
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Self
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Instant
+
+</div>
+
+Wielding holy symbols and accusations, you interrogate a creature on the strength of their faith. Make a Focus attack against a creature of your choice within range. If you hit, you learn the value they have in one Ideal of your choice. Hit or miss, that creature is immune to the effects of this prayer until you next complete a rest.
+
+### Portent of the Inquisition - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 24 tiles
+
+**Targets:** Multi-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Nothing occurs when you first cast this miracle, although those nearby feel an intense pressure as their beliefs are questioned by an otherworldly force. Choose an ideal when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
+
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and unbelievers are whisked away.
+
+All creatures within range who have a value of 2 or less in that ideal immediately vanish. They cannot act, or be interacted with in anyway. After you have completed 1d4 rests, they return to the world as a group to the location that they disappeared from. When they do:
+
+- Each creature who returned must make a Focus (Endurance) skill check. They suffer 6 levels of exhaustion, reduced by one for every 5 points of their skill check result.
+- Each creature who returned must make a Presence (Endurance) skill check. Their value in the selected ideal increases by up to 5 points, reduced by one for every 5 points of their skill check result.
+
+### Wrath of the Sun
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Focus
+
+**Duration:** Instant
+
+</div>
+
+With a prayer, you shine with the furious light of the sun, scorching those nearby. Make a Focus attack against all creatures within a two tile radius. If you hit, deal 1d4 + Presence radiant damage.
+
+### Wrath of the Sun - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 24 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Prowess
+
+**Duration:** Concentration
+
+</div>
+
+The sun suddenly appears in the sky, directly overhead, bearing down with a harsh disapproval on those who would break the peace. For the duration of this effect, a 24 tile radius around you (ignoring any cover) is affected by the _harsh light_ tile effect:
+
+- when this tile effect is triggered, apply 6 + Presence stacks of temperance to the triggering creature
+- whenever a creature takes radiant damage (including from the temperance ailment) while on this tile effect, they gain stacks of temperance equal to the radiant damage that they took
+- whenever a creature takes damage while on this tile effect, immunity to radiant damage is treated as resistance, and resistance to radiant damage is ignored
+- these tiles are filled with bright light
 
 ## Umbral
 
