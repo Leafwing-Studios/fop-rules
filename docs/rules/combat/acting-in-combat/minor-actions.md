@@ -82,7 +82,7 @@ Take a moment to learn more about your surroundings. If you are skilled enough t
 - **Triage, Focus(Medicine):** Learn the percentage of life, percentage of essence and the number of stacks of exhaustion that another creature is at.
 - **Classify, Expertise (Anima):** Learn either the arms, armor, or trinket affixes of a creature of your choice. If you choose to learn their trinket affixes, you also learn the skills that they are proficient in.
 - **Identify, Expertise (Arcana):** Learn the details of a single power of your choice. You have advantage on this skill check if this power was used since your last turn or a creature is currently concentrating on the power.
-- **Strategize, Expertise(Humanities):** Learn the tactics of the chosen monster.
+- **Strategize, Expertise(Humanities):** Learn the tactics and motivation of a creature of your choice.
 - **Scout, Expertise (Arcana | Anima | Fontcraft | Tinkering):** Learn the details of a vantage of your choice. If you do not specify a particular vantage, learn one of the worldspeaker's choice instead. The skill used depends on the details of the vantage, and is specified in its description.
 
 <div class="infobox">
