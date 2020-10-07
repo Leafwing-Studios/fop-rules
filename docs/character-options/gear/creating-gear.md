@@ -29,6 +29,8 @@ While you are not wearing armor, your basic defense is 10 + Prowess + Agility.
 
 **Innate affixes are restricted to common rarity.** There is no limit to the number of affixes an item can have: they can cost positive, negative, or zero gear points, letting you take on penalties in order to build items that are stronger in other ways.
 
+**The complete list of affixes are found at [tools.fontsofpower.com/affixes](https://tools.fontsofpower.com/affixes).** This is a large, fully searchable and sortable database, allowing you to find the perfect affix for your character or monster.
+
 ## Enchantments
 
 Enchantments enhance the power of your gear, powered by the entwining of your own essence and the magic woven into the item’s very fabric. Enchanted affixes work exactly the same way as innate ones do, with the following exceptions:
