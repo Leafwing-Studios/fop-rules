@@ -54,10 +54,6 @@ More experienced groups may choose to start at a higher level, commonly level 3,
 
 When you are creating a new character for an existing party, they begin at the same level as the party and level up in sync with the party like usual.
 
-## Species
-
-The character’s species determines the basic body type they have and how society perceives them at first glance. You might choose to play an adaptable Human, a mysterious Slime or an Awakened animal for instance. Select a species from the Species section of this book, or work with your worldspeaker to create a custom species and determine how they fit into the game world.
-
 <div class="infobox">
 
 **Customizing Species**
@@ -70,6 +66,10 @@ Creating new species to match your setting is incredibly easy:
 1. Add any power-neutral flavor features, such as changes to the diet, appearance, size or lifespan of your species.
 
 </div>
+
+## Species
+
+The character’s species determines the basic body type they have and how society perceives them at first glance. You might choose to play an adaptable Human, a mysterious Slime or an Awakened animal for instance. Select a species from the Species section of this book, or work with your worldspeaker to create a custom species and determine how they fit into the game world.
 
 ## Class
 
