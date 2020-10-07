@@ -77,18 +77,13 @@ Interact with an object in your environment. You might pull a lever, quickly sla
 
 Take a moment to learn more about your surroundings. If you are skilled enough to effortlessly learn about what you focus on, you may still have time to learn something else. Whenever you take the Scan minor action, immediately gain one of the benefits listed below. Then, you may roll the listed skill check. If the result is 15 or higher, you may repeat the Scan minor action (choosing a different benefit if desired).
 
-- **Reveal:** Choose a hiding spot within 6 tiles and reveal it.
-  - Focus (Perception). You have advantage on this skill check if you are adjacent to the chosen tile, and disadvantage if it is more than 3 tiles away from you.
-- **Size Up:** Learn the attributes, basic defense, special defenses, tier and turns per round of a creature of your choice.
-  - Focus (Anima)
-- **Triage:** Learn the percentage of life, percentage of essence and the number of stacks of exhaustion that another creature is at.
-  - Focus (Medicine)
-- **Classify:** Learn either the arms, armor, or trinket affixes of a creature of your choice. If you choose to learn their trinket affixes, you also learn the skills that they are proficient in.
-  - Expertise (Anima)
-- **Identify:** Learn the details of a single power of your choice. You have advantage on this skill check if this power was used since your last turn or a creature is currently concentrating on the power.
-  - Expertise (Arcana)
-- **Scout:** Learn the details of a vantage of your choice. If you do not specify a particular vantage, learn one of the worldspeaker's choice instead.
-  - Expertise (Arcana | Anima | Fontcraft | Tinkering). The skill used depends on the details of the vantage, and is specified in its description.
+- **Reveal, Focus (Perception):** Choose a hiding spot within 6 tiles and reveal it. You have advantage on this skill check if you are adjacent to the chosen tile, and disadvantage if it is more than 3 tiles away from you.
+- **Size Up, Focus (Anima):** Learn the attributes, basic defense, special defenses, tier and turns per round of a creature of your choice.
+- **Triage, Focus(Medicine):** Learn the percentage of life, percentage of essence and the number of stacks of exhaustion that another creature is at.
+- **Classify, Expertise (Anima):** Learn either the arms, armor, or trinket affixes of a creature of your choice. If you choose to learn their trinket affixes, you also learn the skills that they are proficient in.
+- **Identify, Expertise (Arcana):** Learn the details of a single power of your choice. You have advantage on this skill check if this power was used since your last turn or a creature is currently concentrating on the power.
+- **Strategize, Expertise(Humanities):** Learn the tactics of the chosen monster.
+- **Scout, Expertise (Arcana | Anima | Fontcraft | Tinkering):** Learn the details of a vantage of your choice. If you do not specify a particular vantage, learn one of the worldspeaker's choice instead. The skill used depends on the details of the vantage, and is specified in its description.
 
 <div class="infobox">
 
