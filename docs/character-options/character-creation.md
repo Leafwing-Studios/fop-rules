@@ -150,7 +150,13 @@ Select a value between 0 and 5 for each of these ideals to reflect how much your
 
 As discussed in the Deals and Ideals section of the Scenes chapter, it will be easier to convince people to ignore moral objections when you have a low value for that ideal, and easier to convince them of the moral importance of a task when you have a high value for that ideal.
 
-Changing the ideals to match the moral dilemmas in your own world is easy: just select a new set of moral values, being sure that characters could hold any two moral values at the same time.. We’ve found that somewhere between two and seven ideals strikes a good balance between interesting conflict and comprehensibility. Characters’ ideals interact with each other mechanically though, so be sure to change this for the table as a whole, rather than a single character.
+<div class="infobox>
+
+**Customizing Ideals**
+
+Changing the ideals to match the moral dilemmas in your own world is easy: just select a new set of moral values, being sure that characters could hold any two moral values at the same time. We’ve found that somewhere between two and seven ideals strikes a good balance between interesting conflict and comprehensibility. Characters’ ideals interact with each other mechanically though, so be sure to change this for the table as a whole, rather than a single character.
+
+</div>
 
 ## Backstory
 
