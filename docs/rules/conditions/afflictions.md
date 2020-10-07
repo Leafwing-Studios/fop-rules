@@ -20,7 +20,7 @@ After you lose life, take corrosive damage equal to the number of stacks of this
 
 The first time during your turn that you take an action that is not an attack (i.e. does not involve making an immediate attack roll), take primal damage equal to the number of stacks of this affliction.
 
-## Shocked
+## Shock
 
 After you use a reaction, take electric damage equal to the number of stacks of this affliction. This effect cannot trigger again until the start of your next turn.
 

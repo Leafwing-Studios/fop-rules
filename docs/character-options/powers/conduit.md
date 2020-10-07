@@ -100,7 +100,7 @@ Ice flecked with darkness flows from your fist, draining the energy from all tha
 
 </div>
 
-A strange dark energy flows through your fingers, disorienting those that it touches. Make an Agility attack against a creature of your choice within range. If you hit, deal 1d4 + Presence umbral damage and apply 3 + 1/2 Presence stacks of shocked.
+A strange dark energy flows through your fingers, disorienting those that it touches. Make an Agility attack against a creature of your choice within range. If you hit, deal 1d4 + Presence umbral damage and apply 3 + 1/2 Presence stacks of shock.
 
 ## Essence Poisoning
 
@@ -468,4 +468,4 @@ Your hands glow with strange light that suddenly disappears with a flash as anot
 
 </div>
 
-Lightning sparks and crackles all over your body, gathering in power before it lashes out, striking your foe with a bolt of lightning. Make an Agility attack against a creature of your choice within range. If you hit, deal 1d8 + Presence electric damage and apply 3 + 1/2 Presence stacks of shocked. Whether you hit or miss, also apply 3 + 1/2 Presence stacks of shocked to yourself.
+Lightning sparks and crackles all over your body, gathering in power before it lashes out, striking your foe with a bolt of lightning. Make an Agility attack against a creature of your choice within range. If you hit, deal 1d8 + Presence electric damage and apply 3 + 1/2 Presence stacks of shock. Whether you hit or miss, also apply 3 + 1/2 Presence stacks of shock to yourself.

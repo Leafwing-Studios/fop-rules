@@ -100,7 +100,7 @@ Mechanically, tends to sap strength and cause suffering, applying the withered a
 
 Electric is the element of lightning bolts and static charge; of invention and creation and the spark of life that animates everything in this world.
 
-Mechanically, electric effects tend to move in straight lines, grant additional speed, benefit from critical hits or knock their targets off guard with the shocked affliction.
+Mechanically, electric effects tend to move in straight lines, grant additional speed, benefit from critical hits or knock their targets off guard with the shock affliction.
 
 ### Corrosive
 
