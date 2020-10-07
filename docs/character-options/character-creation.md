@@ -58,6 +58,10 @@ When you are creating a new character for an existing party, they begin at the s
 
 The character’s species determines the basic body type they have and how society perceives them at first glance. You might choose to play an adaptable Human, a mysterious Slime or an Awakened animal for instance. Select a species from the Species section of this book, or work with your worldspeaker to create a custom species and determine how they fit into the game world.
 
+<div class="infobox">
+
+**Customizing Species**
+
 Creating new species to match your setting is incredibly easy:
 
 1. Select two combat features. These should be balanced against combat talents or arms or armor affixes.
@@ -65,19 +69,29 @@ Creating new species to match your setting is incredibly easy:
 1. Optionally, split these features evenly across a base species and subspecies.
 1. Add any power-neutral flavor features, such as changes to the diet, appearance, size or lifespan of your species.
 
+</div>
+
 ## Class
 
 The power your player character has been exposed to, or chosen to wield, shapes them in a dramatic fashion, granting them magical powers and superhuman capabilities. Each source of power is associated with a class, which describes the mechanics of using that source of power to adventure through the world and slay monsters. Select a class from the Classes section of this book, and gain the features granted at level 1.
 
 Every class has a form of customization: a specific school of training, elements you might be affiliated with, an ideal that you hold dear or so on. This choice is also made at level 1, and is very important for determining both the combat focus and flavour of your character.
 
+Most classes also have access to magical [powers](powers/README.md) (such as spells) in some form. Be sure to select those at this time as well.
+
+<div class="infobox">
+
+**Customizing Classes**
+
 If you have a character idea that doesn’t match the mechanics described in any of the classes well, talk to your table about making changes to help you play the character you’re imagining. There are several options for this, in order of increasing effort required in order to ensure your new class is fun and balanced:
 
 1. Reflavor the features or spells, keeping the mechanics the same, to better match your vision of what your character is doing.
-1. Create new powers to select from, allowing you to take different actions within the framework of the class.
-1. Create a new subclass, using the patterns established in the class, in order to change the style in which a class is played.
-1. Modify features, using affixes or other class or racial features as guidelines, in order to better match the playstyle you want.
-1. Create a whole new class, following the extensive guides on design and balance in the Hacker’s Guide to Fonts of Power.
+2. Create new powers to select from, allowing you to take different actions within the framework of the class.
+3. Create a new subclass, using the patterns established in the class, in order to change the style in which a class is played.
+4. Modify features, using affixes or other class or racial features as guidelines, in order to better match the playstyle you want.
+5. Create a whole new class, following the extensive guides on design and balance in the Hacker’s Guide to Fonts of Power.
+
+</div>
 
 ## Skill Proficiencies
 
@@ -90,7 +104,7 @@ Characters in Fonts of Power are designed to feel unique from the very beginning
 - A **skill talent,** which lets you specialize in a skill you are already proficient in.
 - A **combat talent,** which starts to define your unique style of fighting.
 
-Don’t worry if more than one talent appeals to you: every talent is also available as an affix that you can enchant onto your gear.
+Don’t worry if several talents appeal to you: every talent is also available as an affix that you can enchant onto your gear.
 
 ## Attributes
 
