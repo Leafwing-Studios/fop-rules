@@ -2136,18 +2136,15 @@ With a prayer, you shine with the furious light of the sun, scorching those near
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Attack:** Focus
 
 **Duration:** Concentration
 
 </div>
 
-The sun suddenly appears in the sky, directly overhead, bearing down with a harsh disapproval on those who would break the peace. For the duration of this effect, a 24 tile radius around you (ignoring any cover) is affected by the _harsh light_ tile effect:
+The light of the sun bursts forth from you, cleansing the battlefield. At the start of each of your turns for the duration of this effect, make a Focus attack against all creatures in a 24 tile cone. If you hit, deal 1d12 + Presence radiant damage. Creatures that you miss suffer the attacks' effects at half efficacy instead.
 
-- when this tile effect is triggered, apply 6 + Presence stacks of temperance to the triggering creature
-- whenever a creature takes radiant damage (including from the temperance ailment) while on this tile effect, they gain stacks of temperance equal to the radiant damage that they took
-- whenever a creature takes damage while on this tile effect, immunity to radiant damage is treated as resistance, and resistance to radiant damage is ignored
-- these tiles are filled with bright light
+For the duration of this miracle, whenever you deal radiant damage, add that many stacks of temperance as well. When you do, remove the same number of stacks of any afflictions other than temperance that creature might have (of your choice) if able.
 
 ## Umbral
 
