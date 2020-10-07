@@ -21,11 +21,9 @@ For example, if you were to deal 13 fire-physical split damage to a creature tha
 
 ## Hybrid Damage
 
-Hybrid damage is treated as the most effective of its base types:
+Whenever you deal hybrid damage, you may choose which of its base types it is treated as on a per-target basis. All damage dealt to a single creature with a single attack must be of the same type.
 
-- A creature is vulnerable to the hybrid type if it is vulnerable to any of the base types
-- A creature is only resistant to the hybrid type if it is resistant to all of the base types
-- A creature is only immune to the hybrid type if it is immune to all of the base types
+This is particularly useful when dealing with creatures that have several damage type resistances, immunities or vulnerabilities. You can learn these using the Classify option with the [Scan](acting-in-combat/minor-actions.md?id=scan) minor action.
 
 ## Elemental Aesthetics
 
