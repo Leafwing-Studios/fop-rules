@@ -2778,11 +2778,11 @@ As you pray terrifying tendrils of plant matter grow from the ground, clutching 
 
 The very land itself stirs, rebelling against those who would defile it as a strange creature of wood and bone rises from the earth to crush your enemies. Select an empty set of tiles within range for the construct to spawn in, which occupies a 1 tile radius. You control this construct, and may direct it to take any core action of your choice other than Activate or Essence Tap. This construct has half as much maximum life as you do, no essence and acts once per round, appearing immediately after you in the turn order on your side.
 
-The horror's vital statistics and enchantment (but not innate) affixes match your own. Its melee basic attacks deal 2d8 + Presence + Prowess physical damage, and knocks prone any creature that it hits.
+The horror's vital statistics and enchantment (but not innate) affixes match your own. Its melee basic attacks deal 2d6 + Presence + Prowess physical damage, and apply two stack of rooted to any creature that it hits. It may make basic attacks using the Radial mode. When it does, make a melee basic attack against all other creatures within its zone of control (default of 1 tile) at half efficacy.
 
 ## Decay
 
-### Avatar of the Zephyr
+### Avatar of Death
 
 <div class="tight">
 
@@ -2800,9 +2800,9 @@ The horror's vital statistics and enchantment (but not innate) affixes match you
 
 </div>
 
-Your blade swirls with wind, slicing through your foes’ defenses. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to air damage and ignores absorption.
+Your blade darkens, suddenly sombre and heavy. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to decay damage and you apply one stack of hapless.
 
-### Avatar of the Zephyr - Miracle
+### Avatar of Death - Miracle
 
 <div class="tight">
 
@@ -2820,89 +2820,9 @@ Your blade swirls with wind, slicing through your foes’ defenses. Make a basic
 
 </div>
 
-Your body is held aloft by a furious tempest as you embody the power of air. For the duration of this effect, your basic attacks are automatically criticals if they hit. Additionally, whenever you enter and leave a creature's zone of control in the same turn, apply one stack of aloft to them.
+Your body takes on a quietly terrifying form as those around you sense their impending doom. For the duration of this effect, your basic attacks are automatically criticals if they hit. Additionally, after you hit a creature with a basic attack, double all stacks of ailments that they are currently suffering from.
 
-### Blessing of Wings
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** None
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your ally is blessed, shielded by ethereal wings that protect them from harsh winds. Select a creature within range. They gain 6 + Presence absorption and are resistant to air damage for the duration of this effect.
-
-### Blessing of Wings - Miracle
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** None
-
-**Duration:** Concentration
-
-</div>
-
-By the grace of your god, your ally sprouts wings, letting them soar through the air. Select a creature within range. For the duration of this effect, they gain the ability to fly, their movement speed is doubled, and attacks of opportunity against them have disadvantage.
-
-### Curse of Asphyxiation
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** Prowess
-
-**Duration:** Instant
-
-</div>
-
-As you curse your foe, they stumble and gasp for air. Make a Prowess attack against a creature within range. If it hits, deal 1d4 + Presence air damage and apply 1 stack blunted.
-
-### Curse of Asphyxiation - Miracle
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** Prowess
-
-**Duration:** Concentration
-
-</div>
-
-Your god denies the blessing of air to your foe, watching as they slowly suffocate. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Prowess attack against them. If it hits, deal 1d12 + Presence air damage and apply one stack of blunted. Each time you hit with this attack during a single miracle, increase the damage dealt by 1d12 + Presence.
-
-### Gift of Grace
+### Blessing of Passage
 
 <div class="tight">
 
@@ -2920,9 +2840,9 @@ Your god denies the blessing of air to your foe, watching as they slowly suffoca
 
 </div>
 
-Your deity grants the gift of grace to a creature, allowing them to move freely over the battlefield. Select a creature within range; until the end of their next turn, they cannot be the target of attacks of opportunity.
+Spirits of death surround your ally, granting them their protection as they walk through the land of death. Select a creature within range. They gain 6 + Presence absorption and are resistant to air damage for the duration of this effect.
 
-### Gift of Grace - Miracle
+### Blessing of Passage - Miracle
 
 <div class="tight">
 
@@ -2940,9 +2860,11 @@ Your deity grants the gift of grace to a creature, allowing them to move freely 
 
 </div>
 
-Your ally is blessed with remarkable accuracy and grace, allowing them to hit shots that seem impossible. Select a creature within range. For the duration of this effect, their ranged basic attacks are made with advantage and their range is doubled. Additionally, they can make ranged basic attacks against any creature within range, as long as a path to them exists, ignoring line of sight and cover.
+The gods of death have granted your ally safe passage through their lands, allowing them to walk the line between life and death without harm. When you first cast this miracle, choose a creature within range and grant them this boon. For the duration of this effect, they cannot die and ignore all effects of exhaustion. While they have the death’s door status, they automatically pass any concentration skill checks, but suffer one stack of exhaustion when they do. If they are concentrating on a miracle, they must make a separate concentration skill check each time they lose life, which is resolved normally.
 
-### Genesis of Wind
+When this effect ends, if they have at least 7 + their Prowess stacks of exhaustion, they must pass a difficulty 10 Prowess (Endurance) skill check or die.
+
+### Curse of Twilight
 
 <div class="tight">
 
@@ -2960,9 +2882,100 @@ Your ally is blessed with remarkable accuracy and grace, allowing them to hit sh
 
 </div>
 
-With the power of your god, you call a sudden gust of wind into creation. Make a Prowess attack against a creature of your choice. If you hit, deal 1d4 + Presence air damage and gain the effects of the Shove minor action against the target.
+With a prayer, you curse a creature to exist in the twilight zone, halfway between life and death. Make a Focus attack against a creature of your choice within range. If it hits, for the duration of this effect they cannot deal or take damage, gain or lose life or grant or remove absorption.
 
-### Genesis of Wind - Miracle
+### Curse of Twilight - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Focus
+
+**Duration:** Concentration
+
+</div>
+
+As the air is filled with a hollow sense of sorrow, your god curses your foe to existence as a ghost, not quite part of this world but neither still part of the next. For the duration of this effect:
+
+- their life total cannot be reduced below 1 by any means
+  - they may not use any effects that cause themselves to lose life that would reduce them to below 1 life
+- they take on an ethereal, translucent appearance
+- the efficacy of all effects made by and against them is halved
+- they may interact with banished creatures (and vice versa)
+- at the end of each of their turns, if they are above 0 life, make a Focus attack against them. If it hits, deal 2d6 + 2 \* Presence decay damage
+
+### Gift of Rebirth
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+As you utter a prayer, a fallen creature shambles back to life, obeying your commands. Make a Focus attack against a creature of your choice within range that is either at death's door or who died since the end of your last turn. They regain consciousness and are healed to full life, and may act on their turn. At the end of this effect, they return to their previous life total, dying again if they were dead or entering death's door otherwise. If the creature was a non-player character, they are treated as your ally for the duration of this effect, with the worldspeaker controlling their turn following your basic directions.
+
+### Gift of Rebirth - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration, Persisting
+
+</div>
+
+The dead and dying rise up in a terrible miracle, coming to life to fight for your god. Make a Focus attack against a creature of your choice within range that is either at death's door or who died since the end of your last turn. They regain consciousness and are healed to full life, and may act on their turn. At the end of this effect, they return to their previous life total, dying again if they were dead or entering death's door otherwise. If the creature was a non-player character, they are treated as your ally for the duration of this effect, with the worldspeaker controlling their turn following your basic directions.
+
+When this miracle persists, the creature no longer returns to their previous state when your concentration ends. When your concentration on this miracle ends, any non-player creatures you had affected in this way revert to their previous side and no longer follow your directions.
+
+### Genesis of Undeath
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Presence
+
+**Duration:** Instant
+
+</div>
+
+As you pray, you summon a spirit from the afterlife to horrify those nearby. Create a _ghostly effigy_ in an empty tile of your choice within range. Make a Presence attack against all creatures in a 3 tile radius. If you hit, apply two stacks of frightened to them, with the _ghostly effigy_ as the source of their fear.
+
+The ghostly effigy cannot act, and shares your defenses. When it takes damage (other than decay damage), destroy it.
+
+### Genesis of Undeath - Miracle
 
 <div class="tight">
 
@@ -2976,13 +2989,17 @@ With the power of your god, you call a sudden gust of wind into creation. Make a
 
 **Attack:** Prowess
 
-**Duration:** Concentration
+**Duration:** Concentration, Persisting
 
 </div>
 
-You summon an incredible wind which throws creatures around uncontrollably, sending them tumbling across the battlefield. When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 3 tile wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. Whenever a creature starts their turn in this wind or enters it for the first time on their turn, make a Prowess attack against them. If you hit, they are knocked prone and pushed 6 tiles in the direction of the wind. If you miss, they are pushed 3 tiles instead.
+A horrifying abomination of flesh and bone rises up from the earth, neither dead nor alive. Select an empty set of tiles within range for the abomination to spawn in, which occupies a 1 tile radius. You control this abomination, and may direct it to take any core action of your choice other than Activate or Essence Tap. This construct has as much maximum life as you do, no essence and acts once per round, appearing immediately after you in the turn order on your side.
 
-### Portent of the Four Winds
+The horror's vital statistics and enchantment (but not innate) affixes match your own. Its melee basic attacks deal 2d6 + Presence + Prowess physical damage, and deal double damage to absorption. It may make basic attacks using the Cleaving mode. When it does, make a melee basic attack in a cone with a radius equal to its zone of control (default of 1 tile) at half efficacy.
+
+When this miracle persists, the abomination takes on a life of its own. At that point, when your concentration ends, rather than being destroyed, the abomination breaks free, seeking to destroy all other creatures it encounters as it mindlessly wanders the land.
+
+### Portent of Souls
 
 <div class="tight">
 
@@ -3000,9 +3017,9 @@ You summon an incredible wind which throws creatures around uncontrollably, send
 
 </div>
 
-With a whispered prayer you transform into the wind for a moment, before reappearing quickly somewhere else. Gain the effects of the Dash minor action. For the duration of this effect, you move by teleportation.
+As you pray, your foe’s soul begins to slowly slip free from their body. Make a Focus attack against a creature of your choice within range. If you hit, they lose essence equal to your proficiency bonus.
 
-### Portent of the Four Winds - Miracle
+### Portent of Souls - Miracle
 
 <div class="tight">
 
@@ -3020,13 +3037,13 @@ With a whispered prayer you transform into the wind for a moment, before reappea
 
 </div>
 
-Nothing occurs when you first cast this miracle, although a strange breeze begins to blow over your allies. Select any number of allied creatures within range when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
+Nothing occurs when you first cast this miracle, although those that pause for a moment can hear the whispers of souls. Select any number of allied creatures within range when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
-While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and you and your allies are carried away as you become one with the four winds.
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and the dead rise once more.
 
-The creatures selected immediately disappear into puffs of wind. Choose an outdoor location you have visited before. The selected creatures gain the benefits of a rest and reappear there one day later.
+The corpses of all creatures within range of you are filled with the souls of their previous owners if those souls are still trapped within your current font, as if you had successfully used the Resurrect downtime activity. If the souls have escaped, the corpses gain new souls, which behave as any other new souls might: with no memories or ties to their new bodies and no special malice or relation to the force that brought them into existence. These creatures are revived at full life, but immediately gain stacks of exhaustion equal to their Transcendence. If their species was not already undead, their species changes to undead, with the appropriate Risen subspecies corresponding to their previous species.
 
-### Wrath of the Cyclone
+### Wrath of the Contagion
 
 <div class="tight">
 
@@ -3034,7 +3051,7 @@ The creatures selected immediately disappear into puffs of wind. Choose an outdo
 
 **Cost:** 0 essence
 
-**Range:** 6 tiles
+**Range:** Melee, zone of control
 
 **Targets:** Multi-target
 
@@ -3044,9 +3061,9 @@ The creatures selected immediately disappear into puffs of wind. Choose an outdo
 
 </div>
 
-A tiny tornado forms, wreaking small-scale devastation. Select a tile within range and create a 1-tile radius tornado centered on the chosen tile. Whenever a creature starts their turn in the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, apply one stack of aloft to them.
+With a touch, some creature begins to wither and die. Make a melee Prowess attack against a creature or living object of your choice within range. If you hit, deal 1d4 + Presence decay damage and apply one stack of withered.
 
-### Wrath of the Cyclone - Miracle
+### Wrath of the Contagion - Miracle
 
 <div class="tight">
 
@@ -3054,7 +3071,7 @@ A tiny tornado forms, wreaking small-scale devastation. Select a tile within ran
 
 **Cost:** 0 essence
 
-**Range:** 24 tiles
+**Range:** Ranged, 24 tiles
 
 **Targets:** Multi-target
 
@@ -3064,9 +3081,9 @@ A tiny tornado forms, wreaking small-scale devastation. Select a tile within ran
 
 </div>
 
-A giant tornado forms from the heavens, touching down on the ground and violently tossing around all that it hits. Select a tile within range and create a 2-tile radius tornado centered on the chosen tile. While summoned, you may spend a minor action to move it up to 6 tiles in a path of your choice.
+A terrible plague begins, spreading among those who have angered your god. **Infect** a creature of your choice within range. At the end of each infected creature’s turn, make a Prowess attack against all other creatures within a 2 tile range that are not infected. Those that you hit are infected.
 
-Whenever a creature starts their turn within the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, deal 3d6 + 3 \* Presence air damage to them and apply two stacks of aloft. If you miss, they suffer the effects at half efficacy.
+In addition, make a Prowess attack against the infected creature themselves. If you hit, apply two stacks of withered. Hit or miss, deal 1d8 + Presence damage to them for each stack of withered that they have. If you miss, they are no longer infected.
 
 ## Electric
 
