@@ -1547,7 +1547,7 @@ Runes circle and surround an area, strictly forbidding the use of magical power.
 
 </div>
 
-Your blade warps with strange energy as it brings misfortune to everything it touches. Make a basic attack against a creature of your choice. If you hit, all damage dealt is converted to water damage and apply one stack of hapless.
+Your blade warps with strange energy as it brings misfortune to everything it touches. Make a basic attack against a creature of your choice. If you hit, all damage dealt is converted to eldritch damage and apply one stack of hapless.
 
 ### Avatar of Misfortune - Miracle
 
@@ -1587,7 +1587,7 @@ Your body is surrounded by a strange aura as you suck the luck out of every near
 
 </div>
 
-Your ally has learned the true way of things, blessed with knowledge that protects them from insanity. Select a creature within range. They gain 6 + Presence absorption and are resistant to eldritch damage for the duration of this effect,
+Your ally has learned the true way of things, blessed with knowledge that protects them. Select a creature within range. They gain 6 + Presence absorption and are resistant to eldritch damage for the duration of this effect.
 
 ### Blessing of Knowledge - Miracle
 
@@ -1614,7 +1614,7 @@ Your ally learns the true way of things, embracing a bizarre and paranoid worldv
 - They have advantage on all skill checks made to maintain their concentration.
 - At the start of each of their turns, they gain the benefit of the Dash minor action.
 
-In addition, they suffer effects that mirror those of the [crazed](https://rules.fontsofpower.com/#/rules/conditions/ailments?id=crazed) ailment. They cannot become immune to these effects, and do not gain any stacks of this ailment.
+In addition, they suffer effects that mirror those of the [crazed](https://rules.fontsofpower.com/#/rules/conditions/ailments?id=crazed) ailment. They do not gain any stacks of crazed, and cannot become immune to these effects.
 
 ### Curse of Woe
 
@@ -1700,7 +1700,7 @@ Your god offers unbelievable power to a creature, asking only their sanity in re
   - This effect supersedes any similar effects, such as the prayer version of this spell or the _blessing of knowledge - miracle_ effect on another creature.
 - The range of all of their attacks and powers are doubled. Their zone of control doubles in size.
 - The area of effect of their powers is increased. Any distance which scales with area or volume (such as radius of a sphere) is now 3 times larger. Any linear distance (such as the length of a wall created) is now 4 times larger.
-- Damage that they deal cannot be prevented by any means. This includes damage resistance or immunity, absorption, and the Block reaction, although they can still miss. and Self-inflicted effects which reduce the efficacy of your attacks, such as modes still function normally.
+- Damage that they deal cannot be prevented by any means. This includes damage resistance or immunity, absorption, and the Block reaction, although they can still miss. Self-inflicted effects which reduce the efficacy of their attacks, such as modes, still function normally.
 
 In addition, they suffer effects that mirror those of the [crazed](https://rules.fontsofpower.com/#/rules/conditions/ailments?id=crazed) ailment. They cannot become immune to these effects, and do not gain any stacks of this ailment.
 
@@ -1744,8 +1744,8 @@ Your visage warps and shifts, appearing as a horrifying creature. Make a Presenc
 
 As reality seems to twist, friends begin to suspect each other and mundane events horrify even the most hardened. Choose a tile within range and create the _terrifying ambience_ tile effect in a 6 tile radius around it. While a creature is in the _terrifying ambience_ tile effect:
 
-- the frightened ailment cannot be removed or ignored by any means
-- whenever a creature is hit by an attack, they gain one stack of frightened, with the creature who hit you with the attack as the object of their fear
+- the frightened ailment cannot be removed and creatures cannot become immune to its effects
+- whenever a creature is hit by an attack, they gain one stack of frightened, with the creature who hit them with the attack as the object of their fear
 - when this tile effect is triggered, make a Focus attack against the triggering creature. If you hit, deal 1d4 + Presence eldritch damage for each stack of frightened that the triggering creature has
 
 ### Portent of Doom
@@ -1766,7 +1766,7 @@ As reality seems to twist, friends begin to suspect each other and mundane event
 
 </div>
 
-You tell of a prophecy of terrible doom that is to come to all. Make a Presence attack against all creatures within range, applying one stack of crazed if you hit.
+You tell of a prophecy of terrible doom that is to come to all. Make a Presence attack against all creatures within range, including yourself, applying one stack of crazed if you hit.
 
 ### Portent of Doom - Miracle
 
@@ -1790,21 +1790,19 @@ Nothing occurs when you first cast this miracle, although strange unnatural even
 
 While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and a terrifying abomination crawls forth from a rift in reality.
 
-Select an empty set of tiles within range for the horror to spawn in, which occupies a 2 tile radius. This horror has three times as much maximum life as you do, 6 essence and acts three times per round, getting its own side in the round order. When it uses the Essence Tap minor action, it restores 3 essence.
+Select 19 contiguous tiles of the shape of your choice for the horror to spawn in. (It is size 19.) This horror has three times as much maximum life as you do, 6 essence and has three turns per round, getting its own side in the turn order. When it uses the Essence Tap minor action, it restores 3 essence.
 
-The horror's vital statistics match your own. Its melee basic attacks deal 2d8 + Presence + Prowess physical damage, and it may immediately make a Grapple attack against any creatures that it hits. It may grapple any number of creatures at once, and at the end of each of its turns, it deals 1d6 physical damage to each creature that it has grappled.
+The horror's vital statistics match your own. Its melee basic attacks deal 2d8 + Presence + Prowess physical damage, and it gains the effects of the *[grasping strikes](https://tools.fontsofpower.com/affixes/5f1791d257ef5b001712e332)*, *[grasping appendages](https://tools.fontsofpower.com/affixes/5f1757f3a4547a00170586a2)*, *[effervescent grasp (eldritch)](https://tools.fontsofpower.com/affixes/5f19b47e3145950017c9b228)*, and *[reforming](https://tools.fontsofpower.com/affixes/5f02637a2ca9600017163c4b)* affixes.
 
 It has access to the Shatter Minds power. As a minor action at the cost of 1 essence, the horror makes a Focus attack against all creatures within a 6 tile radius, dealing 1d8 + Presence eldritch damage and applying one stack of crazed to all those that it hits.
 
-At the beginning of each of this creature’s turns, you may make a difficulty 20 Focus (Guidance) check to attempt to control it. If you succeed, it acts as you choose for this turn. Success or failure, you immediately suffer one level of exhaustion. If you fail (or choose not to control the horror):
+At the beginning of each of this creature’s turns, you may make a difficulty 20 Focus (Guidance) skill check to attempt to control it. If you succeed, it acts as you choose for that turn. Success or failure, you immediately suffer one level of exhaustion. If you fail (or choose not to control the horror):
 
 - the horror acts as if under the effects of the crazed ailment
 - after it completes the tasks specified in the crazed ailment, the horror attempts to move towards the nearest creature until it is adjacent to them
 - after it has moved, it spends its minor action to use its Shatter Minds power
 
-Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect. You cannot attempt to Pray to cast other miracles while you are concentrating on this effect. This effect ends after your party completes a rest.
-
-### Wrath of the Old Gods
+### Wrath of the Void
 
 <div class="tight">
 
@@ -1814,17 +1812,17 @@ Unlike with other miracles, you cannot voluntarily choose to end your concentrat
 
 **Range:** 6 tiles
 
-**Targets:** Single-target
+**Targets:** Multi-targe
 
-**Attack:** Presence
+**Attack:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-The seeds of paranoia begin to grow within your target’s head. Make a Presence attack against a creature within range. If you hits, deal 1d4 + Presence eldritch damage and apply one stack of crazed.
+You open up a small void, which hungers for the life force of nearby creatures as it pulls them in. Select a tile within range. Make a Prowess attack against all creatures within 3 tiles of the selected tile. Creatures that you hit are pulled into the nearest empty tile to the selected tile. You choose the order in which creatures are pulled after you see which attacks hit.
 
-### Wrath of the Old Gods - Miracle
+### Wrath of the Void - Miracle
 
 <div class="tight">
 
@@ -1836,17 +1834,17 @@ The seeds of paranoia begin to grow within your target’s head. Make a Presence
 
 **Targets:** Multi-target
 
-**Attack:** Focus
+**Attack:** None
 
 **Duration:** Concentration, Persisting
 
 </div>
 
-The fabric of society begins to come unwoven as allies turn upon each other in a terrible cascade as they listen to forbidden whispers. Choose a tile within range and create the _eldritch riot_ tile effect in a 6 tile radius around it. While a creature is in the _eldritch riot_ tile effect:
+The void consumes all. Select a tile within range and create the _consuming void_ tile effect in a 6 tile radius around it. When this tile effect is triggered, the triggering creature immediately spends essence given by the following formula:
 
-- the crazed ailment cannot be removed or ignored by any means
-- whenever a creature is hit by an attack, they gain one stack of crazed
-- when this tile effect is triggered, make a Focus attack against the triggering creature. If you hit, apply one stack of crazed.
+**Proficiency Bonus \* (6 - their distance to the center)**
+
+Spending essence in this way still triggers unstable and similar effects, but has no other effect. If they do not have enough essence, they must automatically [Essence Tap](rules/combat/acting-in-combat/minor-actions.md?id=essence-tap) to pay this cost, tapping multiple times if necessary.
 
 ## Radiant
 
