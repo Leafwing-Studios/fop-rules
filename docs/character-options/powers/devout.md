@@ -1567,7 +1567,7 @@ Your blade brims with unknown potential as you get the sense that something stra
 
 </div>
 
-FLUFF. For the duration of this effect, your basic attacks are automatically criticals if they hit. In addition, gain the _spreading chaos_ condition. Creatures with _spreading chaos_ have suffer the following effects:
+You become chaos incarnate, spreading your madness wherever you strike. For the duration of this effect, your basic attacks are automatically criticals if they hit. In addition, gain the _spreading chaos_ condition. Creatures with _spreading chaos_ have suffer the following effects:
 - effects that mirror those of the [crazed](rules/conditions/ailments.md?id=crazed) ailment
 - after they hit another creature with an attack, that creature also gains the _spreading chaos_ condition
 - _spreading chaos_ cannot be removed as long as your concentration holds, and creatures cannot become immune to its effects
