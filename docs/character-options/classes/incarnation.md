@@ -166,7 +166,7 @@ At level 1, you learn to embody the spirit of focus, fighting at an incredible p
 
 You may Transform as a minor action, which costs essence equal to your current stacks of Emotion. While transformed:
 
-- Damage that you deal cannot be prevented by any means. This includes damage resistance or immunity, absorption, and the Block reaction, although you can still miss. and Self-inflicted effects which reduce the efficacy of your attacks, such as modes still function normally.
+- Damage that you deal cannot be prevented by any means. This includes damage resistance or immunity, absorption, and the Block reaction, although you can still miss. Self-inflicted effects which reduce the efficacy of your attacks, such as modes still function normally.
 - Creatures cannot make attacks of opportunity against you.
 - At the end of each of your turns, you lose 1 stack of emotion. When you reach 0 stacks of emotion the transformation ends.
 
