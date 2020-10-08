@@ -4,7 +4,7 @@
 
 While you are at 0 life, you are at **death’s door** and cannot heal by any means. At the start of each of your turns while on death’s door, you must choose whether to slip safely into unconsciousness or to stay conscious.
 
-While conscious and at death’s door, you must maintain your concentration at all times, lest you be consumed by any fonts. Whenever you would lose life, you must make a difficulty 15 concentration check, but using Presence (Endurance) check instead of the normal roll. The outcomes are as follow:
+While conscious and at death’s door, you must maintain your concentration at all times, lest your soul be consumed by the nearest fonts. Whenever you would lose life, you must make a difficulty 15 concentration check, but using Presence (Endurance) check instead of the normal roll. The outcomes are as follow:
 
 - **Failure by 5 or more:** you die.
 - **Failure by less than 5:** you slip into unconsciousness, and gain a stack of exhaustion.
