@@ -196,7 +196,7 @@ With the power of your god, you call a sudden gust of wind into creation. Make a
 
 **Attack:** Prowess
 
-**Duration:** Concentration
+**Duration:** Concentration, Persisting
 
 </div>
 
@@ -2148,7 +2148,7 @@ For the duration of this miracle, whenever you deal radiant damage, add that man
 
 ## Umbral
 
-### Avatar of the Zephyr
+### Avatar of the Shadows
 
 <div class="tight">
 
@@ -2166,9 +2166,9 @@ For the duration of this miracle, whenever you deal radiant damage, add that man
 
 </div>
 
-Your blade swirls with wind, slicing through your foes’ defenses. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to air damage and ignores absorption.
+Your blade turns to pure shadow, perfectly still. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to umbral damage. This attack deals 1d6 additional damage while you have the ambush boon gained from taking the Hide minor action.
 
-### Avatar of the Zephyr - Miracle
+### Avatar of the Shadows - Miracle
 
 <div class="tight">
 
@@ -2186,89 +2186,13 @@ Your blade swirls with wind, slicing through your foes’ defenses. Make a basic
 
 </div>
 
-Your body is held aloft by a furious tempest as you embody the power of air. For the duration of this effect, your basic attacks are automatically criticals if they hit. Additionally, whenever you enter and leave a creature's zone of control in the same turn, apply one stack of aloft to them.
+Your body fades to black as you transform into pure shadow. For the duration of this effect:
 
-### Blessing of Wings
+- your basic attacks are automatically criticals if they hit
+- you are invisible while in dim light or darkness
+- at the end of each of your turns, gain the benefit of the Hide minor action
 
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** None
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your ally is blessed, shielded by ethereal wings that protect them from harsh winds. Select a creature within range. They gain 6 + Presence absorption and are resistant to air damage for the duration of this effect.
-
-### Blessing of Wings - Miracle
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** None
-
-**Duration:** Concentration
-
-</div>
-
-By the grace of your god, your ally sprouts wings, letting them soar through the air. Select a creature within range. For the duration of this effect, they gain the ability to fly, their movement speed is doubled, and attacks of opportunity against them have disadvantage.
-
-### Curse of Asphyxiation
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** Prowess
-
-**Duration:** Instant
-
-</div>
-
-As you curse your foe, they stumble and gasp for air. Make a Prowess attack against a creature within range. If it hits, deal 1d4 + Presence air damage and apply 1 stack blunted.
-
-### Curse of Asphyxiation - Miracle
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** Prowess
-
-**Duration:** Concentration
-
-</div>
-
-Your god denies the blessing of air to your foe, watching as they slowly suffocate. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Prowess attack against them. If it hits, deal 1d12 + Presence air damage and apply one stack of blunted. Each time you hit with this attack during a single miracle, increase the damage dealt by 1d12 + Presence.
-
-### Gift of Grace
+### Blessing of the Bargain
 
 <div class="tight">
 
@@ -2286,9 +2210,9 @@ Your god denies the blessing of air to your foe, watching as they slowly suffoca
 
 </div>
 
-Your deity grants the gift of grace to a creature, allowing them to move freely over the battlefield. Select a creature within range; until the end of their next turn, they cannot be the target of attacks of opportunity.
+Shadowy gods bless your allies, granting them protection from their wrath. Select a creature within range. They gain 6 + Presence absorption and are resistant to air damage for the duration of this effect.
 
-### Gift of Grace - Miracle
+### Blessing of the Bargain - Miracle
 
 <div class="tight">
 
@@ -2306,9 +2230,14 @@ Your deity grants the gift of grace to a creature, allowing them to move freely 
 
 </div>
 
-Your ally is blessed with remarkable accuracy and grace, allowing them to hit shots that seem impossible. Select a creature within range. For the duration of this effect, their ranged basic attacks are made with advantage and their range is doubled. Additionally, they can make ranged basic attacks against any creature within range, as long as a path to them exists, ignoring line of sight and cover.
+A dark force begins to feed, shielding a creature from harm in exchange for their life force. Select a willing creature within range. For the duration of this effect, they are immune to all damage. At the start of each of their turns:
 
-### Genesis of Wind
+- They lose life equal to four times their proficiency bonus.
+- Remove all stacks of ailments from them. They lose life equal to the number of stacks of ailments removed.
+
+These effects test concentration twice if both occur during the same turn.
+
+### Curse of Imagination
 
 <div class="tight">
 
@@ -2326,9 +2255,99 @@ Your ally is blessed with remarkable accuracy and grace, allowing them to hit sh
 
 </div>
 
-With the power of your god, you call a sudden gust of wind into creation. Make a Prowess attack against a creature of your choice. If you hit, deal 1d4 + Presence air damage and gain the effects of the Shove minor action against the target.
+As you curse your foe, their imagination begins to run wild, frightening themselves as they picture monsters that might be lurking in the dark. For the duration of the effect, this creature cannot voluntarily spend movement to enter a tile that contains darkness.
 
-### Genesis of Wind - Miracle
+### Curse of Imagination - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Your foe’s worst terrors become vivid hallucinations as they enter the darkness, cursed to believe that they are real. For the duration of this effect, whenever the affected creature is in an area of darkness, they perceive a hallucinatory scene of your choice that is no larger than a 20-foot cube which only the target can see, hear or sense in any fashion. This hallucination must be restricted to areas of darkness.
+
+The creature affected can use the Scan minor action to examine the hallucination, making a Focus (Insight) check contested by your Expertise (Arcana) skill. If the check succeeds, the target temporarily realizes that the phantasm is an illusion, and are immune to its effects until the start of their next turn. Once they have recognized the illusion at least once, they have advantage on this skill check for the duration of this effect.
+
+While affected, the target treats the hallucination as if it were real. Anything unusual or illogical that occurs is rationalized away, although they may make a new contested skill check as a result of the new information.
+
+At the end of each of your turns, you may cause the affected creature to take 1d8 + Presence umbral damage, which is perceived as being the result of whatever they are hallucinating.
+
+### Gift of the Night
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+Your god allows you or your ally to fade into the darkness, becoming one with the night. Select a willing creature within range. For the duration of this effect, they are invisible while in dim light or darkness.
+
+### Gift of the Night - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration
+
+</div>
+
+Your ally becomes completely at home in the night, piercing through the darkness as they walk between the shadows. Choose a creature within range. For the duration of this effect, they gain the following boons:
+
+- They can see in dim light and darkness as if it were bright light.
+- When they use the Dash minor action while in dim light or darkness, they may choose to instead teleport a distance up to the amount of movement they would have gained into another tile that is in dim light or darkness.
+- At the start of each of their turns, they gain the benefit of the Dash minor action.
+
+### Genesis of Darkness
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Prowess
+
+**Duration:** Instant
+
+</div>
+
+With a brief prayer to the gods of darkness, you extinguish flame and snuff out light. Extinguish any light source of your choice within range that fits within a single tile. If it is of magical nature, it is extinguished until the end of your next rest.
+
+### Genesis of Darkness - Miracle
 
 <div class="tight">
 
@@ -2342,13 +2361,20 @@ With the power of your god, you call a sudden gust of wind into creation. Make a
 
 **Attack:** Prowess
 
-**Duration:** Concentration
+**Duration:** Concentration, Persisting
 
 </div>
 
-You summon an incredible wind which throws creatures around uncontrollably, sending them tumbling across the battlefield. When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 3 tile wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. Whenever a creature starts their turn in this wind or enters it for the first time on their turn, make a Prowess attack against them. If you hit, they are knocked prone and pushed 6 tiles in the direction of the wind. If you miss, they are pushed 3 tiles instead.
+An impenetrable darkness begins to creep across the battlefield. When you cast this miracle, select a tile within range. A 2 tile radius, ignoring even full cover, around that tile becomes covered in the _impenetrable darkness_ tile effect for the duration of this effect:
 
-### Portent of the Four Winds
+- these tiles are always dark, no matter what other lighting might exist.
+- when this tile effect is triggered, the triggering creature gains the benefit of the Hide minor action
+
+At the start of each of your turns for the duration of this effect, increase the radius of the _impenetrable darkness_ tile effect by 1 tile.
+
+When this miracle persists, the tile effect becomes permanent, although the final radius of the effect cannot be more than 12 tiles.
+
+### Portent of Sacrifice
 
 <div class="tight">
 
@@ -2362,13 +2388,13 @@ You summon an incredible wind which throws creatures around uncontrollably, send
 
 **Attack:** None
 
-**Duration:** Until the end of your current turn
+**Duration:** Until the end of your next turn
 
 </div>
 
-With a whispered prayer you transform into the wind for a moment, before reappearing quickly somewhere else. Gain the effects of the Dash minor action. For the duration of this effect, you move by teleportation.
+Striking a deal with the dark gods, they grant you power in exchange for your suffering. Lose life equal to four times your proficiency bonus and gain essence equal to your proficiency bonus. For the duration of this effect, you have advantage on all attacks.
 
-### Portent of the Four Winds - Miracle
+### Portent of Sacrifice - Miracle
 
 <div class="tight">
 
@@ -2376,7 +2402,7 @@ With a whispered prayer you transform into the wind for a moment, before reappea
 
 **Cost:** 0 essence
 
-**Range:** 24 tiles
+**Range:** 12 tiles
 
 **Targets:** Multi-target
 
@@ -2386,13 +2412,13 @@ With a whispered prayer you transform into the wind for a moment, before reappea
 
 </div>
 
-Nothing occurs when you first cast this miracle, although a strange breeze begins to blow over your allies. Select any number of allied creatures within range when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
+Nothing occurs when you first cast this miracle, although an ominous dread fills all nearby creatures, revealing your location and making them acutely aware of the fact that you are preparing a profane sacrifice to your god. You cannot benefit from the Hidden status while concentrating on this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
-While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and you and your allies are carried away as you become one with the four winds.
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and a single creature is taken as a sacrifice to your gods.
 
-The creatures selected immediately disappear into puffs of wind. Choose an outdoor location you have visited before. The selected creatures gain the benefits of a rest and reappear there one day later.
+At that time, you must select a sentient creature within range. They immediately die. Your party gains a Resolve.
 
-### Wrath of the Cyclone
+### Wrath of the Damned
 
 <div class="tight">
 
@@ -2406,13 +2432,19 @@ The creatures selected immediately disappear into puffs of wind. Choose an outdo
 
 **Attack:** Prowess
 
-**Duration:** Until the end of your next turn
+**Duration:** Instant
 
 </div>
 
-A tiny tornado forms, wreaking small-scale devastation. Select a tile within range and create a 1-tile radius tornado centered on the chosen tile. Whenever a creature starts their turn in the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, apply one stack of aloft to them.
+With a simple prayer, the shadow of your foe betrays its owner, clutching and grabbing at them. Choose a creature within range who is not grappled by a _grasping shadow_, then create a _grasping shadow_ creature in a tile adjacent to a creature that is in bright or dim light. The _grasping shadow_ then makes a Grapple attack against the chosen creature.
 
-### Wrath of the Cyclone - Miracle
+This prayer is an attack: you may use it as an attack of opportunity, cannot use it while pacified and take damage when you use it while suffering from the temperance ailment.
+
+_Grasping shadows_ disappear immediately after they take damage or lose the grappling status and cannot act or spend movement. Tiles that contain only _grasping shadows_ are not considered occupied, and creatures may freely pass through or end their turn in tiles that contain them.
+
+_Grasping shadows_ share all of your other vital statistics, including affixes, attack bonuses and defenses.
+
+### Wrath of the Damned - Miracle
 
 <div class="tight">
 
@@ -2430,9 +2462,17 @@ A tiny tornado forms, wreaking small-scale devastation. Select a tile within ran
 
 </div>
 
-A giant tornado forms from the heavens, touching down on the ground and violently tossing around all that it hits. Select a tile within range and create a 2-tile radius tornado centered on the chosen tile. While summoned, you may spend a minor action to move it up to 6 tiles in a path of your choice.
+The souls of the damned possess the shadows of those around you, turning them against their owners as they attempt to drag them to the darkest abyss.
 
-Whenever a creature starts their turn within the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, deal 3d6 + 3 \* Presence air damage to them and apply two stacks of aloft. If you miss, they suffer the effects at half efficacy.
+At the start of each of your turns for the duration of this effect:
+
+- Choose a creature within range who is not grappled by a _grasping shadow_, then create a _grasping shadow_ creature in a tile adjacent to a creature that is in bright or dim light. The _grasping shadow_ then makes a Grapple attack against the chosen creature.
+- Then, apply some amount of forced movement to each of your _grasping shadows_, up to your movement speed. Like all forced movement, this is divided evenly between the grappled and grappling creature.
+- Optionally, dismiss any number of your _grasping shadows_.
+
+_Grasping shadows_ disappear immediately after they take damage or lose the grappling status and cannot act or spend movement. Tiles that contain only _grasping shadows_ are not considered occupied, and creatures may freely pass through or end their turn in tiles that contain them.
+
+_Grasping shadows_ share all of your other vital statistics, including affixes, attack bonuses and defenses.
 
 ## Primal
 
