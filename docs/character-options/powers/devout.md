@@ -40,7 +40,11 @@ Your blade swirls with wind, slicing through your foes’ defenses. Make a basic
 
 </div>
 
-Your body is held aloft by a furious tempest as you embody the power of air. For the duration of this effect, your basic attacks are automatically criticals if they hit. Additionally, whenever you enter and leave a creature's zone of control in the same turn, apply one stack of aloft to them.
+Your body is held aloft by a furious tempest as you embody the power of air. For the duration of this effect:
+
+- your basic attacks are automatically criticals if they hit
+- you are flying at all times, even if you would normally stop flying
+- whenever you enter and leave a creature's zone of control in the same turn, apply one stack of aloft to them
 
 ### Blessing of Wings
 
@@ -888,11 +892,11 @@ Flames fall from the sky ominously. Make an Agility attack against all creatures
 
 Fire and brimstone pour forth from the heavens, wreaking devastation and spreading chaos. Select a tile within range, and create a 20 foot radius firestorm around it.
 
-These tiles gain the scorched earth ground effect and firestorm tile effect.
+These tiles gain the scorched earth ground effect and _firestorm_ tile effect.
 
 Tiles that have the scorched earth ground effect are difficult terrain and deal 1d6 + Presence fire damage to creatures that occupy them at the end of the turn for each tile that they passed through.
 
-Tiles that have the firestorm tile effect deal 2d6 + 2 \* Presence fire damage to creatures that occupy them.
+Tiles that have the _firestorm_ tile effect deal 2d6 + 2 \* Presence fire damage to creatures that occupy them.
 
 ## Water
 
@@ -3087,7 +3091,7 @@ In addition, make a Prowess attack against the infected creature themselves. If 
 
 ## Electric
 
-### Avatar of the Zephyr
+### Avatar of the Storm
 
 <div class="tight">
 
@@ -3105,9 +3109,9 @@ In addition, make a Prowess attack against the infected creature themselves. If 
 
 </div>
 
-Your blade swirls with wind, slicing through your foes’ defenses. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to air damage and ignores absorption.
+Your blade crackles with lightning, visibly sparking to any nearby objects. If you hit, all damage dealt is converted to electric damage and you apply 3 + 1/2 Presence stacks of shock.
 
-### Avatar of the Zephyr - Miracle
+### Avatar of the Storm - Miracle
 
 <div class="tight">
 
