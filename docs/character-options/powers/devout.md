@@ -140,7 +140,7 @@ Your god denies the blessing of air to your foe, watching as they slowly suffoca
 
 </div>
 
-Your deity grants the gift of grace to a creature, allowing them to move freely over the battlefield. Select a creature within range; until the end of their next turn, they cannot be the target of attacks of opportunity.
+Your deity grants the gift of grace to a creature, allowing them to move freely over the battlefield. Select a creature within range; until the end of their next turn, their movement does not provoke attacks of opportunity.
 
 ### Gift of Grace - Miracle
 
@@ -1786,9 +1786,9 @@ Nothing occurs when you first cast this miracle, although strange unnatural even
 
 While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and a terrifying abomination crawls forth from a rift in reality.
 
-Select an empty set of tiles within range for the horror to spawn in, which occupies a 1 tile radius. This horror has three times as much maximum life as you do, 6 essence and acts three times per round, getting its own side in the round order. When it uses the Essence Tap minor action, it restores 3 essence.
+Select an empty set of tiles within range for the horror to spawn in, which occupies a 2 tile radius. This horror has three times as much maximum life as you do, 6 essence and acts three times per round, getting its own side in the round order. When it uses the Essence Tap minor action, it restores 3 essence.
 
-The horror's vital statistics match your own. Its basic attacks deal 2d8 + Presence + Prowess physical damage, and it may immediately make a Grapple attack against any creatures that it hits. It may grapple any number of creatures at once, and at the end of each of its turns, it deals 1d6 physical damage to each creature that it has grappled.
+The horror's vital statistics match your own. Its melee basic attacks deal 2d8 + Presence + Prowess physical damage, and it may immediately make a Grapple attack against any creatures that it hits. It may grapple any number of creatures at once, and at the end of each of its turns, it deals 1d6 physical damage to each creature that it has grappled.
 
 It has access to the Shatter Minds power. As a minor action at the cost of 1 essence, the horror makes a Focus attack against all creatures within a 6 tile radius, dealing 1d8 + Presence eldritch damage and applying one stack of crazed to all those that it hits.
 
@@ -2210,7 +2210,7 @@ Your body fades to black as you transform into pure shadow. For the duration of 
 
 </div>
 
-Shadowy gods bless your allies, granting them protection from their wrath. Select a creature within range. They gain 6 + Presence absorption and are resistant to air damage for the duration of this effect.
+Shadowy gods bless your allies, granting them protection from their wrath. Select a creature within range. They gain 6 + Presence absorption and are resistant to umbral damage for the duration of this effect.
 
 ### Blessing of the Bargain - Miracle
 
@@ -2476,7 +2476,7 @@ _Grasping shadows_ share all of your other vital statistics, including affixes, 
 
 ## Primal
 
-### Avatar of the Zephyr
+### Avatar of the Beasts
 
 <div class="tight">
 
@@ -2494,9 +2494,9 @@ _Grasping shadows_ share all of your other vital statistics, including affixes, 
 
 </div>
 
-Your blade swirls with wind, slicing through your foes’ defenses. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to air damage and ignores absorption.
+Your blade roars with fury as it comes to life. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to primal damage and you may push the creature hit 1 tile in the direction of your choice.
 
-### Avatar of the Zephyr - Miracle
+### Avatar of the Beasts - Miracle
 
 <div class="tight">
 
@@ -2514,89 +2514,13 @@ Your blade swirls with wind, slicing through your foes’ defenses. Make a basic
 
 </div>
 
-Your body is held aloft by a furious tempest as you embody the power of air. For the duration of this effect, your basic attacks are automatically criticals if they hit. Additionally, whenever you enter and leave a creature's zone of control in the same turn, apply one stack of aloft to them.
+Your body transforms into that of a terrible beast, pouncing and snarling. For the duration of this effect, your basic attacks are automatically criticals if they hit. Additionally, after you hit a creature with a basic attack, choose one:
 
-### Blessing of Wings
+- make a Grapple attack against the creature you hit with advantage
+- spend essence equal to your proficiency bonus to regain 4 times that much life
+- shift twice
 
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** None
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-Your ally is blessed, shielded by ethereal wings that protect them from harsh winds. Select a creature within range. They gain 6 + Presence absorption and are resistant to air damage for the duration of this effect.
-
-### Blessing of Wings - Miracle
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** None
-
-**Duration:** Concentration
-
-</div>
-
-By the grace of your god, your ally sprouts wings, letting them soar through the air. Select a creature within range. For the duration of this effect, they gain the ability to fly, their movement speed is doubled, and attacks of opportunity against them have disadvantage.
-
-### Curse of Asphyxiation
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** Prowess
-
-**Duration:** Instant
-
-</div>
-
-As you curse your foe, they stumble and gasp for air. Make a Prowess attack against a creature within range. If it hits, deal 1d4 + Presence air damage and apply 1 stack blunted.
-
-### Curse of Asphyxiation - Miracle
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Single-target
-
-**Attack:** Prowess
-
-**Duration:** Concentration
-
-</div>
-
-Your god denies the blessing of air to your foe, watching as they slowly suffocate. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Prowess attack against them. If it hits, deal 1d12 + Presence air damage and apply one stack of blunted. Each time you hit with this attack during a single miracle, increase the damage dealt by 1d12 + Presence.
-
-### Gift of Grace
+### Blessing of the Wilds
 
 <div class="tight">
 
@@ -2614,9 +2538,9 @@ Your god denies the blessing of air to your foe, watching as they slowly suffoca
 
 </div>
 
-Your deity grants the gift of grace to a creature, allowing them to move freely over the battlefield. Select a creature within range; until the end of their next turn, they cannot be the target of attacks of opportunity.
+Your ally is blessed, surrounded by growing sprouts that protect them from the harsh realities of nature. Select a creature within range. They gain 6 + Presence absorption and are resistant to primal damage for the duration of this effect.
 
-### Gift of Grace - Miracle
+### Blessing of the Wilds - Miracle
 
 <div class="tight">
 
@@ -2630,13 +2554,35 @@ Your deity grants the gift of grace to a creature, allowing them to move freely 
 
 **Attack:** None
 
-**Duration:** Concentration
+**Duration:** Concentration, Persisting
 
 </div>
 
-Your ally is blessed with remarkable accuracy and grace, allowing them to hit shots that seem impossible. Select a creature within range. For the duration of this effect, their ranged basic attacks are made with advantage and their range is doubled. Additionally, they can make ranged basic attacks against any creature within range, as long as a path to them exists, ignoring line of sight and cover.
+You grant the blessing of the gods of the wilds, plant life sprouting wildly in the beneficiary's every footstep as it bends to their will. When you first cast this miracle, choose a creature. For the duration of this miracle, the chosen creature is immune to the effects of difficult terrain. Whenever they spend movement, any tiles that they travelled over becomes difficult terrain for the duration of this effect. In addition, they gain access to the _grasping roots_ power. As a minor action, they may make a Prowess attack against all creatures on difficult terrain within a 24 tile range. They apply one stack of rooted to each creature hit.
 
-### Genesis of Wind
+When this miracle persists, any difficult terrain created persists. Other effects end when your concentration is broken like usual.
+
+### Curse of Rage
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** Presence
+
+**Duration:** Instant
+
+</div>
+
+As you curse your foe, their rage begins to overwhelm them. Make a Presence attack against a creature within range. If it hits, apply 6 + Presence stacks of rage.
+
+### Curse of Rage - Miracle
 
 <div class="tight">
 
@@ -2650,13 +2596,79 @@ Your ally is blessed with remarkable accuracy and grace, allowing them to hit sh
 
 **Attack:** Prowess
 
+**Duration:** Concentration
+
+</div>
+
+Your god fills your foe with an unquenchable rage, demanding ever-increasing violence. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Presence attack against them. If you hit, apply 3 + 1/2 Presence stacks of rage, then double their current stacks of aflame. In addition, for the duration of this effect, ignore any resistance to primal damage that this creature has, and treat any immunity to primal damage as if it were only resistance.
+
+### Gift of the Forest
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Until the end of your next turn
+
+</div>
+
+With a prayer, your god grants the ability to camouflage with their surroundings. Select a creature within range. For the duration of this effect, hiding spots are considered veiled for them, even if only one of the lesser criteria (dim light, light shroud or partial cover) are true.
+
+### Gift of the Forest - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
+**Duration:** Concentration, Persisting
+
+</div>
+
+You give the gift of the gods of the wild forests, allowing them to control plant life freely. When you first cast this miracle, choose a creature. For the duration of this miracle, the affected creature is immune to the effects of difficult terrain. At the start of each of the creature's turns for the duration of this effect, they may choose up to 9 tiles within a 6 tile range of themselves. In each of those tiles, they may create or destroy the _vibrant growth_ tile effect.
+
+Tiles with the _vibrant growth_ tile effect are lightly shrouded and difficult terrain.
+
+### Genesis of the Primeval
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** 6 tiles
+
+**Targets:** Single-target
+
+**Attack:** None
+
 **Duration:** Instant
 
 </div>
 
-With the power of your god, you call a sudden gust of wind into creation. Make a Prowess attack against a creature of your choice. If you hit, deal 1d4 + Presence air damage and gain the effects of the Shove minor action against the target.
+As you pray, a huge tree suddenly sprouts from the ground. Choose an empty tile within range, and create the _primeval giant_ tile effect there.
 
-### Genesis of Wind - Miracle
+Tiles with the _primeval giant_ tile effect are 12 height tiers in size (or extend up to the ceiling, if the height is less than that). This tile effect is destructible. It is destroyed, magically vanishing, if it ever takes more than your four times your proficiency bonus damage at once. It is immune to primal damage, and vulnerable to fire and decay damage.
+
+This tree disappears at the end of your next rest.
+
+### Genesis of the Primeval - Miracle
 
 <div class="tight">
 
@@ -2668,15 +2680,21 @@ With the power of your god, you call a sudden gust of wind into creation. Make a
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Attack:** None
 
-**Duration:** Concentration
+**Duration:** Concentration, Persisting
 
 </div>
 
-You summon an incredible wind which throws creatures around uncontrollably, sending them tumbling across the battlefield. When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 3 tile wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. Whenever a creature starts their turn in this wind or enters it for the first time on their turn, make a Prowess attack against them. If you hit, they are knocked prone and pushed 6 tiles in the direction of the wind. If you miss, they are pushed 3 tiles instead.
+Your god creates a grove of huge, ancient trees, rising suddenly from the ground but existing as serenely as if they had always been there. When you first cast this miracle, choose up to 8 tiles and create the _primeval giant_ tile effect there.
 
-### Portent of the Four Winds
+At the start of each of your turns for the duration of this effect, create the _primeval giant_ tile effect in any tile that had this tile effect in it this combat. Any creatures that occupy those tiles are harmlessly pushed to the nearest empty tile of your choice.
+
+Tiles with the _primeval giant_ tile effect are 12 height tiers in size (or extend up to the ceiling, if the height is less than that). This tile effect is destructible. It is destroyed, magically vanishing, if it ever takes more than your four times your proficiency bonus damage at once. It is immune to primal damage, and vulnerable to fire and decay damage.
+
+When your concentration on this miracle ends, the trees persist until the end of your next rest. When this miracle persists, all trees within a 24 tile radius (including those created through the non-miracle version of this spell) persist until destroyed and regrow each time you complete a rest.
+
+### Portent of Restoration
 
 <div class="tight">
 
@@ -2690,13 +2708,13 @@ You summon an incredible wind which throws creatures around uncontrollably, send
 
 **Attack:** None
 
-**Duration:** Until the end of your current turn
+**Duration:** Until the end of your target's next turn
 
 </div>
 
-With a whispered prayer you transform into the wind for a moment, before reappearing quickly somewhere else. Gain the effects of the Dash minor action. For the duration of this effect, you move by teleportation.
+You pray that a seed of regrowth may begin to sprout inside a creature’s soul. At the end of that creature’s next turn, remove all afflictions and ailments from them.
 
-### Portent of the Four Winds - Miracle
+### Portent of Restoration - Miracle
 
 <div class="tight">
 
@@ -2714,13 +2732,13 @@ With a whispered prayer you transform into the wind for a moment, before reappea
 
 </div>
 
-Nothing occurs when you first cast this miracle, although a strange breeze begins to blow over your allies. Select any number of allied creatures within range when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
+Nothing occurs when you first cast this miracle, although tiny plants seem to grow and flower in your footsteps. Select any number of allied creatures within range when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
-While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and you and your allies are carried away as you become one with the four winds.
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and all nearby creatures are suddenly revitalized.
 
-The creatures selected immediately disappear into puffs of wind. Choose an outdoor location you have visited before. The selected creatures gain the benefits of a rest and reappear there one day later.
+All creatures within range gain the benefit of a rest, as if their allies had spent a Resolve. Remove all afflictions and ailments from each creature.
 
-### Wrath of the Cyclone
+### Wrath of Nature
 
 <div class="tight">
 
@@ -2730,17 +2748,17 @@ The creatures selected immediately disappear into puffs of wind. Choose an outdo
 
 **Range:** 6 tiles
 
-**Targets:** Multi-target
+**Targets:** Single-target
 
 **Attack:** Prowess
 
-**Duration:** Until the end of your next turn
+**Duration:** Instant
 
 </div>
 
-A tiny tornado forms, wreaking small-scale devastation. Select a tile within range and create a 1-tile radius tornado centered on the chosen tile. Whenever a creature starts their turn in the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, apply one stack of aloft to them.
+As you pray terrifying tendrils of plant matter grow from the ground, clutching at your enemies. Make an Agility attack against a creature of your choice within range. If you hit, deal 1d4 + Presence primal damage and apply one stack of rooted.
 
-### Wrath of the Cyclone - Miracle
+### Wrath of the Nature - Miracle
 
 <div class="tight">
 
@@ -2758,9 +2776,9 @@ A tiny tornado forms, wreaking small-scale devastation. Select a tile within ran
 
 </div>
 
-A giant tornado forms from the heavens, touching down on the ground and violently tossing around all that it hits. Select a tile within range and create a 2-tile radius tornado centered on the chosen tile. While summoned, you may spend a minor action to move it up to 6 tiles in a path of your choice.
+The very land itself stirs, rebelling against those who would defile it as a strange creature of wood and bone rises from the earth to crush your enemies. Select an empty set of tiles within range for the construct to spawn in, which occupies a 1 tile radius. You control this construct, and may direct it to take any core action of your choice other than Activate or Essence Tap. This construct has half as much maximum life as you do, no essence and acts once per round, appearing immediately after you in the turn order on your side.
 
-Whenever a creature starts their turn within the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, deal 3d6 + 3 \* Presence air damage to them and apply two stacks of aloft. If you miss, they suffer the effects at half efficacy.
+The horror's vital statistics and enchantment (but not innate) affixes match your own. Its melee basic attacks deal 2d8 + Presence + Prowess physical damage, and knocks prone any creature that it hits.
 
 ## Decay
 
