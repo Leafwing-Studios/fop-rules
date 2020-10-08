@@ -173,7 +173,7 @@ You are bathed in an otherworldly light as the blessing of your deity mends your
 
 ## Rebuke
 
-At level 3, you may chastise those who would dare interrupt you during your sacred duties, forcing them to their knees in repentance. As a reaction whenever a creature enters your zone of control, you may make a Focus attack against them. If you hit, knock them prone, applying one stack of rooted and one stack of pacified.
+At level 3, you may chastise those who would dare interrupt you during your sacred duties, forcing them to their knees in repentance. You gain access to the Rebuke power. As a reaction whenever a creature enters your zone of control, you may make a Focus attack against them. If you hit, knock them prone, applying one stack of rooted and one stack of pacified.
 
 ## Respite
 
