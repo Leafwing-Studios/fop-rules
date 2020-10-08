@@ -1529,7 +1529,7 @@ Runes circle and surround an area, strictly forbidding the use of magical power.
 
 ## Eldritch
 
-### Avatar of Misfortune
+### Avatar of Chaos
 
 <div class="tight">
 
@@ -1547,9 +1547,9 @@ Runes circle and surround an area, strictly forbidding the use of magical power.
 
 </div>
 
-Your blade warps with strange energy as it brings misfortune to everything it touches. Make a basic attack against a creature of your choice. If you hit, all damage dealt is converted to eldritch damage and apply one stack of hapless.
+Your blade brims with unknown potential as you get the sense that something strange is about to happen. Make a basic attack against a creature of your choice. If you hit, all damage dealt is converted to eldritch damage and swap places with them via teleportation.
 
-### Avatar of Misfortune - Miracle
+### Avatar of Chaos - Miracle
 
 <div class="tight">
 
@@ -1567,7 +1567,12 @@ Your blade warps with strange energy as it brings misfortune to everything it to
 
 </div>
 
-Your body is surrounded by a strange aura as you suck the luck out of every nearby creature. For the duration of this effect, your basic attacks are automatically criticals if they hit. In addition, a 2 tile radius around you is surrounded by the _terrible luck_ tile effect. Creatures in the affected tiles, other than you, roll all attacks and skill checks with disadvantage, no matter how many stacks of advantage or disadvantage they might have.
+FLUFF. For the duration of this effect, your basic attacks are automatically criticals if they hit. In addition, gain the _spreading chaos_ condition. Creatures with _spreading chaos_ have suffer the following effects:
+- effects that mirror those of the [crazed](rules/conditions/ailments.md?id=crazed) ailment
+- after they hit another creature with an attack, that creature also gains the _spreading chaos_ condition
+- _spreading chaos_ cannot be removed as long as your concentration holds, and creatures cannot become immune to its effects
+
+When you lose concentration on this miracle, remove the _spreading chaos_ condition from all creatures.
 
 ### Blessing of Knowledge
 
