@@ -160,7 +160,7 @@ Dark and light energy fuse together, swirling as they flood your target, laying 
 
 </div>
 
-A strange beam surrounds your target as they suddenly find themselves somewhere new. Make an Expertise attack against a creature or object of your choice within range other than yourself. If you hit, teleport them to an empty tile of your choice up to Ranged, 3 tiles away from their current location.
+A strange beam surrounds your target as they suddenly find themselves somewhere new. Make an Expertise attack against a creature or object of your choice within range other than yourself. If you hit, teleport them to an empty tile of your choice up to 3 tiles away from their current location.
 
 ## Glacial Burst
 
@@ -214,7 +214,7 @@ Shadows emanate from your hands, grasping and pulling, suddenly tangible. Make a
 
 **Targets:** Single-target
 
-**Attack:** ???
+**Attack:** Focus
 
 **Duration:** Instant
 
