@@ -1871,7 +1871,7 @@ Spending essence in this way still triggers unstable and similar effects, but ha
 
 </div>
 
-Your blade shines with a brilliant light, blinding your foes. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to air damage and apply one stack of blinded.
+Your blade shines with a brilliant light, blinding your foes. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to radiant damage and apply one stack of blinded.
 
 ### Avatar of the Stars - Miracle
 
@@ -1891,7 +1891,7 @@ Your blade shines with a brilliant light, blinding your foes. Make a basic attac
 
 </div>
 
-Your body sparkles with the starlight as you slice through your enemies’ defenses with solid light. For the duration of this effect, your basic attacks are automatically criticals if they hit. Additionally, you treat you enemies' basic defense as 10 + their Agility and damage from your basic attacks ignores absorption.
+Your body sparkles with the starlight as you slice straight through your enemies’ defenses with solid light. For the duration of this effect, your basic attacks are automatically criticals if they hit. Additionally, damage that you deal cannot be prevented.
 
 ### Blessing of the Moon
 
@@ -1931,7 +1931,7 @@ Dappled light flickers over the skin of your ally, granting them the blessing of
 
 </div>
 
-Moonlight glows faintly from the eyes of your allies, granting them a strange protection from magic. Select a creature within range. For the duration of this effect, complete negate any special attacks that they block.
+Moonlight glows faintly from the eyes of your allies, granting them a strange protection from magic. Select a creature within range. For the duration of this effect, complete negate any special attacks that they block. If they block a multi-target effect, the entire effect is completely negated.
 
 ### Curse of Mercy
 
@@ -2013,10 +2013,9 @@ As you pull an ally towards you with a shining tether, you grant them the gift o
 
 </div>
 
-Your god grants an ally the gift of inextinguishable hope, allowing them to serve as a beacon for their allies. Choose an ally within range. For the duration of this effect, a 2 tile radius around them (including their own tile) has the _unquenchable hope_ tile effect. This tile effect has the following effects:
-
-- allied creatures in this tile effect are immune to the frightened and crazed ailments
-- allied creatures in this tile effect have advantage on all attack rolls and skill checks
+An ally gleams with divine light, empowered to use it to protect the innocent. Select a creature within range. For the duration of this effect, they gain the following boons:
+- whenever they take the Dash minor action, they may instead teleport to an empty tile adjacent to an ally of their choice within 6 tiles
+- the first time during their turn that they hit a creature with an attack, they deal an additional 2d6 + 2 * your Presence radiant damage
 
 ### Genesis of Light
 
@@ -2036,7 +2035,10 @@ Your god grants an ally the gift of inextinguishable hope, allowing them to serv
 
 </div>
 
-With the power of your god, light begins to shine out of nowhere. Choose up to 3 tiles within range, and create the _shining light_ tile effect there. These tiles are filled with bright light, and a 1 tile radius around them is filled with dim light. All shroud and invisibility effects in these tiles are negated.
+With the power of your god, light begins to shine out of nowhere. Create the _shining light_ tile effect in up to 3 tiles of your choice within range. The _shining light_ tile effect has the following effects:
+- its tiles are filled with bright light
+- tiles adjacent to it are filled with dim light
+- all shround and invisibility effects in these tiles are negated
 
 ### Genesis of Light - Miracle
 
@@ -2056,15 +2058,19 @@ With the power of your god, light begins to shine out of nowhere. Choose up to 3
 
 </div>
 
-Light pours forth from you, the ground itself glowing where you walk as you shoot out concentrated light in a beam. At the start of each of your turns for the duration of this effect create the _shining light_ tile effect in all tiles within a 3 tile radius of you then gain the benefits of the Scan minor action.
+Light pours forth from you, the ground itself glowing where you walk. For the duration of this miracle: 
+- You can use your boons on any creature within the _shining light_ tile effect, regardless of range or line of sight. This includes any effect which applies a boon to the target (including the Treat and Break Grapple minor actions). 
+- At the start of each of your turns, create the _shining light_ tile effect in all tiles within a 2 tile radius of you. This tile effect persists as long as your concentration holds.
+- When this tile effect is triggered, the triggering creature gains 6 + Presence absorption.
 
-_Shining light_ tiles are filled with bright light, and a 1 tile radius around them is filled with dim light. All shroud and invisibility effects in these tiles are negated.
-
-For the duration of this effect, you have advantage on all attacks and Treat skill checks against creatures in the _shining light_ tile effect.
+The _shining light_ tile effect has the following effects:
+- its tiles are filled with bright light
+- tiles adjacent to it are filled with dim light
+- all shround and invisibility effects in these tiles are negated
 
 When this miracle persists, all _shining light_ tile effects on the battlefield become permanent. If this miracle ends before it persists, remove all _shining light_ tile effects from the battlefield.
 
-### Portent of the Inquisition
+### Portent of the Radiant???
 
 <div class="tight">
 
@@ -2082,9 +2088,9 @@ When this miracle persists, all _shining light_ tile effects on the battlefield 
 
 </div>
 
-Wielding holy symbols and accusations, you interrogate a creature on the strength of their faith. Make a Focus attack against a creature of your choice within range. If you hit, you learn the value they have in one Ideal of your choice. Hit or miss, that creature is immune to the effects of this prayer until you next complete a rest.
+~
 
-### Portent of the Inquisition - Miracle
+### Portent of the Radiant??? - Miracle
 
 <div class="tight">
 
@@ -2102,14 +2108,7 @@ Wielding holy symbols and accusations, you interrogate a creature on the strengt
 
 </div>
 
-Nothing occurs when you first cast this miracle, although those nearby feel an intense pressure as their beliefs are questioned by an otherworldly force. Choose an ideal when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
-
-While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and unbelievers are whisked away.
-
-All creatures within range who have a value of 2 or less in that ideal immediately vanish. They cannot act, or be interacted with in anyway. After you have completed 1d4 rests, they return to the world as a group to the location that they disappeared from. When they do:
-
-- Each creature who returned must make a Focus (Endurance) skill check. They suffer 6 levels of exhaustion, reduced by one for every 5 points of their skill check result.
-- Each creature who returned must make a Presence (Endurance) skill check. Their value in the selected ideal increases by up to 5 points, reduced by one for every 5 points of their skill check result.
+~
 
 ### Wrath of the Sun
 
@@ -2149,9 +2148,7 @@ With a prayer, you shine with the furious light of the sun, scorching those near
 
 </div>
 
-The light of the sun bursts forth from you, cleansing the battlefield. At the start of each of your turns for the duration of this effect, make a Focus attack against all creatures in a 24 tile cone. If you hit, deal 1d12 + Presence radiant damage. Creatures that you miss suffer the attacks' effects at half efficacy instead.
-
-For the duration of this miracle, whenever you deal radiant damage, add that many stacks of temperance as well. When you do, remove the same number of stacks of any afflictions other than temperance that creature might have (of your choice) if able.
+The blinding light of the sun bursts forth from you, making it difficult for creatures to even look at you. At the start of each of your turns for the duration of this effect, make a Focus attack against all creatures in a 24 tile cone. If you hit, deal 2d6 + 2 * Presence radiant damage, and apply one stack each of blinded and frightened. Creatures that you miss suffer the attacks' effects at half efficacy instead.
 
 ## Umbral
 
