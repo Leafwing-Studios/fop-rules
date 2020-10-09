@@ -3129,9 +3129,11 @@ Your blade crackles with lightning, visibly sparking to any nearby objects. If y
 
 </div>
 
-Your body is held aloft by a furious tempest as you embody the power of air. For the duration of this effect, your basic attacks are automatically criticals if they hit. Additionally, whenever you enter and leave a creature's zone of control in the same turn, apply one stack of aloft to them.
+Your body sparks with the fury of the storm as you gather electrical charge before discharging it with your strikes. For the duration of this effect, your basic attacks are automatically criticals if they hit. 
 
-### Blessing of Wings
+In addition, at the start of each of your turns for the duration of this effect, transfer all stacks of shock from creatures in a 2 tile radius to you, dealing 1 point of electric damage for each stack removed. Whenever you hit a creature with a basic attack, remove all stacks of shock from yourself, then deal 1 point of electric damage to them for each stack removed. Like usual, the efficacy of this damage is doubled due to it being a critical hit.
+
+### Blessing of ??
 
 <div class="tight">
 
@@ -3149,9 +3151,9 @@ Your body is held aloft by a furious tempest as you embody the power of air. For
 
 </div>
 
-Your ally is blessed, shielded by ethereal wings that protect them from harsh winds. Select a creature within range. They gain 6 + Presence absorption and are resistant to air damage for the duration of this effect.
+Your ally is blessed, ?FLAVOR?. Select a creature within range. They gain 6 + Presence absorption and are resistant to electric damage for the duration of this effect.
 
-### Blessing of Wings - Miracle
+### Blessing of ?? - Miracle
 
 <div class="tight">
 
@@ -3169,9 +3171,9 @@ Your ally is blessed, shielded by ethereal wings that protect them from harsh wi
 
 </div>
 
-By the grace of your god, your ally sprouts wings, letting them soar through the air. Select a creature within range. For the duration of this effect, they gain the ability to fly, their movement speed is doubled, and attacks of opportunity against them have disadvantage.
+??. Select a creature within range. For the duration of this effect, ??.
 
-### Curse of Asphyxiation
+### Curse of ??
 
 <div class="tight">
 
@@ -3183,15 +3185,15 @@ By the grace of your god, your ally sprouts wings, letting them soar through the
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Attack:** ??
 
 **Duration:** Instant
 
 </div>
 
-As you curse your foe, they stumble and gasp for air. Make a Prowess attack against a creature within range. If it hits, deal 1d4 + Presence air damage and apply 1 stack blunted.
+??. ??.
 
-### Curse of Asphyxiation - Miracle
+### Curse of ?? - Miracle
 
 <div class="tight">
 
@@ -3203,15 +3205,15 @@ As you curse your foe, they stumble and gasp for air. Make a Prowess attack agai
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Attack:** ??
 
 **Duration:** Concentration
 
 </div>
 
-Your god denies the blessing of air to your foe, watching as they slowly suffocate. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Prowess attack against them. If it hits, deal 1d12 + Presence air damage and apply one stack of blunted. Each time you hit with this attack during a single miracle, increase the damage dealt by 1d12 + Presence.
+??
 
-### Gift of Grace
+### Gift of Charge
 
 <div class="tight">
 
@@ -3229,9 +3231,9 @@ Your god denies the blessing of air to your foe, watching as they slowly suffoca
 
 </div>
 
-Your deity grants the gift of grace to a creature, allowing them to move freely over the battlefield. Select a creature within range; until the end of their next turn, they cannot be the target of attacks of opportunity.
+??
 
-### Gift of Grace - Miracle
+### Gift of Charge - Miracle
 
 <div class="tight">
 
@@ -3249,7 +3251,7 @@ Your deity grants the gift of grace to a creature, allowing them to move freely 
 
 </div>
 
-Your ally is blessed with remarkable accuracy and grace, allowing them to hit shots that seem impossible. Select a creature within range. For the duration of this effect, their ranged basic attacks are made with advantage and their range is doubled. Additionally, they can make ranged basic attacks against any creature within range, as long as a path to them exists, ignoring line of sight and cover.
+As you pray to your god, your ally transforms into living lightning, electrocuting everything in their path. For the duration of this effect, their movement speed is doubled, attacks of opportunity against them have disadvantage and they may pass through enemy tiles. Whenever they pass through a tile of another creature on their turn, deal 1d12 + Presence electric damage to that creature. This effect cannot damage a single creature more than once each turn.
 
 ### Genesis of Wind
 
