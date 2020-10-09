@@ -1932,7 +1932,7 @@ Dappled light flickers over the skin of your ally, granting them the blessing of
 
 </div>
 
-Moonlight glows faintly from the eyes of your allies, granting them a strange protection from magic. Select a creature within range. For the duration of this effect, complete negate any special attacks that they block. If they block a multi-target effect, the entire effect is completely negated.
+Moonlight glows faintly from the eyes of your allies, granting them a strange protection from magic. Select a creature within range. For the duration of this effect, complete negate any special attacks that they block. If they block a multi-target attack, the entire attack is completely negated.
 
 ### Curse of Mercy
 
@@ -2075,7 +2075,7 @@ The _shining light_ tile effect has the following effects:
 
 When this miracle persists, all _shining light_ tile effects on the battlefield become permanent. If this miracle ends before it persists, remove all _shining light_ tile effects from the battlefield.
 
-### Portent of the Radiant???
+### Portent of the Dawn
 
 <div class="tight">
 
@@ -2083,19 +2083,19 @@ When this miracle persists, all _shining light_ tile effects on the battlefield 
 
 **Cost:** 0 essence
 
-**Range:** Self
+**Range:** Ranged, 3 tiles
 
-**Targets:** Single-target
+**Targets:** Multi-target
 
 **Attack:** None
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-~
+A strange, cleansing light begins to surround you, curing all those nearby. At the start of your next turn, gain the benefit of the Treat minor action, targeting all creatures within range including yourself.
 
-### Portent of the Radiant??? - Miracle
+### Portent of the Dawn - Miracle
 
 <div class="tight">
 
@@ -2113,7 +2113,11 @@ When this miracle persists, all _shining light_ tile effects on the battlefield 
 
 </div>
 
-~
+Nothing occurs when you first cast this miracle, although unexpected light begins to appear on the horizon. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
+
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and a calming light washes over the area.
+
+Remove all ailments and afflictions from all creatures within range. Until the end of your next rest, all attacks made by or against creatures within range automatically miss, and creatures within range cannot deal damage in any way. Permanently reduce the danger level of this area by 1.
 
 ### Wrath of the Sun
 
@@ -3404,7 +3408,7 @@ A terrible storm forms as you call down lightning freely from the sky. For the d
 
 ## Corrosive
 
-### Avatar of the Zephyr
+### Avatar of the Slimes
 
 <div class="tight">
 
@@ -3422,9 +3426,9 @@ A terrible storm forms as you call down lightning freely from the sky. For the d
 
 </div>
 
-Your blade swirls with wind, slicing through your foes’ defenses. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to air damage and ignores absorption.
+Your blade drips with a strange substance that seems to amplify the effects of your allies' blows. Make a basic attack against a creature of your choice. If you hit, the damage dealt is converted to corrosive damage and apply 3 + 1/2 Presence stacks of brittle.
 
-### Avatar of the Zephyr - Miracle
+### Avatar of the Slimes - Miracle
 
 <div class="tight">
 
@@ -3442,9 +3446,11 @@ Your blade swirls with wind, slicing through your foes’ defenses. Make a basic
 
 </div>
 
-Your body is held aloft by a furious tempest as you embody the power of air. For the duration of this effect, your basic attacks are automatically criticals if they hit. Additionally, whenever you enter and leave a creature's zone of control in the same turn, apply one stack of aloft to them.
+Your body ??. When you cast this miracle, make a copy of yourself out of slime in an adjacent tile of your choice. They share your statistics and any features you have, but have a life pool of their own. You control this copy, who has its own turn immediately after yours on its side. Your copy may not spend essence or use the Activate minor action, but otherwise may act as you do.
 
-### Blessing of Wings
+For the duration of this effect, your basic attacks (and those of your copy) are automatically criticals if they hit.
+
+### Blessing of the Ages
 
 <div class="tight">
 
@@ -3462,9 +3468,9 @@ Your body is held aloft by a furious tempest as you embody the power of air. For
 
 </div>
 
-Your ally is blessed, shielded by ethereal wings that protect them from harsh winds. Select a creature within range. They gain 6 + Presence absorption and are resistant to air damage for the duration of this effect.
+Your ally is blessed, shielded for a moment from the inexorable weathering of time. Select a creature within range. They gain 6 + Presence absorption and are resistant to corrosive damage for the duration of this effect.
 
-### Blessing of Wings - Miracle
+### Blessing of the Ages - Miracle
 
 <div class="tight">
 
@@ -3472,7 +3478,7 @@ Your ally is blessed, shielded by ethereal wings that protect them from harsh wi
 
 **Cost:** 0 essence
 
-**Range:** 6 tiles
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
@@ -3482,9 +3488,9 @@ Your ally is blessed, shielded by ethereal wings that protect them from harsh wi
 
 </div>
 
-By the grace of your god, your ally sprouts wings, letting them soar through the air. Select a creature within range. For the duration of this effect, they gain the ability to fly, their movement speed is doubled, and attacks of opportunity against them have disadvantage.
+As weapons strike your ally, they suddenly age millennia, rusted and harmless, before they snap back to their previous state. Select a creature within range. For the duration of this effect, complete negate any basic attacks that they block. If they block a multi-target attack, the entire attack is completely negated.
 
-### Curse of Asphyxiation
+### Curse of Cracks
 
 <div class="tight">
 
@@ -3502,9 +3508,9 @@ By the grace of your god, your ally sprouts wings, letting them soar through the
 
 </div>
 
-As you curse your foe, they stumble and gasp for air. Make a Prowess attack against a creature within range. If it hits, deal 1d4 + Presence air damage and apply 1 stack blunted.
+As you curse your foe, visible cracks begin to form in them, ready to shatter at the slightest blow. Make a Prowess attack against a creature within range. If it hits, apply 6 + Presence stacks of brittle.
 
-### Curse of Asphyxiation - Miracle
+### Curse of Cracks - Miracle
 
 <div class="tight">
 
@@ -3522,9 +3528,9 @@ As you curse your foe, they stumble and gasp for air. Make a Prowess attack agai
 
 </div>
 
-Your god denies the blessing of air to your foe, watching as they slowly suffocate. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Prowess attack against them. If it hits, deal 1d12 + Presence air damage and apply one stack of blunted. Each time you hit with this attack during a single miracle, increase the damage dealt by 1d12 + Presence.
+In a frightening spectacle, the subject of your ire begins to crack and break apart as every imperfection is amplified. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Prowess attack against them. If it hits, apply two stacks of defenseless, then deal corrosive damage to them equal to their total stacks of all afflictions.
 
-### Gift of Grace
+### Gift of Greed
 
 <div class="tight">
 
@@ -3536,15 +3542,15 @@ Your god denies the blessing of air to your foe, watching as they slowly suffoca
 
 **Targets:** Single-target
 
-**Attack:** None
+**Attack:** Presence
 
 **Duration:** Until the end of your next turn
 
 </div>
 
-Your deity grants the gift of grace to a creature, allowing them to move freely over the battlefield. Select a creature within range; until the end of their next turn, they cannot be the target of attacks of opportunity.
+With a corrupting prayer, you tempt others to follow your plan. Choose two creatures within range. They must be on different sides. Make a Presence attack against the first creature. If you hit, apply two stacks of taunted to the first creature, with the second creature as the focus, and grant the first creature advantage on all attacks until the end of your next turn.
 
-### Gift of Grace - Miracle
+### Gift of Greed - Miracle
 
 <div class="tight">
 
@@ -3562,9 +3568,13 @@ Your deity grants the gift of grace to a creature, allowing them to move freely 
 
 </div>
 
-Your ally is blessed with remarkable accuracy and grace, allowing them to hit shots that seem impossible. Select a creature within range. For the duration of this effect, their ranged basic attacks are made with advantage and their range is doubled. Additionally, they can make ranged basic attacks against any creature within range, as long as a path to them exists, ignoring line of sight and cover.
+Overwhelming greed consumes a hapless creature, as they give into their worst impulses in the hope of ever greater payoff. Select a creature within range and grant them the following boonYou. For the duration of this effect, whenever the affected creature hits a creature with an attack, they may repeat the attack at no cost, rolling again. If they hit, they may repeat the attack again. This effect chains indefinitely. If they miss, completely negate the original attack and all copies of it.
 
-### Genesis of Wind
+The choice to repeat an attack occurs after the creature see its immediate effects but before it is fully resolved. All copies of the attack resolve simultaneously.
+
+Attacks which automatically hit cannot gain the benefit of this effect.
+
+### Genesis of Oblivion
 
 <div class="tight">
 
@@ -3582,9 +3592,9 @@ Your ally is blessed with remarkable accuracy and grace, allowing them to hit sh
 
 </div>
 
-With the power of your god, you call a sudden gust of wind into creation. Make a Prowess attack against a creature of your choice. If you hit, deal 1d4 + Presence air damage and gain the effects of the Shove minor action against the target.
+With the power of your god, you call a sudden gust of wind into creation. Make a Focus attack against a creature of your choice. If you hit, until the end of your next turn, whenever that creature loses life they gain the same number of stacks of brittle.
 
-### Genesis of Wind - Miracle
+### Genesis of Oblivion - Miracle
 
 <div class="tight">
 
@@ -3594,37 +3604,37 @@ With the power of your god, you call a sudden gust of wind into creation. Make a
 
 **Range:** 24 tiles
 
-**Targets:** Multi-target
-
-**Attack:** Prowess
-
-**Duration:** Concentration
-
-</div>
-
-You summon an incredible wind which throws creatures around uncontrollably, sending them tumbling across the battlefield. When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 3 tile wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. Whenever a creature starts their turn in this wind or enters it for the first time on their turn, make a Prowess attack against them. If you hit, they are knocked prone and pushed 6 tiles in the direction of the wind. If you miss, they are pushed 3 tiles instead.
-
-### Portent of the Four Winds
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** Self
-
-**Targets:** Single-target
+**Targets:** None
 
 **Attack:** None
 
-**Duration:** Until the end of your current turn
+**Duration:** Concentration, Persisting
 
 </div>
 
-With a whispered prayer you transform into the wind for a moment, before reappearing quickly somewhere else. Gain the effects of the Dash minor action. For the duration of this effect, you move by teleportation.
+Specks of dust float through the air as everything in an area begins to crumble. Choose a tile, and create the _crumbling oblivion_ tile effect in a 3 tile radius around it. Whenever a creature in this tile effect loses life, they gain the same number of stacks of brittle.
 
-### Portent of the Four Winds - Miracle
+### Portent of Nothingness
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Ranged, 6 tiles
+
+**Targets:** None
+
+**Attack:** None
+
+**Duration:** Instant
+
+</div>
+
+In a terrible warning of things to come, you wipe the slate clean as an area is stripped to the bedrock. Remove all tile effects from a 1 tile radius centered around a tile of your choice within range.
+
+### Portent of Nothingness - Miracle
 
 <div class="tight">
 
@@ -3642,33 +3652,13 @@ With a whispered prayer you transform into the wind for a moment, before reappea
 
 </div>
 
-Nothing occurs when you first cast this miracle, although a strange breeze begins to blow over your allies. Select any number of allied creatures within range when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
+Nothing occurs when you first cast this miracle, although you can see cracks starting to form in every object nearby. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
-While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and you and your allies are carried away as you become one with the four winds.
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and the world around you becomes a featureless plain.
 
-The creatures selected immediately disappear into puffs of wind. Choose an outdoor location you have visited before. The selected creatures gain the benefits of a rest and reappear there one day later.
+Instantly and permanently destroy all objects within range that are not currently held or worn by a creature. This removes all vantages and any tile effects. Permanently increase the danger level of this area by 1.
 
-### Wrath of the Cyclone
-
-<div class="tight">
-
-**Action:** Major action
-
-**Cost:** 0 essence
-
-**Range:** 6 tiles
-
-**Targets:** Multi-target
-
-**Attack:** Prowess
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-A tiny tornado forms, wreaking small-scale devastation. Select a tile within range and create a 1-tile radius tornado centered on the chosen tile. Whenever a creature starts their turn in the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, apply one stack of aloft to them.
-
-### Wrath of the Cyclone - Miracle
+### Wrath of Acid
 
 <div class="tight">
 
@@ -3676,16 +3666,38 @@ A tiny tornado forms, wreaking small-scale devastation. Select a tile within ran
 
 **Cost:** 0 essence
 
-**Range:** 24 tiles
+**Range:** Melee, 2 tiles
 
 **Targets:** Multi-target
 
 **Attack:** Prowess
 
-**Duration:** Concentration
+**Duration:** Instant
 
 </div>
 
-A giant tornado forms from the heavens, touching down on the ground and violently tossing around all that it hits. Select a tile within range and create a 2-tile radius tornado centered on the chosen tile. While summoned, you may spend a minor action to move it up to 6 tiles in a path of your choice.
+As you fan your hands, acid sprays forth. Make an Agility attack against all creatures within a 2 tile cone. If you hit, deal 1d4 + Presence corrosive damage and apply one stack of defenseless. If you miss, they suffer the attack's effects at half efficacy instead.
 
-Whenever a creature starts their turn within the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, deal 3d6 + 3 \* Presence air damage to them and apply two stacks of aloft. If you miss, they suffer the effects at half efficacy.
+### Wrath of Acid - Miracle
+
+<div class="tight">
+
+**Action:** Major action
+
+**Cost:** 0 essence
+
+**Range:** Ranged, 24 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Agility
+
+**Duration:** Concentration, Persisting
+
+</div>
+
+In a terrible display of power, acid rains from the sky. At the start of each of your turns for the duration of this effect, select 3 tiles of your choice within range. Make an Agility attack against each creature in those tiles. If you hit, deal 1d8 + Presence corrosive damage and apply one stack of defenseless. If you miss, If you miss, they suffer the attack's effects at half efficacy instead.
+
+In each selected tile, create the _acid puddle_ tile effect. When this tile effect is triggered, deal 1d8 + Presence corrosive damage and apply one stack of defenseless to the triggering creature.
+
+When this miracle persists, any _acid puddle_ tile effects are permanent, rather than disappearing when your concentration ends.
