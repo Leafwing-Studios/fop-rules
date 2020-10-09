@@ -1568,6 +1568,7 @@ Your blade brims with unknown potential as you get the sense that something stra
 </div>
 
 You become chaos incarnate, spreading your madness wherever you strike. For the duration of this effect, your basic attacks are automatically criticals if they hit. In addition, gain the _spreading chaos_ condition. Creatures with _spreading chaos_ have suffer the following effects:
+
 - effects that mirror those of the [crazed](rules/conditions/ailments.md?id=crazed) ailment
 - after they hit another creature with an attack, that creature also gains the _spreading chaos_ condition
 - _spreading chaos_ cannot be removed as long as your concentration holds, and creatures cannot become immune to its effects
@@ -1797,7 +1798,7 @@ While you are concentrating on this miracle, your favor continues to build up as
 
 Select 19 contiguous tiles of the shape of your choice for the horror to spawn in. (It is size 19.) This horror has three times as much maximum life as you do, 6 essence and has three turns per round, getting its own side in the turn order. When it uses the Essence Tap minor action, it restores 3 essence.
 
-The horror's vital statistics match your own. Its melee basic attacks deal 2d8 + Presence + Prowess physical damage, and it gains the effects of the *[grasping strikes](https://tools.fontsofpower.com/affixes/5f1791d257ef5b001712e332)*, *[grasping appendages](https://tools.fontsofpower.com/affixes/5f1757f3a4547a00170586a2)*, *[effervescent grasp (eldritch)](https://tools.fontsofpower.com/affixes/5f19b47e3145950017c9b228)*, and *[reforming](https://tools.fontsofpower.com/affixes/5f02637a2ca9600017163c4b)* affixes.
+The horror's vital statistics match your own. Its melee basic attacks deal 2d8 + Presence + Prowess physical damage, and it gains the effects of the _[grasping strikes](https://tools.fontsofpower.com/affixes/5f1791d257ef5b001712e332)_, _[grasping appendages](https://tools.fontsofpower.com/affixes/5f1757f3a4547a00170586a2)_, _[effervescent grasp (eldritch)](https://tools.fontsofpower.com/affixes/5f19b47e3145950017c9b228)_, and _[reforming](https://tools.fontsofpower.com/affixes/5f02637a2ca9600017163c4b)_ affixes.
 
 It has access to the Shatter Minds power. As a minor action at the cost of 1 essence, the horror makes a Focus attack against all creatures within a 6 tile radius, dealing 1d8 + Presence eldritch damage and applying one stack of crazed to all those that it hits.
 
@@ -2014,8 +2015,9 @@ As you pull an ally towards you with a shining tether, you grant them the gift o
 </div>
 
 An ally gleams with divine light, empowered to use it to protect the innocent. Select a creature within range. For the duration of this effect, they gain the following boons:
+
 - whenever they take the Dash minor action, they may instead teleport to an empty tile adjacent to an ally of their choice within 6 tiles
-- the first time during their turn that they hit a creature with an attack, they deal an additional 2d6 + 2 * your Presence radiant damage
+- the first time during their turn that they hit a creature with an attack, they deal an additional 2d6 + 2 \* your Presence radiant damage
 
 ### Genesis of Light
 
@@ -2036,9 +2038,10 @@ An ally gleams with divine light, empowered to use it to protect the innocent. S
 </div>
 
 With the power of your god, light begins to shine out of nowhere. Create the _shining light_ tile effect in up to 3 tiles of your choice within range. The _shining light_ tile effect has the following effects:
+
 - its tiles are filled with bright light
 - tiles adjacent to it are filled with dim light
-- all shround and invisibility effects in these tiles are negated
+- all shroud and invisibility effects in these tiles are negated
 
 ### Genesis of Light - Miracle
 
@@ -2058,15 +2061,17 @@ With the power of your god, light begins to shine out of nowhere. Create the _sh
 
 </div>
 
-Light pours forth from you, the ground itself glowing where you walk. For the duration of this miracle: 
-- You can use your boons on any creature within the _shining light_ tile effect, regardless of range or line of sight. This includes any effect which applies a boon to the target (including the Treat and Break Grapple minor actions). 
+Light pours forth from you, the ground itself glowing where you walk. For the duration of this miracle:
+
+- You can use your boons on any creature within the _shining light_ tile effect, regardless of range or line of sight. This includes any effect which applies a boon to the target (including the Treat and Break Grapple minor actions).
 - At the start of each of your turns, create the _shining light_ tile effect in all tiles within a 2 tile radius of you. This tile effect persists as long as your concentration holds.
 - When this tile effect is triggered, the triggering creature gains 6 + Presence absorption.
 
 The _shining light_ tile effect has the following effects:
+
 - its tiles are filled with bright light
 - tiles adjacent to it are filled with dim light
-- all shround and invisibility effects in these tiles are negated
+- all shroud and invisibility effects in these tiles are negated
 
 When this miracle persists, all _shining light_ tile effects on the battlefield become permanent. If this miracle ends before it persists, remove all _shining light_ tile effects from the battlefield.
 
@@ -2148,7 +2153,7 @@ With a prayer, you shine with the furious light of the sun, scorching those near
 
 </div>
 
-The blinding light of the sun bursts forth from you, making it difficult for creatures to even look at you. At the start of each of your turns for the duration of this effect, make a Focus attack against all creatures in a 24 tile cone. If you hit, deal 2d6 + 2 * Presence radiant damage, and apply one stack each of blinded and frightened. Creatures that you miss suffer the attacks' effects at half efficacy instead.
+The blinding light of the sun bursts forth from you, making it difficult for creatures to even look at you. At the start of each of your turns for the duration of this effect, make a Focus attack against all creatures in a 24 tile cone. If you hit, deal 2d6 + 2 \* Presence radiant damage, and apply one stack each of blinded and frightened. Creatures that you miss suffer the attacks' effects at half efficacy instead.
 
 ## Umbral
 
@@ -3172,6 +3177,7 @@ Your ally is blessed by the gods of electricity, safely absorbing energy. Select
 </div>
 
 Electric energy begins to accumulate on a creature, crackling as it builds up before a catastrophic explosion. Select a creature within range. For the duration of this effect:
+
 - Whenever they would take damage other than from the shock affliction or this miracle, they gain that many stacks of shock instead.
 - Whenever they would gain stacks of an affliction other than shock, they gain the same number of stacks of shock instead.
 - At the beginning of each of their turns, if they have at least 10 stacks of shock, make a Prowess attack against all creatures in a 3 tile radius, including the selected creature. If you hit, deal electric damage equal to the stacks of shock. Creatures that you miss suffer the attack's effects at half efficacy. Then remove all stacks of shock from the affected creature.
@@ -3180,7 +3186,7 @@ Electric energy begins to accumulate on a creature, crackling as it builds up be
 
 Unlike with other miracles, while the selected creature has at least one stack of charge, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
-### Curse of ??
+### Curse of Attraction
 
 <div class="tight">
 
@@ -3192,7 +3198,7 @@ Unlike with other miracles, while the selected creature has at least one stack o
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Prowess
 
 **Duration:** Instant
 
@@ -3200,7 +3206,7 @@ Unlike with other miracles, while the selected creature has at least one stack o
 
 ??. ??.
 
-### Curse of ?? - Miracle
+### Curse of Attraction - Miracle
 
 <div class="tight">
 
@@ -3212,13 +3218,13 @@ Unlike with other miracles, while the selected creature has at least one stack o
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Prowess
 
 **Duration:** Concentration
 
 </div>
 
-??
+??. ??.
 
 ### Gift of Charge
 
@@ -3234,11 +3240,13 @@ Unlike with other miracles, while the selected creature has at least one stack o
 
 **Attack:** None
 
-**Duration:** Until the end of your next turn
+**Duration:** Until the start of your target's next turn
 
 </div>
 
-??
+Charge builds up, before your ally suddenly appears in that location with a bang. Choose a willing creature within range, then designate a tile within a 3 tile range of them.
+
+At the start of that creature's next turn, they teleport to the designated tile. Make an Agility attack against all other creatures within a 1 tile radius of that tile. If you hit, deal 1d8 + Presence electric damage.
 
 ### Gift of Charge - Miracle
 
@@ -3260,7 +3268,7 @@ Unlike with other miracles, while the selected creature has at least one stack o
 
 As you pray to your god, your ally transforms into living lightning, electrocuting everything in their path. For the duration of this effect, their movement speed is doubled, attacks of opportunity against them have disadvantage and they may pass through enemy tiles. Whenever they pass through a tile of another creature on their turn, make an Agility attack against that creature. If you hit, deal 1d12 + Presence electric damage to that creature. If you miss, they suffer the attack's effects at half efficacy. This effect cannot damage a single creature more than once each turn.
 
-### Genesis of ??
+### Genesis of Accumulation
 
 <div class="tight">
 
@@ -3272,15 +3280,15 @@ As you pray to your god, your ally transforms into living lightning, electrocuti
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Focus
 
 **Duration:** Instant
 
 </div>
 
-??
+??. Make a Focus attack against a creature of your choice within range. If you hit, apply 6 + Presence stacks of shock to them.
 
-### Genesis of ?? - Miracle
+### Genesis of Accumulation - Miracle
 
 <div class="tight">
 
@@ -3294,11 +3302,15 @@ As you pray to your god, your ally transforms into living lightning, electrocuti
 
 **Attack:** ??
 
-**Duration:** Concentration
+**Duration:** Concentration, Persisting
 
 </div>
 
-??
+??. Create the _electrostatic isolation_ tile effect in a 4 tile radius around a tile of your choice within range. In this tile effect:
+
+- the shock affliction cannot be removed by any means
+- treat any immunity to electric damage as if it were resistance instead
+- when this tile effect is triggered, deal electric damage to the triggering creature equal to their current stacks of shocked
 
 ### Portent of ???
 
@@ -3320,7 +3332,7 @@ As you pray to your god, your ally transforms into living lightning, electrocuti
 
 ??
 
-### Portent of the Four Winds - Miracle
+### Portent of ?? - Miracle
 
 <div class="tight">
 
@@ -3338,9 +3350,13 @@ As you pray to your god, your ally transforms into living lightning, electrocuti
 
 </div>
 
+Nothing occurs when you first cast this miracle, although ???. You cannot benefit from the Hidden status while concentrating on this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
+
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and ??.
+
 ??
 
-### Wrath of Ligthning
+### Wrath of Lightning
 
 <div class="tight">
 
