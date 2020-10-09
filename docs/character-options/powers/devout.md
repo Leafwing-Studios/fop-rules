@@ -527,7 +527,7 @@ Solid rock springs forth from the ground, jutting roughly and suddenly. Create u
 
 </div>
 
-With a prophetic flourish, you foresee the falling of a meteor. Select a tile of your choice within range. At the beginning of your next turn, make an Agility attack against all creatures one-tile radius centered on this tile as a small meteor falls from the sky. If you hit, deal 2d8 + 2 \* Presence earth damage and knock them prone. If you miss, deal 1d8 + Presence earth damage instead.
+With a prophetic flourish, you foresee the falling of a meteor. Select a tile of your choice within range. At the beginning of your next turn, make an Agility attack against all creatures one tile radius centered on this tile as a small meteor falls from the sky. If you hit, deal 2d8 + 2 \* Presence earth damage and knock them prone. If you miss, creatures suffer the attacks effects at half efficacy instead and are not knocked prone.
 
 ### Portent of the Meteor - Miracle
 
@@ -3196,7 +3196,7 @@ Unlike with other miracles, while the selected creature has at least one stack o
 
 **Range:** 6 tiles
 
-**Targets:** Single-target
+**Targets:** Multi-target
 
 **Attack:** Prowess
 
@@ -3204,7 +3204,7 @@ Unlike with other miracles, while the selected creature has at least one stack o
 
 </div>
 
-??. ??.
+A strange force begins to pull two creatures together, as if by fate. Make a Prowess attack against two creatures of your choice within range. If you hit, pull them towards each other, applying forced movement evenly between them until they meet in the middle. If you hit only one creature, pull that creature.
 
 ### Curse of Attraction - Miracle
 
@@ -3224,7 +3224,10 @@ Unlike with other miracles, while the selected creature has at least one stack o
 
 </div>
 
-??. ??.
+A strange attraction grows towards the creature that you curse, as others are pulled in by their strange pulsating magnetism. Choose a creature within range when you first cast this miracle. For the duration of this effect:
+
+- All attacks made against a creature within a 1 tile radius of the selected creature target and affect only the selected creature instead. This does not affect attacks made by the selected creature.
+- At the start of each of your turns for the duration of this effect, make a Prowess attack against all creatures within a 3 tile radius of the selected creature. If you hit, pull them up to 3 tiles directly towards the selected creature. You may choose the order creatures are pulled in.
 
 ### Gift of Charge
 
@@ -3286,7 +3289,7 @@ As you pray to your god, your ally transforms into living lightning, electrocuti
 
 </div>
 
-??. Make a Focus attack against a creature of your choice within range. If you hit, apply 6 + Presence stacks of shock to them.
+As you pray, charge begins to build up on your target, causing their hair to stand on end. Make a Focus attack against a creature of your choice within range. If you hit, apply 6 + Presence stacks of shock to them.
 
 ### Genesis of Accumulation - Miracle
 
@@ -3300,19 +3303,19 @@ As you pray to your god, your ally transforms into living lightning, electrocuti
 
 **Targets:** Multi-target
 
-**Attack:** ??
+**Attack:** None
 
 **Duration:** Concentration, Persisting
 
 </div>
 
-??. Create the _electrostatic isolation_ tile effect in a 4 tile radius around a tile of your choice within range. In this tile effect:
+A strange force envelops the land, as electric charge refuses to dissipate. Create the _electrostatic isolation_ tile effect in a 4 tile radius around a tile of your choice within range. In this tile effect:
 
 - the shock affliction cannot be removed by any means
 - treat any immunity to electric damage as if it were resistance instead
 - when this tile effect is triggered, deal electric damage to the triggering creature equal to their current stacks of shocked
 
-### Portent of ???
+### Portent of Conductivity
 
 <div class="tight">
 
@@ -3320,19 +3323,19 @@ As you pray to your god, your ally transforms into living lightning, electrocuti
 
 **Cost:** 0 essence
 
-**Range:** Self
+**Range:** Ranged, 6 tiles
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Attack:** Focus
 
-**Duration:** ??
+**Duration:** Instant
 
 </div>
 
-??
+As you pray to your gods, the accumulated charge of your enemy flows through them. Make a Focus attack against a creature of your choice within range. If you hit, deal electric damage to them equal to the number of stacks of shock they have.
 
-### Portent of ?? - Miracle
+### Portent of Conductivity - Miracle
 
 <div class="tight">
 
@@ -3350,11 +3353,11 @@ As you pray to your god, your ally transforms into living lightning, electrocuti
 
 </div>
 
-Nothing occurs when you first cast this miracle, although ???. You cannot benefit from the Hidden status while concentrating on this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
+Nothing occurs when you first cast this miracle, although sparks begin to crackle when creatures touch. You cannot benefit from the Hidden status while concentrating on this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
-While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and ??.
+While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and charge begins to flow freely between creatures.
 
-??
+For the duration of this effect, whenever a creature within range hits a creature with an attack, apply 6 + Presence stacks of shocked to the defender, then transfer all stacks of shocked from the attacker to the defender.
 
 ### Wrath of Lightning
 
@@ -3370,11 +3373,11 @@ While you are concentrating on this miracle, your favor continues to build up as
 
 **Attack:** Agility
 
-**Duration:** ??
+**Duration:** Until the start of your next turn
 
 </div>
 
-??
+The land begins to spark as lightning shoots down from the sky. Choose a tile within range, which begins to visibly spark. At the start of your next turn, make an Agility attack against all creatures in a one tile radius centered on this tile as a bolt of lightning shoots from the sky. If you hit, deal 1d12 + Presence electric damage. If you miss, creatures suffer the attacks effects at half efficacy instead.
 
 ### Wrath of Lightning - Miracle
 
@@ -3384,7 +3387,7 @@ While you are concentrating on this miracle, your favor continues to build up as
 
 **Cost:** 0 essence
 
-**Range:** 24 tiles
+**Range:** Self
 
 **Targets:** Multi-target
 
@@ -3394,7 +3397,10 @@ While you are concentrating on this miracle, your favor continues to build up as
 
 </div>
 
-??
+A terrible storm forms as you call down lightning freely from the sky. For the duration of this effect:
+
+- A 12 tile radius around you has the _gathering storm_ tile effect. Whenever a creature in this tile effect takes electric damage, add that many stacks of shock as well. When this happens, remove the same number of stacks of any afflictions other than shock that creature might have (of your choice) if able.
+- You gain access to the _call lightning_ power. As a minor action, with no essence cost, make a ranged Agility attack against all creatures in a one tile radius centered on a tile of your choice with the _gathering storm_ tile effect. If you hit, deal 1d12 + Presence electric damage. If you miss, creatures suffer the attacks effects at half efficacy instead.
 
 ## Corrosive
 
