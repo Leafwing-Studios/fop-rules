@@ -3091,7 +3091,7 @@ In addition, make a Prowess attack against the infected creature themselves. If 
 
 ## Electric
 
-### Avatar of the Storm
+### Avatar of the Arc
 
 <div class="tight">
 
@@ -3111,7 +3111,7 @@ In addition, make a Prowess attack against the infected creature themselves. If 
 
 Your blade crackles with lightning, visibly sparking to any nearby objects. If you hit, all damage dealt is converted to electric damage and you apply 3 + 1/2 Presence stacks of shock.
 
-### Avatar of the Storm - Miracle
+### Avatar of the Arc - Miracle
 
 <div class="tight">
 
@@ -3129,11 +3129,11 @@ Your blade crackles with lightning, visibly sparking to any nearby objects. If y
 
 </div>
 
-Your body sparks with the fury of the storm as you gather electrical charge before discharging it with your strikes. For the duration of this effect, your basic attacks are automatically criticals if they hit. 
+Your body sparks with power as your attacks arc between your foes. For the duration of this effect your basic attacks are automatically criticals if they hit.
 
-In addition, at the start of each of your turns for the duration of this effect, transfer all stacks of shock from creatures in a 2 tile radius to you, dealing 1 point of electric damage for each stack removed. Whenever you hit a creature with a basic attack, remove all stacks of shock from yourself, then deal 1 point of electric damage to them for each stack removed. Like usual, the efficacy of this damage is doubled due to it being a critical hit.
+In addition, when you make a basic attack against a creature, your attacks chain uncontrollably between targets. Begin with your selected target, then the attack chains to a new target of your choice within 2 tiles of the previous one. The chain must continue until there are no more targets within range who have not already been hit.
 
-### Blessing of ??
+### Blessing of Capacitance
 
 <div class="tight">
 
@@ -3151,9 +3151,9 @@ In addition, at the start of each of your turns for the duration of this effect,
 
 </div>
 
-Your ally is blessed, ?FLAVOR?. Select a creature within range. They gain 6 + Presence absorption and are resistant to electric damage for the duration of this effect.
+Your ally is blessed by the gods of electricity, safely absorbing energy. Select a creature within range. They gain 6 + Presence absorption and are resistant to electric damage for the duration of this effect.
 
-### Blessing of ?? - Miracle
+### Blessing of Capacitance - Miracle
 
 <div class="tight">
 
@@ -3171,7 +3171,14 @@ Your ally is blessed, ?FLAVOR?. Select a creature within range. They gain 6 + Pr
 
 </div>
 
-??. Select a creature within range. For the duration of this effect, ??.
+Electric energy begins to accumulate on a creature, crackling as it builds up before a catastrophic explosion. Select a creature within range. For the duration of this effect:
+- Whenever they would take damage other than from the shock affliction or this miracle, they gain that many stacks of shock instead.
+- Whenever they would gain stacks of an affliction other than shock, they gain the same number of stacks of shock instead.
+- At the beginning of each of their turns, if they have at least 10 stacks of shock, make a Prowess attack against all creatures in a 3 tile radius, including the selected creature. If you hit, deal electric damage equal to the stacks of shock. Creatures that you miss suffer the attack's effects at half efficacy. Then remove all stacks of shock from the affected creature.
+- The damage type of this attack is always electric and cannot be changed.
+- Treat any immunity to electric damage that the selected creature may have as if it were only resistance.
+
+Unlike with other miracles, while the selected creature has at least one stack of charge, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
 
 ### Curse of ??
 
@@ -3245,15 +3252,15 @@ Your ally is blessed, ?FLAVOR?. Select a creature within range. They gain 6 + Pr
 
 **Targets:** Single-target
 
-**Attack:** None
+**Attack:** Agility
 
 **Duration:** Concentration
 
 </div>
 
-As you pray to your god, your ally transforms into living lightning, electrocuting everything in their path. For the duration of this effect, their movement speed is doubled, attacks of opportunity against them have disadvantage and they may pass through enemy tiles. Whenever they pass through a tile of another creature on their turn, deal 1d12 + Presence electric damage to that creature. This effect cannot damage a single creature more than once each turn.
+As you pray to your god, your ally transforms into living lightning, electrocuting everything in their path. For the duration of this effect, their movement speed is doubled, attacks of opportunity against them have disadvantage and they may pass through enemy tiles. Whenever they pass through a tile of another creature on their turn, make an Agility attack against that creature. If you hit, deal 1d12 + Presence electric damage to that creature. If you miss, they suffer the attack's effects at half efficacy. This effect cannot damage a single creature more than once each turn.
 
-### Genesis of Wind
+### Genesis of ??
 
 <div class="tight">
 
@@ -3265,15 +3272,15 @@ As you pray to your god, your ally transforms into living lightning, electrocuti
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Attack:** ??
 
 **Duration:** Instant
 
 </div>
 
-With the power of your god, you call a sudden gust of wind into creation. Make a Prowess attack against a creature of your choice. If you hit, deal 1d4 + Presence air damage and gain the effects of the Shove minor action against the target.
+??
 
-### Genesis of Wind - Miracle
+### Genesis of ?? - Miracle
 
 <div class="tight">
 
@@ -3285,15 +3292,15 @@ With the power of your god, you call a sudden gust of wind into creation. Make a
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Attack:** ??
 
 **Duration:** Concentration
 
 </div>
 
-You summon an incredible wind which throws creatures around uncontrollably, sending them tumbling across the battlefield. When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 3 tile wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. Whenever a creature starts their turn in this wind or enters it for the first time on their turn, make a Prowess attack against them. If you hit, they are knocked prone and pushed 6 tiles in the direction of the wind. If you miss, they are pushed 3 tiles instead.
+??
 
-### Portent of the Four Winds
+### Portent of ???
 
 <div class="tight">
 
@@ -3305,13 +3312,13 @@ You summon an incredible wind which throws creatures around uncontrollably, send
 
 **Targets:** Single-target
 
-**Attack:** None
+**Attack:** ??
 
-**Duration:** Until the end of your current turn
+**Duration:** ??
 
 </div>
 
-With a whispered prayer you transform into the wind for a moment, before reappearing quickly somewhere else. Gain the effects of the Dash minor action. For the duration of this effect, you move by teleportation.
+??
 
 ### Portent of the Four Winds - Miracle
 
@@ -3331,13 +3338,9 @@ With a whispered prayer you transform into the wind for a moment, before reappea
 
 </div>
 
-Nothing occurs when you first cast this miracle, although a strange breeze begins to blow over your allies. Select any number of allied creatures within range when you first cast this miracle. Unlike with other miracles, you cannot voluntarily choose to end your concentration on this miracle, and nothing you or your allies willingly do can break your concentration or end this effect.
+??
 
-While you are concentrating on this miracle, your favor continues to build up as you wait for the foreseen events to occur. The first time your favor is 5 or more at the start of your turn, this portent comes to pass. At that time, your concentration on this miracle ends and you and your allies are carried away as you become one with the four winds.
-
-The creatures selected immediately disappear into puffs of wind. Choose an outdoor location you have visited before. The selected creatures gain the benefits of a rest and reappear there one day later.
-
-### Wrath of the Cyclone
+### Wrath of Ligthning
 
 <div class="tight">
 
@@ -3349,15 +3352,15 @@ The creatures selected immediately disappear into puffs of wind. Choose an outdo
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Attack:** Agility
 
-**Duration:** Until the end of your next turn
+**Duration:** ??
 
 </div>
 
-A tiny tornado forms, wreaking small-scale devastation. Select a tile within range and create a 1-tile radius tornado centered on the chosen tile. Whenever a creature starts their turn in the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, apply one stack of aloft to them.
+??
 
-### Wrath of the Cyclone - Miracle
+### Wrath of Lightning - Miracle
 
 <div class="tight">
 
@@ -3375,9 +3378,7 @@ A tiny tornado forms, wreaking small-scale devastation. Select a tile within ran
 
 </div>
 
-A giant tornado forms from the heavens, touching down on the ground and violently tossing around all that it hits. Select a tile within range and create a 2-tile radius tornado centered on the chosen tile. While summoned, you may spend a minor action to move it up to 6 tiles in a path of your choice.
-
-Whenever a creature starts their turn within the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, deal 3d6 + 3 \* Presence air damage to them and apply two stacks of aloft. If you miss, they suffer the effects at half efficacy.
+??
 
 ## Corrosive
 
