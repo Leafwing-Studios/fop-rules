@@ -126,6 +126,8 @@ Once you reach level 5, you learn to chain energy through your enemies as the ma
 
 Each new target must be within 2 tiles of the previous one, and the chain can contain up to two targets total. Creatures can only be part of each chain once; you cannot return to them. You must hit targets beyond the first that the magic jumps to with the special attack specified in the charge description, even if you use this feature as part of an imbued basic attack.
 
+Spells copied in this way remain single-target, allowing them to gain the full benefit of effects such as the _imbued thaumaturgy_ affix.
+
 The total number of creatures hit in this chain increases to 3 at level 9, 4 at level 13 and 5 at level 17. You must pay one essence for each jump made.
 
 ## Static Analysis
