@@ -39,28 +39,28 @@
 
 <div class="class-table">
 
-| Level | Proficiency Bonus |                      Features                      | Spells Known |
-| :---: | :---------------: | :------------------------------------------------: | :----------: |
-|   1   |        +1         | Runecasting (1), Schools of Magic, Elaborate Runes |      4       |
-|   2   |        +1         |         Secrets of The Past, Self-Reliance         |      4       |
-|   3   |        +1         |   Runic Alteration: Quantifier, Self-Sufficiency   |      4       |
-|   4   |        +1         |               Attribute Improvement                |      5       |
-|   5   |        +2         |   Proficiency Bonus Improvement, Runecasting (2)   |      5       |
-|   6   |        +2         |                    Rune Seeking                    |      5       |
-|   7   |        +2         |              Runic Alteration: Accent              |      5       |
-|   8   |        +2         |               Attribute Improvement                |      6       |
-|   9   |        +3         |   Proficiency Bonus Improvement, Runecasting (3)   |      6       |
-|  10   |        +3         |                    Field Notes                     |      6       |
-|  11   |        +3         |              Runic Alteration: Script              |      6       |
-|  12   |        +3         |               Attribute Improvement                |      7       |
-|  13   |        +4         |   Proficiency Bonus Improvement, Runecasting (4)   |      7       |
-|  14   |        +4         |                    Lore Seeking                    |      7       |
-|  15   |        +4         |              Runic Alteration: Style               |      7       |
-|  16   |        +4         |               Attribute Improvement                |      8       |
-|  17   |        +5         |   Proficiency Bonus Improvement, Runecasting (5)   |      8       |
-|  18   |        +5         |               Allure of the Unknown                |      8       |
-|  19   |        +5         |               Attribute Improvement                |      9       |
-|  20   |        +5         |               Pinnacle of Knowledge                |      9       |
+| Level | Proficiency Bonus |                     Features                      | Spells Known |
+| :---: | :---------------: | :-----------------------------------------------: | :----------: |
+|   1   |        +1         | Runecasting (1), School of Magic, Elaborate Runes |      4       |
+|   2   |        +1         |        Secrets of The Past, Self-Reliance         |      4       |
+|   3   |        +1         |  Runic Alteration: Quantifier, Self-Sufficiency   |      4       |
+|   4   |        +1         |               Attribute Improvement               |      5       |
+|   5   |        +2         |  Proficiency Bonus Improvement, Runecasting (2)   |      5       |
+|   6   |        +2         |                   Rune Seeking                    |      5       |
+|   7   |        +2         |             Runic Alteration: Accent              |      5       |
+|   8   |        +2         |               Attribute Improvement               |      6       |
+|   9   |        +3         |  Proficiency Bonus Improvement, Runecasting (3)   |      6       |
+|  10   |        +3         |                    Field Notes                    |      6       |
+|  11   |        +3         |             Runic Alteration: Script              |      6       |
+|  12   |        +3         |               Attribute Improvement               |      7       |
+|  13   |        +4         |  Proficiency Bonus Improvement, Runecasting (4)   |      7       |
+|  14   |        +4         |                   Lore Seeking                    |      7       |
+|  15   |        +4         |              Runic Alteration: Style              |      7       |
+|  16   |        +4         |               Attribute Improvement               |      8       |
+|  17   |        +5         |  Proficiency Bonus Improvement, Runecasting (5)   |      8       |
+|  18   |        +5         |               Allure of the Unknown               |      8       |
+|  19   |        +5         |               Attribute Improvement               |      9       |
+|  20   |        +5         |               Pinnacle of Knowledge               |      9       |
 
 </div>
 
@@ -83,7 +83,7 @@ When you cast a spell, you may spend additional essence to empower its effects, 
 
 At level 1, you know 4 spells, and learn a new spell at level 4, 8, 12, 16 and 19. At least half of the spells that you know must be from the spell list associated with your school of magic (described immediately below); other spells can be chosen freely from other schools of magic.
 
-## Schools of Magic
+## School of Magic
 
 At level 1, each Runeseeker chooses a **school of magic**, specializing in a particular form of magic according to their unique training. This choice determines the primary spell list available to you, as well as the benefits of your level 15 Runic Alteration: Style and level 20 Pinnacle of Knowledge class feature.
 
@@ -265,13 +265,13 @@ As a student of viviculture, select one of the following runic alterations at le
 
 The altered spell only affects creatures with the aloft or flying conditions.
 
-#### Atrophy
-
-When you cast the altered spell, remove all absorption that you have from yourself. The spell deals additional damage equal to the absorption removed in this way. This extra damage is affected by efficacy in the usual fashion and is of the same damage type as the altered spell.
-
 #### Growth
 
 The altered spell does not deal damage. Instead, you gain absorption equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
+
+#### Harvest
+
+When you cast the altered spell, remove all absorption that you have from yourself. The spell deals additional damage equal to the absorption removed in this way. This extra damage is affected by efficacy in the usual fashion and is of the same damage type as the altered spell.
 
 ### Pinnacle of Magic: Cultivation
 
@@ -291,13 +291,13 @@ As a student of Energetics, select one of the following runic alterations at lev
 
 All forced movement applied by the altered spell moves you the same distance in the opposite direction.
 
-#### Potential
-
-The altered spell does not deal damage. Instead, it applies stacks of brittle equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
-
 #### Inversion
 
 The direction of all forced movement applied by the altered spell is reversed.
+
+#### Potential
+
+The altered spell does not deal damage. Instead, it applies stacks of brittle equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
 
 ### Pinnacle of Magic: Free Energy
 
