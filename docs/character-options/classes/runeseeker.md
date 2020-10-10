@@ -265,13 +265,13 @@ As a student of viviculture, select one of the following runic alterations at le
 
 The altered spell only affects creatures with the aloft or flying conditions.
 
-#### Atrophy
-
-When you cast the altered spell, remove all absorption that you have from yourself. The spell deals additional damage equal to the absorption removed in this way. This extra damage is affected by efficacy in the usual fashion and is of the same damage type as the altered spell.
-
 #### Growth
 
 The altered spell does not deal damage. Instead, you gain absorption equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
+
+#### Harvest
+
+When you cast the altered spell, remove all absorption that you have from yourself. The spell deals additional damage equal to the absorption removed in this way. This extra damage is affected by efficacy in the usual fashion and is of the same damage type as the altered spell.
 
 ### Pinnacle of Magic: Cultivation
 
@@ -291,13 +291,13 @@ As a student of Energetics, select one of the following runic alterations at lev
 
 All forced movement applied by the altered spell moves you the same distance in the opposite direction.
 
-#### Potential
-
-The altered spell does not deal damage. Instead, it applies stacks of brittle equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
-
 #### Inversion
 
 The direction of all forced movement applied by the altered spell is reversed.
+
+#### Potential
+
+The altered spell does not deal damage. Instead, it applies stacks of brittle equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
 
 ### Pinnacle of Magic: Free Energy
 
