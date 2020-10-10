@@ -181,8 +181,8 @@ Learn one of the following three alterations. Whenever you cast a spell, you may
 | **School**  | **Elements**              | **Ailments**                     |
 | ----------- | ------------------------- | -------------------------------- |
 | Arcanology  | arcane, eldritch, water   | banished, crazed, chilled        |
-| Biodynamics | primal, decay, air        | rooted, withered, aloft          |
-| Energetics  | radiant, umbral, earth    | pacified, cursed, blunted        |
+| Viviculture | primal, decay, earth      | rooted, withered, blunted        |
+| Energetics  | radiant, umbral, air      | pacified, cursed, aloft          |
 | Technomancy | electric, corrosion, fire | frightened, defenseless, blinded |
 
 </div>
@@ -229,15 +229,15 @@ In addition, you gain a powerful bonus that improves your spells, as described i
 
 **Academic skill:** Arcana
 
-FLUFF.
+FLUFF. Students of arcanology focus on teleportation, invisibility and controlling ailments.
 
 ### Runic Alteration: Arcane Style
 
-As a student of Arcanology, select one of the following runic alterations at level 15.
+As a student of arcanology, select one of the following runic alterations at level 15.
 
-#### ??
+#### Exchange
 
-??
+When you hit a creature with the altered spell, you may trade any number of stacks of ailments affecting you for the same number of ailments affecting the target hit. If you hit multiple creatures with the altered spell, trade with each creature in the sequence of your choice.
 
 #### Grandiosity
 
@@ -245,21 +245,21 @@ The altered spell targets every creature on the battlefield, other than yourself
 
 #### Weirding
 
-After you hit a creature with a spell that uses this alteration, swap positions with them. If you hit multiple creatures with this spell, choose one.
+After you hit a creature with a spell that uses this alteration, swap positions with them via teleportation. If you hit multiple creatures with this spell, choose one.
 
 ### Pinnacle of Magic: Riftwalking
 
-At level 20, you unlock the final secrets of Arcanology, opening a rift in reality as you cast your spells. After a spell that you cast completes, teleport up to 3 tiles. This effect occurs after any attack of opportunity triggered is resolved.
+At level 20, you unlock the final secrets of arcanology, opening a rift in reality as you cast your spells. After a spell that you cast completes, teleport up to 3 tiles. This effect occurs after any attack of opportunity triggered is resolved.
 
-## Biodynamics
+## Viviculture
 
 **Academic skill:** Anima
 
-FLUFF.
+FLUFF. Students of viviculture focus on creating and spreading ground effects and playing with absorption.
 
-### Runic Alteration: Biodynamic Style
+### Runic Alteration: Living Style
 
-As a student of Biodynamics, select one of the following runic alterations at level 15.
+As a student of viviculture, select one of the following runic alterations at level 15.
 
 #### Airborne
 
@@ -273,31 +273,31 @@ When you cast the altered spell, remove all absorption that you have from yourse
 
 The altered spell does not deal damage. Instead, you gain absorption equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
 
-### Pinnacle of Magic: ???
+### Pinnacle of Magic: Cultivation
 
-At level 20, you unlock the final secrets of Biodynamics, ???. ??.
+At level 20, you unlock the final secrets of viviculture, allowing you to spread and shape magical effects with your living magic. Whenever you cast a spell, you may choose a tile with a tile effect within a 6 tile range. You may add or remove up to 9 tiles of that tile effect in a pattern of your choice, as long as all tiles modified are connected to the selected tile.
 
 ## Energetics
 
 **Academic skill:** Fontcraft
 
-FLUFF.
+FLUFF. Students of energetics focus on applying forced movement and manipulating afflictions.
 
 ### Runic Alteration: Energetics
 
 As a student of Energetics, select one of the following runic alterations at level 15.
 
-#### Antimatter
-
-The altered spell does not deal damage. Instead, it grants absorption equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
-
 #### Conservation
 
 All forced movement applied by the altered spell moves you the same distance in the opposite direction.
 
-#### Excess
+#### Potential
 
-The damage dealt by the altered spell is doubled. Lose life equal to the damage you deal with the altered spell.
+The altered spell does not deal damage. Instead, it applies stacks of brittle equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
+
+#### Inversion
+
+The direction of all forced movement applied by the altered spell is reversed.
 
 ### Pinnacle of Magic: Free Energy
 
@@ -307,19 +307,19 @@ At level 20, you unlock the final secrets of Energetics, allowing you to tap int
 
 **Academic skill:** Tinkering
 
-FLUFF.
+FLUFF. Students of Technomancy focus on risky but powerful magical effects.
 
 ### Runic Alteration: Technomantic Style
 
 As a student of Technomancy, select one of the following runic alterations at level 15.
 
-#### Error
+#### Antimatter
 
-The altered spell does not deal damage. Instead, it applies stacks of brittle equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
+The altered spell does not deal damage. Instead, it grants absorption equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
 
-#### Ground
+#### Excess
 
-The altered spell only affects creatures without the aloft or flying conditions.
+The damage dealt by the altered spell is doubled. Lose life equal to the damage you deal with the altered spell.
 
 #### Overdrive
 
