@@ -180,10 +180,10 @@ Learn one of the following three alterations. Whenever you cast a spell, you may
 
 | **School**  | **Elements**              | **Ailments**                     |
 | ----------- | ------------------------- | -------------------------------- |
-| ?Anima?     | primal, decay, air        | rooted, withered, aloft          |
-| ?Arcana?    | arcane, eldritch, water   | banished, crazed, chilled        |
-| ?Fontcraft? | radiant, umbral, earth    | pacified, cursed, blunted        |
-| ?Tinkering? | electric, corrosion, fire | frightened, defenseless, blinded |
+| Arcanology  | arcane, eldritch, water   | banished, crazed, chilled        |
+| Biodynamics | primal, decay, air        | rooted, withered, aloft          |
+| Energetics  | radiant, umbral, earth    | pacified, cursed, blunted        |
+| Technomancy | electric, corrosion, fire | frightened, defenseless, blinded |
 
 </div>
 
@@ -221,4 +221,117 @@ At level 20, you have reached the current pinnacle of knowledge of your magic, a
 
 You gain access to the Scholarship downtime activity. When you use this downtime activity, you may replace any of your class decision (such as one of your spells or alterations known), replacing it with another choice from the same class feature.
 
-In addition, you gain a powerful bonus to your spells, as described in the section for your school of magic, found at the end of this class description.
+In addition, you gain a powerful bonus that improves your spells, as described in the section for your school of magic.
+
+# Schools of Magic
+
+## Arcanology
+
+**Academic skill:** Arcana
+
+FLUFF.
+
+### Runic Alteration: Arcane Style
+
+As a student of Arcanology, select one of the following runic alterations at level 15.
+
+#### ??
+
+??
+
+#### Grandiosity
+
+The altered spell targets every creature on the battlefield, other than yourself. This ignores line of sight, the hidden status and range, but not the banished ailment.
+
+#### Weirding
+
+After you hit a creature with a spell that uses this alteration, swap positions with them. If you hit multiple creatures with this spell, choose one.
+
+### Pinnacle of Magic: Riftwalking
+
+At level 20, you unlock the final secrets of Arcanology, opening a rift in reality as you cast your spells. After a spell that you cast completes, teleport up to 3 tiles. This effect occurs after any attack of opportunity triggered is resolved.
+
+## Biodynamics
+
+**Academic skill:** Anima
+
+FLUFF.
+
+### Runic Alteration: Biodynamic Style
+
+As a student of Biodynamics, select one of the following runic alterations at level 15.
+
+#### Airborne
+
+The altered spell only affects creatures with the aloft or flying conditions.
+
+#### Atrophy
+
+When you cast the altered spell, remove all absorption that you have from yourself. The spell deals additional damage equal to the absorption removed in this way. This extra damage is affected by efficacy in the usual fashion and is of the same damage type as the altered spell.
+
+#### Growth
+
+The altered spell does not deal damage. Instead, you gain absorption equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
+
+### Pinnacle of Magic: ???
+
+At level 20, you unlock the final secrets of Biodynamics, ???. ??.
+
+## Energetics
+
+**Academic skill:** Fontcraft
+
+FLUFF.
+
+### Runic Alteration: Energetics
+
+As a student of Energetics, select one of the following runic alterations at level 15.
+
+#### Antimatter
+
+The altered spell does not deal damage. Instead, it grants absorption equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
+
+#### Conservation
+
+All forced movement applied by the altered spell moves you the same distance in the opposite direction.
+
+#### Excess
+
+The damage dealt by the altered spell is doubled. Lose life equal to the damage you deal with the altered spell.
+
+### Pinnacle of Magic: Free Energy
+
+At level 20, you unlock the final secrets of Energetics, allowing you to tap into the practically limitless energy of the fonts. Whenever you use the Essence Tap minor action, restore all of your essence.
+
+## Technomancy
+
+**Academic skill:** Tinkering
+
+FLUFF.
+
+### Runic Alteration: Technomantic Style
+
+As a student of Technomancy, select one of the following runic alterations at level 15.
+
+#### Error
+
+The altered spell does not deal damage. Instead, it applies stacks of brittle equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
+
+#### Ground
+
+The altered spell only affects creatures without the aloft or flying conditions.
+
+#### Overdrive
+
+The altered spell is automatically a critical if you hit. After you cast the altered spell, skip your next turn.
+
+### Pinnacle of Magic: Automation
+
+At level 20, you unlock the final secrets of Technomancy, allowing you to automate away the tedious and dangerous work of actually drawing sigils. Whenever you cast a spell, you may choose to first create a simulacra in an empty tile of your choice within a 3 tile range. If you do, the simulacra casts the spell instead of you. It shares your statistics and any effects other than temporary boons or conditions, and cannot act other than to cast the spell. After the spell completes, the simulacra crumbles to nothingness.
+
+To clarify the rules for this feature more exactly:
+
+- All ranges and positioning requirements are computed relative to this simulacra, rather than you.
+- You do not share life pools with this simulacra: any damage taken resolves separately.
+- If you selected the Focused Casting option for your Elaborate Runes class feature, the simulacra must maintain its concentration rather than you.
+- If you selected the Risky Casting option for your Elaborate Runes class feature, the simulacra provokes the attack of opportunity rather than you.
