@@ -181,9 +181,9 @@ Learn one of the following three alterations. Whenever you cast a spell, you may
 | **School**  | **Elements**              | **Ailments**                     |
 | ----------- | ------------------------- | -------------------------------- |
 | Arcanology  | arcane, eldritch, water   | banished, crazed, chilled        |
-| Viviculture | primal, decay, earth      | rooted, withered, blunted        |
 | Energetics  | radiant, umbral, air      | pacified, cursed, aloft          |
 | Technomancy | electric, corrosion, fire | frightened, defenseless, blinded |
+| Viviculture | primal, decay, earth      | rooted, withered, blunted        |
 
 </div>
 
@@ -251,32 +251,6 @@ After you hit a creature with a spell that uses this alteration, swap positions 
 
 At level 20, you unlock the final secrets of arcanology, opening a rift in reality as you cast your spells. After a spell that you cast completes, teleport up to 3 tiles. This effect occurs after any attack of opportunity triggered is resolved.
 
-## Viviculture
-
-**Academic skill:** Anima
-
-FLUFF. Students of viviculture focus on creating and spreading ground effects and playing with absorption.
-
-### Runic Alteration: Living Style
-
-As a student of viviculture, select one of the following runic alterations at level 15.
-
-#### Airborne
-
-The altered spell only affects creatures with the aloft or flying conditions.
-
-#### Growth
-
-The altered spell does not deal damage. Instead, you gain absorption equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
-
-#### Harvest
-
-When you cast the altered spell, remove all absorption that you have from yourself. The spell deals additional damage equal to the absorption removed in this way. This extra damage is affected by efficacy in the usual fashion and is of the same damage type as the altered spell.
-
-### Pinnacle of Magic: Cultivation
-
-At level 20, you unlock the final secrets of viviculture, allowing you to spread and shape magical effects with your living magic. Whenever you cast a spell, you may choose a tile with a tile effect within a 6 tile range. You may add or remove up to 9 tiles of that tile effect in a pattern of your choice, as long as all tiles modified are connected to the selected tile.
-
 ## Energetics
 
 **Academic skill:** Fontcraft
@@ -335,3 +309,29 @@ To clarify the rules for this feature more exactly:
 - You do not share life pools with this simulacra: any damage taken resolves separately.
 - If you selected the Focused Casting option for your Elaborate Runes class feature, the simulacra must maintain its concentration rather than you.
 - If you selected the Risky Casting option for your Elaborate Runes class feature, the simulacra provokes the attack of opportunity rather than you.
+
+## Viviculture
+
+**Academic skill:** Anima
+
+FLUFF. Students of viviculture focus on creating and spreading ground effects and playing with absorption.
+
+### Runic Alteration: Living Style
+
+As a student of viviculture, select one of the following runic alterations at level 15.
+
+#### Airborne
+
+The altered spell only affects creatures with the aloft or flying conditions.
+
+#### Growth
+
+The altered spell does not deal damage. Instead, you gain absorption equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
+
+#### Harvest
+
+When you cast the altered spell, remove all absorption that you have from yourself. The spell deals additional damage equal to the absorption removed in this way. This extra damage is affected by efficacy in the usual fashion and is of the same damage type as the altered spell.
+
+### Pinnacle of Magic: Cultivation
+
+At level 20, you unlock the final secrets of viviculture, allowing you to spread and shape magical effects with your living magic. Whenever you cast a spell, you may choose a tile with a tile effect within a 6 tile range. You may add or remove up to 9 tiles of that tile effect in a pattern of your choice, as long as all tiles modified are connected to the selected tile.
