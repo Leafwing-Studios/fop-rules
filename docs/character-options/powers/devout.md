@@ -3446,7 +3446,7 @@ Your blade drips with a strange substance that seems to amplify the effects of y
 
 </div>
 
-Your body ??. When you cast this miracle, make a copy of yourself out of slime in an adjacent tile of your choice. They share your statistics and any features you have, but have a life pool of their own. You control this copy, who has its own turn immediately after yours on its side. Your copy may not spend essence or use the Activate minor action, but otherwise may act as you do.
+A strange, translucent copy of yourself suddenly appears beside you as you fight with renewed vigor. When you cast this miracle, make a copy of yourself out of slime in an adjacent tile of your choice. They share your statistics and any features you have, but have a life pool of their own. You control this copy, who has its own turn immediately after yours on its side. Your copy may not spend essence or use the Activate minor action, but otherwise may act as you do.
 
 For the duration of this effect, your basic attacks (and those of your copy) are automatically criticals if they hit.
 
