@@ -47,15 +47,15 @@
 |   4   |        +1         |               Attribute Improvement               |      5       |
 |   5   |        +2         |  Proficiency Bonus Improvement, Runecasting (2)   |      5       |
 |   6   |        +2         |                   Rune Seeking                    |      5       |
-|   7   |        +2         |             Runic Alteration: Accent              |      5       |
+|   7   |        +2         |              Runic Alteration: Style              |      5       |
 |   8   |        +2         |               Attribute Improvement               |      6       |
 |   9   |        +3         |  Proficiency Bonus Improvement, Runecasting (3)   |      6       |
 |  10   |        +3         |                    Field Notes                    |      6       |
-|  11   |        +3         |             Runic Alteration: Script              |      6       |
+|  11   |        +3         |             Runic Alteration: Accent              |      6       |
 |  12   |        +3         |               Attribute Improvement               |      7       |
 |  13   |        +4         |  Proficiency Bonus Improvement, Runecasting (4)   |      7       |
 |  14   |        +4         |                   Lore Seeking                    |      7       |
-|  15   |        +4         |              Runic Alteration: Style              |      7       |
+|  15   |        +4         |             Runic Alteration: Script              |      7       |
 |  16   |        +4         |               Attribute Improvement               |      8       |
 |  17   |        +5         |  Proficiency Bonus Improvement, Runecasting (5)   |      8       |
 |  18   |        +5         |               Allure of the Unknown               |      8       |
@@ -107,6 +107,8 @@ Like all attacks of opportunity, this attack of opportunity resolves before the 
 
 Your spells are perfectly executed but require your careful concentration to complete. The effects of this power do not trigger until the start of your next turn (although you must spend essence upfront). You must maintain [concentration](../rules/combat/tactical-mechanics?id=concentration) for this duration, or the power fails. Choose the target(s) of the spell at that time, along with any alterations.
 
+Casting a spell in this way counts as making an attack for the purpose of the crazed ailment. For all other purposes, the attack is only made at the time of the spell's completion.
+
 ## Secrets of the Past
 
 At level 2, your studies give you a distinct edge when attempting to research, recall or discover facts about the past. You have advantage on skill checks that use Insight or your academic skill made to learn information about events that occurred in the past.
@@ -150,9 +152,17 @@ Choose a nearby font of power, then choose one of the following options:
 - **Breadth:** Uncover one new treasure found in that font of power at random for every five points of your skill check result.
 - **Depth:** Choose one treasure that you have previously uncovered, or one treasure that you currently possess. For every ten points of your skill check result, you may learn the answer to one question of your choice about that treasure.
 
+## Runic Alteration: Style
+
+At level 7, you master your fourth and final technique; adding a unique twist to the runes that you inscribe that embodies the essential nature of your school of magic. Learn one of the three alterations described in the section for your school of magic, found at the end of this class description. Whenever you cast a spell, you may choose to apply any number of alterations that you know.
+
+## Field Notes
+
+At level 10, you learn to take full advantage of the unique academic opportunities provided by subjecting yourself to intense and unusual danger. Whenever you gain a Resolve, also gain the benefit of the Prepare downtime activity, focusing on the academic skill associated with your school of magic.
+
 ## Runic Alteration: Accent
 
-At level 7, you master your second technique; adding an accent to the inscribed rune that causes it to be more effective in some circumstances, but less in others.
+At level 11, you master your third technique; adding an accent to the inscribed rune that causes it to be more effective in some circumstances, but less in others.
 Learn one of the following three alterations. Whenever you cast a spell, you may choose to apply any number of alterations that you know.
 
 ### Point-blank Alteration
@@ -167,13 +177,17 @@ You have disadvantage on attacks made with the altered spell against targets wit
 
 You have disadvantage on attacks made with the altered spell, but your critical hit threshold for attacks made with the altered spell is reduced by 3.
 
-## Field Notes
+## Lore Seeking
 
-At level 10, you learn to take full advantage of the unique academic opportunities provided by subjecting yourself to intense and unusual danger. Whenever you gain a Resolve, also gain the benefit of the Prepare downtime activity, focusing on the academic skill associated with your school of magic.
+At level 14, the power of your rune seeking magic grows, letting you learn much broader types of information. When you use the Rune Seeking downtime activity, you may choose to learn about characters or locations within the font of power instead. You may choose which type of entity you wish to learn about (treasure, character or location) after each entity is revealed for the Breadth option. You may choose any character or location that has been uncovered, you have met or you have visited for the Depth option.
+
+When you uncover a character with the Breadth option, you learn their name, basic appearance and loyalty towards any other creatures or factions that you know.
+
+When you uncover a location with the Breadth option, you learn its basic appearance (averaged over the past year), approximate location, and any vantages that the arena may contain.
 
 ## Runic Alteration: Script
 
-At level 11, you master your third technique; altering the script of the inscribed rune in a way that changes the fundamental components of the spell.
+At level 15, you master your fourth and final technique; altering the script of the inscribed rune in a way that changes the fundamental components of the spell.
 Learn one of the following three alterations. Whenever you cast a spell, you may choose to apply any number of alterations that you know.
 
 <div class="side-panel">
@@ -181,7 +195,7 @@ Learn one of the following three alterations. Whenever you cast a spell, you may
 | **School**  | **Elements**              | **Ailments**                     |
 | ----------- | ------------------------- | -------------------------------- |
 | Arcanology  | arcane, eldritch, water   | banished, crazed, chilled        |
-| Energetics  | radiant, umbral, air      | pacified, cursed, aloft          |
+| Energetics  | radiant, umbral, air      | hapless, cursed, aloft           |
 | Technomancy | electric, corrosion, fire | frightened, defenseless, blinded |
 | Viviculture | primal, decay, earth      | rooted, withered, blunted        |
 
@@ -198,18 +212,6 @@ Change all stacks of ailments applied by the altered spell to one of the three a
 ### Fundamental Alteration
 
 Change the special attack type used by the altered spell to correspond to an attribute of your choice.
-
-## Lore Seeking
-
-At level 14, the power of your rune seeking magic grows, letting you learn much broader types of information. When you use the Rune Seeking downtime activity, you may choose to learn about characters or locations within the font of power instead. You may choose which type of entity you wish to learn about (treasure, character or location) after each entity is revealed for the Breadth option. You may choose any character or location that has been uncovered, you have met or you have visited for the Depth option.
-
-When you uncover a character with the Breadth option, you learn their name, basic appearance and loyalty towards any other creatures or factions that you know.
-
-When you uncover a location with the Breadth option, you learn its basic appearance (averaged over the past year), approximate location, and any vantages that the arena may contain.
-
-## Runic Alteration: Style
-
-At level 15, you master your fourth and final technique; adding a unique twist to the runes that you inscribe that embodies the essential nature of your school of magic. Learn one of the three alterations described in the section for your school of magic, found at the end of this class description. Whenever you cast a spell, you may choose to apply any number of alterations that you know.
 
 ## Allure of the Unknown
 
@@ -334,4 +336,6 @@ When you cast the altered spell, remove all absorption that you have from yourse
 
 ### Pinnacle of Magic: Cultivation
 
-At level 20, you unlock the final secrets of viviculture, allowing you to spread and shape magical effects with your living magic. Whenever you cast a spell, you may choose a tile with a tile effect within a 6 tile range. You may add or remove up to 9 tiles of that tile effect in a pattern of your choice, as long as all tiles modified are connected to the selected tile.
+At level 20, you unlock the final secrets of viviculture, allowing you to shape the terrain with your living magic. Whenever you cast a spell, you may choose to spread tile effects with your spell. When you do, copy all source tile effects to the destination tiles, replacing any other tile effects there.
+
+**Source tile effects** are all tile effects in tiles that you are currently occupying. If there are no source tile effects, this feature removes all tile effects when copying. The **destination tiles** are all tiles occupied by the creatures targeted by your spell plus every tile that would be affected by your spell.
