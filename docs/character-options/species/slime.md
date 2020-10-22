@@ -64,7 +64,7 @@ You do not need to make Endurance skill checks in order to destroy edible object
 
 ## Sticky Slime
 
-**Combat Glue:** Creatures have disadvantage on Athletics skill checks made to break free of your grapple using the Break Grapple minor action.
+**Combat Glue:** You have advantage on skill checks made to maintain your grapple.
 
 **Stuck to the Ground:** If you did not spend movement during your last turn, the effects of forced movement against you are halved.
 
