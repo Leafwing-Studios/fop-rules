@@ -3,7 +3,7 @@
 Slimes appear to pop into existence spontaneously on the outskirts of fonts of power as not-quite-solid manifestations of elemental energy. Sentient and intelligent, they form societies and cities near fonts of power, searching for and taking in any of their kin that appear.
 
 Playful mimics, slimes readily copy and borrow forms that amuse them, fluidly shifting their form to suit their needs in the moment.
-Their cities are vast and wonderous, composed of bubble-like structures attached by a network of pneumatic tubes that shoot the Slimes between the buildings at incredible speeds.
+Their cities are vast and wondrous, composed of bubble-like structures attached by a network of pneumatic tubes that shoot the Slimes between the buildings at incredible speeds.
 
 <div class="side-panel">
 

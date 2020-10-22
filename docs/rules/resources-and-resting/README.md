@@ -53,6 +53,7 @@ Characters can recover their resources and shake off exhaustion by resting. In o
 - Remove one stack of exhaustion
 - Perform a single [downtime activity](../downtime-activities.md)
 
-Whenever the party completes a rest (other than by spending Resolve) in an area with a [danger level](../downtime-activities.md?id=danger-levels) greater than zero, they must complete a one-success [attrition scene](../scenes/attrition-scenes.md) to rest peacefully. If they fail, they still gain the benefit of their rest, but some complication occurs.
+Whenever the party completes a rest in an area with a [danger level](../downtime-activities.md?id=danger-levels) greater than zero, they must complete a one-success [attrition scene](../scenes/attrition-scenes.md) to rest peacefully.
+If they fail, they gain the benefit of their rest, then some complication occurs.
 
-The party can also spend one Resolve in order to immediately gain the benefits of a rest, other than the downtime activity, at any point while outside of combat.
+Outside of combat, the party can also spend one Resolve in order to immediately gain some of the benefits of a rest. When they do, they do not remove exhaustion, gain a downtime activity or trigger an attrition scene.
