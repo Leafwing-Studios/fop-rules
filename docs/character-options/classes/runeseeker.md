@@ -1,12 +1,12 @@
 # Runeseeker
 
-**Source of Power:** MAGICAL SYMBOLS.
+**Source of Power:** Drawing on ancient knowledge, Runeseekers perfectly capture the essence of a phenomenon in a rune that they draw in the air. Each rune requires intense study and careful practice, but once mastered can be subtly altered in numerous ways to determine the final effect.
 
-**Core Mechanic:** CAST SPELLS, MODIFY THEM.
+**Core Mechanic:** Runeseekers are the quintessential, straightforward spellcasters. Their major action will almost always be spent to cast a powerful spell, but with the use of various Runic Alteration features they are able to modify these spells to adapt to the situation at hand.
 
-**Specialization:** FOUR SCHOOLS, FOUR SKILLS, FOUR SPELL LISTS. AS YOU LEVEL UP, SELECT RUNIC ALTERATIONS TO TWEAK YOUR SPELLS.
+**Specialization:** Each runeseeker belongs to a School of Magic: the literal school in which they were taught. This choice shapes which of the four knowledge skills (Anima, Arcana, Fontcraft or Tinkering) they specialize in, as well as the bulk of their spell lists. Runeseekers further specialize through the personalized selection of runic alterations, allowing them to modify the spells they know to support a unique strategy.
 
-**Approach to Adventure:** FIELD STUDY.
+**Approach to Adventure:** Runeseekers take a hands on approach to learning, seeking knowledge, adventure and treasure as they delve deep into the fonts of knowledge. Their Secrets of the Past class feature is surprisingly useful for research and puzzle solving while their Rune Seeking (and later Lore Seeking) give them supernatural access to information that rewards careful preparation.
 
 **Build Fundamentals:** Runeseekers make excellent strikers or powerful controllers, depending on their selection of spells and arms affixes:
 
@@ -15,23 +15,23 @@
 
 <div class="side-panel">
 
-| Roll | What are you searching for?          |
-| :--: | ------------------------------------ |
-|  1   | ??.                                  |
-|  2   | ??.                                  |
-|  3   | ??.                                  |
-|  4   | ??.                                  |
-|  5   | ??.                                  |
-|  6   | Rare and powerful magical artifacts. |
+| Roll | What are you searching for?                       |
+| :--: | ------------------------------------------------- |
+|  1   | Something that I lost.                            |
+|  2   | The great unknown.                                |
+|  3   | The breakthrough that will revolutionize society. |
+|  4   | Forbidden secrets.                                |
+|  5   | A deeper understanding of the world.              |
+|  6   | Rare and powerful magical artifacts.              |
 
-| Roll | What personal touch do you add to your spells? |
-| :--: | ---------------------------------------------- |
-|  1   | ??.                                            |
-|  2   | ??.                                            |
-|  3   | ??.                                            |
-|  4   | ??.                                            |
-|  5   | ??.                                            |
-|  6   | ??.                                            |
+| Roll | How do you inscribe your spells?                         |
+| :--: | -------------------------------------------------------- |
+|  1   | I trace them in the air with a wand.                     |
+|  2   | I carefully construct them with my hands, molding magic. |
+|  3   | I carry physical media at all times.                     |
+|  4   | I trace them on the ground with my staff.                |
+|  5   | They come into being as I hold the image in my mind.     |
+|  6   | I activate the runes tattooed onto my body.              |
 
 </div>
 
