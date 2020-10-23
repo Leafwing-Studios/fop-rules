@@ -24,7 +24,7 @@ Effects which do not, on their own, qualify as a boon include:
 
 ## Concentration
 
-Many classes (Devout, Shamans, Soulbinders and Weavers) use **concentration** as a mechanic in order to maintain control over ongoing effects. Whenever you lose life while you are concentrating on an effect, you must pass a difficulty 15 Endurance **concentration check** to maintain your concentration or the effect ends. If you lost life due to physical damage, you must make a Prowess (Endurance) skill check. If it was elemental damage make a Focus (Endurance) skill check instead.
+Many classes (particularly Devout, Shamans, Soulbinders and Weavers) use **concentration** as a mechanic in order to maintain control over ongoing effects. Whenever you lose life while you are concentrating on an effect, you must pass a difficulty 15 Endurance **concentration check** to maintain your concentration or the effect ends. If you lost life due to physical damage, you must make a Prowess (Endurance) skill check. If it was elemental damage make a Focus (Endurance) skill check instead.
 
 If the damage was a mixture of physical and elemental damage, the attribute used depends on the majority of damage (Prowess in the case of a tie). As a reminder, damage taken that is prevented by the Block reaction or absorption does not cause you to lose life.
 
@@ -34,7 +34,7 @@ If you are concentrating on several effects at once, make only one skill check e
 
 The size of creatures is specified as the number of tiles they take up. By default, all player characters take up 1 tile. Large creatures such as horses may take up two tiles, and particularly huge creatures may take up three or four tiles, or even more! If a number of tiles that a unit is said to take up is inconvenient for your choice of battle grid, feel free to adjust the number of tiles slightly to make it fit comfortably. For example, a creature that takes up seven tiles is very convenient on a hexagonal grid and terrible on a square grid.
 
-For creatures that are not radially symettric on your chosen grid (such as a cow that takes up two tiles), your orientation is fixed as you move laterally. You may **change your orientation** by spending one tile of movement.
+For creatures that are not radially symmetric on your chosen grid (such as a cow that takes up two tiles), your orientation is fixed as you move laterally. You may **change your orientation** by spending one tile of movement.
 
 Range is always calculated using the shortest path between the tiles that are occupied by the creatures in question. As a result, if two creatures are adjacent, they can always make melee attacks against each other, no matter how large they are.
 

@@ -1706,7 +1706,7 @@ Your god offers unbelievable power to a creature, asking only their sanity in re
   - This effect supersedes any similar effects, such as the prayer version of this spell or the _blessing of knowledge - miracle_ effect on another creature.
 - The range of all of their attacks and powers are doubled. Their zone of control doubles in size.
 - The area of effect of their powers is increased. Any distance which scales with area or volume (such as radius of a sphere) is now 3 times larger. Any linear distance (such as the length of a wall created) is now 4 times larger.
-- Damage that they deal cannot be prevented by any means. This includes damage resistance or immunity, absorption, and the Block reaction, although they can still miss. Self-inflicted effects which reduce the efficacy of their attacks, such as modes, still function normally.
+- Damage that they deal cannot be prevented by any means.
 
 In addition, they suffer effects that mirror those of the [crazed](https://rules.fontsofpower.com/#/rules/conditions/ailments?id=crazed) ailment. They cannot become immune to these effects, and do not gain any stacks of this ailment.
 

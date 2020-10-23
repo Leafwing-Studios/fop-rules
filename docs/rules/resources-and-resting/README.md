@@ -10,15 +10,15 @@ Your life can never go below 0: instead, when your life reaches 0 you enter [dea
 
 Player characters have maximum life 25 + 5 × their level. It can be restored through resting, self-healing magic (received at level 2) or consumable magic items.
 
-Occasionally, the distinction between **losing life** and **taking damage** can matter. Damage prevented (by absorption or the Block reaction or some other means) counts as damage taken, but not life lost, and life lost cannot be prevented. You only lose life when your life total actually decreases.
+Occasionally, the distinction between **losing life** and **taking damage** can matter. Damage can be **prevented** in several ways: commonly via resistance or immunity to a damage type, absorption, or the Block reaction. Damage is still dealt (and taken) when it is prevented by absorption, but not when it is prevented by other effects. This distinction can matter for various effects such as the [_absolute zero_](https://tools.fontsofpower.com/affixes/5f931ca80d201c0017655594) affix.
 
 ## Absorption
 
 Creatures can gain **absorption,** a short-lasting replacement for life points that represents absorptive armoring or a protective force. Damage taken is subtracted from your absorption before your life. At the start of each of your turns (before any other effects occur), reduce your absorption by the amount of absorption you had at the end of your last turn, to a minimum of 0. Ordinarily, this just causes your absorption to be reduced to 0 at the start of each of your turns. The only time this does not occur is when you gain absorption at a time when it was not your turn, such as when it was received as a boon from an ally.
 
-Absorption gained can stack, increasing the buffer of life points that must be dealt with before you suffer actual damage. The amount of absorption that a creature has is always public information.
+Absorption gained can stack, increasing the buffer of life points that must be dealt with before you suffer actual damage. The amount of absorption that a creature has is always publicly known.
 
-If an effect **steals** absorption, it removes that much absorption (but does not deal damage) and causes the stealing creature to gain absorption equal to the amount removed.
+When you lose life directly due to an effect, such as the Touched's [Balance of Power: Companion](../../character-options/classes/touched.md?id=balance-of-power-companion) feature or the [_expose_](https://tools.fontsofpower.com/affixes/5f8b6b81205eef0017b64ad9) affix, this life loss ignores absorption completely.
 
 ## Essence
 
