@@ -120,11 +120,11 @@ After you successfully use the Dodge reaction, you may make an attack of opportu
 
 ### Deft
 
-Whenever you take the Dash minor action, attacks of opportunity against you have disadvantage until the end of the current turn.
+Whenever you take the Dash minor action, your movement does not provoke attacks of opportunity until the end of the current turn.
 
 ### Dodgy
 
-You have advantage on Agility (Athletics) skill checks made as part of the Dodge reaction.
+You have advantage on Agility (Athletics) skill checks made to dodge attacks.
 
 ### Flashy
 
@@ -132,7 +132,7 @@ Your Block reaction now negates all effects of the blocked attack, but does not 
 
 ### Flexible
 
-You may use Agility (Athletics) instead of Prowess (Athletics) to maintain a grapple. You have advantage on all skill checks made to escape a grapple.
+You may use Agility (Athletics) instead of Prowess (Athletics) to maintain a grapple. You have advantage on all skill checks made to end the grappled status on yourself.
 
 ### Headstrong
 
