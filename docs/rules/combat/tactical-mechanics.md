@@ -15,10 +15,12 @@ Effects which qualify as a boon include but are not limited to:
 - turning them invisible
 - granting them the benefit of an action
 - blocking for them
+- allowing them to shift
 
 Effects which do not, on their own, qualify as a boon include:
 
-- applying forced movement or shifting creatures, even if the target is an ally
+- applying forced movement
+- replacing ailments or afflictions
 
 ## Concentration
 
@@ -72,7 +74,7 @@ Similarly, you can still teleport and be teleported while you are grappled (or g
 
 ## Shifts
 
-Various effects allow you to carefully move across the battlefield. When you shift, you may move into an adjacent empty tile of your choice. This does not cost movement and never provokes attacks of opportunity.
+Various effects allow you to carefully move across the battlefield. When you shift, you may move into an adjacent empty tile of your choice. This does not cost movement and never provokes attacks of opportunity. The creature who is shifting controls where they move, and may choose not to move at all.
 
 If it is not your turn when you shift, trigger any tile effects of the tile that you shifted out of.
 You can only trigger a particular tile effect once per turn in this way.
