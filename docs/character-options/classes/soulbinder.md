@@ -42,7 +42,7 @@
 
 | Level | Proficiency Bonus |                        Features                         | Pulses Known |
 | :---: | :---------------: | :-----------------------------------------------------: | :----------: |
-|   1   |        +1         | Pulse, Qualia: Distinctive Pulse, Unnerving Connection  |      1       |
+|   1   |        +1         |      Pulse, Sixth Sense, Qualia: Distinctive Pulse      |      1       |
 |   2   |        +1         |                Empathy, A Sorrow Shared                 |      1       |
 |   3   |        +1         |           Amplitude Moderation, Precognition            |      1       |
 |   4   |        +1         |                  Attribute Improvement                  |      2       |
@@ -122,6 +122,14 @@ Souls twining together, you and your dual grow in strength. Choose one:
 
 Like with all other pulses, when you use this pulse with your Bidirectional Connection class feature, you may choose which order these effects resolve in.
 
+## Sixth Sense
+
+Also at level 1, the connection formed gives you a vague awareness of the other's surroundings and actions, helping you react quickly to protect or harm your dual.
+
+If your dual is an ally, attacks of opportunity against either of you are made with disadvantage.
+
+If your dual is an enemy, attacks of opportunity against your dual are made with advantage.
+
 ## Qualia
 
 The connection that each soulbinder forms has a distinctive Qualia to it, almost like a taste, shaping the nature of their bond. This selection grants you unique features both at level 1 and as you grow in power.
@@ -142,15 +150,11 @@ At level 15, your A Sorrow Shared feature is enhanced based on your Qualia.
 
 At level 20, the bond you form between souls is deep and rich, full of the Qualia that defines your bond. While you are bound to another creature, both you and that creature are affected by a powerful passive effect.
 
-## Unnerving Connection
-
-Also at level 1, the connection that you form unnerves and distracts hostile souls that you are bound to. Allied creatures (other than yourself) have advantage on attacks of opportunity against your dual if they are hostile to you.
-
 ## Empathy
 
 When you reach level 2, emotions subtly travel across the soul bond you have formed, letting both you and your partner pick up on the other’s emotions more easily. You have advantage on all Charm, Guidance, and Insight skill checks made with respect to a creature you are bonded with.
 
-You have disadvantage on all skill checks made to lie to or otherwise deceive a creature you are bonded with.
+You have disadvantage on all skill checks made to lie to or otherwise deceive your dual, including when you (or a party member you are in the presence of) selects the Deception option during Deals and Ideals.
 
 ## A Sorrow Shared
 
@@ -177,9 +181,9 @@ Also at level 3, you learn to carefully control the strength of your pulses, spr
 
 At level 3, your connection to the soul of your dual allows you to respond to their shifting situations, reading their intent before they even begin to act.
 
-If your dual is an enemy, whenever they lose life, you may make an attack of opportunity against them. Your dual has disadvantage on attacks of opportunity against you.
-
 If your dual is an ally, at the start of their turn you may spend your reaction to use a pulse of your choice that affects them. As always, you cannot spend essence as part of this reaction.
+
+If your dual is an enemy, whenever they lose life, you may make an attack of opportunity against them.
 
 ## Attribute Improvement
 
