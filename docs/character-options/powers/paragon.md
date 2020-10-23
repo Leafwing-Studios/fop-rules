@@ -14,11 +14,11 @@
 
 **Attack:** Presence
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, make a Presence attack against all enemies within range, applying one stack of taunted if you hit.
+FLUFF. When you use this aura, create the _aura of audacity_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an enemy, make a Presence attack against them, applying one stack of taunted if you hit.
 
 ## Aura of Awe
 
@@ -34,11 +34,11 @@ When you trigger this aura, make a Presence attack against all enemies within ra
 
 **Attack:** Presence
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, make a Presence attack against all enemies within range, applying one stack of frightened if you hit.
+FLUFF. When you use this aura, create the _aura of awe_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an enemy, make a Presence attack against them, applying one stack of frightened if you hit.
 
 ## Aura of Chaos
 
@@ -54,11 +54,11 @@ When you trigger this aura, make a Presence attack against all enemies within ra
 
 **Attack:** None
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, shift each enemy within range once.
+FLUFF. When you use this aura, create the _aura of chaos_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an enemy, make a Presence attack against them, push the triggering enemy 1 tile in the direction of your choice. You must move the triggering enemy into a new tile if able.
 
 ## Aura of Conviction
 
@@ -74,31 +74,11 @@ When you trigger this aura, shift each enemy within range once.
 
 **Attack:** None
 
-**Duration:** Until the end of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, allies within range have advantage on special attacks for the duration of this effect.
-
-## Aura of Conviction
-
-<div class="tight">
-
-**Action:** Special
-
-**Cost:** 1 essence
-
-**Range:** Melee, 2 tiles
-
-**Targets:** Multi-target
-
-**Attack:** None
-
-**Duration:** Until the end of your next turn
-
-</div>
-
-When you trigger this aura, allies within range have advantage on special attacks for the duration of this effect.
+FLUFF. When you use this aura, create the _aura of conviction_ tile effect in a 2 tile radius around you. Allies in this tile effect have advantage on special attacks.
 
 ## Aura of Deflection
 
@@ -114,11 +94,11 @@ When you trigger this aura, allies within range have advantage on special attack
 
 **Attack:** None
 
-**Duration:** Until the end of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, basic attacks against allies within range have disadvantage for the duration of this effect.
+FLUFF. When you use this aura, create the _aura of deflection_ tile effect in a 2 tile radius around you. Basic attacks against allies in this tile effect have disadvantage.
 
 ## Aura of Determination
 
@@ -134,11 +114,31 @@ When you trigger this aura, basic attacks against allies within range have disad
 
 **Attack:** None
 
-**Duration:** Until the end of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, allies within range are immune to forced movement for the duration of this effect.
+FLUFF. When you use this aura, create the _aura of deflection_ tile effect in a 2 tile radius around you. Allies in this tile effect are immune to forced movement.
+
+## Aura of Force
+
+<div class="tight">
+
+**Action:** Special
+
+**Cost:** 1 essence
+
+**Range:** Melee, 2 tiles
+
+**Targets:** Multi-target
+
+**Attack:** Prowess
+
+**Duration:** Until the start of your next turn
+
+</div>
+
+FLUFF. When you use this aura, create the _aura of force_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an enemy, make a Prowess attack against them, knocking them prone if you hit.
 
 ## Aura of Leadership
 
@@ -154,11 +154,31 @@ When you trigger this aura, allies within range are immune to forced movement fo
 
 **Attack:** None
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, shift each ally within range once.
+FLUFF. When you use this aura, create the _aura of leadership_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an ally, that ally may shift once.
+
+## Aura of Life
+
+<div class="tight">
+
+**Action:** Special
+
+**Cost:** 1 essence
+
+**Range:** Melee, 2 tiles
+
+**Targets:** Multi-target
+
+**Attack:** None
+
+**Duration:** Until the start of your next turn
+
+</div>
+
+FLUFF. When you use this aura, create the _aura of growth_ tile effect in a 2 tile radius around you. These tiles are difficult terrain. Allies within these tile effects are immune to the effects of difficult terrain.
 
 ## Aura of Peace
 
@@ -174,11 +194,11 @@ When you trigger this aura, shift each ally within range once.
 
 **Attack:** Presence
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, make a Presence attack against all enemies within range, applying one stack of pacified if you hit.
+FLUFF. When you use this aura, create the _aura of peace_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an enemy, make a Presence attack against them, applying one stack of pacified if you hit.
 
 ## Aura of Protection
 
@@ -194,11 +214,11 @@ When you trigger this aura, make a Presence attack against all enemies within ra
 
 **Attack:** None
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, grant each ally within range 3 + ½ Presence absorption.
+FLUFF. When you use this aura, create the _aura of protection_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an ally, grant them 3 + 1/2 Presence absorption.
 
 ## Aura of Purity
 
@@ -214,11 +234,11 @@ When you trigger this aura, grant each ally within range 3 + ½ Presence absorpt
 
 **Attack:** None
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, remove two stacks of each affliction from each ally within range.
+FLUFF. When you use this aura, create the _aura of purity_ tile effect in a 2 tile radius around you. Whenever an ally in this tile effect would gain stacks of an ailment, reduce the number of stacks of each ailment gained by 1. Whenever an ally in this tile effect would gain stacks of an affliction, reduce the number of stacks of each affliction gained by 2.
 
 ## Aura of Radiance
 
@@ -234,11 +254,11 @@ When you trigger this aura, remove two stacks of each affliction from each ally 
 
 **Attack:** Focus
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, make an Expertise attack against all enemies within range, applying one stack of blinded if you hit.
+FLUFF. When you use this aura, create the _aura of radiance_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an enemy, make a Focus attack against them, applying one stack of blinded if you hit.
 
 ## Aura of Resolve
 
@@ -254,11 +274,13 @@ When you trigger this aura, make an Expertise attack against all enemies within 
 
 **Attack:** Focus
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you learn this aura, select a damage type. When you trigger this aura, make a Focus attack against all enemies within range. Deal 1d4 + Presence damage of that type to those hit and gain absorption equal to the total damage dealt this way.
+FLUFF. When you learn this aura, select a damage type.
+
+When you use this aura, create the _aura of resolve_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an enemy, make a Focus attack against them, dealing 1d4 + Presence damage of the chosen type if you hit. Gain absorption equal to the damage dealt.
 
 ## Aura of Retribution
 
@@ -274,11 +296,13 @@ When you learn this aura, select a damage type. When you trigger this aura, make
 
 **Attack:** None
 
-**Duration:** Until the end of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you learn this aura, select a damage type. When you trigger this aura, until the end of your next turn, whenever an ally within range is hit by an attack that deals damage, deal 1d4 + Presence damage of that type to the creature that struck them.
+FLUFF. When you learn this aura, select a damage type.
+
+When you use this aura, create the _aura of retribution_ tile effect in a 2 tile radius around you. When an ally on this tile effect, is hit by an attack, deal 1d4 + Presence damage of the chosen type to the creature that hit them. Tile effects do not trigger this effect.
 
 ## Aura of Reverence
 
@@ -294,11 +318,11 @@ When you learn this aura, select a damage type. When you trigger this aura, unti
 
 **Attack:** Focus
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, make a Focus attack against all enemies within range, applying one stack of rooted if you hit.
+FLUFF. When you use this aura, create the _aura of reverence_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an enemy, make a Focus attack against them, applying one stack of rooted if you hit.
 
 ## Aura of Righteousness
 
@@ -314,11 +338,13 @@ When you trigger this aura, make a Focus attack against all enemies within range
 
 **Attack:** Focus
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you learn this aura, select a damage type. When you trigger this aura, make a Focus attack against all enemies within range. If you hit, deal 1d4 + Presence damage of the chosen type. Damage dealt by this power is twice as effective against absorption.
+FLUFF. When you learn this aura, select a damage type.
+
+When you use this aura, create the _aura of resolve_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an enemy, make a Focus attack against them, dealing 1d4 + Presence damage of the chosen type if you hit. Damage dealt by this power is twice as effective against absorption.
 
 ## Aura of Strength
 
@@ -334,11 +360,11 @@ When you learn this aura, select a damage type. When you trigger this aura, make
 
 **Attack:** None
 
-**Duration:** Until the end of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, all allies within range have advantage on basic attacks for the duration of this effect.
+FLUFF. When you use this aura, create the _aura of strength_ tile effect in a 2 tile radius around you. Allies in this tile effect have advantage on basic attacks.
 
 ## Aura of Temperance
 
@@ -354,11 +380,11 @@ When you trigger this aura, all allies within range have advantage on basic atta
 
 **Attack:** Focus
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, make a Focus attack against all enemies within range, applying 3 + ½ Presence temperance if you hit.
+FLUFF. When you use this aura, create the _aura of reverence_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an enemy, make a Focus attack against them, applying 3 + 1/2 stacks of temperance if you hit.
 
 ## Aura of Tranquility
 
@@ -374,11 +400,11 @@ When you trigger this aura, make a Focus attack against all enemies within range
 
 **Attack:** None
 
-**Duration:** Until the end of your next turn
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, special attacks made against allies within range have disadvantage for the duration of this effect.
+FLUFF. When you use this aura, create the _aura of tranquility_ tile effect in a 2 tile radius around you. Special attacks against allies in this tile effect have disadvantage.
 
 ## Aura of Vitality
 
@@ -394,11 +420,11 @@ When you trigger this aura, special attacks made against allies within range hav
 
 **Attack:** None
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, remove one stack of each ailment from each ally within range.
+FLUFF. When you use this aura, create the _aura of purity_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an ally, gain the benefit of the Treat minor action targeting them.
 
 ## Aura of Weakness
 
@@ -414,8 +440,8 @@ When you trigger this aura, remove one stack of each ailment from each ally with
 
 **Attack:** Focus
 
-**Duration:** Instant
+**Duration:** Until the start of your next turn
 
 </div>
 
-When you trigger this aura, make a Focus attack against all enemies within range, applying withered if you hit.
+FLUFF. When you use this aura, create the _aura of reverence_ tile effect in a 2 tile radius around you. When this tile effect is triggered by an enemy, make a Focus attack against them, applying one stack of withered if you hit.
