@@ -1,6 +1,6 @@
 # Devout
 
-**Source of Power:** Praying to a higher power, the Devout are offered a taste of unimaginable power, capable of working miracles so long as they please their fickle god.
+**Source of Power:** Praying to a higher power, the Devout are offered a taste of unimaginable power, capable of working miracles so long as they please their sometimes unreliable god.
 
 **Core Mechanic:** The Devout’s miracles are incredibly powerful, persisting as long as their concentration holds, but pulling them off is no meager feat. Each turn that the Devout uses a prayer, their favor grows. This favor amplifies the effect of their bribes of essence, beginning a powerful miracle as they suddenly become the most important objective on the battlefield.
 
@@ -27,12 +27,12 @@
 
 | Roll | How do you feel about your faith?                                  |
 | :--: | ------------------------------------------------------------------ |
-|  1   | I’m convinced this is a scam.                                      |
-|  2   | I wonder sometimes if my deity actually exists.                    |
+|  1   | I am fanatically observant.                                        |
+|  2   | I find meaning in my faith.                                        |
 |  3   | Sometimes I worry that I’m not doing what my god would want me to. |
-|  4   | I question the tenets when they diverge from my personal morals.   |
-|  5   | I try my best to follow its tenets.                                |
-|  6   | I am fanatically observant.                                        |
+|  4   | I try my best to follow its guidance.                              |
+|  5   | I question the tenets when they diverge from my personal morals.   |
+|  6   | I wonder sometimes if my deity actually exists.                    |
 
 | Roll | Which 3 domains are your deity associated with?    |
 | :--: | -------------------------------------------------- |
@@ -82,9 +82,9 @@
 
 ## Prayer
 
-The Devout gains access to incredible power by praying to higher beings, who may or may not decide to grant it. Devout channel the magic of their gods through **prayers**, which always take a major action to cast and never cost essence.
+The Devout gains access to incredible power by praying to higher beings, who may or may not decide to grant the request. Devout channel the magic of their gods through the **Pray** major action, which does not cost essence.
 
-At level 1, you have access to 3 prayers of your choice, selected from the list at the end of this section. You gain an additional prayer at level 4, 8, 12, 16 and 19. When you learn prayers, they must be associated with one of the three elements that make up the Domains of your Devotion.
+At level 1, you have access to 3 **prayers** of your choice, selected from the list at the end of this section. You gain an additional prayer at level 4, 8, 12, 16 and 19. When you learn prayers, they must be associated with one of the three elements that make up the Domains of your Devotion.
 
 ## Miracles
 
@@ -199,7 +199,7 @@ See the Leveling Up section in the Narrative Mechanics chapter for a reminder of
 
 ## Good Deeds
 
-At level 5, your good deeds do not go unnoticed. Whenever you use the Treat minor action on another creature, also gain its benefit targeting yourself, using the same skill check result.
+At level 5, your good deeds do not go unnoticed. Whenever you use the Treat minor action on another creature, also gain its benefit targeting yourself using the same skill check result.
 
 ## As a Lamb Among Wolves
 
@@ -240,7 +240,7 @@ At level 17, you learn to deflect any attempt to interfere with your miracles. W
 
 ## Privileged Information
 
-At level 18, you finally learn to communicate directly with your deity and may occasionally ask them questions. Once per rest, you may immediately gain the benefit of the Augury downtime activity specific to your subclass.
+At level 18, you finally learn to communicate directly with your deity and may occasionally ask them questions. Once per rest when you use the Scan minor action, you may immediately gain the benefit of the Augury downtime activity specific to your subclass.
 
 ## Favored
 
