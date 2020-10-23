@@ -170,7 +170,7 @@ You have disadvantage on attacks that you make against allied creatures.
 
 ### Ferocious
 
-Whenever a creature loses life due to one of your attacks, you may make an attack of opportunity against them.
+You may now make attacks of opportunity during your turn. Whenever a creature loses life due to one of your attacks, you may make an attack of opportunity against them.
 
 ### Lithe
 

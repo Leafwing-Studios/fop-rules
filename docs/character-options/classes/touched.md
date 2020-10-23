@@ -102,6 +102,8 @@ At level 3, you and your companion dance together, moving in short bursts as you
 
 Also at level 3, you learn to carefully share power back to your companion, strengthening it at the cost of your own health. As a minor action, gain essence equal to your proficiency bonus and lose four times that much life. You have disadvantage on all basic attacks and advantage on all special attacks until the start of your turn.
 
+Losing life in this way does not provoke an attack of opportunity.
+
 ## Attribute Improvement
 
 When you reach level 4, 8, 12, 16 and 19 you become tangibly more talented, and can increase one Attribute of your choice by 1. As normal, you can’t increase your score above +5 in this way.
@@ -144,7 +146,7 @@ At level 9, your companion lashes out at those who dare to strike you, and snaps
 
 ## Counterpoint
 
-At level 11, you and your companion move in a deadly dance, exposing your enemies weaknesses for each other. Whenever a creature loses life due to one of your attacks, you may make an attack of opportunity against them.
+At level 11, you and your companion move in a deadly dance, exposing your enemies weaknesses for each other. You may now make attacks of opportunity during your turn. Whenever a creature loses life due to one of your attacks, you may make an attack of opportunity against them.
 
 ## Symbiosis
 
@@ -165,7 +167,7 @@ At level 17, you and your companion learn to make deep personal sacrifices for t
 
 Whenever you use the Balance of Power: Host feature, you may spend 2 additional essence. If you do, your basic attacks are automatically critical hits if they land until the start of your next turn.
 
-Whenever you use the Balance of Power: Companion feature, you may spend 8 additional life. If you do, your special attacks are automatically critical hits if they land until the start of your next turn.
+Whenever you use the Balance of Power: Companion feature, you may choose to lose 8 additional life. If you do, your special attacks are automatically critical hits if they land until the start of your next turn.
 
 This feature works differently in concert with the Unleash major action, as these attacks are already automatically critical hits if they land. Instead:
 

@@ -2,10 +2,12 @@
 
 ## Attack of Opportunity
 
-Strike suddenly, taking advantage of an opening in your opponent’s defenses. You may spend your reaction to make an attack of opportunity whenever an enemy in your zone of control **provokes** an attack of opportunity. By default, creatures provoke an attack of opportunity whenever they:
+Strike suddenly, taking advantage of an opening in your opponent’s defenses. You may spend your reaction to make an attack of opportunity whenever an enemy in your zone of control **provokes** an attack of opportunity. By default, creatures provoke an attack of opportunity from enemies whose zone of control they are in whenever they:
 
-- Spend movement to enter and leave a hostile creature's zone of control in a single turn. This occurs regardless of the order.
-- Lose life due to an enemy attack.
+- Lose life.
+- Spend movement to both enter and leave a hostile creature's zone of control in a single turn. This occurs regardless of the order.
+
+Unlike other reactions, **you may not use your reaction to make an attack of opportunity during your turn.** If you would like to follow up on your own attacks, pick up the [Ferocious](character-options/talents/combat-talents?id=ferocious) combat talent.
 
 You may use any attack to make an attack of opportunity, so long as it does not cost essence and you meet the attack’s other requirements, such as being within range.
 

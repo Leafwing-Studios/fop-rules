@@ -90,7 +90,7 @@ At the start of each of your turns:
 - you cannot change the type of damage dealt by this effect, but (through your Domain class feature) are resistant to this damage
 - reset your energy to 0
 
-In addition, your concentration is no longer tested when you lose life due to taking damage of the type associated with your Domain.
+In addition, you no longer provoke an attack of opportunity or test your concentration when you lose life due to taking damage of the type associated with your Domain.
 
 ## Lay of the Land
 
