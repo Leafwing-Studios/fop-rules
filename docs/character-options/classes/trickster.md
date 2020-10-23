@@ -95,9 +95,9 @@ Immediately after you use a trick, make a difficulty 10 Presence (Trickery) skil
 
 Tricks are indistinguishable before they detonate. The listed duration of a trick does not begin until it is detonated. If you have two tricks which would detonate at the same time, you may choose which effects resolve first.
 
-At level 1, you know 3 tricks, learning another at levels 4, 8, 12, 16 and 19. You may select these from the Tricks section at the end of this class description.
-
 If you have at least a minute to prepare, you may choose to hide or disguise your trick, concealing its true nature (and detonation). If you succeed on a difficulty 15 Expertise (Trickery) skill check, its nature is not obvious before it detonates and any effects which are not plainly apparent cannot be traced back to the trick. If you succeed on a difficulty 15 Agility (Trickery) skill check, no one sees you plant the trick. You have disadvantage on these skill checks if there is more than one observer or you are being closely watched.
+
+You learn 3 tricks at level 1 selected from the [Trickster Tricks](../powers/trickster-tricks.md) section of the book. You learn an additional trick at level 4, 8, 12, 16 and 19.
 
 ## Flair
 

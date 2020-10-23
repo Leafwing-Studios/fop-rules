@@ -74,9 +74,7 @@ Every companion is associated with two element types, which determine the type o
 
 Many of the Touched’s features rely on the distinction and interplay between melee and ranged attacks, which are said to belong to the two different **range categories** of the same name. While you are wielding a melee set of arms, the range of your melee powers is the same as the range of those arms. Otherwise, they have a range of 1 tile. While you are wielding a ranged set of arms, the range of your ranged powers is the same as the range of those arms. Otherwise they have a range of 6 tiles.
 
-Unlike other classes, the powers available to Touched are built from scratch for each character using a simple set of rules, rather than being selected from a list. See the Powers section at the end of the class description for the rules on doing so.
-
-You learn 3 powers of your own creation at level 1, and learn a new power at levels 4, 8, 12, 16 and 19.
+You learn 3 powers at level 1, built using the rules found in the [Touched Powers](../powers/touched-powers.md) section of the book. You learn an additional power at level 4, 8, 12, 16 and 19. Unlike other classes, the powers available to Touched are built from scratch for each character using a simple set of rules, rather than being selected from a list. See the Powers section at the end of the class description for the rules on doing so.
 
 ## Unison
 

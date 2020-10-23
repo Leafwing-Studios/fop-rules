@@ -81,7 +81,7 @@ When you cast a spell, you may spend additional essence to empower its effects, 
 | 13-16 |           4           |
 | 17-20 |           5           |
 
-At level 1, you know 4 spells, and learn a new spell at level 4, 8, 12, 16 and 19. At least half of the spells that you know must be from the spell list associated with your school of magic (described immediately below); other spells can be chosen freely from other schools of magic.
+You learn 4 spells at level 1 selected from the [Runeseeker Spells](../powers/runeseeker-spells.md) section of the book. You learn an additional spell at level 4, 8, 12, 16 and 19. At least half of the spells that you know must be from the spell list associated with your school of magic (described immediately below); other spells can be chosen freely from other schools of magic.
 
 ## School of Magic
 

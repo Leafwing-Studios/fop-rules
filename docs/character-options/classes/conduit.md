@@ -74,9 +74,9 @@ Each set of arms may only hold one charge at a time. Casting any further charges
 
 Once per turn, without spending an action, you may spend 1 essence to cast a charge into your weapon.
 
-You learn 4 charges at level 1, and learn an additional charge at level 4, 8, 12, 16 and 19. Select these from the charges section at the end of this class description.
+In addition, you may spend 1 essence to use **Charge** minor action. When you do, choose whether to cast the charge into your weapon or directly at a target of your choice within range.
 
-You may spend 1 essence to use **Cast** minor action. When you do, choose whether to cast the charge into your weapon or directly at a target of your choice within range.
+You learn 4 charges at level 1 selected from the [Conduit Charges](../powers/conduit-charges.md) section of the book. You learn an additional charge at level 4, 8, 12, 16 and 19.
 
 ## Mastery: Weaponry
 

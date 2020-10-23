@@ -67,7 +67,7 @@
 
 ## Weave Magic
 
-As a Weaver, you manipulate the very fabric of magic, carefully shifting and crafting the arcane threads. Beginning at level 1, you learn to weave **patterns,** magical spells which can be sustained to create lasting effects so long as your concentration holds, depleting essence over time. You learn 4 patterns at level 1, and learn a new one at levels 4, 8, 12, 16 and 19.
+As a Weaver, you manipulate the very fabric of magic, carefully shifting and crafting the arcane threads. Beginning at level 1, you learn to weave **patterns,** magical spells which can be sustained to create lasting effects so long as your concentration holds, slowly transforming your essence into tangible effects.
 
 Weaving a pattern takes a major action, but does not cost any essence. Patterns always affect a single creature (or object or small area) at a time, and they only deal arcane damage.
 
@@ -87,6 +87,8 @@ Patterns work somewhat differently than other powers due to the sustained connec
 - Even though your patterns are ranged attacks, you do not have disadvantage on attacks made with your patterns due to being in an enemy zone of control.
 - You do not need to have line of sight to your dual to affect a creature with a pattern you have sustained or already cast (but you do need to have line of sight and see them).
 - If the target of your pattern is hidden, you do not need to know where they are (although patterns do not reveal their position if they hit).
+
+You learn 4 patterns at level 1 selected from the [Weaver Patterns](../powers/weaver-patterns.md) section of the book. You learn an additional pattern at level 4, 8, 12, 16 and 19.
 
 ## Guild
 

@@ -68,7 +68,7 @@
 
 Paragons radiate confidence to all around them: **auras** are the tangible manifestation of this. At level 1, you radiate an aura at all times. At the start of each of your turns, you may pay 1 essence and choose one of the auras that you know. If you do, a 2 tile radius around you gains the tile effect described in that power's description. You inspire different effects in your allies and your foes: each aura affects either all enemy or all ally creatures. Trigger any tile effects after you gain your aura for the turn.
 
-You know 3 auras at level 1, selected from the [auras](../powers/paragon.md) section of this book in the Powers chapter. You learn an additional aura at level 4, 8, 12, 16 and 19.
+You learn 3 auras at level 1 selected from the [Paragon Auras](../powers/paragon-auras.md) section of the book. You learn an additional aura at level 4, 8, 12, 16 and 19.
 
 ## Cause
 

@@ -67,7 +67,9 @@
 
 ## Manifestations
 
-The elemental power wielded by the Shaman is a product of their deeply personal relationship with the land; no two Shaman’s are truly alike. At level 1, you learn your first two **manifestations,** which allow you to shape and wield the elements in powerful but dangerous ways. Select these from the list of Manifestations that follows the list of class features.
+The elemental power wielded by the Shaman is a product of their deeply personal relationship with the land; no two Shaman’s are truly alike. **Manifestations,** which allow you to shape and wield the elements in powerful but dangerous ways, growing as you pour more energy into them.
+
+You learn 3 manifestations at level 1 selected from the [Shaman Manifestations](../powers/shaman-manifestations.md) section of the book. You learn an additional manifestation at level 4, 8, 12, 16 and 19.
 
 ## Domain
 

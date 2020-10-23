@@ -84,7 +84,7 @@
 
 The Devout gains access to incredible power by praying to higher beings, who may or may not decide to grant the request. Devout channel the magic of their gods through the **Pray** major action, which does not cost essence.
 
-At level 1, you have access to 3 **prayers** of your choice, selected from the list at the end of this section. You gain an additional prayer at level 4, 8, 12, 16 and 19. When you learn prayers, they must be associated with one of the three elements that make up the Domains of your Devotion.
+You learn 3 prayers at level 1 selected from the [Devout Prayers](../powers/devout-prayers.md) section of the book. You learn an additional prayer at level 4, 8, 12, 16 and 19. When you learn prayers, they must be associated with one of the three elements that make up the Domains of your Devotion.
 
 ## Miracles
 

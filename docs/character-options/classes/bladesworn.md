@@ -83,7 +83,7 @@ At level 1, your blade seems to act with a mind of its own, tugging you toward w
 
 These are attacks of opportunity with unique triggers and effects: they are made as a special attack but resolved as if you had struck with a basic attack. Counterattacks use your weapon(s): they are melee if your weapon is melee and ranged if your weapon is ranged. Counterattacks do not cost essence. You cannot use counterattacks for ordinary attack of opportunities: they can only be used when their trigger is met. Like other attacks of opportunity, counterattacks always resolve before their triggering event, but unlike other attacks of opportunity counterattacks can be used during your turn.
 
-You learn 3 counterattacks at level 1, selected from the counterattacks section at the end of this class description. You learn an additional counterattack at level 4, 8, 12, 16, and 19.
+You learn 3 counterattacks at level 1, selected from the [Bladesworn Counterattacks](../powers/bladesworn-counterattacks.md) section of the book. You learn an additional counterattack at level 4, 8, 12, 16, and 19.
 
 ## Lineage
 
