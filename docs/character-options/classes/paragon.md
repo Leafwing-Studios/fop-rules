@@ -2,7 +2,7 @@
 
 **Source of Power:** Singularly committed to their ideals, the strength of the Paragon’s conviction shines through for everyone around them to see, and gives them the strength to stand proud in the face of overwhelming adversity.
 
-**Core Mechanic:** Paragons prime auras: powerful persistent powers that affect either allies or enemies that are near them. These auras activate as the Paragon leads by example, landing blows in the heart of the battle.
+**Core Mechanic:** Paragons prime auras: powerful persistent powers that affect either allies or enemies that are near them. These auras are tile effects, and when combined with their powerful Stand Your Ground feature make Paragons a battlefield feature to play around all by themselves.
 
 **Specialization:** Each Paragon is committed to an ideal, which flavors their non-aura powers; giving them a benefit when they stand without moving and enhancing their Strike and Grapple major actions.
 
@@ -41,7 +41,7 @@
 
 | Level | Proficiency Bonus |                   Features                   | Auras Known |
 | :---: | :---------------: | :------------------------------------------: | :---------: |
-|   1   |        +1         |      Auras, Bulwark, Cause: Inspiration      |      3      |
+|   1   |        +1         |   Auras, Bulwark, Cause: Stand Your Ground   |      3      |
 |   2   |        +1         |          Muster, Faith is my Shield          |      3      |
 |   3   |        +1         |             Intervention, Martyr             |      3      |
 |   4   |        +1         |            Attribute Improvement             |      4      |
@@ -66,7 +66,9 @@
 
 ## Auras
 
-Paragons radiate confidence to all around them: **auras** are the tangible manifestation of this. At level 1, you learn to **Prime** an aura as a minor action. The first time during your turn that you hit a creature with an attack, you may spend 1 essence to trigger it, providing an effect to either all allies or all enemies within 2 tiles of you. The effects caused by auras are either instant or last until the end of your next turn. Priming a new aura replaces your previous one.
+Paragons radiate confidence to all around them: **auras** are the tangible manifestation of this. At level 1, you radiate an aura at all times. At the start of each of your turns, you may pay 1 essence and choose one of the auras that you know. If you do, a 2 tile radius around you gains the tile effect described in that power's description. You inspire different effects in your allies and your foes: each aura affects either all enemy or all ally creatures. Trigger any tile effects after you gain your aura for the turn.
+
+You know 3 auras at level 1, selected from the [auras](../powers/paragon.md) section of this book in the Powers chapter. You learn an additional aura at level 4, 8, 12, 16 and 19.
 
 ## Cause
 
@@ -122,11 +124,11 @@ At level 6, you are able to call for an enforced peace through the strength of y
 
 ## Stand Proud
 
-At 7th level, Paragons stand above the fray, drawing enemy attention with their leadership and pride. As a minor action at the cost of 1 essence, you may attempt to Provoke a creature of your choice within 6 tiles of you, making a Presence attack against it. If you hit, apply a number of stacks of the taunted ailment equal to your Presence (minimum of 1).
+At 7th level, Paragons stand above the fray, drawing enemy attention with their leadership and pride. You gain access to the Provoke power. As a minor action, make a melee Presence attack against a creature within a 2 tile range. If you hit, make a Presence (Guidance) skill check. Apply 1 stack of taunted for every 5 points of the skill check result, rounded down.
 
 ## Unassailable
 
-At level 9, the Paragon’s belief in the cause bolsters their shield. After you use the Block reaction, gain absorption equal to twice your Presence (minimum of 1). This absorption is applied after damage is dealt to you, and so does not reduce the damage of the attack that you blocked.
+At level 9, the Paragon’s belief in the cause bolsters their shield. Once per round after you use the Block reaction, you may spend 1 essence to refund your reaction. This ability refreshes at the start of each of your turns.
 
 ## Unwavering
 
@@ -134,11 +136,11 @@ Once you reach level 10, you are unwavering in your convictions, and nearly impo
 
 ## Rallying Blow
 
-At level 11, your blows inspire and guide your allies, highlighting weaknesses in the foes’ defenses. Whenever you hit a creature with a basic attack or Grapple attack, each ally within a 10 foot radius of you may make an attack of opportunity against that creature.
+At level 11, your blows inspire and guide your allies, highlighting weaknesses in the foes’ defenses. Whenever you hit a creature with a basic attack or Grapple attack, each ally within a 2 tile radius of you may make an attack of opportunity against that creature.
 
 ## Battlefield Beacon
 
-Upon reaching 13th level, you are able to project your force of belief across the entire battlefield, extending the range of your auras. Whenever you activate an aura, you may pay 1 additional essence, causing it to affect creatures within 12 tiles, rather than the usual 2 tiles.
+Upon reaching 13th level, you are able to project your force of belief across the entire battlefield, extending the range of your auras. At the start of each of your turns, you may pay 1 additional essence when you activate your aura, causing the tile effect to have a radius of 12 tiles, rather than the usual 2 tiles.
 
 ## Armistice
 
@@ -150,7 +152,7 @@ At level 15, your allies share in your strength as you hold the line against imp
 
 ## Together as One
 
-At level 17, your conviction radiates intensely, bolstering your allies and cowing your foes like never before. You may now have two auras Primed at once, which must be distinct. You may choose to activate either or both of your primed auras when you trigger them, but it each costs essence as usual. You may not activate the same aura twice during your turn.
+At level 17, your conviction radiates intensely, bolstering your allies and cowing your foes like never before. At the start of each of your turns, you may pay 1 additional essence to activate a second aura of your choice. You must choose two different auras.
 
 ## Redemption
 
@@ -159,7 +161,7 @@ If you succeed, their value in your chosen Ideal permanently increases by 1. Thi
 
 ## Unbreakable
 
-At level 20 your spirit is impossible to break, and you seem to recover as you ward off blow after blow. Whenever you prevent damage that you would have taken through either the Block reaction or via absorption regain half that much life.
+At level 20 your spirit is impossible to break, and you seem to recover as you ward off blow after blow. Whenever you prevent damage with the Block reaction, gain half that much life.
 
 # Causes
 
@@ -197,11 +199,11 @@ At level 5, you learn to carry the weight of your moral convictions into your bl
 
 ### Hold Your Ground: Mastery
 
-At level 1, your belief in Progress lets you focus in order to gain true mastery over the very nature of magic. At the start of each of your turns, you may choose to stand firm in order to be able to freely replace any ailments or afflictions that you apply with the same number of stacks of a ailment or affliction of your choice. You must replace ailments with ailments, and afflictions with afflictions. Until the start of your next turn, you cannot spend movement and are immune to forced movement.
+At level 1, your belief in Progress lets you focus in order to gain true mastery over the very nature of magic. At the start of each of your turns, you may choose to stand firm in order to be able to freely replace any ailments or afflictions that you apply with the same number of stacks of an ailment or affliction of your choice. You must replace ailments with ailments, and afflictions with afflictions. Until the start of your next turn, you cannot spend movement and are immune to forced movement.
 
 ### Fervent Blows: Surge
 
-At level 5, your blade surges with incredible energy, destabilizing the essence inside those you strike. When you hit a creature with a basic attack or Grapple attack, you may spend 1 essence. If you do, apply cursed.
+At level 5, your blade surges with incredible energy, destabilizing the essence inside those you strike. When you hit a creature with a basic attack or Grapple attack, you may spend 1 essence. If you do, apply one stack of cursed.
 
 ## Sanctity
 
