@@ -88,7 +88,7 @@ Pulses work somewhat differently than other powers due to the sustained connecti
 - You do not need to have line of sight to your dual (or know where they are hidden) to affect your dual with a pulse.
 - If you hit an enemy dual with a pulse attack while they are hidden they are automatically revealed.
 
-You learn two pulses of your choice at level 1, and learn an additional pulse at levels 4, 8, 12, 16 and 19 as shown in the Soulbinder table. You may select these pulses from the list at the end of this class description.
+You learn one pulse of your choice at level 1, and learn an additional pulse at levels 4, 8, 12, 16 and 19 as shown in the Soulbinder table. You may select these pulses from the list at the end of this class description.
 
 You also learn the two following pulses immediately upon gaining this feature, which do not count against your pulses known. Choose the type of damage that soul burst deals when you learn it.
 
