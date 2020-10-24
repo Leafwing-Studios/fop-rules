@@ -12,7 +12,7 @@ When making skill checks, Prowess would be used when a door needs to be forced o
 
 Attacks against your Prowess defense include being grabbed by a monstrous tentacle and being poisoned.
 
-In combat, Prowess is used to determine which sorts of arms and armour you can wield. As described in the Gear section of this book, you can build custom arms (the items you use in your hands such as a sword and a shield, a two-handed axe or a pair) and armor (the defensive equipment you wear on the rest of your body). To do so, you combine affixes that give special properties (e.g. increased damage, longer reach, special techniques), summing their cost. You may use gear that has a total cost less than or equal to your Prowess score.
+In combat, Prowess is used to determine which sorts of arms and armour you can wield. As described in the Gear section of this book, you can build custom arms (the items you use in your hands such as a sword and a shield, a two-handed axe or a pair) and armor (the defensive equipment you wear on the rest of your body). To do so, you combine affixes that give special properties (e.g. increased damage, longer reach, special techniques), summing their cost. You may use gear that has a total cost less than or equal to half your (unrounded) Prowess score.
 
 ## Agility
 
