@@ -6,7 +6,7 @@ Attacks against you have disadvantage until the start of your next turn.
 
 ## Grapple
 
-Provoke an attack of opportunity, then make a melee Prowess attack against another creature within a one tile range. If you hit, they gain the [grappled](../../conditions/statuses.md?id=grappled) status, and you gain the [grappling](../../conditions/statuses.md?id=grappling) status.
+Make a melee Prowess attack against another creature within a one tile range. If you hit, they gain the [grappled](../../conditions/statuses.md?id=grappled) status, and you gain the [grappling](../../conditions/statuses.md?id=grappling) status.
 
 You have disadvantage on Grapple attacks made against creatures smaller than a quarter of your size (in tiles). You cannot make Grapple attacks against creatures that are more than four times your size. You cannot make Grapple attacks while you have the grappled or grappling status.
 
