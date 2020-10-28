@@ -59,12 +59,12 @@ Grow closer to another party member, improving your cooperation. Both party memb
 Challenge an NPC to a contest of some sort, wagering that your skill is superior, and winning or losing the stakes of your bet based on the outcome. Mechanically:
 
 1. Propose a method of contest for both you and the NPC, selecting both a skill and an attribute.
-1. Propose a set of stakes for both you and the NPC.
-1. Borrowing rules from the Deals and Ideals section found in the Scenes chapter, the NPC evaluates this challenge’s payoff and plausibility, accepting the challenge if their sum is at least 0.
+2. Propose a set of stakes for both you and the NPC.
+3. Borrowing rules from the Deals and Ideals section found in the Scenes chapter, the NPC evaluates this challenge’s payoff and plausibility, accepting the challenge if their sum is at least 0.
    - You may use both Deception and Salesmanship to influence their perception of the payoff and plausibility.
-1. Make an opposed skill check against the NPC.
-1. If you win, you gain your half of the stakes of your bet. If you lose, hand over the stakes of the bet or their loyalty to you decreases by 1 or 2 due to Broken Trust.
-1. If you win by 5 or more their loyalty towards you increases by 1, as you Earn Their Respect due to your superior skill. If you lose by 5 or more, their loyalty towards you decreases by 1 as you lose their respect through your abject failure.
+4. Make an opposed skill check against the NPC.
+5. If you win, you gain your half of the stakes of your bet. If you lose, hand over the stakes of the bet or their loyalty to you decreases by 1 or 2 due to Broken Trust.
+6. If you win by 5 or more their loyalty towards you increases by 1, as you Earn Their Respect due to your superior skill. If you lose by 5 or more, their loyalty towards you decreases by 1 as you lose their respect through your abject failure.
 
 ## Connect
 
@@ -78,14 +78,20 @@ In order to use this downtime activity, you must have access to both the appropr
 
 If you want to add an affix to a set of arms or armor, make an Expertise (Craftsmanship) skill check, with a difficulty set by the rarity of the affix. If you succeed, add that affix to the item’s affixes.
 
+<div class="infobox">
+
+**Affix crafting difficulty by rarity**
+
 - **Common:** difficulty 10
 - **Advanced:** difficulty 15
 - **Exotic:** difficulty 20
 - **Prismatic:** difficulty 25
 
-If you succeed by 5 or more, immediately gain the benefit of this downtime activity again.
+</div>
 
-Success or failure, you may remove any affixes from the arms or armor, letting you replace an affix with a new one to ensure that the gear point total remains less than or equal to your proficiency bonus plus 2. In addition, you may choose to immediately attune to the piece of gear you just crafted, replacing your attunement to an existing piece of gear of the same type if needed.
+If you succeed by 5 or more, you may immediately gain the benefit of this downtime activity again, affecting the same item.
+
+Regardless of success, you may remove any affixes from the arms or armor, letting you replace an affix with a new one to ensure that the gear point total remains less than or equal to your proficiency bonus plus 2. In addition, you may choose to immediately attune to the piece of gear you just crafted, replacing your attunement to an existing piece of gear of the same type if needed.
 
 Creating mundane items or structures other than arms and armor requires an Expertise (Craftsmanship) skill check, with the difficulty set by the table in the usual fashion.
 
@@ -93,11 +99,13 @@ Creating mundane items or structures other than arms and armor requires an Exper
 
 Scrap an item completely, turning it back into essence crystals.
 
-Choose a set of arms or armor, or a single trinket. The item is permanently destroyed, and you recover essence crystals equal to:
+Choose a set of arms or armor, or a single trinket, and make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check. The item is permanently destroyed, and you recover essence crystals equal to:
 
 **skill check result \* gear point total / 2**
 
 Treat the gear point total of any trinket consumed in this way as 1.
+
+You have disadvantage on this skill check if the item is marked by a different crafting skill.
 
 ## Devise
 
@@ -113,14 +121,9 @@ Enchant an item, adding an affix to it by spending essence crystals.
 
 Select a trinket, or an affix and a set of arms or armor. Successfully adding this affix to the gear consumes 10 essence crystals per gear point of that affix (to a minimum of 0) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 30 essence crystals must be consumed instead. Creating trinkets always costs 10 essence crystals.
 
-Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check, with a difficulty set by the rarity of the affix or trinket. Add a bonus of 5 times the current danger level of the area you are in to that skill check. If you succeed, create that trinket or add that affix to the item’s affixes.
+Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check, with a difficulty of 20 for a trinket, or set by the rarity of the affix. Add a bonus of 5 times the current danger level of the area you are in to that skill check. If you succeed, create that trinket or add that affix to the item’s affixes.
 
-- **Common:** difficulty 10
-- **Advanced:** difficulty 15
-- **Exotic:** difficulty 20
-- **Prismatic:** difficulty 25
-
-If you succeed by 5 or more, immediately gain the benefit of this downtime activity again.
+If you succeed by 5 or more, you may immediately gain the benefit of this downtime activity again, affecting the same item.
 
 If you have access to a relevant **source of knowledge,** you have advantage on this skill check. Each crafting skill uses a different source of knowledge:
 
@@ -129,9 +132,11 @@ If you have access to a relevant **source of knowledge,** you have advantage on 
 - _Fontcraft:_ you are at a font of power that shares an element with the enchantment in question.
 - _Tinkering:_ you have free access to an existing item with that affix.
 
-Success or failure, you may remove any affixes from the arms or armor, letting you replace an affix with a new one to ensure that the gear point total remains less than or equal to your proficiency bonus plus 2. In addition, you may choose to immediately attune to the piece of gear you just enchanted, replacing your attunement to an existing piece of gear of the same type if needed.
+You have disadvantage on this skill check if the item is already marked by a different crafting skill.
 
-This item becomes permanently **marked** by the type of magic used to imbue it, corresponding to the choice of Anima, Arcana, Fontcraft or Tinkering, replacing any previous **mark**. Skill checks made as part of the Disenchant or Enchant downtime activity that use a different skill are made with disadvantage.
+Regardless of success, you may remove any affixes from the arms or armor, letting you replace an affix with a new one to ensure that the gear point total remains less than or equal to your proficiency bonus plus 2. In addition, you may choose to immediately attune to the piece of gear you just enchanted, replacing your attunement to an existing piece of gear of the same type if needed.
+
+If you succeed, this item becomes permanently **marked** by the type of magic used to imbue it, corresponding to the choice of Anima, Arcana, Fontcraft or Tinkering, replacing any previous **mark**. Skill checks made as part of the Disenchant or Enchant downtime activity that use a different skill are made with disadvantage.
 
 ## Harvest
 
@@ -178,17 +183,18 @@ As a downtime activity, your allies can attempt to **Resurrect** you. In order t
 
 **Resurrection Options**
 
-| Species                      | Vessel                                               | Skill required |
-| ---------------------------- | ---------------------------------------------------- | -------------- |
-| Original                     | Original body                                        | Medicine       |
-| Undead (Eternal or Skeleton) | Another body                                         | Medicine       |
-| Fontborn                     | Badly damaged body                                   | Fontcraft      |
-| Awakened                     | An ordinary animal that was special to the deceased  | Anima          |
-| Undead (Spectre) or Slime    | None                                                 | Fontcraft      |
-| Automata                     | An inanimate object that was special to the deceased | Tinkering      |
-| Sylvan                       | A plant that was special to the deceased             | Anima          |
-| Crystalline                  | 10 essence crystals                                  | Arcana         |
-| Fae                          | Something from a wild place                          | Anima          |
+| Species                      | Vessel                                  | Skill required |
+| ---------------------------- | --------------------------------------- | -------------- |
+| Original                     | Original body                           | Medicine       |
+| Undead (Eternal or Skeleton) | Another body                            | Medicine       |
+| Fontborn                     | A badly damaged body                    | Fontcraft      |
+| Awakened                     | An ordinary animal                      | Anima          |
+| Undead (Spectre) or Slime    | None                                    | Fontcraft      |
+| Automata                     | An inanimate object                     | Tinkering      |
+| Sylvan                       | A plant                                 | Anima          |
+| Crystalline                  | 10 essence crystals                     | Arcana         |
+| Fae                          | Something from a wild place             | Anima          |
+| Reclaimer                    | Something with a strong memory attached | Fontcraft      |
 
 <div class="infobox">
 
