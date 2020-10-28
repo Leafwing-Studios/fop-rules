@@ -211,7 +211,7 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 **Targets:** Single-target
 
-**Attack:** Expertise
+**Targeted defense:** Expertise
 
 **Duration:** Instant
 
@@ -219,7 +219,7 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 Deftly parrying, you bait the foe into trying to take advantage of an opening before retaliating in turn as you step out of the way. This attack of opportunity triggers whenever another creature within range attempts to make an attack of opportunity against you.
 
-Make an Expertise attack against that creature. If you hit, the target suffers the effect of a basic attack from you at half efficacy and you gain the benefit of the Dodge reaction.
+Make a special attack against Expertise against that creature. If you hit, the target suffers the effect of a basic attack from you at half efficacy and you gain the benefit of the Dodge reaction.
 
 ### Direction: Challenge
 
@@ -261,7 +261,7 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
@@ -269,7 +269,7 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 Letting the rage of battle consume you, you drop foe after foe as you feast on their life force. This attack of opportunity triggers whenever you reduce a creature to 0 life.
 
-Make a Focus attack against another creature of your choice within range of your weapon. If you hit, the target suffers the effect of a basic attack from you at half efficacy and regain life equal to the damage dealt by that attack.
+Make a special attack against Focus against another creature of your choice within range of your weapon. If you hit, the target suffers the effect of a basic attack from you at half efficacy and regain life equal to the damage dealt by that attack.
 
 ### Direction: Reaper
 
@@ -311,7 +311,7 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 **Targets:** Single-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Instant
 
@@ -319,7 +319,7 @@ At level 11, your blade guides you, granting you access to a powerful counteratt
 
 Dashing to the rescue, you retaliate on behalf of an ally as you shield them from harm. This attack of opportunity triggers whenever an ally within your zone of control would be hit by an attack from an enemy within range.
 
-Make an Agility attack against the enemy that would damage your ally. If you hit, the target suffers the effect of a basic attack from you at half efficacy and your ally gains the benefit of your Block reaction.
+Make a special attack against Agility against the enemy that would damage your ally. If you hit, the target suffers the effect of a basic attack from you at half efficacy and your ally gains the benefit of your Block reaction.
 
 ### Direction: Feud
 

@@ -35,7 +35,7 @@ When you use the Strike major action (including as an attack of opportunity) whi
 
 ## Blast
 
-You hurl a blast of elements at your foe. As a major action, make an Agility attack with this Manifestation against all creatures within a radius of a tile you select within 12 tiles, dealing elemental damage and inflicting a minor additional effect on hit based on your Domain. Creatures that you miss still suffer the attack's effect at half efficacy.
+You hurl a blast of elements at your foe. As a major action, make a special attack against Agility with this Manifestation against all creatures within a radius of a tile you select within 12 tiles, dealing elemental damage and inflicting a minor additional effect on hit based on your Domain. Creatures that you miss still suffer the attack's effect at half efficacy.
 
 When you Surge this manifestation:
 
@@ -101,7 +101,7 @@ These arms always have the _grasping_ affix, which makes you unable to make basi
 
 Whenever you use the Swap minor action, you may choose to augment these arms, and do not need to replace your currently equipped arms. At higher surge levels:
 
-- **Odd:** Make a Prowess attack against a creature of your choice within range. If you hit, pull them into the nearest empty tile(s). Ties are broken by distance to the shaman, then distance to the creature's original position, then the shaman's choice.
+- **Odd:** Make a special attack against Prowess against a creature of your choice within range. If you hit, pull them into the nearest empty tile(s). Ties are broken by distance to the shaman, then distance to the creature's original position, then the shaman's choice.
 - **Even:** At the end of your turn, deal additional elemental damage to each creature that you are grappling.
 
 | Surge | Pull Range |  Additional Damage  |
@@ -131,12 +131,12 @@ As a major action:
 - Launch forward a fixed distance in a straight line.
 - You are treated as if you were flying during this movement.
 - This does not provoke attacks of opportunity.
-- Make an Agility attack against all creatures in your path.
+- Make a special attack against Agility against all creatures in your path.
 - If you hit, deal elemental damage to them as shown in the table below.
 - Hit or miss, they are knocked out of your way into the nearest empty tile of their choice that is not along your path.
 - Creatures at the start of your path choose a new position before creatures towards the end of your path.
 - If your movement is stopped before you reach the end of the distance (such as if you hit a wall), an elemental shockwave emanates from you.
-  - Make an Agility attack against all creatures within a radius of the point where you collided, including yourself.
+  - Make a special attack against Agility against all creatures within a radius of the point where you collided, including yourself.
   - If you hit, they take elemental damage as listed in the table below.
   - If you miss, they suffer the attack's effects at half efficacy.
 
@@ -170,7 +170,7 @@ Planting yourself solidly in place, you channel the elemental energy of the land
 If you have not yet spent movement this turn, you may use the Roots manifestation as a minor action. When you do:
 
 - Until the start of your next turn, a 1 tile radius around you gains the _crackling power_ tile effect.
-  - Make a Prowess attack against creatures who trigger your _crackling power_ tile effect. If you hit, apply stacks of the ailment specified by your Domain.
+  - Make a special attack against Prowess against creatures who trigger your _crackling power_ tile effect. If you hit, apply stacks of the ailment specified by your Domain.
 - Until the start of your next turn, you cannot spend movement and are immune to forced movement.
 - End the flying and aloft conditions on yourself.
 - At higher surge tiers, you also gain absorption.
@@ -299,7 +299,7 @@ When you Surge this manifestation:
 
 As a major action, you cause the elements rain fury down upon an area.
 Create an elemental storm tile effect with a 1 tile radius centered a point that you have line of sight to within 12 tiles.
-This tile effect always deals elemental damage with a Prowess attack, but also has an additional effect based on your Domain.
+This tile effect always deals elemental damage with a special attack against Prowess, but also has an additional effect based on your Domain.
 If you miss, the target suffers the attack's effects at half efficacy.
 
 You may only have one Storm manifestation active at once; using this ability again ends the previous effect. It persists as long as you maintain your concentration but if you lose your concentration during this time, the effect immediately ends. You may also choose to end this effect at the end of each of your turns.
@@ -331,7 +331,7 @@ When you summon this storm with a major action, or use a minor action to summon 
 
 ## Word
 
-With a single word of power, you control your foes with the power of the elements as they are wracked by the incredible energy surging through them. As a major action, make a Focus attack against a creature of your choice within a 6 tile range. If you hit, apply the number of stacks of unstable specified in the table below. At higher surge levels, you also apply stacks of the ailment specified by your Domain.
+With a single word of power, you control your foes with the power of the elements as they are wracked by the incredible energy surging through them. As a major action, make a special attack against Focus against a creature of your choice within a 6 tile range. If you hit, apply the number of stacks of unstable specified in the table below. At higher surge levels, you also apply stacks of the ailment specified by your Domain.
 
 When you Surge this manifestation:
 
@@ -366,7 +366,7 @@ When you Surge this manifestation:
 
 **Shaping:** Your _shaping_ manifestation creates the _living thorns_ ground effect. These tiles are difficult terrain. At the end of each turn, apply two stack of bleeding to each creature for each living thorns tile that they entered this turn.
 
-When you activate your _shaping_ manifestation, your thorns come to life, grabbing at those nearby. Choose a living thorns tile, then make a Prowess attack against a creature of your choice within a 2 tile range. If you hit, pull them into the chosen tile and end the flying or aloft conditions on them.
+When you activate your _shaping_ manifestation, your thorns come to life, grabbing at those nearby. Choose a living thorns tile, then make a special attack against Prowess against a creature of your choice within a 2 tile range. If you hit, pull them into the chosen tile and end the flying or aloft conditions on them.
 
 **Storm:** Your _storm_ manifestation also 3 + 1/2 Presence stacks of bleeding to creatures that it hits.
 
@@ -402,7 +402,7 @@ When you activate your _shaping_ manifestation, create a secondary _strength of 
 
 **Shaping:** Your _shaping_ manifestation creates the _consuming fog_ tile effect. These tiles are heavily shrouded
 
-When you activate your _shaping_ manifestation, the fogs swallow creatures lost in them, causing them to mysteriously appear some distance away. Make an Expertise attack against a creature of your choice that is occupying a _consuming fog tile_ within a 6 tile range. If you hit, select 3 hiding spots within consuming fog tiles of your choice within a 6 tile range. They teleport to one of these hiding spots (their choice) and gain the hidden status.
+When you activate your _shaping_ manifestation, the fogs swallow creatures lost in them, causing them to mysteriously appear some distance away. Make a special attack against Expertise against a creature of your choice that is occupying a _consuming fog tile_ within a 6 tile range. If you hit, select 3 hiding spots within consuming fog tiles of your choice within a 6 tile range. They teleport to one of these hiding spots (their choice) and gain the hidden status.
 
 **Storm:** Your _storm_ manifestation also applies one stack of blinded to creatures that it hits.
 
@@ -432,7 +432,7 @@ Like usual, forced movement is doubled against creatures with the aloft or flyin
 
 **Shaping:** Your _shaping_ manifestation creates the _scorching lava_ ground effect. These tiles deal 1d4 + Presence fire damage to creatures who trigger them.
 
-When you activate your _shaping_ manifestation, the lava erupts in a burning explosion. Choose a _scorching lava_ tile within a 6 tile range, then make an Agility attack against all creatures within a 2 tile radius. Deal 1d6 + Presence fire damage to each creature that you hit. Creatures that you miss still suffer the attack's effects at half efficacy.
+When you activate your _shaping_ manifestation, the lava erupts in a burning explosion. Choose a _scorching lava_ tile within a 6 tile range, then make a special attack against Agility against all creatures within a 2 tile radius. Deal 1d6 + Presence fire damage to each creature that you hit. Creatures that you miss still suffer the attack's effects at half efficacy.
 
 **Storm:** Your _storm_ manifestation also applies 3 + 1/2 Presence stacks of aflame to creatures that it hits.
 
@@ -446,7 +446,7 @@ When you activate your _shaping_ manifestation, the lava erupts in a burning exp
 
 **Shaping:** Your _shaping_ manifestation creates the _ethereal swamp_ ground effect. These tiles are difficult terrain.
 
-When you activate your _shaping_ manifestation, create a glowing will o' wisp that lures creatures towards it. Choose an _ethereal swamp_ tile within a 6 tile range. Then, make a Presence attack against a creature of your choice within 6 tiles of the selected tile. If you hit, at the start of their next turn, they must spend all of their movement to travel directly towards the selected tile before they take any other actions. If they are prone, they stand up before spending this movement; if they can fly and are not flying, they first take flight.
+When you activate your _shaping_ manifestation, create a glowing will o' wisp that lures creatures towards it. Choose an _ethereal swamp_ tile within a 6 tile range. Then, make a special attack against Presence against a creature of your choice within 6 tiles of the selected tile. If you hit, at the start of their next turn, they must spend all of their movement to travel directly towards the selected tile before they take any other actions. If they are prone, they stand up before spending this movement; if they can fly and are not flying, they first take flight.
 
 Unlike standard effects which apply forced movement, this movement provokes attacks of opportunity.
 

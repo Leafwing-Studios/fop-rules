@@ -14,7 +14,7 @@
 
 **Targets:** Single-target
 
-**Attack:** Basic
+**Targeted defense:** Basic
 
 **Duration:** Instant
 
@@ -34,7 +34,7 @@ Your blade swirls with wind, slicing through your foes’ defenses. Make a basic
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -58,7 +58,7 @@ Your body is held aloft by a furious tempest as you embody the power of air. For
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -78,7 +78,7 @@ Your ally is blessed, shielded by ethereal wings that protect them from harsh wi
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -98,13 +98,13 @@ By the grace of your god, your ally sprouts wings, letting them soar through the
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-As you curse your foe, they stumble and gasp for air. Make a Prowess attack against a creature within range. If it hits, deal 1d4 + Presence air damage and apply 1 stack blunted.
+As you curse your foe, they stumble and gasp for air. Make a special attack against Prowess against a creature within range. If it hits, deal 1d4 + Presence air damage and apply 1 stack blunted.
 
 ### Curse of Asphyxiation - Miracle
 
@@ -118,13 +118,13 @@ As you curse your foe, they stumble and gasp for air. Make a Prowess attack agai
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
 </div>
 
-Your god denies the blessing of air to your foe, watching as they slowly suffocate. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Prowess attack against them. If it hits, deal 1d12 + Presence air damage and apply one stack of blunted. Each time you hit with this attack during a single miracle, increase the damage dealt by 1d12 + Presence.
+Your god denies the blessing of air to your foe, watching as they slowly suffocate. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a special attack against Prowess against them. If it hits, deal 1d12 + Presence air damage and apply one stack of blunted. Each time you hit with this attack during a single miracle, increase the damage dealt by 1d12 + Presence.
 
 ### Gift of Grace
 
@@ -138,7 +138,7 @@ Your god denies the blessing of air to your foe, watching as they slowly suffoca
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -158,7 +158,7 @@ Your deity grants the gift of grace to a creature, allowing them to move freely 
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -178,13 +178,13 @@ Your ally is blessed with remarkable accuracy and grace, allowing them to hit sh
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-With the power of your god, you call a sudden gust of wind into creation. Make a Prowess attack against a creature of your choice. If you hit, deal 1d4 + Presence air damage and gain the effects of the Shove minor action against the target.
+With the power of your god, you call a sudden gust of wind into creation. Make a special attack against Prowess against a creature of your choice. If you hit, deal 1d4 + Presence air damage and gain the effects of the Shove minor action against the target.
 
 ### Genesis of Wind - Miracle
 
@@ -198,13 +198,13 @@ With the power of your god, you call a sudden gust of wind into creation. Make a
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration, Persisting
 
 </div>
 
-You summon an incredible wind which throws creatures around uncontrollably, sending them tumbling across the battlefield. When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 3 tile wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. Whenever a creature starts their turn in this wind or enters it for the first time on their turn, make a Prowess attack against them. If you hit, they are knocked prone and pushed 6 tiles in the direction of the wind. If you miss, they are pushed 3 tiles instead.
+You summon an incredible wind which throws creatures around uncontrollably, sending them tumbling across the battlefield. When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 3 tile wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. Whenever a creature starts their turn in this wind or enters it for the first time on their turn, make a special attack against Prowess against them. If you hit, they are knocked prone and pushed 6 tiles in the direction of the wind. If you miss, they are pushed 3 tiles instead.
 
 ### Portent of the Four Winds
 
@@ -218,7 +218,7 @@ You summon an incredible wind which throws creatures around uncontrollably, send
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your current turn
 
@@ -238,7 +238,7 @@ With a whispered prayer you transform into the wind for a moment, before reappea
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -262,13 +262,13 @@ The creatures selected immediately disappear into puffs of wind. Choose an outdo
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Until the end of your next turn
 
 </div>
 
-A tiny tornado forms, wreaking small-scale devastation. Select a tile within range and create a 1-tile radius tornado centered on the chosen tile. Whenever a creature starts their turn in the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, apply one stack of aloft to them.
+A tiny tornado forms, wreaking small-scale devastation. Select a tile within range and create a 1-tile radius tornado centered on the chosen tile. Whenever a creature starts their turn in the tornado or enters it for the first time on their turn, make a special attack against Prowess against them. If you hit, apply one stack of aloft to them.
 
 ### Wrath of the Cyclone - Miracle
 
@@ -282,7 +282,7 @@ A tiny tornado forms, wreaking small-scale devastation. Select a tile within ran
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
@@ -290,7 +290,7 @@ A tiny tornado forms, wreaking small-scale devastation. Select a tile within ran
 
 A giant tornado forms from the heavens, touching down on the ground and violently tossing around all that it hits. Select a tile within range and create a 2-tile radius tornado centered on the chosen tile. While summoned, you may spend a minor action to move it up to 6 tiles in a path of your choice.
 
-Whenever a creature starts their turn within the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, deal 3d6 + 3 \* Presence air damage to them and apply two stacks of aloft. If you miss, they suffer the effects at half efficacy.
+Whenever a creature starts their turn within the tornado or enters it for the first time on their turn, make a special attack against Prowess against them. If you hit, deal 3d6 + 3 \* Presence air damage to them and apply two stacks of aloft. If you miss, they suffer the effects at half efficacy.
 
 ## Earth
 
@@ -306,7 +306,7 @@ Whenever a creature starts their turn within the tornado or enters it for the fi
 
 **Targets:** Single-target
 
-**Attack:** Basic
+**Targeted defense:** Basic
 
 **Duration:** Instant
 
@@ -326,7 +326,7 @@ Your blade hardens to stone, crushing your enemies. Make a basic attack against 
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -346,7 +346,7 @@ Your body hardens to stone as you are granted incredible strength. For the durat
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -366,7 +366,7 @@ Small, floating diamonds shield your ally, granting them their blessing. Select 
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -386,13 +386,13 @@ You ally's skin turns to solid diamond, sparkling and durable. Select a creature
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Until the end of the target's next turn
 
 </div>
 
-With a single glance you turn your enemy to stone. Make a Focus attack against a creature within range. This attack automatically misses against creatures suffering from the blinded ailment. If you hit, they are petrified for the duration of this effect:
+With a single glance you turn your enemy to stone. Make a special attack against Focus against a creature within range. This attack automatically misses against creatures suffering from the blinded ailment. If you hit, they are petrified for the duration of this effect:
 _ Damage
 _ Forced movement
 _ Boons
@@ -413,13 +413,13 @@ _ Ailments \* Afflictions
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Concentration
 
 </div>
 
-Your gaze pierces the very fiber of your enemies, turning them to stone. At the beginning of each of your turns, make a Focus attack against a creature within range. This attack automatically misses against creatures suffering from the blinded ailment. If you hit, they are petrified until the end of their next turn:
+Your gaze pierces the very fiber of your enemies, turning them to stone. At the beginning of each of your turns, make a special attack against Focus against a creature within range. This attack automatically misses against creatures suffering from the blinded ailment. If you hit, they are petrified until the end of their next turn:
 
 - The target is immune to all effects.
 - The target cannot take actions, reactions, or spend movement.
@@ -437,7 +437,7 @@ Your gaze pierces the very fiber of your enemies, turning them to stone. At the 
 
 **Targets:** Multi-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Until the end of your next turn
 
@@ -445,7 +445,7 @@ Your gaze pierces the very fiber of your enemies, turning them to stone. At the 
 
 A minor sandstorm surrounds your ally, blinding those nearby as your ally is kept safe within its eye. Surround a creature of your choice within range with a sandstorm that moves with them. This affects all tiles adjacent to that creature, but not the tile(s) that the creature takes up. If a creature takes up zero tiles, it affects all tiles adjacent to the tile they are in instead.
 
-Whenever a creature starts their turn in this sandstorm or enters it for the first time on their turn, make a Focus attack against them. If you hit, apply one stack of blinded.
+Whenever a creature starts their turn in this sandstorm or enters it for the first time on their turn, make a special attack against Focus against them. If you hit, apply one stack of blinded.
 
 ### Gift of the Sands - Miracle
 
@@ -459,7 +459,7 @@ Whenever a creature starts their turn in this sandstorm or enters it for the fir
 
 **Targets:** Multi-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Concentration
 
@@ -467,7 +467,7 @@ Whenever a creature starts their turn in this sandstorm or enters it for the fir
 
 A swirling sand devil engulfs your ally, slashing brutally at those nearby as your ally is kept safe within its eye. Surround a creature of your choice within range with a sandstorm that moves with them. This affects all tiles adjacent to that creature, but not the tile(s) that the creature takes up. If a creature takes up zero tiles, it affects all tiles adjacent to the tile they are in instead.
 
-Creatures within the sandstorm are heavily shrouded, except to other creatures within the eye. For the duration of this effect, whenever another creature starts their turn in the sandstorm or enters it for the first time on their turn, make a Focus attack against them. If you hit, deal 2d6 + 2 \* Presence earth damage to them, and 2 stacks of defenseless. If you miss, they suffer the effects at half efficacy.
+Creatures within the sandstorm are heavily shrouded, except to other creatures within the eye. For the duration of this effect, whenever another creature starts their turn in the sandstorm or enters it for the first time on their turn, make a special attack against Focus against them. If you hit, deal 2d6 + 2 \* Presence earth damage to them, and 2 stacks of defenseless. If you miss, they suffer the effects at half efficacy.
 
 ### Genesis of Mountains
 
@@ -481,7 +481,7 @@ Creatures within the sandstorm are heavily shrouded, except to other creatures w
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Instant
 
@@ -501,7 +501,7 @@ Earth roils and stone warps under your power. Select a tile within range. A 2 ti
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
@@ -521,13 +521,13 @@ Solid rock springs forth from the ground, jutting roughly and suddenly. Create u
 
 **Targets:** Multi-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Instant
 
 </div>
 
-With a prophetic flourish, you foresee the falling of a meteor. Select a tile of your choice within range. At the beginning of your next turn, make an Agility attack against all creatures one tile radius centered on this tile as a small meteor falls from the sky. If you hit, deal 2d8 + 2 \* Presence earth damage and knock them prone. If you miss, creatures suffer the attacks effects at half efficacy instead and are not knocked prone.
+With a prophetic flourish, you foresee the falling of a meteor. Select a tile of your choice within range. At the beginning of your next turn, make a special attack against Agility against all creatures one tile radius centered on this tile as a small meteor falls from the sky. If you hit, deal 2d8 + 2 \* Presence earth damage and knock them prone. If you miss, creatures suffer the attacks effects at half efficacy instead and are not knocked prone.
 
 ### Portent of the Meteor - Miracle
 
@@ -541,7 +541,7 @@ With a prophetic flourish, you foresee the falling of a meteor. Select a tile of
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
@@ -553,7 +553,7 @@ While you are concentrating on this miracle, your favor continues to build up as
 
 All creatures within a 3 tile radius of the previously selected tile are crushed by the meteor, and take 20d6 + 20 \* Presence earth damage. They are completely covered by the meteor, prone and cannot spend movement unless they are able to slip out from underneath it in some way. Any creature trapped in this way, or their allies, must succeed on a difficulty 25 Prowess (Athletics) skill check to break free, or destroy the part of the meteor that is trapping them. The meteor is an inanimate object with 30 life per tile-covering section and gains 10 absorption at the start of each of your turns.
 
-Creatures outside of the 3 tile radius but within a 24 tile radius are hit by the shockwave caused by the meteor. Make a Prowess attack against each of them. If you hit, deal 10d6 + 10 \* Presence air damage to all those hit, knock them prone, and push them 6 tiles directly away from the point of impact. If you miss, they suffer the effects at half efficacy.
+Creatures outside of the 3 tile radius but within a 24 tile radius are hit by the shockwave caused by the meteor. Make a special attack against Prowess against each of them. If you hit, deal 10d6 + 10 \* Presence air damage to all those hit, knock them prone, and push them 6 tiles directly away from the point of impact. If you miss, they suffer the effects at half efficacy.
 
 ### Wrath of the Earth
 
@@ -567,13 +567,13 @@ Creatures outside of the 3 tile radius but within a 24 tile radius are hit by th
 
 **Targets:** Multi-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Instant
 
 </div>
 
-The earth rumbles ominously underfoot. Select a tile within range. Make an Agility attack against all creatures in a 2 tile radius centered at that tile. If you hit, knock them prone. This is a ground effect, and does not affect creatures with flying or who are suffering from the aloft ailment.
+The earth rumbles ominously underfoot. Select a tile within range. Make a special attack against Agility against all creatures in a 2 tile radius centered at that tile. If you hit, knock them prone. This is a ground effect, and does not affect creatures with flying or who are suffering from the aloft ailment.
 
 ### Wrath of the Earth - Miracle
 
@@ -587,7 +587,7 @@ The earth rumbles ominously underfoot. Select a tile within range. Make an Agili
 
 **Targets:** Multi-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Concentration
 
@@ -595,7 +595,7 @@ The earth rumbles ominously underfoot. Select a tile within range. Make an Agili
 
 The earth quakes and roars with the might of a god. Select a tile within range. An earthquake begins in a 3 tile radius centered at that tile. This area permanently becomes difficult terrain. This is a ground effect, and does not affect creatures with flying or who are suffering from the aloft ailment.
 
-For the duration of this effect, whenever a creature starts their turn in the earthquake or enters it for the first time on their turn, make an Agility attack against them. If you hit, deal 4d6 + 4 \* Presence earth damage. If you miss, they suffer the effects at half efficacy.
+For the duration of this effect, whenever a creature starts their turn in the earthquake or enters it for the first time on their turn, make a special attack against Agility against them. If you hit, deal 4d6 + 4 \* Presence earth damage. If you miss, they suffer the effects at half efficacy.
 
 ## Fire
 
@@ -611,7 +611,7 @@ For the duration of this effect, whenever a creature starts their turn in the ea
 
 **Targets:** Single-target
 
-**Attack:** Basic
+**Targeted defense:** Basic
 
 **Duration:** Instant
 
@@ -631,7 +631,7 @@ Your weapon ignites with an otherworldly fire. Make a basic attack against a cre
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -651,7 +651,7 @@ Your body is surrounded by intense flames, cracking and burning. For the duratio
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -671,7 +671,7 @@ Cinders swirl around your ally, granting them its blessing. Select a creature wi
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -691,13 +691,13 @@ The familiar comfort of the hearth warms your allies hearts, bolstering their co
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Until the end of the target's next turn
 
 </div>
 
-Your foe ignites as you curse their name. Make a Focus attack against a creature of your choice within range. If you hit, apply 6 + Presence stacks of aflame.
+Your foe ignites as you curse their name. Make a special attack against Focus against a creature of your choice within range. If you hit, apply 6 + Presence stacks of aflame.
 
 ### Curse of Embers - Miracle
 
@@ -711,7 +711,7 @@ Your foe ignites as you curse their name. Make a Focus attack against a creature
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Concentration
 
@@ -719,7 +719,7 @@ Your foe ignites as you curse their name. Make a Focus attack against a creature
 
 Embers form under the feet of your victim, burning them if they stop moving, mocking them as they attempt to escape the curse.
 
-When you cast this miracle, choose a creature within range. At the start of each of your turns, make an Agility attack against them. If you hit, apply 3 + 1/2 Presence stacks of aflame, then double their current stacks of aflame. Hit or miss, deal fire damage to them equal to their current stacks of aflame.
+When you cast this miracle, choose a creature within range. At the start of each of your turns, make a special attack against Agility against them. If you hit, apply 3 + 1/2 Presence stacks of aflame, then double their current stacks of aflame. Hit or miss, deal fire damage to them equal to their current stacks of aflame.
 
 ### Gift of Flames
 
@@ -733,7 +733,7 @@ When you cast this miracle, choose a creature within range. At the start of each
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Instant
 
@@ -753,7 +753,7 @@ Crackling flames retaliate against those who strike your ally. Until the end of 
 
 **Targets:** Multi-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Concentration
 
@@ -777,7 +777,7 @@ Tiles that have the scorched earth ground effect are difficult terrain and deal 
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -798,7 +798,7 @@ Tiles that have the scorched earth ground effect are difficult terrain and deal 
 **Range:** 12 tiles
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
@@ -822,7 +822,7 @@ Tiles that have the scorched earth ground effect are difficult terrain and deal 
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Instant
 
@@ -842,7 +842,7 @@ As you pray, an ally is wrapped in rejuvenating flame, bringing them back from t
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
@@ -864,13 +864,13 @@ While you are concentrating on this miracle, your favor continues to build up as
 
 **Targets:** Multi-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Instant
 
 </div>
 
-Flames fall from the sky ominously. Make an Agility attack against all creatures in a 5 foot radius. Deal 1d4 + Presence fire damage to all that you hit.
+Flames fall from the sky ominously. Make a special attack against Agility against all creatures in a 5 foot radius. Deal 1d4 + Presence fire damage to all that you hit.
 
 ### Wrath of the Inferno - Miracle
 
@@ -884,7 +884,7 @@ Flames fall from the sky ominously. Make an Agility attack against all creatures
 
 **Targets:** Multi-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Concentration
 
@@ -912,7 +912,7 @@ Tiles that have the _firestorm_ tile effect deal 2d6 + 2 \* Presence fire damage
 
 **Targets:** Single-target
 
-**Attack:** Basic
+**Targeted defense:** Basic
 
 **Duration:** Instant
 
@@ -932,7 +932,7 @@ Your blade becomes coated with crystals of ice. Make a basic attack against a cr
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -960,7 +960,7 @@ You ignore all effects of the _terrible winter_ tile effect, including the heavy
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -980,7 +980,7 @@ Fog wards and swirls around your ally, granting them them the blessing of the mi
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -1004,13 +1004,13 @@ Mists hide your allies, concealing their position as they slip in and out of the
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Until the end of the target's next turn
 
 </div>
 
-As you curse your foe, their hope drains from them as they are struck with a sudden chill. Make a Focus attack against a creature of your choice within range. If you hit, deal 1d4 + Presence water damage and apply one stack of chilled.
+As you curse your foe, their hope drains from them as they are struck with a sudden chill. Make a special attack against Focus against a creature of your choice within range. If you hit, deal 1d4 + Presence water damage and apply one stack of chilled.
 
 ### Curse of Despair - Miracle
 
@@ -1024,13 +1024,13 @@ As you curse your foe, their hope drains from them as they are struck with a sud
 
 **Targets:** Single-target
 
-**Attack:** Presence
+**Targeted defense:** Presence
 
 **Duration:** Concentration
 
 </div>
 
-The terrible might of your god begins to sink in to your foe as your curse them, and they feel a crushing urge to give in and let the cold take them to their final rest. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Presence attack against them. If you hit, apply two stacks of chilled, two stack of pacified and two stacks of rooted.
+The terrible might of your god begins to sink in to your foe as your curse them, and they feel a crushing urge to give in and let the cold take them to their final rest. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a special attack against Presence against them. If you hit, apply two stacks of chilled, two stack of pacified and two stacks of rooted.
 
 ### Gift of the Vortex
 
@@ -1044,13 +1044,13 @@ The terrible might of your god begins to sink in to your foe as your curse them,
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-A strange current begins to pull creatures in around your chosen ally. Choose a central creature. Make a Prowess attack against all creatures within a 3 tile radius. Pull creatures that you hit into the nearest empty tile to that central creature. You choose the order in which creatures are pulled after you see which attacks hit.
+A strange current begins to pull creatures in around your chosen ally. Choose a central creature. Make a special attack against Prowess against all creatures within a 3 tile radius. Pull creatures that you hit into the nearest empty tile to that central creature. You choose the order in which creatures are pulled after you see which attacks hit.
 
 ### Gift of the Vortex - Miracle
 
@@ -1064,7 +1064,7 @@ A strange current begins to pull creatures in around your chosen ally. Choose a 
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
@@ -1076,7 +1076,7 @@ A streaming trail of water follows your ally as they stir up tremendous currents
 - Whenever they complete a loop in a single turn, create the _swirling vortex_ ground effect on all tiles that made up the loop and are contained within it
   - When a loop is created, they must pick and mark a central tile. Central tiles cannot be on the edge of the loop.
   - These tiles are difficult terrain.
-  - When this ground effect is triggered, make a Prowess attack against the triggering creature. If you hit, deal 2d6 + 2 \* Presence water damage and pull the creature hit up to 3 tiles towards the central tile for that loop.
+  - When this ground effect is triggered, make a special attack against Prowess against the triggering creature. If you hit, deal 2d6 + 2 \* Presence water damage and pull the creature hit up to 3 tiles towards the central tile for that loop.
 
 <div class="infobox">
 
@@ -1104,7 +1104,7 @@ But, for tables with that one player who really likes crunchy graph theory defin
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -1124,7 +1124,7 @@ A small spring of clean, drinkable water appears, welling up from the earth befo
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
@@ -1148,13 +1148,13 @@ The Recover and Treat downtime activities restore an additional stack of exhaust
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-A strange cold breeze blows over the battlefield. Make a Prowess attack against up to three creatures of your choice within range, applying one stack of chilled on hit.
+A strange cold breeze blows over the battlefield. Make a special attack against Prowess against up to three creatures of your choice within range, applying one stack of chilled on hit.
 
 ### Portent of Winter - Miracle
 
@@ -1168,7 +1168,7 @@ A strange cold breeze blows over the battlefield. Make a Prowess attack against 
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
@@ -1200,13 +1200,13 @@ Unlike with other miracles, you cannot voluntarily choose to end your concentrat
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-A huge wave suddenly appears, sweeping across the battlefield before vanishing just as suddenly. Choose a direction (either ebb or flow), then make a Prowess attack against all creatures in a 3 tile by 12 tile line starting at yourself who are not flying or aloft. If you chose ebb, pull all creatures hit 3 tiles towards you. If you chose flow, push all creatures hit 3 tiles away you. Creatures that you miss still suffer the attack's effects at half efficacy.
+A huge wave suddenly appears, sweeping across the battlefield before vanishing just as suddenly. Choose a direction (either ebb or flow), then make a special attack against Prowess against all creatures in a 3 tile by 12 tile line starting at yourself who are not flying or aloft. If you chose ebb, pull all creatures hit 3 tiles towards you. If you chose flow, push all creatures hit 3 tiles away you. Creatures that you miss still suffer the attack's effects at half efficacy.
 
 ### Wrath of the Tides - Miracle
 
@@ -1220,7 +1220,7 @@ A huge wave suddenly appears, sweeping across the battlefield before vanishing j
 
 **Targets:** Multi-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Concentration
 
@@ -1229,7 +1229,7 @@ A huge wave suddenly appears, sweeping across the battlefield before vanishing j
 Waves crash and roar, flooding in and out as they wash all away. When you cast this miracle, choose whether to begin in the ebb state or the flow state. This is apparent to all creatures on the battlefield. Then, at the start of each of your turns for the duration of this effect:
 
 - Swap ebb / flow states. If you were in ebb, you enter flow. If you were in flow, you enter ebb.
-- Make a Prowess attack against all other creatures within range who are not flying or aloft.
+- Make a special attack against Prowess against all other creatures within range who are not flying or aloft.
 - If you hit, deal 1d6 + Presence water damage, knock the creatures hit prone and apply forced movement. If you are in ebb, pull all creatures hit 3 tiles towards you. If you are in flow, push all creatures hit 3 tiles towards you.
 - Creatures that you miss still suffer the attack's effects at half efficacy.
 
@@ -1249,7 +1249,7 @@ Like usual, these attacks are blocked by full cover, and partial cover applies d
 
 **Targets:** Single-target
 
-**Attack:** Basic
+**Targeted defense:** Basic
 
 **Duration:** Instant
 
@@ -1269,7 +1269,7 @@ Your blade crackles with pure magical power. Make a basic attack against a creat
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -1289,7 +1289,7 @@ The threads and fabric of magic part before you as you effortlessly flicker acro
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -1309,7 +1309,7 @@ The Weave shrouds your ally, granting them its blessing. Select a creature withi
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -1329,13 +1329,13 @@ Reality itself warps around your ally, rendering them completely unseen. Select 
 
 **Targets:** Single-target
 
-**Attack:** Expertise
+**Targeted defense:** Expertise
 
 **Duration:** Instant
 
 </div>
 
-As you curse your foe, they begin to fade, slipping out of existence. Make an Expertise attack against a creature within range. If you hit, apply two stacks of banished.
+As you curse your foe, they begin to fade, slipping out of existence. Make a special attack against Expertise against a creature within range. If you hit, apply two stacks of banished.
 
 ### Curse of Unmaking - Miracle
 
@@ -1349,13 +1349,13 @@ As you curse your foe, they begin to fade, slipping out of existence. Make an Ex
 
 **Targets:** Single-target
 
-**Attack:** Expertise
+**Targeted defense:** Expertise
 
 **Duration:** Concentration, Persisting
 
 </div>
 
-You invoke an ancient and terrible curse that progressively unravels the very reality of your foe. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make an Expertise attack against them, even if they are banished. If you hit, apply one stack of banished to them then double the stacks of banished that they currently have.
+You invoke an ancient and terrible curse that progressively unravels the very reality of your foe. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a special attack against Expertise against them, even if they are banished. If you hit, apply one stack of banished to them then double the stacks of banished that they currently have.
 
 When this spell persists, the affected creature permanently ceases to exist. They do not die, and cannot be resurrected.
 
@@ -1371,7 +1371,7 @@ When this spell persists, the affected creature permanently ceases to exist. The
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -1391,7 +1391,7 @@ You offer an ally a tiny glimpse into the vast and unknowable future, allowing t
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -1411,13 +1411,13 @@ Choose an ally within range. For the duration of this effect, after using an act
 
 **Targets:** Multi-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Until the end of combat
 
 </div>
 
-You pull open a pinhole in the Weave, as magic spills out over the battlefield. Select a tile within range, then create the _unstable magic_ tile effect in a 1 tile radius around it. When triggered, make a Focus attack against the triggering creature. If you hit, apply 3 + 1/2 Presence stacks of unstable.
+You pull open a pinhole in the Weave, as magic spills out over the battlefield. Select a tile within range, then create the _unstable magic_ tile effect in a 1 tile radius around it. When triggered, make a special attack against Focus against the triggering creature. If you hit, apply 3 + 1/2 Presence stacks of unstable.
 
 ### Genesis of Magic - Miracle
 
@@ -1431,7 +1431,7 @@ You pull open a pinhole in the Weave, as magic spills out over the battlefield. 
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
@@ -1455,7 +1455,7 @@ Like always, you can only trigger an affliction once per turn. These copies reso
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -1475,7 +1475,7 @@ You pray to your god, getting a glimpse of the futures that could be. When you c
 
 **Targets:** None
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -1499,7 +1499,7 @@ However, not everything may be as it seemed. While your worldspeaker must stay o
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
@@ -1519,13 +1519,13 @@ Overwhelming magical energy floods your foe, burning them if they attempt to con
 
 **Targets:** Multi-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Concentration, Persisting
 
 </div>
 
-Runes circle and surround an area, strictly forbidding the use of magical power. Select a tile within range, and create the _nullification_ tile effect in a 6 tile radius around it. When a creature in this tile effect spends essence or uses the Activate minor action for the first time each turn, make a Focus attack against them. If you hit, the triggering effect is negated and they lose all their reactions. If it is their turn, they immediately end their turn. Hit or miss, deal arcane damage to them equal to their current stacks of unstable.
+Runes circle and surround an area, strictly forbidding the use of magical power. Select a tile within range, and create the _nullification_ tile effect in a 6 tile radius around it. When a creature in this tile effect spends essence or uses the Activate minor action for the first time each turn, make a special attack against Focus against them. If you hit, the triggering effect is negated and they lose all their reactions. If it is their turn, they immediately end their turn. Hit or miss, deal arcane damage to them equal to their current stacks of unstable.
 
 ## Eldritch
 
@@ -1541,7 +1541,7 @@ Runes circle and surround an area, strictly forbidding the use of magical power.
 
 **Targets:** Single-target
 
-**Attack:** Basic
+**Targeted defense:** Basic
 
 **Duration:** Instant
 
@@ -1561,7 +1561,7 @@ Your blade brims with unknown potential as you get the sense that something stra
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -1587,7 +1587,7 @@ When you lose concentration on this miracle, remove the _spreading chaos_ condit
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -1607,13 +1607,13 @@ Your ally has learned the true way of things, blessed with knowledge that protec
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
 </div>
 
-Your ally learns the true way of things, embracing a bizarre and paranoid worldview in exchange for incredible protection. Make a Focus attack against a creature within range. If you hit, for the duration of this effect, they gain the following "boons":
+Your ally learns the true way of things, embracing a bizarre and paranoid worldview in exchange for incredible protection. Make a special attack against Focus against a creature within range. If you hit, for the duration of this effect, they gain the following "boons":
 
 - All attacks and skill checks targeting them are rolled with disadvantage, no matter how many stacks of advantage or disadvantage the acting creature might have.
 - They ignore the effects of all ailments.
@@ -1634,13 +1634,13 @@ In addition, they suffer effects that mirror those of the [crazed](https://rules
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Until the end of the target's next turn
 
 </div>
 
-As you curse your foe, strange coincidences begin to pile up against them. Make a Focus attack against a creature of your choice within range. If you hit, apply two stacks of cursed.
+As you curse your foe, strange coincidences begin to pile up against them. Make a special attack against Focus against a creature of your choice within range. If you hit, apply two stacks of cursed.
 
 ### Curse of Woe - Miracle
 
@@ -1654,13 +1654,13 @@ As you curse your foe, strange coincidences begin to pile up against them. Make 
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Concentration
 
 </div>
 
-The curse of your god twists your foe’s luck, tearing at their sanity as misfortune and terrible coincidences chase them at every turn. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Focus attack against them. If you hit, apply two stacks of hapless, two stack of cursed and two stacks of blinded.
+The curse of your god twists your foe’s luck, tearing at their sanity as misfortune and terrible coincidences chase them at every turn. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a special attack against Focus against them. If you hit, apply two stacks of hapless, two stack of cursed and two stacks of blinded.
 
 ### Gift of Power
 
@@ -1674,13 +1674,13 @@ The curse of your god twists your foe’s luck, tearing at their sanity as misfo
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Until the end of your next turn
 
 </div>
 
-Incredible power courses through those willing to accept this gift, blurring their focus. Make a Focus attack against a creature within range. If you hit, for the duration of this effect they roll all attacks with disadvantage, no matter how many stacks of advantage or disadvantage they might have but their attacks are automatically criticals if they hit.
+Incredible power courses through those willing to accept this gift, blurring their focus. Make a special attack against Focus against a creature within range. If you hit, for the duration of this effect they roll all attacks with disadvantage, no matter how many stacks of advantage or disadvantage they might have but their attacks are automatically criticals if they hit.
 
 ### Gift of Power - Miracle
 
@@ -1694,13 +1694,13 @@ Incredible power courses through those willing to accept this gift, blurring the
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
 </div>
 
-Your god offers unbelievable power to a creature, asking only their sanity in return. Make a Focus attack against a creature within range. If you hit, for the duration of this effect, they gain the following "boons":
+Your god offers unbelievable power to a creature, asking only their sanity in return. Make a special attack against Focus against a creature within range. If you hit, for the duration of this effect, they gain the following "boons":
 
 - They have advantage on all attack rolls, no matter how many stacks of advantage or disadvantage the acting creature might have.
   - This effect supersedes any similar effects, such as the prayer version of this spell or the _blessing of knowledge - miracle_ effect on another creature.
@@ -1722,13 +1722,13 @@ In addition, they suffer effects that mirror those of the [crazed](https://rules
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Instant
 
 </div>
 
-Your visage warps and shifts, appearing as a horrifying creature. Make a Presence attack against each creature within range. If you hit, apply one stack of frightened.
+Your visage warps and shifts, appearing as a horrifying creature. Make a special attack against Presence against each creature within range. If you hit, apply one stack of frightened.
 
 ### Genesis of Horror - Miracle
 
@@ -1742,7 +1742,7 @@ Your visage warps and shifts, appearing as a horrifying creature. Make a Presenc
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
@@ -1752,7 +1752,7 @@ As reality seems to twist, friends begin to suspect each other and mundane event
 
 - the frightened ailment cannot be removed and creatures cannot become immune to its effects
 - whenever a creature is hit by an attack, they gain one stack of frightened, with the creature who hit them with the attack as the object of their fear
-- when this tile effect is triggered, make a Focus attack against the triggering creature. If you hit, deal 1d4 + Presence eldritch damage for each stack of frightened that the triggering creature has
+- when this tile effect is triggered, make a special attack against Focus against the triggering creature. If you hit, deal 1d4 + Presence eldritch damage for each stack of frightened that the triggering creature has
 
 ### Portent of Doom
 
@@ -1766,13 +1766,13 @@ As reality seems to twist, friends begin to suspect each other and mundane event
 
 **Targets:** Multi-target
 
-**Attack:** Presence
+**Targeted defense:** Presence
 
 **Duration:** Instant
 
 </div>
 
-You tell of a prophecy of terrible doom that is to come to all. Make a Presence attack against all creatures within range, including yourself, applying one stack of crazed if you hit.
+You tell of a prophecy of terrible doom that is to come to all. Make a special attack against Presence against all creatures within range, including yourself, applying one stack of crazed if you hit.
 
 ### Portent of Doom - Miracle
 
@@ -1786,7 +1786,7 @@ You tell of a prophecy of terrible doom that is to come to all. Make a Presence 
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration, Persisting
 
@@ -1800,7 +1800,7 @@ Select 19 contiguous tiles of the shape of your choice for the horror to spawn i
 
 The horror's vital statistics match your own. Its melee basic attacks deal 2d8 + Presence + Prowess physical damage, and it gains the effects of the _[grasping strikes](https://tools.fontsofpower.com/affixes/5f1791d257ef5b001712e332)_, _[grasping appendages](https://tools.fontsofpower.com/affixes/5f1757f3a4547a00170586a2)_, _[effervescent grasp (eldritch)](https://tools.fontsofpower.com/affixes/5f19b47e3145950017c9b228)_, and _[reforming](https://tools.fontsofpower.com/affixes/5f02637a2ca9600017163c4b)_ affixes.
 
-It has access to the Shatter Minds power. As a minor action at the cost of 1 essence, the horror makes a Focus attack against all creatures within a 6 tile radius, dealing 1d8 + Presence eldritch damage and applying one stack of crazed to all those that it hits.
+It has access to the Shatter Minds power. As a minor action at the cost of 1 essence, the horror makes a special attack against Focus against all creatures within a 6 tile radius, dealing 1d8 + Presence eldritch damage and applying one stack of crazed to all those that it hits.
 
 At the beginning of each of this creature’s turns, you may make a difficulty 20 Focus (Guidance) skill check to attempt to control it. If you succeed, it acts as you choose for that turn. Success or failure, you immediately suffer one level of exhaustion. If you fail (or choose not to control the horror):
 
@@ -1820,13 +1820,13 @@ At the beginning of each of this creature’s turns, you may make a difficulty 2
 
 **Targets:** Multi-targe
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-You open up a small void, which hungers for the life force of nearby creatures as it pulls them in. Select a tile within range. Make a Prowess attack against all creatures within 3 tiles of the selected tile. Creatures that you hit are pulled into the nearest empty tile to the selected tile. You choose the order in which creatures are pulled after you see which attacks hit.
+You open up a small void, which hungers for the life force of nearby creatures as it pulls them in. Select a tile within range. Make a special attack against Prowess against all creatures within 3 tiles of the selected tile. Creatures that you hit are pulled into the nearest empty tile to the selected tile. You choose the order in which creatures are pulled after you see which attacks hit.
 
 ### Wrath of the Void - Miracle
 
@@ -1840,7 +1840,7 @@ You open up a small void, which hungers for the life force of nearby creatures a
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
@@ -1866,7 +1866,7 @@ Spending essence in this way still triggers unstable and similar effects, but ha
 
 **Targets:** Single-target
 
-**Attack:** Basic
+**Targeted defense:** Basic
 
 **Duration:** Instant
 
@@ -1886,7 +1886,7 @@ Your blade shines with a brilliant light, blinding your foes. Make a basic attac
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -1906,7 +1906,7 @@ Your body sparkles with the starlight as you slice straight through your enemies
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -1926,7 +1926,7 @@ Dappled light flickers over the skin of your ally, granting them the blessing of
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -1946,13 +1946,13 @@ Moonlight glows faintly from the eyes of your allies, granting them a strange pr
 
 **Targets:** Single-target
 
-**Attack:** Presence
+**Targeted defense:** Presence
 
 **Duration:** Instant
 
 </div>
 
-With a short prayer, you grant a brief respite from the fury of the world. Make a Presence attack against a creature of your choice within range. If you hit, grant them 6 + Presence absorption and apply 2 stacks of pacified.
+With a short prayer, you grant a brief respite from the fury of the world. Make a special attack against Presence against a creature of your choice within range. If you hit, grant them 6 + Presence absorption and apply 2 stacks of pacified.
 
 ### Curse of Mercy - Miracle
 
@@ -1966,13 +1966,13 @@ With a short prayer, you grant a brief respite from the fury of the world. Make 
 
 **Targets:** Single-target
 
-**Attack:** Presence
+**Targeted defense:** Presence
 
 **Duration:** Concentration, Persisting
 
 </div>
 
-By the grace of your god, you grant absolute mercy to your foe, cursing them to live out their existence in peace. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Presence attack against them. If you hit, apply one stack of pacified to them then double the stacks of pacified that they currently have.
+By the grace of your god, you grant absolute mercy to your foe, cursing them to live out their existence in peace. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a special attack against Presence against them. If you hit, apply one stack of pacified to them then double the stacks of pacified that they currently have.
 
 When this spell persists, the affected creature permanently suffers the effects of the pacified ailment. Whenever they lose life, they may ignore this effect until the end of their next turn.
 
@@ -1988,7 +1988,7 @@ When this spell persists, the affected creature permanently suffers the effects 
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Instant
 
@@ -2008,7 +2008,7 @@ As you pull an ally towards you with a shining tether, you grant them the gift o
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -2031,7 +2031,7 @@ An ally gleams with divine light, empowered to use it to protect the innocent. S
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of combat
 
@@ -2055,7 +2055,7 @@ With the power of your god, light begins to shine out of nowhere. Create the _sh
 
 **Targets:** None
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
@@ -2087,7 +2087,7 @@ When this miracle persists, all _shining light_ tile effects on the battlefield 
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the start of your next turn
 
@@ -2107,7 +2107,7 @@ A strange, cleansing light begins to surround you, curing all those nearby. At t
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -2131,13 +2131,13 @@ Remove all ailments and afflictions from all creatures within range. Until the e
 
 **Targets:** Multi-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
 </div>
 
-With a prayer, you shine with the furious light of the sun, scorching those nearby. Make a Focus attack against all creatures within a two tile radius. If you hit, deal 1d4 + Presence radiant damage.
+With a prayer, you shine with the furious light of the sun, scorching those nearby. Make a special attack against Focus against all creatures within a two tile radius. If you hit, deal 1d4 + Presence radiant damage.
 
 ### Wrath of the Sun - Miracle
 
@@ -2151,13 +2151,13 @@ With a prayer, you shine with the furious light of the sun, scorching those near
 
 **Targets:** Multi-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Concentration
 
 </div>
 
-The blinding light of the sun bursts forth from you, making it difficult for creatures to even look at you. At the start of each of your turns for the duration of this effect, make a Focus attack against all creatures in a 24 tile cone. If you hit, deal 2d6 + 2 \* Presence radiant damage, and apply one stack each of blinded and frightened. Creatures that you miss suffer the attacks' effects at half efficacy instead.
+The blinding light of the sun bursts forth from you, making it difficult for creatures to even look at you. At the start of each of your turns for the duration of this effect, make a special attack against Focus against all creatures in a 24 tile cone. If you hit, deal 2d6 + 2 \* Presence radiant damage, and apply one stack each of blinded and frightened. Creatures that you miss suffer the attacks' effects at half efficacy instead.
 
 ## Umbral
 
@@ -2173,7 +2173,7 @@ The blinding light of the sun bursts forth from you, making it difficult for cre
 
 **Targets:** Single-target
 
-**Attack:** Basic
+**Targeted defense:** Basic
 
 **Duration:** Instant
 
@@ -2193,7 +2193,7 @@ Your blade turns to pure shadow, perfectly still. Make a basic attack against a 
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -2217,7 +2217,7 @@ Your body fades to black as you transform into pure shadow. For the duration of 
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -2237,7 +2237,7 @@ Shadowy gods bless your allies, granting them protection from their wrath. Selec
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -2262,7 +2262,7 @@ These effects test concentration twice if both occur during the same turn.
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
@@ -2282,7 +2282,7 @@ As you curse your foe, their imagination begins to run wild, frightening themsel
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -2308,7 +2308,7 @@ At the end of each of your turns, you may cause the affected creature to take 1d
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -2328,7 +2328,7 @@ Your god allows you or your ally to fade into the darkness, becoming one with th
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -2352,7 +2352,7 @@ Your ally becomes completely at home in the night, piercing through the darkness
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
@@ -2372,7 +2372,7 @@ With a brief prayer to the gods of darkness, you extinguish flame and snuff out 
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration, Persisting
 
@@ -2399,7 +2399,7 @@ When this miracle persists, the tile effect becomes permanent, although the fina
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -2419,7 +2419,7 @@ Striking a deal with the dark gods, they grant you power in exchange for your su
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -2443,7 +2443,7 @@ At that time, you must select a sentient creature within range. They immediately
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
@@ -2469,7 +2469,7 @@ _Grasping shadows_ share all of your other vital statistics, including affixes, 
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
@@ -2501,7 +2501,7 @@ _Grasping shadows_ share all of your other vital statistics, including affixes, 
 
 **Targets:** Single-target
 
-**Attack:** Basic
+**Targeted defense:** Basic
 
 **Duration:** Instant
 
@@ -2521,7 +2521,7 @@ Your blade roars with fury as it comes to life. Make a basic attack against a cr
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -2545,7 +2545,7 @@ Your body transforms into that of a terrible beast, pouncing and snarling. For t
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -2565,13 +2565,13 @@ Your ally is blessed, surrounded by growing sprouts that protect them from the h
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
 </div>
 
-You grant the blessing of the gods of the wilds, plant life sprouting wildly in the beneficiary's every footstep as it bends to their will. When you first cast this miracle, choose a creature. For the duration of this miracle, the chosen creature is immune to the effects of difficult terrain. Whenever they spend movement, any tiles that they travelled over becomes difficult terrain for the duration of this effect. In addition, they gain access to the _grasping roots_ power. As a minor action, they may make a Prowess attack against all creatures on difficult terrain within a 24 tile range. They apply one stack of rooted to each creature hit.
+You grant the blessing of the gods of the wilds, plant life sprouting wildly in the beneficiary's every footstep as it bends to their will. When you first cast this miracle, choose a creature. For the duration of this miracle, the chosen creature is immune to the effects of difficult terrain. Whenever they spend movement, any tiles that they travelled over becomes difficult terrain for the duration of this effect. In addition, they gain access to the _grasping roots_ power. As a minor action, they may make a special attack against Prowess against all creatures on difficult terrain within a 24 tile range. They apply one stack of rooted to each creature hit.
 
 When this miracle persists, any difficult terrain created persists. Other effects end when your concentration is broken like usual.
 
@@ -2587,13 +2587,13 @@ When this miracle persists, any difficult terrain created persists. Other effect
 
 **Targets:** Single-target
 
-**Attack:** Presence
+**Targeted defense:** Presence
 
 **Duration:** Instant
 
 </div>
 
-As you curse your foe, their rage begins to overwhelm them. Make a Presence attack against a creature within range. If it hits, apply 6 + Presence stacks of rage.
+As you curse your foe, their rage begins to overwhelm them. Make a special attack against Presence against a creature within range. If it hits, apply 6 + Presence stacks of rage.
 
 ### Curse of Rage - Miracle
 
@@ -2607,13 +2607,13 @@ As you curse your foe, their rage begins to overwhelm them. Make a Presence atta
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
 </div>
 
-Your god fills your foe with an unquenchable rage, demanding ever-increasing violence. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Presence attack against them. If you hit, apply 3 + 1/2 Presence stacks of rage, then double their current stacks of aflame. In addition, for the duration of this effect, ignore any resistance to primal damage that this creature has, and treat any immunity to primal damage as if it were only resistance.
+Your god fills your foe with an unquenchable rage, demanding ever-increasing violence. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a special attack against Presence against them. If you hit, apply 3 + 1/2 Presence stacks of rage, then double their current stacks of aflame. In addition, for the duration of this effect, ignore any resistance to primal damage that this creature has, and treat any immunity to primal damage as if it were only resistance.
 
 ### Gift of the Forest
 
@@ -2627,7 +2627,7 @@ Your god fills your foe with an unquenchable rage, demanding ever-increasing vio
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -2647,7 +2647,7 @@ With a prayer, your god grants the ability to camouflage with their surroundings
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
@@ -2669,7 +2669,7 @@ Tiles with the _vibrant growth_ tile effect are lightly shrouded and difficult t
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Instant
 
@@ -2693,7 +2693,7 @@ This tree disappears at the end of your next rest.
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
@@ -2719,7 +2719,7 @@ When your concentration on this miracle ends, the trees persist until the end of
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your target's next turn
 
@@ -2739,7 +2739,7 @@ You pray that a seed of regrowth may begin to sprout inside a creature’s soul.
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -2763,13 +2763,13 @@ All creatures within range gain the benefit of a rest, as if their allies had sp
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-As you pray terrifying tendrils of plant matter grow from the ground, clutching at your enemies. Make an Agility attack against a creature of your choice within range. If you hit, deal 1d4 + Presence primal damage and apply one stack of rooted.
+As you pray terrifying tendrils of plant matter grow from the ground, clutching at your enemies. Make a special attack against Agility against a creature of your choice within range. If you hit, deal 1d4 + Presence primal damage and apply one stack of rooted.
 
 ### Wrath of the Nature - Miracle
 
@@ -2783,7 +2783,7 @@ As you pray terrifying tendrils of plant matter grow from the ground, clutching 
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
@@ -2807,7 +2807,7 @@ The horror's vital statistics and enchantment (but not innate) affixes match you
 
 **Targets:** Single-target
 
-**Attack:** Basic
+**Targeted defense:** Basic
 
 **Duration:** Instant
 
@@ -2827,7 +2827,7 @@ Your blade darkens, suddenly sombre and heavy. Make a basic attack against a cre
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -2847,7 +2847,7 @@ Your body takes on a quietly terrifying form as those around you sense their imp
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -2867,7 +2867,7 @@ Spirits of death surround your ally, granting them their protection as they walk
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -2889,13 +2889,13 @@ When this effect ends, if they have at least 7 + their Prowess stacks of exhaust
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-With a prayer, you curse a creature to exist in the twilight zone, halfway between life and death. Make a Focus attack against a creature of your choice within range. If it hits, for the duration of this effect they cannot deal or take damage, gain or lose life or grant or remove absorption.
+With a prayer, you curse a creature to exist in the twilight zone, halfway between life and death. Make a special attack against Focus against a creature of your choice within range. If it hits, for the duration of this effect they cannot deal or take damage, gain or lose life or grant or remove absorption.
 
 ### Curse of Twilight - Miracle
 
@@ -2909,7 +2909,7 @@ With a prayer, you curse a creature to exist in the twilight zone, halfway betwe
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Concentration
 
@@ -2922,7 +2922,7 @@ As the air is filled with a hollow sense of sorrow, your god curses your foe to 
 - they take on an ethereal, translucent appearance
 - the efficacy of all effects made by and against them is halved
 - they may interact with banished creatures (and vice versa)
-- at the end of each of their turns, if they are above 0 life, make a Focus attack against them. If it hits, deal 2d6 + 2 \* Presence decay damage
+- at the end of each of their turns, if they are above 0 life, make a special attack against Focus against them. If it hits, deal 2d6 + 2 \* Presence decay damage
 
 ### Gift of Rebirth
 
@@ -2936,13 +2936,13 @@ As the air is filled with a hollow sense of sorrow, your god curses your foe to 
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
 </div>
 
-As you utter a prayer, a fallen creature shambles back to life, obeying your commands. Make a Focus attack against a creature of your choice within range that is either at death's door or who died since the end of your last turn. They regain consciousness and are healed to full life, and may act on their turn. At the end of this effect, they return to their previous life total, dying again if they were dead or entering death's door otherwise. If the creature was a non-player character, they are treated as your ally for the duration of this effect, with the worldspeaker controlling their turn following your basic directions.
+As you utter a prayer, a fallen creature shambles back to life, obeying your commands. Make a special attack against Focus against a creature of your choice within range that is either at death's door or who died since the end of your last turn. They regain consciousness and are healed to full life, and may act on their turn. At the end of this effect, they return to their previous life total, dying again if they were dead or entering death's door otherwise. If the creature was a non-player character, they are treated as your ally for the duration of this effect, with the worldspeaker controlling their turn following your basic directions.
 
 ### Gift of Rebirth - Miracle
 
@@ -2956,13 +2956,13 @@ As you utter a prayer, a fallen creature shambles back to life, obeying your com
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
 </div>
 
-The dead and dying rise up in a terrible miracle, coming to life to fight for your god. Make a Focus attack against a creature of your choice within range that is either at death's door or who died since the end of your last turn. They regain consciousness and are healed to full life, and may act on their turn. At the end of this effect, they return to their previous life total, dying again if they were dead or entering death's door otherwise. If the creature was a non-player character, they are treated as your ally for the duration of this effect, with the worldspeaker controlling their turn following your basic directions.
+The dead and dying rise up in a terrible miracle, coming to life to fight for your god. Make a special attack against Focus against a creature of your choice within range that is either at death's door or who died since the end of your last turn. They regain consciousness and are healed to full life, and may act on their turn. At the end of this effect, they return to their previous life total, dying again if they were dead or entering death's door otherwise. If the creature was a non-player character, they are treated as your ally for the duration of this effect, with the worldspeaker controlling their turn following your basic directions.
 
 When this miracle persists, the creature no longer returns to their previous state when your concentration ends. When your concentration on this miracle ends, any non-player creatures you had affected in this way revert to their previous side and no longer follow your directions.
 
@@ -2978,13 +2978,13 @@ When this miracle persists, the creature no longer returns to their previous sta
 
 **Targets:** Single-target
 
-**Attack:** Presence
+**Targeted defense:** Presence
 
 **Duration:** Instant
 
 </div>
 
-As you pray, you summon a spirit from the afterlife to horrify those nearby. Create a _ghostly effigy_ in an empty tile of your choice within range. Make a Presence attack against all creatures in a 3 tile radius. If you hit, apply two stacks of frightened to them, with the _ghostly effigy_ as the source of their fear.
+As you pray, you summon a spirit from the afterlife to horrify those nearby. Create a _ghostly effigy_ in an empty tile of your choice within range. Make a special attack against Presence against all creatures in a 3 tile radius. If you hit, apply two stacks of frightened to them, with the _ghostly effigy_ as the source of their fear.
 
 The ghostly effigy cannot act, and shares your defenses. When it takes damage (other than decay damage), destroy it.
 
@@ -3000,7 +3000,7 @@ The ghostly effigy cannot act, and shares your defenses. When it takes damage (o
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration, Persisting
 
@@ -3024,13 +3024,13 @@ When this miracle persists, the abomination takes on a life of its own. At that 
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your current turn
 
 </div>
 
-As you pray, your foe’s soul begins to slowly slip free from their body. Make a Focus attack against a creature of your choice within range. If you hit, they lose essence equal to your proficiency bonus.
+As you pray, your foe’s soul begins to slowly slip free from their body. Make a special attack against Focus against a creature of your choice within range. If you hit, they lose essence equal to your proficiency bonus.
 
 ### Portent of Souls - Miracle
 
@@ -3044,7 +3044,7 @@ As you pray, your foe’s soul begins to slowly slip free from their body. Make 
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -3068,13 +3068,13 @@ The corpses of all creatures within range of you are filled with the souls of th
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Until the end of your next turn
 
 </div>
 
-With a touch, some creature begins to wither and die. Make a melee Prowess attack against a creature or living object of your choice within range. If you hit, deal 1d4 + Presence decay damage and apply one stack of withered.
+With a touch, some creature begins to wither and die. Make a melee special attack against Prowess against a creature or living object of your choice within range. If you hit, deal 1d4 + Presence decay damage and apply one stack of withered.
 
 ### Wrath of the Contagion - Miracle
 
@@ -3088,15 +3088,15 @@ With a touch, some creature begins to wither and die. Make a melee Prowess attac
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
 </div>
 
-A terrible plague begins, spreading among those who have angered your god. **Infect** a creature of your choice within range. At the end of each infected creature’s turn, make a Prowess attack against all other creatures within a 2 tile range that are not infected. Those that you hit are infected.
+A terrible plague begins, spreading among those who have angered your god. **Infect** a creature of your choice within range. At the end of each infected creature’s turn, make a special attack against Prowess against all other creatures within a 2 tile range that are not infected. Those that you hit are infected.
 
-In addition, make a Prowess attack against the infected creature themselves. If you hit, apply two stacks of withered. Hit or miss, deal 1d8 + Presence damage to them for each stack of withered that they have. If you miss, they are no longer infected.
+In addition, make a special attack against Prowess against the infected creature themselves. If you hit, apply two stacks of withered. Hit or miss, deal 1d8 + Presence damage to them for each stack of withered that they have. If you miss, they are no longer infected.
 
 ## Electric
 
@@ -3112,7 +3112,7 @@ In addition, make a Prowess attack against the infected creature themselves. If 
 
 **Targets:** Single-target
 
-**Attack:** Basic
+**Targeted defense:** Basic
 
 **Duration:** Instant
 
@@ -3132,7 +3132,7 @@ Your blade crackles with lightning, visibly sparking to any nearby objects. If y
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -3154,7 +3154,7 @@ In addition, when you make a basic attack against a creature, your attacks chain
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -3174,7 +3174,7 @@ Your ally is blessed by the gods of electricity, safely absorbing energy. Select
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -3184,7 +3184,7 @@ Electric energy begins to accumulate on a creature, crackling as it builds up be
 
 - Whenever they would take damage other than from the shock affliction or this miracle, they gain that many stacks of shock instead.
 - Whenever they would gain stacks of an affliction other than shock, they gain the same number of stacks of shock instead.
-- At the beginning of each of their turns, if they have at least 10 stacks of shock, make a Prowess attack against all creatures in a 3 tile radius, including the selected creature. If you hit, deal electric damage equal to the stacks of shock. Creatures that you miss suffer the attack's effects at half efficacy. Then remove all stacks of shock from the affected creature.
+- At the beginning of each of their turns, if they have at least 10 stacks of shock, make a special attack against Prowess against all creatures in a 3 tile radius, including the selected creature. If you hit, deal electric damage equal to the stacks of shock. Creatures that you miss suffer the attack's effects at half efficacy. Then remove all stacks of shock from the affected creature.
 - The damage type of this attack is always electric and cannot be changed.
 - Treat any immunity to electric damage that the selected creature may have as if it were only resistance.
 
@@ -3202,13 +3202,13 @@ Unlike with other miracles, while the selected creature has at least one stack o
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-A strange force begins to pull two creatures together, as if by fate. Make a Prowess attack against two creatures of your choice within range. If you hit, pull them towards each other, applying forced movement evenly between them until they meet in the middle. If you hit only one creature, pull that creature.
+A strange force begins to pull two creatures together, as if by fate. Make a special attack against Prowess against two creatures of your choice within range. If you hit, pull them towards each other, applying forced movement evenly between them until they meet in the middle. If you hit only one creature, pull that creature.
 
 ### Curse of Attraction - Miracle
 
@@ -3222,7 +3222,7 @@ A strange force begins to pull two creatures together, as if by fate. Make a Pro
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
@@ -3231,7 +3231,7 @@ A strange force begins to pull two creatures together, as if by fate. Make a Pro
 A strange attraction grows towards the creature that you curse, as others are pulled in by their strange pulsating magnetism. Choose a creature within range when you first cast this miracle. For the duration of this effect:
 
 - All attacks made against a creature within a 1 tile radius of the selected creature target and affect only the selected creature instead. This does not affect attacks made by the selected creature.
-- At the start of each of your turns for the duration of this effect, make a Prowess attack against all creatures within a 3 tile radius of the selected creature. If you hit, pull them up to 3 tiles directly towards the selected creature. You may choose the order creatures are pulled in.
+- At the start of each of your turns for the duration of this effect, make a special attack against Prowess against all creatures within a 3 tile radius of the selected creature. If you hit, pull them up to 3 tiles directly towards the selected creature. You may choose the order creatures are pulled in.
 
 ### Gift of Charge
 
@@ -3245,7 +3245,7 @@ A strange attraction grows towards the creature that you curse, as others are pu
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the start of your target's next turn
 
@@ -3253,7 +3253,7 @@ A strange attraction grows towards the creature that you curse, as others are pu
 
 Charge builds up, before your ally suddenly appears in that location with a bang. Choose a willing creature within range, then designate a tile within a 3 tile range of them.
 
-At the start of that creature's next turn, they teleport to the designated tile. Make an Agility attack against all other creatures within a 1 tile radius of that tile. If you hit, deal 1d8 + Presence electric damage.
+At the start of that creature's next turn, they teleport to the designated tile. Make a special attack against Agility against all other creatures within a 1 tile radius of that tile. If you hit, deal 1d8 + Presence electric damage.
 
 ### Gift of Charge - Miracle
 
@@ -3267,13 +3267,13 @@ At the start of that creature's next turn, they teleport to the designated tile.
 
 **Targets:** Single-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Concentration
 
 </div>
 
-As you pray to your god, your ally transforms into living lightning, electrocuting everything in their path. For the duration of this effect, their movement speed is doubled, attacks of opportunity against them have disadvantage and they may pass through enemy tiles. Whenever they pass through a tile of another creature on their turn, make an Agility attack against that creature. If you hit, deal 1d12 + Presence electric damage to that creature. If you miss, they suffer the attack's effects at half efficacy. This effect cannot damage a single creature more than once each turn.
+As you pray to your god, your ally transforms into living lightning, electrocuting everything in their path. For the duration of this effect, their movement speed is doubled, attacks of opportunity against them have disadvantage and they may pass through enemy tiles. Whenever they pass through a tile of another creature on their turn, make a special attack against Agility against that creature. If you hit, deal 1d12 + Presence electric damage to that creature. If you miss, they suffer the attack's effects at half efficacy. This effect cannot damage a single creature more than once each turn.
 
 ### Genesis of Accumulation
 
@@ -3287,13 +3287,13 @@ As you pray to your god, your ally transforms into living lightning, electrocuti
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you pray, charge begins to build up on your target, causing their hair to stand on end. Make a Focus attack against a creature of your choice within range. If you hit, apply 6 + Presence stacks of shock to them.
+As you pray, charge begins to build up on your target, causing their hair to stand on end. Make a special attack against Focus against a creature of your choice within range. If you hit, apply 6 + Presence stacks of shock to them.
 
 ### Genesis of Accumulation - Miracle
 
@@ -3307,7 +3307,7 @@ As you pray, charge begins to build up on your target, causing their hair to sta
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
@@ -3331,13 +3331,13 @@ A strange force envelops the land, as electric charge refuses to dissipate. Crea
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you pray to your gods, the accumulated charge of your enemy flows through them. Make a Focus attack against a creature of your choice within range. If you hit, deal electric damage to them equal to the number of stacks of shock they have.
+As you pray to your gods, the accumulated charge of your enemy flows through them. Make a special attack against Focus against a creature of your choice within range. If you hit, deal electric damage to them equal to the number of stacks of shock they have.
 
 ### Portent of Conductivity - Miracle
 
@@ -3351,7 +3351,7 @@ As you pray to your gods, the accumulated charge of your enemy flows through the
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -3375,13 +3375,13 @@ For the duration of this effect, whenever a creature within range hits a creatur
 
 **Targets:** Multi-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Until the start of your next turn
 
 </div>
 
-The land begins to spark as lightning shoots down from the sky. Choose a tile within range, which begins to visibly spark. At the start of your next turn, make an Agility attack against all creatures in a one tile radius centered on this tile as a bolt of lightning shoots from the sky. If you hit, deal 1d12 + Presence electric damage. If you miss, creatures suffer the attacks effects at half efficacy instead.
+The land begins to spark as lightning shoots down from the sky. Choose a tile within range, which begins to visibly spark. At the start of your next turn, make a special attack against Agility against all creatures in a one tile radius centered on this tile as a bolt of lightning shoots from the sky. If you hit, deal 1d12 + Presence electric damage. If you miss, creatures suffer the attacks effects at half efficacy instead.
 
 ### Wrath of Lightning - Miracle
 
@@ -3395,7 +3395,7 @@ The land begins to spark as lightning shoots down from the sky. Choose a tile wi
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
@@ -3420,7 +3420,7 @@ A terrible storm forms as you call down lightning freely from the sky. For the d
 
 **Targets:** Single-target
 
-**Attack:** Basic
+**Targeted defense:** Basic
 
 **Duration:** Instant
 
@@ -3440,7 +3440,7 @@ Your blade drips with a strange substance that seems to amplify the effects of y
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -3462,7 +3462,7 @@ For the duration of this effect, your basic attacks (and those of your copy) are
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Until the end of your next turn
 
@@ -3482,7 +3482,7 @@ Your ally is blessed, shielded for a moment from the inexorable weathering of ti
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -3502,13 +3502,13 @@ As weapons strike your ally, they suddenly age millennia, rusted and harmless, b
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-As you curse your foe, visible cracks begin to form in them, ready to shatter at the slightest blow. Make a Prowess attack against a creature within range. If it hits, apply 6 + Presence stacks of brittle.
+As you curse your foe, visible cracks begin to form in them, ready to shatter at the slightest blow. Make a special attack against Prowess against a creature within range. If it hits, apply 6 + Presence stacks of brittle.
 
 ### Curse of Cracks - Miracle
 
@@ -3522,13 +3522,13 @@ As you curse your foe, visible cracks begin to form in them, ready to shatter at
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Concentration
 
 </div>
 
-In a frightening spectacle, the subject of your ire begins to crack and break apart as every imperfection is amplified. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a Prowess attack against them. If it hits, apply two stacks of defenseless, then deal corrosive damage to them equal to their total stacks of all afflictions.
+In a frightening spectacle, the subject of your ire begins to crack and break apart as every imperfection is amplified. When you cast this miracle, choose a creature within range. At the start of each of your turns for the duration of this effect, make a special attack against Prowess against them. If it hits, apply two stacks of defenseless, then deal corrosive damage to them equal to their total stacks of all afflictions.
 
 ### Gift of Greed
 
@@ -3542,13 +3542,13 @@ In a frightening spectacle, the subject of your ire begins to crack and break ap
 
 **Targets:** Single-target
 
-**Attack:** Presence
+**Targeted defense:** Presence
 
 **Duration:** Until the end of your next turn
 
 </div>
 
-With a corrupting prayer, you tempt others to follow your plan. Choose two creatures within range. They must be on different sides. Make a Presence attack against the first creature. If you hit, apply two stacks of taunted to the first creature, with the second creature as the focus, and grant the first creature advantage on all attacks until the end of your next turn.
+With a corrupting prayer, you tempt others to follow your plan. Choose two creatures within range. They must be on different sides. Make a special attack against Presence against the first creature. If you hit, apply two stacks of taunted to the first creature, with the second creature as the focus, and grant the first creature advantage on all attacks until the end of your next turn.
 
 ### Gift of Greed - Miracle
 
@@ -3562,7 +3562,7 @@ With a corrupting prayer, you tempt others to follow your plan. Choose two creat
 
 **Targets:** Single-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -3586,13 +3586,13 @@ Attacks which automatically hit cannot gain the benefit of this effect.
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-With the power of your god, you call a sudden gust of wind into creation. Make a Focus attack against a creature of your choice. If you hit, until the end of your next turn, whenever that creature loses life they gain the same number of stacks of brittle.
+With the power of your god, you call a sudden gust of wind into creation. Make a special attack against Focus against a creature of your choice. If you hit, until the end of your next turn, whenever that creature loses life they gain the same number of stacks of brittle.
 
 ### Genesis of Oblivion - Miracle
 
@@ -3606,7 +3606,7 @@ With the power of your god, you call a sudden gust of wind into creation. Make a
 
 **Targets:** None
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration, Persisting
 
@@ -3626,7 +3626,7 @@ Specks of dust float through the air as everything in an area begins to crumble.
 
 **Targets:** None
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Instant
 
@@ -3646,7 +3646,7 @@ In a terrible warning of things to come, you wipe the slate clean as an area is 
 
 **Targets:** Multi-target
 
-**Attack:** None
+**Targeted defense:** None
 
 **Duration:** Concentration
 
@@ -3670,13 +3670,13 @@ Instantly and permanently destroy all objects within range that are not currentl
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-As you fan your hands, acid sprays forth. Make an Agility attack against all creatures within a 2 tile cone. If you hit, deal 1d4 + Presence corrosive damage and apply one stack of defenseless. If you miss, they suffer the attack's effects at half efficacy instead.
+As you fan your hands, acid sprays forth. Make a special attack against Agility against all creatures within a 2 tile cone. If you hit, deal 1d4 + Presence corrosive damage and apply one stack of defenseless. If you miss, they suffer the attack's effects at half efficacy instead.
 
 ### Wrath of Acid - Miracle
 
@@ -3690,13 +3690,13 @@ As you fan your hands, acid sprays forth. Make an Agility attack against all cre
 
 **Targets:** Multi-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Concentration, Persisting
 
 </div>
 
-In a terrible display of power, acid rains from the sky. At the start of each of your turns for the duration of this effect, select 3 tiles of your choice within range. Make an Agility attack against each creature in those tiles. If you hit, deal 1d8 + Presence corrosive damage and apply one stack of defenseless. If you miss, If you miss, they suffer the attack's effects at half efficacy instead.
+In a terrible display of power, acid rains from the sky. At the start of each of your turns for the duration of this effect, select 3 tiles of your choice within range. Make a special attack against Agility against each creature in those tiles. If you hit, deal 1d8 + Presence corrosive damage and apply one stack of defenseless. If you miss, If you miss, they suffer the attack's effects at half efficacy instead.
 
 In each selected tile, create the _acid puddle_ tile effect. When this tile effect is triggered, deal 1d8 + Presence corrosive damage and apply one stack of defenseless to the triggering creature.
 

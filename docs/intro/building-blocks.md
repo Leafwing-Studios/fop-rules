@@ -86,20 +86,6 @@ On each of their turns, creatures can (in any order):
   _ **Hide:** attempt to make yourself unseen so that you can attack with advantage.
   _ **Scan:** find a hidden creature, or figure out something about the scene.
 
-<div class="infobox">
-
-**Terminology for special attacks**
-
-Every special attack targets a different special defense corresponding to an attribute, and we need a fast way to distinguish this. This convention is best illustrated through an example;
-
-A Focus attack is a special attack made against your target’s Focus special defense.
-
-Add your special attack bonus (your proficiency bonus + your Expertise) to the d20 you rolled to make your attack, then compare it to your opponent’s Focus special defense to see if you hit.
-
-Similarly, a Prowess attack is a special attack that you make against an opponent (using your Expertise + proficiency bonus) against the opponent’s Prowess special defense and so on.
-
-</div>
-
 Creatures may also use **reactions** at any point during the round in response to events that occur in combat. You regain your reaction at the start of each of your turns. You might:
 
 - Make an **attack of opportunity** to capitalize on an opening.

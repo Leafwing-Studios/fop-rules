@@ -97,7 +97,7 @@ Each creature's current absorption, as well as any conditions it may have, are a
 
 ## Shove
 
-Make a melee Prowess attack against a creature within your zone of control. If you hit, you may choose to either knock them prone or push them into an empty adjacent tile of your choice.
+Make a melee special attack against Prowess against a creature within your zone of control. If you hit, you may choose to either knock them prone or push them into an empty adjacent tile of your choice.
 
 ## Swap
 

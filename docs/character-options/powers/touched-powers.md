@@ -5,7 +5,7 @@ Unlike other classes, the powers available to the Touched are fully personalized
 3. **Essence:** 0
 4. **Range:** Choose between "Ranged, 6 tiles / Weapon” or “Melee, 1 tile / Weapon”.
 5. **Targets**: Single-target
-6. **Attack:** Choose a type of special attack, corresponding to the five attributes.
+6. **Targeted defense:** Choose a type of special attack, corresponding to the five attributes.
 7. **Duration:** Instant
 8. **Flavor Text:** Begin the spell’s body text with a brief description of the visual and thematic effect of this power as you envision it.
 9. **Boilerplate:** Add the following standard rules text, filling in the [attack type] you selected above:
@@ -67,11 +67,11 @@ Here are three example powers built using this system to get you started and ser
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
-Your companion rebukes your foe, threatening them with searing pain if they strike. Make a Focus attack against a creature of your choice within range. If you hit, apply 6 + Presence stacks of temperance to them.
+Your companion rebukes your foe, threatening them with searing pain if they strike. Make a special attack against Focus against a creature of your choice within range. If you hit, apply 6 + Presence stacks of temperance to them.
 
 ## Erthron’s Tendrils
 
@@ -83,11 +83,11 @@ Your companion rebukes your foe, threatening them with searing pain if they stri
 
 **Targets:** Single-target
 
-**Attack:** Presence
+**Targeted defense:** Presence
 
 **Duration:** Instant
 
-Your companion reaches out with shadowy tendrils, driving your foe insane as you flay their mind. Make a Presence attack against a creature of your choice within range. If you hit, apply one stack of crazed and one stack of defenseless.
+Your companion reaches out with shadowy tendrils, driving your foe insane as you flay their mind. Make a special attack against Presence against a creature of your choice within range. If you hit, apply one stack of crazed and one stack of defenseless.
 
 ## Thorin’s Hunger
 
@@ -99,8 +99,8 @@ Your companion reaches out with shadowy tendrils, driving your foe insane as you
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
-Your companion feeds hungrily on both you and your foe. Make a Prowess attack against a creature of your choice within range. If you hit, steal 3 + 1/2 Presence absorption and gain the benefit of the Balance of Power: Companion minor action.
+Your companion feeds hungrily on both you and your foe. Make a special attack against Prowess against a creature of your choice within range. If you hit, steal 3 + 1/2 Presence absorption and gain the benefit of the Balance of Power: Companion minor action.

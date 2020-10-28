@@ -144,7 +144,7 @@ When you reach level 10, you seem to bounce back from terrible injuries and exer
 
 ## Emotional Contagion
 
-When you reach level 14, your emotions seem veritably contagious when you want them to be. Once per rest through conversation with a creature, you may make a Presence attack against them. If you hit, they are overwhelmed with the Temperament that you embody until you next complete a rest.
+When you reach level 14, your emotions seem veritably contagious when you want them to be. Once per rest through conversation with a creature, you may make a special attack against Presence against them. If you hit, they are overwhelmed with the Temperament that you embody until you next complete a rest.
 
 ## Limits of Exertion
 
@@ -222,7 +222,7 @@ You may Transform as a minor action, which costs essence equal to your current s
 
 At level 11, you learn to demoralize your foes with a horrible wail.
 
-While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, make a Presence attack against all enemies within 6 tiles of you, applying two stacks of blunted if you hit.
+While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, make a special attack against Presence against all enemies within 6 tiles of you, applying two stacks of blunted if you hit.
 
 ### Impunity: Self-Loathing
 
@@ -272,7 +272,7 @@ You may Transform as a minor action, which costs essence equal to your current s
 
 At level 11, you learn to feed others rage as you spread your own anger.
 
-While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, make a Presence attack against all other creatures within 2 tiles of you. If you hit, apply 6 + Presence stacks of rage.
+While transformed, you can use the Outburst major action at the cost of one stack of emotion. When you do so, make a special attack against Presence against all other creatures within 2 tiles of you. If you hit, apply 6 + Presence stacks of rage.
 
 ### Impunity: Rage Beyond Death
 

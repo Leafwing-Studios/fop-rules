@@ -12,15 +12,7 @@ Basic attacks are always made against the defender’s **basic defense.** This r
 
 **Special** attacks are used for unusual effects and magical spells: attempting to trip your opponent, light them on fire, banish them to another realm or so on in ways that armor won’t help defend them from.
 
-Each special attack is associated with a particular attribute. Your **special defense** for that attribute is 10 + your proficiency bonus + your corresponding attribute.
-
-<div class="infobox">
-
-**Terminology for special attacks**
-
-Every special attack targets a different special defense corresponding to an attribute, and we need a fast way to distinguish this. This convention is best illustrated through an example. **A Focus attack, for example, is a special attack made against your target’s Focus special defense.** Add your special attack bonus (your proficiency bonus + your Expertise) to the d20 you rolled to make your attack, then compare it to your opponent’s Focus special defense to see if you hit. **You do not add your Focus to a Focus attack. The name refers to the relevant special defense.**
-
-</div>
+Each special attack is made against a particular special defense. Your **special defense** for that attribute is 10 + your proficiency bonus + your corresponding attribute.
 
 **You can always choose to be hit by an attack, after seeing the initial results of the attack.** This can be a surprisingly useful tactical option: you might choose to be hit by an attack when an ally is attempting to teleport you, when you have the _cruel shield_ affix and want to apply afflictions to a creature whose attack you are blocking, when you want to provoke attacks of opportunity, or when you want to get swept away by a large forced movement effect.
 

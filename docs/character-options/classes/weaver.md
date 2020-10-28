@@ -175,7 +175,7 @@ At level 14, you learn to decipher the tangles of magic written in the Weave. Yo
 
 ## Snapped Threads
 
-When you reach level 15, the raw energy released whenever another creature causes your concentration to break banishes them into the Weave for a moment. Whenever another creature causes your concentration to break, make an Expertise attack against them, applying one stack of banished if you hit.
+When you reach level 15, the raw energy released whenever another creature causes your concentration to break banishes them into the Weave for a moment. Whenever another creature causes your concentration to break, make a special attack against Expertise against them, applying one stack of banished if you hit.
 
 ## Threads of Magic
 
@@ -221,7 +221,7 @@ Casting time: Major action
 Range: 12 tiles
 Duration: Until the start of your next turn
 
-You unwind the threads of fate, allowing you to instantly snap motion back a few moments in time. While this pattern is in effect, at the end of each turn, you may return all creatures within range to the positions that they were in at the start of the current turn via teleportation. You may only do so once each round and must hit unwilling creatures with an Expertise attack in order to reverse their position.
+You unwind the threads of fate, allowing you to instantly snap motion back a few moments in time. While this pattern is in effect, at the end of each turn, you may return all creatures within range to the positions that they were in at the start of the current turn via teleportation. You may only do so once each round and must hit unwilling creatures with a special attack against Expertise in order to reverse their position.
 
 If you are benefitting from multiple copies of this pattern, the number of times per round that you can use this effect increases accordingly.
 
@@ -296,7 +296,7 @@ Casting time: Major action
 Range: 6 tiles
 Duration: Instant / Until the end of your next turn
 
-You shape the Weave to create a vivid tapestry that takes root in the mind of a creature within range, persisting in their imagination. At the end of each of your turns, make an Expertise attack against a creature of your choice within range. If you hit, choose one:
+You shape the Weave to create a vivid tapestry that takes root in the mind of a creature within range, persisting in their imagination. At the end of each of your turns, make a special attack against Expertise against a creature of your choice within range. If you hit, choose one:
 Apply two stacks of blinded.
 Create a hallucinatory scene of your choice which only the target can see, hear or sense in any fashion that persists until the end of your next turn, when this effect would repeat
 This scene may change and respond as you see fit.
@@ -361,7 +361,7 @@ Casting time: Major action
 Range: 6 tiles
 Duration: Until the start of your next turn
 
-Your target begins to slip from existence, their threads slowly unwinding. Select a creature or object within range. At the end of each of your turns, make a Focus attack against them. If you hit, apply two stacks of banished.
+Your target begins to slip from existence, their threads slowly unwinding. Select a creature or object within range. At the end of each of your turns, make a special attack against Focus against them. If you hit, apply two stacks of banished.
 
 ### Reality Weaving: Unweave
 
@@ -380,6 +380,6 @@ Casting time: Major action
 Range: 6 tiles
 Duration: Until the start of your next turn
 
-Threads of magic begin to come undone as the Weave shies away from a creature of your choice within range. At the end of each of your turns, make a Focus attack against them. If you hit, apply two stacks of cursed..
+Threads of magic begin to come undone as the Weave shies away from a creature of your choice within range. At the end of each of your turns, make a special attack against Focus against them. If you hit, apply two stacks of cursed..
 World Weaving: Mass Annihilation
 At level 18, your ability to carefully unweave existence is terrifying and world-shaking, letting you snip whole buildings or locations out of the fabric of reality. You may now affect up to a 60-tile cube of material with your Unweave downtime activity.

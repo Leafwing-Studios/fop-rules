@@ -14,13 +14,13 @@
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you trace a long-forgotten forbidden symbol, your work seems to writhe and scream. Make a Focus attack against a creature of your choice within range. If you hit:
+As you trace a long-forgotten forbidden symbol, your work seems to writhe and scream. Make a special attack against Focus against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 2d8 + 2 \* Presence eldritch damage.
 - **2 essence:** Deal 3d8 + 3 \* Presence eldritch damage.
@@ -47,13 +47,13 @@ While you have the mad with power condition, you cannot become immune to the cra
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Targeted defense:** ??
 
 **Duration:** Instant
 
 </div>
 
-As you trace a bold and forceful symbol, your work begins to disintegrate as quickly as it was drawn. Make an Expertise attack against a creature of your choice within range. If you hit:
+As you trace a bold and forceful symbol, your work begins to disintegrate as quickly as it was drawn. Make a special attack against Expertise against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 2d8 + 2 \* Presence hybrid eldritch-arcane damage.
 - **2 essence:** Deal 3d8 + 3 \* Presence hybrid eldritch-arcane damage.
@@ -75,13 +75,13 @@ Creatures that you miss still suffer this power's effects at half efficacy.
 
 **Targets:** Single-target
 
-**Attack:** Expertise
+**Targeted defense:** Expertise
 
 **Duration:** Instant
 
 </div>
 
-As you trace an intricate symbol, your work begins to replicate on its own, tracing a curious pattern that never quite repeats. Make an Expertise attack against a creature of your choice within range. If you hit:
+As you trace an intricate symbol, your work begins to replicate on its own, tracing a curious pattern that never quite repeats. Make a special attack against Expertise against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 1d6 + Presence damage of the type of your choice to them.
 - **2 essence:** Deal 2d6 + 2 \* Presence damage of the type of your choice to them.
@@ -103,13 +103,13 @@ The character or monster sheet of creatures that you hit with this attack is pub
 
 **Targets:** Single-target
 
-**Attack:** Expertise
+**Targeted defense:** Expertise
 
 **Duration:** Instant
 
 </div>
 
-As you trace an arcane symbol, your work begins to sparkle and glow with a strange light. Make an Expertise attack against a creature of your choice within range. If you hit:
+As you trace an arcane symbol, your work begins to sparkle and glow with a strange light. Make a special attack against Expertise against a creature of your choice within range. If you hit:
 
 - **1 essence:** Replace up to 2 ailments from that creature with ailments of your choice. Teleport that creature up to 2 tiles.
 - **2 essence:** Replace up to 3 ailments from that creature with ailments of your choice. Teleport that creature up to 3 tiles.
@@ -131,13 +131,13 @@ Creatures that you miss still suffer this power's effects at half efficacy. The 
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you trace a unsettling, imbalanced symbol, your work seems to laugh and dance. Make a Focus attack against a creature of your choice within range. If you hit, apply one stack each of blinded, cursed and hapless for each point of essence that you spent on this power. Creatures also gain the **incurable** condition, which causes Treat checks targeting them to be made with disadvantage.
+As you trace a unsettling, imbalanced symbol, your work seems to laugh and dance. Make a special attack against Focus against a creature of your choice within range. If you hit, apply one stack each of blinded, cursed and hapless for each point of essence that you spent on this power. Creatures also gain the **incurable** condition, which causes Treat checks targeting them to be made with disadvantage.
 
 When an ailment or affliction is successfully removed from a creature with the Treat minor action, remove the incurable condition from them. When a creature has no stacks of ailments or afflictions, remove the incurable condition from them.
 
@@ -153,7 +153,7 @@ When an ailment or affliction is successfully removed from a creature with the T
 
 **Targets:** Varies
 
-**Attack:** Varies
+**Targeted defense:** Varies
 
 **Duration:** Instant
 
@@ -173,13 +173,13 @@ As you trace a beautiful symbol on one of your minor magical items, your work se
 
 **Targets:** Single-target
 
-**Attack:** Expertise
+**Targeted defense:** Expertise
 
 **Duration:** Instant
 
 </div>
 
-As you trace a carefully geometric symbol, your work seems to hum and resonate with exact precision. Make an Expertise attack against a creature of your choice within range. If you hit:
+As you trace a carefully geometric symbol, your work seems to hum and resonate with exact precision. Make a special attack against Expertise against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 2d12 + 2 \* Presence physical damage.
 - **2 essence:** Deal 3d12 + 3 \* Presence physical damage.
@@ -205,13 +205,13 @@ If this spell is multi-target, only roll damage once, using the lowest damage di
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-As you trace an ornate hexagonal symbol, frost forms, condensing onto its lines. Make a Prowess attack against a creature of your choice within range. If you hit:
+As you trace an ornate hexagonal symbol, frost forms, condensing onto its lines. Make a special attack against Prowess against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 1d6 + Presence water damage and apply 2 stacks of chilled.
 - **2 essence:** Deal 2d6 + 2 \* Presence water damage and apply 4 stacks of chilled.
@@ -235,13 +235,13 @@ Creatures that you miss still suffer this power's effects at half efficacy.
 
 **Targets:** Single-target
 
-**Attack:** Expertise
+**Targeted defense:** Expertise
 
 **Duration:** Instant
 
 </div>
 
-As you trace a strange circular symbol, the lines of your work begin to trace themselves over and over without you. Make an Expertise attack against a creature of your choice within range. If you hit, gain the following effects a number of times equal to the amount of essence you spent on this spell:
+As you trace a strange circular symbol, the lines of your work begin to trace themselves over and over without you. Make a special attack against Expertise against a creature of your choice within range. If you hit, gain the following effects a number of times equal to the amount of essence you spent on this spell:
 
 1. Remove all temporary boons from that creature. Boons with a duration of concentration are unaffected.
 2. Trigger any start of turn effects for that creature. This commonly includes tile effects, reducing their absorption and gaining absorption from affixes like _absorptive_.
@@ -263,13 +263,13 @@ Class features and powers can only be triggered once by this spell, no matter ho
 
 **Targets:** Single-target
 
-**Attack:** Expertise
+**Targeted defense:** Expertise
 
 **Duration:** Instant
 
 </div>
 
-As you trace an enthusiastic angular symbol, your work hums with power. Make an Agility attack against a creature of your choice within range. If you hit:
+As you trace an enthusiastic angular symbol, your work hums with power. Make a special attack against Agility against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 2d8 + 2 \* Presence damage.
 - **2 essence:** Deal 3d8 + 3 \* Presence damage.
@@ -293,13 +293,13 @@ The damage dealt by this spell is of the type of your choice, and ignores all da
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-As you trace a sturdily asymmetric symbol, your work begins to pulse as if striving to break free. Make a Prowess attack against a creature of your choice within range. If you hit:
+As you trace a sturdily asymmetric symbol, your work begins to pulse as if striving to break free. Make a special attack against Prowess against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 2d6 + 2 \* Presence air damage.
 - **2 essence:** Deal 3d6 + 3 \* Presence air damage.
@@ -323,13 +323,13 @@ Push creatures hit up to 1 tile in the direction of your choice for every 10 poi
 
 **Targets:** Multi-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-As you trace a symbol composed of concentric rings, specks of dust begin to swirl and revolve around the center of your work. Choose two creatures within range, then make a Prowess attack against the first creature. If you hit:
+As you trace a symbol composed of concentric rings, specks of dust begin to swirl and revolve around the center of your work. Choose two creatures within range, then make a special attack against Prowess against the first creature. If you hit:
 
 - **1 essence:** Deal 2d4 + 2 \* Presence physical damage and pull them 4 tiles towards the second creature.
 - **2 essence:** Deal 3d4 + 3 \* Presence physical damage and pull them 6 tiles towards the second creature.
@@ -353,13 +353,13 @@ If this spell affects multiple creatures, you must choose one central creature t
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-As you trace a vivid symbol, full of motion, your work begins to slowly drift away from the place it was created. Make a Prowess attack against a creature (other than yourself) of your choice within range. If you hit:
+As you trace a vivid symbol, full of motion, your work begins to slowly drift away from the place it was created. Make a special attack against Prowess against a creature (other than yourself) of your choice within range. If you hit:
 
 - **1 essence:** Push them 4 tiles directly away from you.
 - **2 essence:** Push them 6 tiles directly away from you.
@@ -383,13 +383,13 @@ If a creature collides with an object during this forced movement, deal 1d4 poin
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Targeted defense:** ??
 
 **Duration:** Instant
 
 </div>
 
-As you trace a brutal symbol, your work to pulse in a nauseating, almost painful fashion. Make a Focus attack against a creature of your choice within range. If you hit:
+As you trace a brutal symbol, your work to pulse in a nauseating, almost painful fashion. Make a special attack against Focus against a creature of your choice within range. If you hit:
 
 - **1 essence:** Apply 8 + 2 \* Presence stacks of the affliction of your choice.
 - **2 essence:** Apply 12 + 3 \* Presence stacks of the affliction of your choice.
@@ -413,13 +413,13 @@ You may choose which affliction is applied each time you use this power. If this
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you trace a ornate and symmetric symbol, the colors of your work begin to flip back and forth in careful succession. Make a Focus attack against a creature of your choice within range. If you hit:
+As you trace a ornate and symmetric symbol, the colors of your work begin to flip back and forth in careful succession. Make a special attack against Focus against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 2d6 + 2 \* Presence hybrid umbral-radiant damage.
 - **2 essence:** Deal 3d6 + 3 \* Presence hybrid umbral-radiant damage.
@@ -445,13 +445,13 @@ After all other effects from this spell are complete, replace all stacks of angu
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Targeted defense:** ??
 
 **Duration:** Instant
 
 </div>
 
-As you trace a symbol full of strong lines of motion, your work tugs upwards, as if yearning to be free. Make an Expertise attack against a creature of your choice within range. If you hit:
+As you trace a symbol full of strong lines of motion, your work tugs upwards, as if yearning to be free. Make a special attack against Expertise against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 2d6 + 2 \* Presence physical damage.
 - **2 essence:** Deal 3d6 + 3 \* Presence physical damage.
@@ -477,13 +477,13 @@ Creatures that you miss still suffer this power's effects at half efficacy, but 
 
 **Targets:** Ailment-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you trace a radial symbol, your work begins to expand, perfectly magnifying every detail. Choose a central creature within range, then make a Focus attack against all creatures within a radius of them equal to the essence spent on this spell. If you hit, for each point of essence that you spent on this spell:
+As you trace a radial symbol, your work begins to expand, perfectly magnifying every detail. Choose a central creature within range, then make a special attack against Focus against all creatures within a radius of them equal to the essence spent on this spell. If you hit, for each point of essence that you spent on this spell:
 
 - copy 6 + Presence stacks of absorption from the central creature
 - copy 6 + Presence stacks of afflictions from the central creature, of your choice if there are more than this many stacks
@@ -505,13 +505,13 @@ The number of stacks copied is modified by changes to this spell's efficacy. If 
 
 **Targets:** Single-target
 
-**Attack:** Expertise
+**Targeted defense:** Expertise
 
 **Duration:** Instant
 
 </div>
 
-As you trace the two halves of this symbol, they begin to interact in a spectacular fashion where they ,eet. Choose a creature within range. Remove all stacks of defenseless from them, applying 2 stacks of aflame for each stack removed in this way, unmodified by changes to the efficacy of this spell. Then, make an Expertise attack against that creature. If you hit:
+As you trace the two halves of this symbol, they begin to interact in a spectacular fashion where they ,eet. Choose a creature within range. Remove all stacks of defenseless from them, applying 2 stacks of aflame for each stack removed in this way, unmodified by changes to the efficacy of this spell. Then, make a special attack against Expertise against that creature. If you hit:
 
 - **1 essence:** Deal 1d6 + Presence hybrid fire-corrosive damage and apply 2 stacks of defenseless.
 - **2 essence:** Deal 2d6 + 2 \* Presence hybrid fire-corrosive damage and apply 4 stacks of defenseless.
@@ -533,13 +533,13 @@ Creatures that you miss still suffer this power's effects at half efficacy.
 
 **Targets:** Single-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Instant
 
 </div>
 
-As you trace a jagged symbol, your work begins to crackle with harmless sparks. Choose a creature within range. Deal one point of electric damage to them for each stack of shocked that they have, unmodified by changes to the efficacy of this spell. Then, make an Agility attack against that creature. If you hit:
+As you trace a jagged symbol, your work begins to crackle with harmless sparks. Choose a creature within range. Deal one point of electric damage to them for each stack of shocked that they have, unmodified by changes to the efficacy of this spell. Then, make a special attack against Agility against that creature. If you hit:
 
 - **1 essence:** Deal 1d6 + Presence electric damage.
 - **2 essence:** Deal 2d6 + 2 \* Presence electric damage.
@@ -563,13 +563,13 @@ Creatures that you miss still suffer this power's effects at half efficacy.
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you trace an erratic symbol, your work seems to radiate its uncontrollable power. Make a Focus attack against a creature of your choice within range. If you hit:
+As you trace an erratic symbol, your work seems to radiate its uncontrollable power. Make a special attack against Focus against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 2d12 + 2 \* Presence damage of a random type.
 - **2 essence:** Deal 3d12 + 3 \* Presence damage of a random type.
@@ -608,13 +608,13 @@ Roll using the table below to determine the type of damage dealt, which cannot b
 
 **Targets:** Single-target
 
-**Attack:** Expertise
+**Targeted defense:** Expertise
 
 **Duration:** Instant
 
 </div>
 
-As you trace a curious symbol, your work seems to change on its own, seeking a new form. Make an Expertise attack against a creature of your choice within range. If you hit:
+As you trace a curious symbol, your work seems to change on its own, seeking a new form. Make a special attack against Expertise against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 1d6 + Presence damage of a random type and apply 2 stacks of a random ailment.
 - **2 essence:** Deal 2d6 + 2 \* Presence damage of a random type and apply 4 stacks of a random ailment.
@@ -651,13 +651,13 @@ When you cast this spell, roll twice on the table below, first to determine the 
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Targeted defense:** ??
 
 **Duration:** Instant
 
 </div>
 
-As you trace an intense symbol, your work flickers with flame. Choose a creature within range. Deal one point of fire damage to them for each stack of aflame that they have, unmodified by changes to the efficacy of this spell. Then, make an Agility attack against that creature. If you hit:
+As you trace an intense symbol, your work flickers with flame. Choose a creature within range. Deal one point of fire damage to them for each stack of aflame that they have, unmodified by changes to the efficacy of this spell. Then, make a special attack against Agility against that creature. If you hit:
 
 - **1 essence:** Deal 1d6 + Presence fire damage.
 - **2 essence:** Deal 2d6 + 2 \* Presence fire damage.
@@ -681,13 +681,13 @@ Creatures that you miss still suffer this power's effects at half efficacy.
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Targeted defense:** ??
 
 **Duration:** Instant
 
 </div>
 
-As you trace an exotic symbol, your work seems to draw in the eye towards its center. Make a Prowess attack against a creature of your choice within range. If you hit:
+As you trace an exotic symbol, your work seems to draw in the eye towards its center. Make a special attack against Prowess against a creature of your choice within range. If you hit:
 
 - **1 essence:** Pull them up to 4 tiles directly towards you.
 - **2 essence:** Pull them up to 6 tiles directly towards you.
@@ -711,13 +711,13 @@ At the end of this forced movement, automatically grapple all creatures that you
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Targeted defense:** ??
 
 **Duration:** Instant
 
 </div>
 
-As you trace an flowing symbol, your work seems to glow with a colorful light. Make an Agility attack against a creature of your choice within range. If you hit:
+As you trace an flowing symbol, your work seems to glow with a colorful light. Make a special attack against Agility against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 2d12 + 2 \* Presence physical damage.
 - **2 essence:** Deal 3d12 + 3 \* Presence physical damage.
@@ -741,7 +741,7 @@ Creatures that you miss still suffer this power's effects at half efficacy.
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Targeted defense:** ??
 
 **Duration:** Instant
 
@@ -765,13 +765,13 @@ As you trace a repetitive symbol, your work seems to compound on itself as it fo
 
 **Targets:** Single-target
 
-**Attack:** Expertise
+**Targeted defense:** Expertise
 
 **Duration:** Instant
 
 </div>
 
-As you trace a dangerous symbol, your work seems to slip away from your motions, wavering as you lose control. Make an Expertise attack against a creature of your choice within range with advantage. If you hit:
+As you trace a dangerous symbol, your work seems to slip away from your motions, wavering as you lose control. Make a special attack against Expertise against a creature of your choice within range with advantage. If you hit:
 
 - **1 essence:** Deal 2d10 + 2 \* Presence hybrid corrosive-electric-fire damage.
 - **2 essence:** Deal 3d10 + 3 \* Presence hybrid corrosive-electric-fire damage.
@@ -795,13 +795,13 @@ If you miss, you suffer this attack's effects instead. The worldspeaker chooses 
 
 **Targets:** Single-target
 
-**Attack:** ??
+**Targeted defense:** ??
 
 **Duration:** Instant
 
 </div>
 
-As you trace a warlike symbol, your work seems to pulse with an angry energy. Make a Presence attack against a creature of your choice within range. Deal one point of primal damage to them for each stack of rage that they have, unmodified by changes to the efficacy of this spell. Then, make an Agility attack against that creature. If you hit:
+As you trace a warlike symbol, your work seems to pulse with an angry energy. Make a special attack against Presence against a creature of your choice within range. Deal one point of primal damage to them for each stack of rage that they have, unmodified by changes to the efficacy of this spell. Then, make a special attack against Agility against that creature. If you hit:
 
 - **1 essence:** Deal 1d8 + Presence primal damage.
 - **2 essence:** Deal 2d8 + 2 \* Presence primal damage.
@@ -823,13 +823,13 @@ Apply one stack of rage to both them and yourself for each point of primal damag
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you trace a terrible symbol, your work seems to sap the energy from all living things nearby. Make a Focus attack against a creature of your choice within range. If you hit:
+As you trace a terrible symbol, your work seems to sap the energy from all living things nearby. Make a special attack against Focus against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 1d6 + Presence decay damage and apply 2 stacks of withered.
 - **2 essence:** Deal 2d6 + 2 \* Presence decay damage and apply 4 stacks of withered.
@@ -851,13 +851,13 @@ Then, remove all tile effects from tiles that creature is occupying. This power 
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you trace a somber symbol, your work seems to shudder before coming to a final rest. Make a Focus attack against a creature of your choice within range. If you hit:
+As you trace a somber symbol, your work seems to shudder before coming to a final rest. Make a special attack against Focus against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 2d6 + 2 \* Presence decay damage.
 - **2 essence:** Deal 3d6 + 3 \* Presence decay damage.
@@ -879,13 +879,13 @@ This attack is automatically a critical hit against creatures with 25% or less l
 
 **Targets:** Single-target
 
-**Attack:** Presence
+**Targeted defense:** Presence
 
 **Duration:** Instant
 
 </div>
 
-As you trace an ominous symbol, those who look at your work have an overwhelming urge to flee. Make a Presence attack against a creature of your choice within range. You have advantage on this attack against creatures that already have at least one stack of frightened. If you hit:
+As you trace an ominous symbol, those who look at your work have an overwhelming urge to flee. Make a special attack against Presence against a creature of your choice within range. You have advantage on this attack against creatures that already have at least one stack of frightened. If you hit:
 
 - **1 essence:** Deal 1d6 + Presence decay damage and apply 2 stacks of frightened.
 - **2 essence:** Deal 2d6 + 2 \* Presence decay damage and apply 4 stacks of frightened.
@@ -907,13 +907,13 @@ Creatures that you miss still suffer this power's effects at half efficacy.
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-As you trace an organic symbol, tiny ethereal leaves grow around it. Choose a central creature within range. A radius around them equal to the essence spent on this spell becomes difficult terrain. If this spell affects an area, all tiles within that area becomes difficult terrain instead. Then, life bursts forth from the earth, grasping at those above. Make a Prowess attack against each creature on a connected tile of difficult terrain. If you hit:
+As you trace an organic symbol, tiny ethereal leaves grow around it. Choose a central creature within range. A radius around them equal to the essence spent on this spell becomes difficult terrain. If this spell affects an area, all tiles within that area becomes difficult terrain instead. Then, life bursts forth from the earth, grasping at those above. Make a special attack against Prowess against each creature on a connected tile of difficult terrain. If you hit:
 
 - **1 essence:** Deal 2d4 + 2 \* Presence primal damage and apply 1 stack of rooted.
 - **2 essence:** Deal 3d4 + 3 \* Presence primal damage and apply 1 stack of rooted.
@@ -935,13 +935,13 @@ Creatures that you miss still suffer this power's effects at half efficacy. The 
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you trace a sparse symbol, your work seems to stretch and claw, hungering for its surroundings. Choose a creature within range. You and that creature both lose absorption equal to the amount of absorption the creature with the least absorption has. If this spell is multi-target, every creature loses absorption equal to the minimum absorption between yourself and all targets. Then, make a Focus attack against the chosen creature. If you hit:
+As you trace a sparse symbol, your work seems to stretch and claw, hungering for its surroundings. Choose a creature within range. You and that creature both lose absorption equal to the amount of absorption the creature with the least absorption has. If this spell is multi-target, every creature loses absorption equal to the minimum absorption between yourself and all targets. Then, make a special attack against Focus against the chosen creature. If you hit:
 
 - **1 essence:** Deal 2d6 + 2 \* Presence hybrid primal-decay damage.
 - **2 essence:** Deal 3d6 + 3 \* Presence hybrid primal-decay damage.
@@ -963,13 +963,13 @@ Creatures that you miss still suffer this power's effects at half efficacy.
 
 **Targets:** Single-target
 
-**Attack:** Prowess
+**Targeted defense:** Prowess
 
 **Duration:** Instant
 
 </div>
 
-As you trace a hideous symbol, the lines your work seems to crawl and squirm, as if made up of a thousand different living parts. Make a Prowess attack against a creature of your choice within range. If you hit:
+As you trace a hideous symbol, the lines your work seems to crawl and squirm, as if made up of a thousand different living parts. Make a special attack against Prowess against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 1d6 + Presence hybrid primal-decay damage.
 - **2 essence:** Deal 2d6 + 2 \* Presence hybrid primal-decay damage.
@@ -991,13 +991,13 @@ Apply one stack of bleeding to them for each point of primal or decay damage dea
 
 **Targets:** Single-target
 
-**Attack:** Focus
+**Targeted defense:** Focus
 
 **Duration:** Instant
 
 </div>
 
-As you trace a flowery symbol, your work seems to slowly grow, becoming more elaborate. Make a Focus attack against a creature of your choice within range. If you hit:
+As you trace a flowery symbol, your work seems to slowly grow, becoming more elaborate. Make a special attack against Focus against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 2d8 + 2 \* Presence primal damage.
 - **2 essence:** Deal 3d8 + 3 \* Presence primal damage.
@@ -1021,13 +1021,13 @@ After all other effects of this spell, grant absorption to any creature hit equa
 
 **Targets:** Single-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Instant
 
 </div>
 
-As you trace a simple symbol, your work stands quietly, as if proud. Make an Agility attack against a creature of your choice within range. If you hit:
+As you trace a simple symbol, your work stands quietly, as if proud. Make a special attack against Agility against a creature of your choice within range. If you hit:
 
 - **1 essence:** Deal 2d6 + 2 \* Presence earth damage and knock the creature hit prone.
 - **2 essence:** Deal 3d6 + 3 \* Presence earth damage and knock the creature hit prone.
@@ -1049,13 +1049,13 @@ Damage from this spell is twice as effective against absorption.
 
 **Targets:** Single-target
 
-**Attack:**
+**Targeted defense:**
 
 **Duration:** Instant
 
 </div>
 
-As you trace an gentle symbol, your work glows with a faint, calm light. Make a Presence attack against a creature of your choice within range. If you hit:
+As you trace an gentle symbol, your work glows with a faint, calm light. Make a special attack against Presence against a creature of your choice within range. If you hit:
 
 - **1 essence:** Apply 2 stacks of pacified and apply the incurable condition.
 - **2 essence:** Apply 4 stacks of pacified and apply the incurable condition.
@@ -1082,13 +1082,13 @@ When a creature has no stacks of ailments or afflictions, remove the incurable c
 
 **Targets:** Multi-target
 
-**Attack:** Agility
+**Targeted defense:** Agility
 
 **Duration:** Instant
 
 </div>
 
-As you trace a broken symbol, every line of your work cracks, disintegrating into a scattered and chaotic patchwork. Choose a central creature within range. A radius around them equal to the essence spent on this spell becomes difficult terrain. If this spell affects an area, all tiles within that area becomes difficult terrain instead. Then, cracks spread and grow, radiating out across the broken earth. Make an Agility attack against each creature on a connected tile of difficult terrain. If you hit:
+As you trace a broken symbol, every line of your work cracks, disintegrating into a scattered and chaotic patchwork. Choose a central creature within range. A radius around them equal to the essence spent on this spell becomes difficult terrain. If this spell affects an area, all tiles within that area becomes difficult terrain instead. Then, cracks spread and grow, radiating out across the broken earth. Make a special attack against Agility against each creature on a connected tile of difficult terrain. If you hit:
 
 - **1 essence:** Deal 2d4 + 2 \* Presence earth damage and knock the creature hit prone.
 - **2 essence:** Deal 3d4 + 3 \* Presence earth damage and knock the creature hit prone.

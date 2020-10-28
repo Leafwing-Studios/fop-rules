@@ -6,7 +6,7 @@ Attacks against you have disadvantage until the start of your next turn.
 
 ## Grapple
 
-Make a melee Prowess attack against another creature within a one tile range. If you hit, they gain the [grappled](../../conditions/statuses.md?id=grappled) status, and you gain the [grappling](../../conditions/statuses.md?id=grappling) status.
+Make a melee special attack against Prowess against another creature within a one tile range. If you hit, they gain the [grappled](../../conditions/statuses.md?id=grappled) status, and you gain the [grappling](../../conditions/statuses.md?id=grappling) status.
 
 You have disadvantage on Grapple attacks made against creatures smaller than a quarter of your size (in tiles). You cannot make Grapple attacks against creatures that are more than four times your size. You cannot make Grapple attacks while you have the grappled or grappling status.
 
@@ -28,7 +28,7 @@ If forced movement, such as a blast of air from one of Alex's allies, was to mov
 
 If Alex isn't terribly fond of getting grabbed, he can:
 
-- Have a high Prowess so the initial Prowess attack is hard to hit.
+- Have a high Prowess so the initial special attack against Prowess is hard to hit.
 - Use the Dodge reaction to use his Agility (Athletics) slip out of the initial grapple.
 - Use the Break Grapple minor action to use his Prowess (Athletics) to break free.
 - Have an ally use the Break Grapple minor action to break him out instead.

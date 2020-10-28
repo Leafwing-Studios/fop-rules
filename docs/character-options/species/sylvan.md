@@ -45,7 +45,7 @@ Splendidly diverse, sylvan deliberately attempt to create novel forms and functi
 
 ## Floral
 
-**Intoxicating Aroma:** Whenever you take the Defend major action, make a Focus attack against all other creatures in a 1 tile radius. If you hit, apply one stack of pacified.
+**Intoxicating Aroma:** Whenever you take the Defend major action, make a special attack against Focus against all other creatures in a 1 tile radius. If you hit, apply one stack of pacified.
 
 **Sunny Disposition:** Whenever an NPC would lose loyalty towards you, roll a d20. If the result is 11 or higher, they lose one less loyalty instead.
 

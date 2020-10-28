@@ -103,7 +103,7 @@ You learn one pulse at level 1 selected from the [Soulbinder Pulses](../powers/s
 An overwhelming surge of essence flows through your bond; empowering you but damaging the other creature. Choose one:
 
 - You have advantage on your next basic attack made before the end of your next turn.
-- Make a Focus attack against your dual. If you hit, deal 1d8 + Presence damage of the type chosen when you learned this pulse.
+- Make a special attack against Focus against your dual. If you hit, deal 1d8 + Presence damage of the type chosen when you learned this pulse.
 
 ### Strange Symbiosis
 
@@ -268,7 +268,7 @@ At level 1, you gain access to the following Distinctive Pulse.
 A wave of calm, restful energy flows through your bond, as you lull them into restful dreams while sheltering them from harm. Choose one:
 
 - Remove all ailments and afflictions from yourself. Then, apply two stacks of pacified and blinded to yourself.
-- Make a Focus attack against your dual. If you hit, remove all ailments and afflictions from them. Then, apply one stack of pacified and blinded to your dual.
+- Make a special attack against Focus against your dual. If you hit, remove all ailments and afflictions from them. Then, apply one stack of pacified and blinded to your dual.
 
 ### Reflection: Visitation
 
@@ -305,7 +305,7 @@ At level 1, you gain access to the following Distinctive Pulse.
 A wound appears out of nowhere on the creature you are bound to and they are filled with a terrifying sense that they are being chased, causing them to leave a trail of blood behind them as they flee. Choose one:
 
 - Gain the benefit of the Dash minor action twice. Until the start of your next turn, you cannot willingly move away from your dual if you know where they are.
-- Make a Presence attack against the creature you are bound to. If you hit, apply frightened and 3 stacks of bleeding.
+- Make a special attack against Presence against the creature you are bound to. If you hit, apply frightened and 3 stacks of bleeding.
 
 ### Reflection: Seance
 
@@ -341,8 +341,8 @@ At level 1, you gain access to the following Distinctive Pulse.
 
 As your bond cures afflictions, so too does it apply new ones in turn. Choose one:
 
-- Make a Focus attack against your dual. If you hit, transfer all of your afflictions to them, then apply 6 + Presence stacks of anguish to yourself.
-- Make a Focus attack against your dual. If you hit, transfer all their afflictions to you, then apply 6 + Presence stacks of anguish to them.
+- Make a special attack against Focus against your dual. If you hit, transfer all of your afflictions to them, then apply 6 + Presence stacks of anguish to yourself.
+- Make a special attack against Focus against your dual. If you hit, transfer all their afflictions to you, then apply 6 + Presence stacks of anguish to them.
 
 Like with all other pulses, when you use this pulse with your Bidirectional Connection class feature, you may choose which order these effects resolve in.
 
