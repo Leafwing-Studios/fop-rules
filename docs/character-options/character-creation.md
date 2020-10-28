@@ -45,7 +45,7 @@ Finally, finish your character sheet by computing your **vital statistics:**
   - **Special defenses:** 10 + proficiency bonus + the corresponding attribute
 - **Basic attack bonus:** proficiency bonus + Agility
 - **Special attack bonus:** proficiency bonus + Expertise
-- **Maximum life:** proficiency bonus × 20
+- **Maximum life:** 20 × (proficiency bonus + 1)
 - **Maximum essence:** proficiency bonus × (6 + Focus)
 
 If this is your first time creating a character in Fonts of Power, the sections below go over what these options mean, and where to find them.
@@ -61,9 +61,9 @@ When you are creating a new character for an existing party, they begin at the s
 Creating new species to match your setting is incredibly easy:
 
 1. Select two combat features. These should be balanced against combat talents or arms or armor affixes.
-1. Select two adventure features. These should be balanced against skill talents or trinket affixes.
-1. Optionally, split these features evenly across a base species and subspecies.
-1. Add any power-neutral flavor features, such as changes to the diet, appearance, size or lifespan of your species.
+2. Select two adventure features. These should be balanced against skill talents or trinket affixes.
+3. Optionally, split these features evenly across a base species and subspecies.
+4. Add any power-neutral flavor features, such as changes to the diet, appearance, size or lifespan of your species.
 
 </div>
 

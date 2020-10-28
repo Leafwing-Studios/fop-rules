@@ -8,7 +8,7 @@ Life is the vital essence of every creature in _Fonts of Power,_ representing th
 
 Your life can never go below 0: instead, when your life reaches 0 you enter [death’s door](../combat/statuses.md#death39s-door), and must choose whether to slip into unconsciousness or continue fighting while risking death.
 
-Player characters have proficiency bonus × 20 maximum life. It can be restored through resting, self-healing magic (received at level 2) or consumable magic items.
+Player characters have 20 × (proficiency bonus + 1) maximum life. It can be restored through resting, self-healing magic (received at level 2) or consumable magic items.
 
 Occasionally, the distinction between **losing life** and **taking damage** can matter. Damage can be **prevented** in several ways: commonly via resistance or immunity to a damage type, absorption, or the Block reaction. Damage is still dealt (and taken) when it is prevented by absorption, but not when it is prevented by other effects. This distinction can matter for various effects such as the [_absolute zero_](https://tools.fontsofpower.com/affixes/5f931ca80d201c0017655594) affix.
 

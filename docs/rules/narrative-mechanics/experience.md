@@ -64,7 +64,7 @@ When this happens, you should change:
 - your basic attack bonus (proficiency bonus + Agility)
 - your special attack bonus (proficiency bonus + Expertise)
 - your special defenses (either proficiency bonus + attribute or 1/2 × proficiency bonus + attribute)
-- your maximum life, which should be your proficiency bonus × 20
+- your maximum life, which should be 20 × (proficiency bonus + 1) maximum life.
 - your maximum essence, which should be your proficiency bonus × (6 + Focus)
 
 The following features also change, because they rely on your proficiency bonus:
