@@ -16,7 +16,7 @@ Using this action repeatedly risks **essence overload** as your body struggles t
 
 **Priming consumables**
 
-Some consumables must be **primed** before they are **activated,** such as consumables with the tripwire affix. In this case, the affix will specify how the consumable is primed, and what activates it.
+Some consumables must be **primed** before they are **activated,** such as consumables with the _tripwire_ modifier. In this case, the modifier will specify how the consumable is primed, and what activates it.
 
 In this case, the consumable’s effects (and the risk of essence overload) only occur when the activation criteria is met. Consumables may be **unprimed** by using the Activate minor action a second time before they activate.
 
