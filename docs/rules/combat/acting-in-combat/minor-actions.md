@@ -26,9 +26,7 @@ In this case, the consumable’s effects (and the risk of essence overload) only
 
 Attempt to break another creature’s hold on a target, ending the grappled status on yourself or another creature within 1 tile of you.
 
-To do so, make an opposed Prowess (Athletics) skill check against the grappling creature. If you are the creature that is grappled, you may use Agility (Athletics) instead. If you succeed, the grapple ends.
-
-This also ends the grappling status on the creature that is grappling if this was the only creature they were grappling.
+To do so, make an opposed Prowess (Athletics) skill check against the grappling creature. If you succeed, the grapple ends.
 
 ## Dash
 
