@@ -24,15 +24,17 @@ To help make this decision easier for new players, we've laid out their respecti
 
 **Block:**
 
-- works on any attack, rather than only basic attacks, Shove and Grapple
-- guaranteed to work, rather than relying on a successful roll
+- works on any attack that deals
+- flat difficulty is easier to meet against attacks with a high roll
 - most effective against large attacks, or multiple expected small attacks
+- refreshing your reaction can be extremely effective for characters in the thick of combat
 - will often result in you losing life still, triggering further attacks of opportunity (this can be helpful on durable frontline characters)
-- scales with Prowess via arms affixes such as _brave shield_, _imbued shield_ or _towering shield_
+- scales with Prowess via your Prowess (Endurance) skill checks and arms affixes such as _brave shield_, _imbued shield_ or _towering shield_
 
 **Dodge:**
 
 - completely avoids attacks if it succeeds, rather than just halving them
+- works on attacks that grapple you or knock you prone
 - because you dodge an attack completely, your concentration is not tested
 - because you dodge an attack completely, you do not provoke additional attacks of opportunity
 - most effective against large attacks with low attack rolls (and so works well on characters with low basic defense)
@@ -44,7 +46,9 @@ In short, if you are a burly frontliner, you probably want to Block, but if you'
 
 ## Block
 
-Whenever you would be hit by an attack (after seeing the initial results of the attack), you may use the Block reaction. If you do, you **block** all attacks made against you until the end of the current turn. Halve the efficacy of blocked attacks made against you.
+Whenever you would be hit by an attack (after seeing the initial results of the attack), you may use the Block reaction. If you do, make a Prowess (Endurance) skill check. If your skill check result is at least 10, you **block** all attacks made against you until the end of the current turn. Halve the efficacy of blocked attacks made against you.
+
+If your skill check result is at least 20, refund your reaction as well.
 
 ## Dodge
 
