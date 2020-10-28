@@ -51,7 +51,7 @@ Playful as the birds that sing in the forests, the kindred of the Spring toy wit
 
 **Relentless Mockery:** You gain access to the Relentless Mockery power. As a minor action, make a Presence attack against a creature within 6 tiles, applying one stack of crazed if you hit.
 
-**Ceremony of the Blooming Flowers:** As a downtime activity, you may perform the Ceremony of the Blooming Flowers. All party members (including yourself) have advantage on skill checks made to perform the Splice downtime activity during this rest. Gain the benefit of the Splice downtime activity.
+**Ceremony of the Blooming Flowers:** As a downtime activity, you may perform the Ceremony of the Blooming Flowers. All party members (including yourself) have advantage on skill checks made to perform the Enchant downtime activity during this rest. Gain the benefit of the Enchant downtime activity.
 
 ## Summer’s Vitality
 

@@ -10,7 +10,7 @@ You have advantage on all skill checks made to use the Harvest downtime activity
 
 ## Arcana: Scholarly
 
-You have advantage on all skill checks made to use the Splice downtime activity.
+When you use the Prepare downtime activity, gain its benefit a second time.
 
 Your magical abilities are more flexible than most: as long as you can plausibly describe how specific magical powers that you have would help you accomplish your task, you can use Arcana in place of other skills outside of combat.
 

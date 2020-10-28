@@ -57,7 +57,3 @@ Affixes come in four different **rarities,** which reflect their in-game mechani
 - **prismatic:** incredibly powerful, build-defining effects that are comparable to the **capstone** feature that you receive upon reaching level 20
 
 Common, advanced and exotic affixes are intended to have equivalent power levels, while prismatic affixes are about three times as powerful as other affixes. **You may equip your first prismatic affix at level 9, and your second prismatic affix at level 17.** You cannot equip more than one prismatic affix of a particular type of gear at once, although you may be attuned to two prismatic affixes on separate weapons and then swap between them.
-
-Affixes can be applied either as **innate affixes** or **enchanted affixes** (sometimes called **enchantments**). Innate affixes determine the basic properties of the gear, such as a weapon’s reach, or whether a set of armor is covered in lacerating spikes. **Innate affixes are restricted to the common rarity affixes, reflecting their simpler construction.**
-
-Once you’ve Crafted your item, you can Enchant it. **You can use any rarity of affix as an enchantment,** allowing you to access stranger and more complex effects, such as a weapon that changes forms as you attack with it or armor that lets you blend perfectly into the shadows.

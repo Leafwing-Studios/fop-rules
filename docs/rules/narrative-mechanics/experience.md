@@ -46,7 +46,7 @@ When you level up:
     - Which subclass you belong to
     - The details of gear built as part of one of your features, such as the wild combat talent
   - The value of one of your ideals, changing it by up to 2 in either direction
-  - The values of two of your attributes, taking 1 point from a single attribute and assigning it to another. \* If your Prowess changes in this way, you may add or remove up to two innate affixes on each of your pieces of gear to match your new Prowess.
+  - The values of two of your attributes, taking 1 point from a single attribute and assigning it to another.
 
 At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the table below.
 

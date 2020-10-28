@@ -24,23 +24,10 @@ The danger level of an area affects the following:
 
 - If you rest in an area with a danger level greater than 0, you must complete a one-success [attrition scene](rules/scenes/attrition-scenes), suffering consequences if you fail
 - The difficulty of skill checks during attrition scenes increases by 5 for each danger level
-- The Harvest, Enchant, and Splice downtime activities gain a bonus of +5 for each danger level
+- The Harvest and Enchant downtime activities gain a bonus of +5 for each danger level
 - Harvest can only be used if the danger level is 1 or greater
 - Players can only be resurrected at a font from the area of highest danger. In most cases, this is the epicenter of the font.
 - The difficulty of combat encounters and the amount of treasure found scales with the danger level, as described in the [_Worldspeaker's Guide to Fonts of Power_](http://worldspeakers.fontsofpower.com/#/)
-
-## Enchanting skill checks
-
-Magical items of all sorts can be created by players during downtime activities (through the Enchant, Disenchant, Splice and Devise downtime activities), and require **enchanting skill checks**.
-
-Enchanting skill checks use Expertise as their attribute, along with your choice of Anima, Arcana, Fontcraft or Tinkering. For the Enchant and Splice downtime activities, the difficulty of this skill check is set by the rarity of the affix that you are modifying:
-
-- **Common:** difficulty 10
-- **Advanced:** difficulty 15
-- **Exotic:** difficulty 20
-- **Prismatic:** difficulty 25
-
-Every item was originally enchanted by a particular skill, and its appearance clearly reflects that origin. You have disadvantage on enchanting skill checks made with a skill other than the original skill used to enchant the gear.
 
 ## Attune
 
@@ -48,14 +35,11 @@ Forge a connection with pieces of magical gear, allowing you to tap into its mag
 
 - two sets of arms
 - one set of armor
-- one collection of trinkets
+- three trinkets
 
 If you are already at your attunement limit for a particular type of gear, you must lose attunement to an existing set (or sets) of gear of the appropriate type to attune to a new set.
-When you attune to a collection of trinkets, you may attune to any number of individual trinkets, so long as the sum of their enchantment affixes is less than or equal to your proficiency bonus.
 
-As you gain experience and learn to control your own magic, you are able to safely use more powerful magical items. You can only attune to an item if:
-
-**enchantment gear point total ≤ proficiency bonus**
+As you gain experience and learn to control your own magic, you are able to safely use more powerful magical items. You can only attune to a set of arms or armor if its gear point total ≤ proficiency bonus + 2.
 
 After you perform this downtime activity, you are particularly in touch with your magical items for a short period of time. One time before your next rest, you may modify the result of a roll after you see its outcome:
 
@@ -88,43 +72,55 @@ Improve your relationship with an NPC or faction by helping them out or building
 
 ## Craft
 
-Attempt to create a mundane item, or modify the innate affixes of a set of arms or armor.
+Attempt to create a mundane item, or modify the affixes of a set of arms or armor using exceptional craftsmanship.
 
 In order to use this downtime activity, you must have access to both the appropriate tools and raw materials. You can get these by using the Prepared for Anything system and rolling the Supplies die. Tools are not consumed, but raw materials are, whether you succeed or fail.
 
-In order to create or modify the innate affixes of a set of arms or armor, make an Expertise (Craftsmanship) skill check result: You may add or remove an innate affix from the set of arms or armor for every 5 points of your skill check result.
+If you want to add an affix to a set of arms or armor, make an Expertise (Craftsmanship) skill check, with a difficulty set by the rarity of the affix. If you succeed, add that affix to the item’s affixes.
 
-Like always, innate affixes must always be of common rarity.
+- **Common:** difficulty 10
+- **Advanced:** difficulty 15
+- **Exotic:** difficulty 20
+- **Prismatic:** difficulty 25
+
+If you succeed by 5 or more, immediately gain the benefit of this downtime activity again.
+
+Success or failure, you may remove any affixes from the arms or armor, letting you replace an affix with a new one to ensure that the gear point total remains less than or equal to your proficiency bonus plus 2. In addition, you may choose to immediately attune to the piece of gear you just crafted, replacing your attunement to an existing piece of gear of the same type if needed.
 
 Creating mundane items or structures other than arms and armor requires an Expertise (Craftsmanship) skill check, with the difficulty set by the table in the usual fashion.
 
 ## Disenchant
 
-Scrap a magic item completely, turning it back into essence crystals.
+Scrap an item completely, turning it back into essence crystals.
 
-Make an enchanting skill check. The item’s magic is permanently lost, and you recover essence crystals equal to:
+Choose a set of arms or armor, or a single trinket. The item is permanently destroyed, and you recover essence crystals equal to:
 
-**skill check result \* enchantment gear point total / 2**
+**skill check result \* gear point total / 2**
 
-As consumables do not cost essence crystals to create, they cannot be Disenchanted. Instead, recycle them in the Devise downtime activity.
+Treat the gear point total of any trinket consumed in this way as 1.
 
 ## Devise
 
 Create a small batch of consumable magic items for your party to use out of whatever you might have on hand, powered by their user’s own essence. These might be healing potions, a poison to coat your weapon with or a clever trap.
 
-Design a consumable by combining consumable affixes. The gear point total of consumables must be less than or equal to your proficiency bonus.
+Design a consumable by selecting one base effect and any number of modifying effects.
 
-Then, make an enchanting skill check. You create a number of copies of the consumable you designed equal to your skill check result divided by 5, rounded down. Additionally, you may spend any number of essence crystals after seeing the result of the enchanting skill check. Gain 1 additional copy of the consumable for every essence crystal consumed in this way.
-
-You may **recycle** existing consumables in this process. Add the total gear points of any consumables sacrificed in this way to your skill check result.
+Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check. You create a number of copies of the consumable you designed equal to your skill check result divided by 5, rounded down. Additionally, you may spend any number of essence crystals after seeing the result of the enchanting skill check. Gain 1 additional copy of the consumable for every essence crystal consumed in this way.
 
 ## Enchant
 
-Enchant an item by adding or modifying one of its magical affixes.
+Enchant an item, adding an affix to it by spending essence crystals.
 
-Select an affix. Successfully adding this affix to your gear, consumes 10 essence crystals per gear point of that affix (to a minimum of 0) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 30 essence crystals must be consumed instead.
+Select an affix and a set of arms or armor. Successfully adding this affix to the gear consumes 10 essence crystals per gear point of that affix (to a minimum of 0) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 30 essence crystals must be consumed instead.
 
-Make an enchanting skill check, dding a bonus of 5 times the danger level of the area you are resting in.. If you succeed, add that affix to the item’s enchantment affixes.
+Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check, with a difficulty set by the rarity of the affix. Add a bonus of 5 times the current danger level of the area you are in to that skill check. If you succeed, add that affix to the item’s affixes.
+
+- **Common:** difficulty 10
+- **Advanced:** difficulty 15
+- **Exotic:** difficulty 20
+- **Prismatic:** difficulty 25
+
+If you succeed by 5 or more, immediately gain the benefit of this downtime activity again.
 
 If you have access to a relevant **source of knowledge,** you have advantage on this skill check. Each crafting skill uses a different source of knowledge:
 
@@ -133,7 +129,9 @@ If you have access to a relevant **source of knowledge,** you have advantage on 
 - _Fontcraft:_ you are at a font of power that shares an element with the enchantment in question.
 - _Tinkering:_ you have free access to an existing item with that affix.
 
-When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus. In addition, you may choose to immediately attune to the piece of gear you just enchanted, replacing your attunement to an existing piece of gear of the same type if needed.
+Success or failure, you may remove any affixes from the arms or armor, letting you replace an affix with a new one to ensure that the gear point total remains less than or equal to your proficiency bonus plus 2. In addition, you may choose to immediately attune to the piece of gear you just enchanted, replacing your attunement to an existing piece of gear of the same type if needed.
+
+This item becomes permanently **marked** by the type of magic used to imbue it, corresponding to the choice of Anima, Arcana, Fontcraft or Tinkering, replacing any previous **mark**. Skill checks made as part of the Disenchant or Enchant downtime activity that use a different skill are made with disadvantage.
 
 ## Harvest
 
@@ -198,9 +196,9 @@ As a downtime activity, your allies can attempt to **Resurrect** you. In order t
 
 Consider the scenario where 4 party members are attempting to resurrect a dead ally. Firstly, the party must acquire a vessel and journey into the most dangerous part of the font. They choose to use the original body, but they take two days to travel to the font's center, fighting progressively tougher monsters on the way.
 
-Finally, they reach the center of the font, which is a danger level of 3. When the party arrives, their ally has 2 transcendence. They have a focus score of 2, so do not risk burning away until they reach 9 transendence (7 + 2 = 9).
+Finally, they reach the center of the font, which is a danger level of 3. When the party arrives, their ally has 2 transcendence. They have a focus score of 2, so do not risk burning away until they reach 9 transcendence (7 + 2 = 9).
 
-The party immediately starts getting to work resurrecting their ally. They decide to all take the Resurrect downtime activity, for a total of 4 attempts. Because of the current transcendence and the chosen vessel, they all roll Focus (Medicine) against a difficulty of 12. After rolling, there are 2 successes and 2 failures. The two failures increase the target's transcendence to 4. 
+The party immediately starts getting to work resurrecting their ally. They decide to all take the Resurrect downtime activity, for a total of 4 attempts. Because of the current transcendence and the chosen vessel, they all roll Focus (Medicine) against a difficulty of 12. After rolling, there are 2 successes and 2 failures. The two failures increase the target's transcendence to 4.
 
 Then, because the party is in a danger level of 3 while trying to rest, they must perform a single-success attrition scene with a difficulty of 25. Unfortunately, the party fails, and they are forced into a tough fight by their worldspeaker.
 
@@ -210,17 +208,9 @@ Their ally returns as their original species with 5 stacks of exhaustion. Then, 
 
 </div>
 
-Each ally may make take the Resurrect downtime activity during the same rest. This can dramatically increase speed and success rate, but remember that the target gains transcendence after each failure. As always, they must all chose whether to Resurrect *before* any allies have rolled to see if they succeed. Then, all allies roll at the same time, tallying up successes and failures appropriately.
+Each ally may make take the Resurrect downtime activity during the same rest. This can dramatically increase speed and success rate, but remember that the target gains transcendence after each failure. As always, they must all chose whether to Resurrect _before_ any allies have rolled to see if they succeed. Then, all allies roll at the same time, tallying up successes and failures appropriately.
 
 When you return from the dead, you immediately suffer exhaustion equal to your previous transcendence. Like usual, gaining this exhaustion can kill you. Any skill checks made to resurrect you after you have died due to the exhaustion of being brought back from the dead are made with disadvantage.
-
-## Splice
-
-Transfer an affix from one piece of gear to another, quickly and easily giving it a new property.
-
-Make an enchanting skill check, adding a bonus of 5 times the danger level of the area you are resting in. If you succeed, the affix is removed from the original item and added to the new item, If you fail, the original affix is not lost but you must try again later.
-
-When you successfully perform this downtime activity, you may remove any affixes of your choice from the target item, allowing you to replace them in order to keep their enchantment gear point total less than or equal to your proficiency bonus. In addition, you may choose to immediately attune to the piece of gear you just spliced the enchantment onto, replacing your attunement to an existing piece of gear of the same type if needed.
 
 ## Support
 

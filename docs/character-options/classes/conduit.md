@@ -86,7 +86,7 @@ When you gain this feature, select a non-prismatic arms affix with a gear point 
 
 ## Persistence
 
-When you reach level 2, you are able to use your ability to channel energy into items to your advantage when creating permanent magical items. You have advantage on all skill checks made to perform the Enchant and Splice downtime activities.
+When you reach level 2, you are able to use your ability to channel your own energy into permanent magical items. The first time each rest that you use the Enchant downtime activity, you may spend 1 essence to replace 1 essence crystal of its cost, up to a maximum of twice your proficiency bonus.
 
 ## Reverse Polarity
 
@@ -168,7 +168,7 @@ At level 17, you learn to branch your magic, executing multiple targets in paral
 
 ## Stack Overflow
 
-When you reach level 18, you have access to an incredible but diffuse repository of information, drawing upon the wisdom of those who have come before you. You are always treated as if you have a source of knowledge for the Enchant downtime activity. When you use the Splice downtime activity, you may instead choose to duplicate the original affix, leaving it intact on the original item.
+When you reach level 18, you have access to an incredible but diffuse repository of information, drawing upon the wisdom of those who have come before you. You are always treated as if you have an extra source of knowledge for the Enchant downtime activity.
 
 ## Overclock
 
