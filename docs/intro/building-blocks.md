@@ -107,9 +107,9 @@ Creatures may also use **reactions** at any point during the round in response t
 
 Almost every hostile action that occurs during combat requires an **attack** roll, which is compared to one of the target’s **defenses.** If your attack roll is greater than or equal to the appropriate defense of your opponent, your attack hits.
 
-To make an attack roll, roll 1d20 and then add both your proficiency bonus and either your Agility or your Expertise, depending on whether it is a **basic** or **special attack.** Basic attacks are standard attacks using weapons (or claws, fists, etc.) that might be protected from by a suit of armor, while special attacks target a specific attribute and represent more specialized abilities, such as an attempt to shove a creature, grapple them, or affect them with magic.
+To make an attack roll, roll 1d20 and then add both your proficiency bonus and either your Agility or your Expertise, depending on whether it is a **basic** or **special attack.** Basic attacks are standard attacks using weapons (or claws, fists, etc.) that might be protected from by a suit of armor, while special attacks target a specific attribute and represent more specialized abilities, such as an attempt to shove a creature, grapple them, or affect them with magic. Typically, you add your Prowess to the damage dealt with any basic attack, and add your Presence to any damage dealt with any special attack.
 
-**Basic defense** is determined by the armor you are wearing and your natural Agility. There is one **special defense** for each attribute. These are determined by your proficiency bonus, your corresponding attribute, and whether or not you are proficient in defending against that sort of attack.
+**Basic defense** is determined by the armor you are wearing, your Prowess and your Agility. There is one **special defense** for each attribute. These are determined by your proficiency bonus, your corresponding attribute, and whether or not you are proficient in defending against that sort of attack.
 
 Finally, there are three categories of combat-relevant conditions:
 
@@ -119,7 +119,8 @@ Finally, there are three categories of combat-relevant conditions:
 - **Ailments:** standardized negative effects that reduce your effectiveness.
   _ Whenever a creature has at least one stack of a ailment, they suffer its effect.
   _ At the end of your turn, remove one stack of each ailment from yourself.
-- **Statuses:** combat-relevant temporary effects that don’t follow the rules of either afflictions or ailments, but are still common enough to get dedicated rules. \* Being prone, unconscious, asleep, invisible, or flying are examples of statuses in this system.
+- **Statuses:** combat-relevant temporary effects that don’t follow the rules of either afflictions or ailments, but are still common enough to get dedicated rules.
+  - Being prone, unconscious, asleep, invisible, or flying are examples of statuses in this system.
 
 ## The Basics of Adventure
 

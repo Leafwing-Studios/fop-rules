@@ -12,7 +12,7 @@ When making skill checks, Prowess would be used when a door needs to be forced o
 
 Attacks against your Prowess defense include being grabbed by a monstrous tentacle and being poisoned.
 
-In combat, Prowess is used to determine which sorts of arms and armour you can wield. As described in the Gear section of this book, you can build custom arms (the items you use in your hands such as a sword and a shield, a two-handed axe or a pair) and armor (the defensive equipment you wear on the rest of your body). To do so, you combine affixes that give special properties (e.g. increased damage, longer reach, special techniques), summing their cost. You may use gear that has a total cost less than or equal to half your (unrounded) Prowess score.
+In combat, your Prowess is added to your basic defense, reflecting your ability to wear heavier armor, and the damage you deal with any [basic attack](combat/acting-in-combat/major-actions.md?id=strike), whether that's the damage from a crushing mace or the strength of your bow. It is also used to [Block](combat/acting-in-combat/reactions.md?id=block) attacks effectively, as well as maintain and escape from [grapples](combat/acting-in-combat/major-actions.md?id=grapple).
 
 ## Agility
 
@@ -22,7 +22,7 @@ When making skill checks, Agility would be used when you need to sneak past a gu
 
 Attacks against your Agility defense include a trap suddenly dropping the floor out from underneath you and a mage launching blasts of magical energy that go whizzing by your head.
 
-In combat, Agility is used to determine your ability to dodge and strike accurately. Your basic attack modifier, used to determine your chance to hit with a sword swing or a launched arrow, is given by your proficiency bonus plus your Agility. Your Agility is added to your basic defense, making you hard to hit, and also improves your Block and Dodge reactions.
+In combat, Agility is used to determine your ability to dodge and strike accurately. Your basic attack modifier, used to determine your chance to hit with a sword swing or a launched arrow, is given by your proficiency bonus plus your Agility. Your Agility is also added to your basic defense, making you harder to hit, and also improves your [Dodge](combat/acting-in-combat/reactions.md?id=dodge). When you use the [Hide](combat/acting-in-combat/minor-actions.md?id=hide) minor action, you make an Agility (Stealth) skill check to obfuscate your position.
 
 ## Expertise
 
@@ -32,7 +32,7 @@ When making skill checks, Expertise would be used when you need to do research, 
 
 Attacks against your Expertise defense include an illusion of a monster charging at you and an elaborate magical technique which makes you ethereal.
 
-In combat, Expertise determines the reliability of your powers. Your special attack is given by your proficiency bonus plus your Expertise, and is used for launching fireballs at your enemies, paralyzing them in fear or tripping them with a special technique.
+In combat, Expertise determines the reliability of your powers. Your special attack bonus is given by your proficiency bonus plus your Expertise, and is used for launching fireballs at your enemies, paralyzing them in fear landing a grapple or tripping them. The [Scan](combat/acting-in-combat/minor-actions.md?id=scan) minor action also relies on Expertise for recalling facts about the enemies and areas that you are facing.
 
 ## Focus
 
@@ -42,7 +42,7 @@ When making skill checks, Focus would be used to spot a hidden monster, activate
 
 Attacks against your Focus defense include being overloaded with magical energy that flows through you or your soul being slowly drained from you.
 
-In combat, your Focus determines the amount of essence you have, which is consumed whenever you use a powerful ability. You can regain essence using the Essence Tap minor action, whose effectiveness also depends on Focus.
+In combat, your Focus determines the amount of essence you have, which is consumed whenever you use a powerful ability. You can regain essence using the Essence Tap minor action, whose effectiveness also depends on Focus. The [Scan](combat/acting-in-combat/minor-actions.md?id=scan) minor action often relies on Focus for determining details about the state of combat, and the [Track](combat/acting-in-combat/reactions.md?id=track) reaction uses Focus (Perception) to stop creatures from hiding from you.
 
 ## Presence
 
