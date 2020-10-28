@@ -7,7 +7,7 @@ Use a consumable, or temporarily attune to a magical item.
 Choose one:
 
 - Gain the benefits of a consumable magic item whose gear point total is less than or equal to your proficiency bonus. These are created using the Devise downtime activity.
-- Consume essence crystals directly to restore essence. You may only consume an amount less than or equal to your proficiency bonus at a time. Restore essence equal to 5 times the number of essence crystals consumed.
+- Consume an essence crystals directly to restore 5 times your proficiency bonus essence.
 - Temporarily attune (or unattune) to a magical item until the end of your next rest, ignoring your attunement limit. Like usual, the enchantment gear point total of these items must be less than or equal to your proficiency bonus.
 
 Using this action repeatedly risks **essence overload** as your body struggles to handle the intense magical energy. If you have used this action since you last completed a rest, make a Focus (Arcana) skill check. Gain 5 stacks of exhaustion, reduced by 1 stack for each 5 points of your skill check result.
