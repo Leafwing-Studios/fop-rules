@@ -45,7 +45,7 @@ Finally, finish your character sheet by computing your **vital statistics:**
   - **Special defenses:** 10 + proficiency bonus + the corresponding attribute
 - **Basic attack bonus:** proficiency bonus + Agility
 - **Special attack bonus:** proficiency bonus + Expertise
-- **Maximum life:** (5 + level) × 5
+- **Maximum life:** proficiency bonus × 20
 - **Maximum essence:** proficiency bonus × (6 + Focus)
 
 If this is your first time creating a character in Fonts of Power, the sections below go over what these options mean, and where to find them.

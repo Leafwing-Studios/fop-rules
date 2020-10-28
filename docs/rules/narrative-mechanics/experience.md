@@ -30,13 +30,11 @@ Once you’re done with those questions, **discuss what you want to do next.** T
 
 ## Leveling Up
 
-As your characters adventure, they will inevitably both grow and change, shaped by their experiences. When the party has accumulated **10 experience** since last levelling up, the entire party **levels up,** and each player character gains features and abilities as described by their class. When this happens, any extra experience is carried over, to be counted towards the next level.
+As your characters adventure, they will inevitably both grow and change, shaped by their experiences. When the party has accumulated **10 experience** since last leveling up, the entire party **levels up,** and each player character gains features and abilities as described by their class. When this happens, any extra experience is carried over, to be counted towards the next level.
 
 When you level up:
 
 - Gain all of the **features** listed in the next level of your class.
-- Increase your maximum **life** by 5 (total should be 25 + 5 × your level)
-- If your proficiency bonus or Focus changed, recalculate your maximum **essence** as proficiency bonus × (6 + Focus).
 - **You may change up to two choices** that you made about your character in the past, replacing:
   - Your combat or skill talent
   - A single skill proficiency
@@ -47,6 +45,8 @@ When you level up:
     - The details of gear built as part of one of your features, such as the wild combat talent
   - The value of one of your ideals, changing it by up to 2 in either direction
   - The values of two of your attributes, taking 1 point from a single attribute and assigning it to another.
+
+**These modifications reflect your character’s growth and change over the course of the campaign,** rather than a retroactive change to who they were. If you wish to make a more significant change, such as to your species or class, ensure you have the table’s support. This risks more serious issues with story continuity and it may be simpler to instead create a new character.
 
 At levels 5, 9, 13 and 17 your proficiency bonus increases by 1, as shown in the table below.
 
@@ -64,13 +64,12 @@ When this happens, you should change:
 - your basic attack bonus (proficiency bonus + Agility)
 - your special attack bonus (proficiency bonus + Expertise)
 - your special defenses (either proficiency bonus + attribute or 1/2 × proficiency bonus + attribute)
+- your maximum life, which should be your proficiency bonus × 20
 - your maximum essence, which should be your proficiency bonus × (6 + Focus)
 
 The following features also change, because they rely on your proficiency bonus:
 
-- the enchantment gear gear point totals of each of your pieces of gear ()
+- the maximum gear gear point totals of your arms and armor, equal to your proficiency bonus + 2
 - the amount of essence you can spend with many of your features
-
-**These modifications reflect your character’s growth and change over the course of the campaign,** rather than a retroactive change to who they were. If you wish to make a more significant change, such as to your species or class, ensure you have the table’s support. This risks more serious issues with story continuity and it may be simpler to instead create a new character.
 
 No matter what you change, ensure that every feature you have is consistent with the new changes. For example, if you change your attributes, double-check that your maximum essence, defenses and attack bonuses are consistent with the new scores. Finally, remember that attributes are always between -5 and 5, while ideals are always between 0 and 5.
