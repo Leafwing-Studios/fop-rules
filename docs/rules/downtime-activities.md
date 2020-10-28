@@ -111,9 +111,9 @@ Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertis
 
 Enchant an item, adding an affix to it by spending essence crystals.
 
-Select an affix and a set of arms or armor. Successfully adding this affix to the gear consumes 10 essence crystals per gear point of that affix (to a minimum of 0) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 30 essence crystals must be consumed instead.
+Select a trinket, or an affix and a set of arms or armor. Successfully adding this affix to the gear consumes 10 essence crystals per gear point of that affix (to a minimum of 0) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 30 essence crystals must be consumed instead. Creating trinkets always costs 10 essence crystals.
 
-Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check, with a difficulty set by the rarity of the affix. Add a bonus of 5 times the current danger level of the area you are in to that skill check. If you succeed, add that affix to the item’s affixes.
+Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check, with a difficulty set by the rarity of the affix or trinket. Add a bonus of 5 times the current danger level of the area you are in to that skill check. If you succeed, create that trinket or add that affix to the item’s affixes.
 
 - **Common:** difficulty 10
 - **Advanced:** difficulty 15
