@@ -64,7 +64,7 @@
 
 Each Ascendant customizes their body in unique ways, turning their body into a natural weapon. Your body changes mutating, transforming or granting you superhuman abilities to allow you to perform feats such as grabbing your opponents with your beastly jaws, striking at them with a long scorpion tail, shooting spikes at them out of your hands or tripping enemies with incredible speed.
 
-At level 1, create a set of arms using the standard rules with a gear point total of 3. You are always attuned to these arms, and they do not count against your attunement limit. You may also choose to create a set of armor witha gear point total of 3 in this way. If you do, you are always attuned to it and always have it equipped, but cannot equip or attune to any other set of armor.
+At level 1, create a set of arms using the standard rules with a gear point total of 3. You are always attuned to these arms, and they do not count against your attunement limit. You may also choose to create a set of armor with a gear point total of 3 in this way. If you do, you are always attuned to it and always have it equipped, but cannot equip or attune to any other set of armor.
 
 You cannot modify these arms or armor with the Craft or Enchant downtime activities, but whenever you level up, you may freely replace the affixes of these arms and armor, obeying any usual restrictions.
 
