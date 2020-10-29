@@ -6,16 +6,14 @@ The available manifestations are listed below, while the domain-specific customi
 
 When you use the Swap minor action, you may summon a blade of swirling elements to your hand. These weapons (which can take any form you wish) are powered by your innate energy, granting you additional power but fading shortly after they leave your grasp.
 
-When you learn this manifestation, create a set of arms using the standard rules. You are always attuned to these arms, and they do not count against your attunement limit. You may change these arms when you level up as one of the two choices you may modify, but cannot alter them using the Craft downtime activity.
-
-These arms always have the _elemental weaponry_ affix corresponding to the element associated with your domain, changing the type of damage that they deal.
+ Create a set of arms using the standard rules which have a gear point total of 2. You are always attuned to them, and they do not count against your attunement limit. These arms have the _elemental weaponry_ affix corresponding to the element associated with your domain, changing the type of damage that they deal. You can modify their affixes using the Enchant (but not craft) downtime activity.
 
 When you use the Strike major action (including as an attack of opportunity) while you have these arms equipped, you can Surge this manifestation:
 
 - **Odd:** The basic attack made benefits from a number of copies of the affix specified in your domain.
 - **Even:** The basic attack made deal additional elemental damage if it hits.
 
-**Characteristic Manifestation:** Your arms created by the Blade manifestation have the _shifting_ affix. This affix allows you to select two forms for the arms created, which you may choose between whenever you use the Swap minor action. When you use the Attune downtime activity you may change their form completely, replacing their innate affixes with new ones.
+**Characteristic Manifestation:** Your arms created by the Blade manifestation have the _shifting_ affix. This affix allows you to select two forms for the arms created, which you may choose between whenever you use the Swap minor action.
 
 | Surge | Affix Copies |  Additional Damage  |
 | :---: | :----------: | :-----------------: |
@@ -95,11 +93,10 @@ When you Surge this manifestation:
 
 Elements grasp at your foe, holding them tight as they crush them with raw force. When you use the Swap minor action, you may augment your grasp with terrible elemental energy.
 
-When you learn this manifestation, create a set of arms using the standard rules. You are always attuned to these arms, and they do not count against your attunement limit. You may change these arms when you level up as one of the two choices you may modify, but cannot alter them using the Craft downtime activity.
+ Create a set of arms using the standard rules which have a gear point total of 2. You are always attuned to them, and they do not count against your attunement limit. These arms have the _grasping_ affix, which makes you unable to make basic attacks with them but grants allies an attack of opportunity after you hit a creature with a Grapple attack.
+ You can modify their affixes using the Enchant (but not craft) downtime activity.
 
-These arms always have the _grasping_ affix, which makes you unable to make basic attacks with them but grants allies an attack of opportunity after you hit a creature with a Grapple attack.
-
-Whenever you use the Swap minor action, you may choose to augment these arms, and do not need to replace your currently equipped arms. At higher surge levels:
+Whenever you use the Swap minor action, you may instead choose to empower these arms.
 
 - **Odd:** Make a special attack against Prowess against a creature of your choice within range. If you hit, pull them into the nearest empty tile(s). Ties are broken by distance to the shaman, then distance to the creature's original position, then the shaman's choice.
 - **Even:** At the end of your turn, deal additional elemental damage to each creature that you are grappling.

@@ -8,29 +8,29 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 <div class="side-panel">
 
-| Roll | What do you want Awakened society to work towards?           |
-| :--: | ------------------------------------------------------------ |
-|  1   | Whatever it is, I want no part of it.                        |
-|  2   | A separate, autonomous civilization.                         |
-|  3   | Awakening other animals.                                     |
-|  4   | Helping those most downtrodden.                              |
-|  5   | Working towards prosperity for all.                          |
-|  6   | Building an inclusive and welcoming society for all species. |
+| Roll  | What do you want Awakened society to work towards?           |
+| :---: | ------------------------------------------------------------ |
+|   1   | Whatever it is, I want no part of it.                        |
+|   2   | A separate, autonomous civilization.                         |
+|   3   | Awakening other animals.                                     |
+|   4   | Helping those most downtrodden.                              |
+|   5   | Working towards prosperity for all.                          |
+|   6   | Building an inclusive and welcoming society for all species. |
 
-| Roll | What did or do you do for a living?                    |
-| :--: | ------------------------------------------------------ |
-|  1   | I rely on my clan to support me due to age or illness. |
-|  2   | I raise young.                                         |
-|  3   | I farm.                                                |
-|  4   | I hunt or forage.                                      |
-|  5   | I make things.                                         |
-|  6   | I buy and sell.                                        |
+| Roll  | What did or do you do for a living?                    |
+| :---: | ------------------------------------------------------ |
+|   1   | I rely on my clan to support me due to age or illness. |
+|   2   | I raise young.                                         |
+|   3   | I farm.                                                |
+|   4   | I hunt or forage.                                      |
+|   5   | I make things.                                         |
+|   6   | I buy and sell.                                        |
 
 </div>
 
 ### Features {docsify-ignore}
 
-**Untamed:** Your body is an effective weapon all on its own: whether you have sharp teeth, piercing talons or incredible strength. Create a set of arms using the standard rules. You are always attuned to them, and they do not count against your attunement limit. These arms have the _desperate_ affix, which does not count against their gear point total.
+**Untamed:** Your body is an effective weapon all on its own: whether you have sharp teeth, piercing talons or incredible strength. Create a set of arms using the standard rules which have a gear point total of 2. You are always attuned to them, and they do not count against your attunement limit. These arms have the _desperate_ affix, which does not count against their gear point total. You can modify their affixes using the Craft or Enchant downtime activities.
 
 <div class="inline-box">
 
@@ -44,14 +44,14 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 ## Carapaced
 
-| Roll | What type of animal were you originally? |
-| :--: | ---------------------------------------- |
-|  1   | A turtle.                                |
-|  2   | A beetle.                                |
-|  3   | An armadillo.                            |
-|  4   | A porcupine.                             |
-|  5   | A scaled lizard.                         |
-|  6   | A great beast.                           |
+| Roll  | What type of animal were you originally? |
+| :---: | ---------------------------------------- |
+|   1   | A turtle.                                |
+|   2   | A beetle.                                |
+|   3   | An armadillo.                            |
+|   4   | A porcupine.                             |
+|   5   | A scaled lizard.                         |
+|   6   | A great beast.                           |
 
 **Harden:** Whenever you use the Defend major action, gain 4 absorption.
 
@@ -59,14 +59,14 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 ## Climber
 
-| Roll | What type of animal were you originally? |
-| :--: | ---------------------------------------- |
-|  1   | A gecko.                                 |
-|  2   | A monkey.                                |
-|  3   | A squirrel.                              |
-|  4   | A spider                                 |
-|  5   | A cat.                                   |
-|  6   | A mountain goat.                         |
+| Roll  | What type of animal were you originally? |
+| :---: | ---------------------------------------- |
+|   1   | A gecko.                                 |
+|   2   | A monkey.                                |
+|   3   | A squirrel.                              |
+|   4   | A spider                                 |
+|   5   | A cat.                                   |
+|   6   | A mountain goat.                         |
 
 **Climbing:** You can climb walls and ceilings without needing to make an Athletics skill check. You only need to spend ¼ of your movement to change height tiers.
 
@@ -74,14 +74,14 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 ## Flyer
 
-| Roll | What type of animal were you originally? |
-| :--: | ---------------------------------------- |
-|  1   | A songbird.                              |
-|  2   | A bat.                                   |
-|  3   | A dragonfly.                             |
-|  4   | A wasp.                                  |
-|  5   | An owl.                                  |
-|  6   | A bird of prey.                          |
+| Roll  | What type of animal were you originally? |
+| :---: | ---------------------------------------- |
+|   1   | A songbird.                              |
+|   2   | A bat.                                   |
+|   3   | A dragonfly.                             |
+|   4   | A wasp.                                  |
+|   5   | An owl.                                  |
+|   6   | A bird of prey.                          |
 
 **Born to Fly:** You can fly. It costs you twice as much movement as normal to move while not flying, and you have disadvantage on all attacks while not flying.
 
@@ -89,14 +89,14 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 ## Predator
 
-| Roll | What type of animal were you originally? |
-| :--: | ---------------------------------------- |
-|  1   | A dog or wolf.                           |
-|  2   | A cat.                                   |
-|  3   | A snake.                                 |
-|  4   | A predatory lizard.                      |
-|  5   | A toad.                                  |
-|  6   | A bird of prey.                          |
+| Roll  | What type of animal were you originally? |
+| :---: | ---------------------------------------- |
+|   1   | A dog or wolf.                           |
+|   2   | A cat.                                   |
+|   3   | A snake.                                 |
+|   4   | A predatory lizard.                      |
+|   5   | A toad.                                  |
+|   6   | A bird of prey.                          |
 
 **Carry Off:** You have advantage on skill checks made to maintain a grapple. When you spend movement to move yourself while you have another creature grappled, you may apply the same amount of forced movement to them in the same direction.
 
@@ -104,14 +104,14 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 ## Prey
 
-| Roll | What type of animal were you originally? |
-| :--: | ---------------------------------------- |
-|  1   | A mouse.                                 |
-|  2   | A rabbit.                                |
-|  3   | A deer.                                  |
-|  4   | A tiny animal.                           |
-|  5   | A farm animal.                           |
-|  6   | A house pet.                             |
+| Roll  | What type of animal were you originally? |
+| :---: | ---------------------------------------- |
+|   1   | A mouse.                                 |
+|   2   | A rabbit.                                |
+|   3   | A deer.                                  |
+|   4   | A tiny animal.                           |
+|   5   | A farm animal.                           |
+|   6   | A house pet.                             |
 
 **Sprint:** When you take the Dash minor action, gain extra movement equal to your base movement speed, rather than half of it.
 
@@ -119,14 +119,14 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 ## Herd
 
-| Roll | What type of animal were you originally? |
-| :--: | ---------------------------------------- |
-|  1   | A horse.                                 |
-|  2   | A cow.                                   |
-|  3   | A colonial insect.                       |
-|  4   | A social bird.                           |
-|  5   | A primate.                               |
-|  6   | A pack hunter.                           |
+| Roll  | What type of animal were you originally? |
+| :---: | ---------------------------------------- |
+|   1   | A horse.                                 |
+|   2   | A cow.                                   |
+|   3   | A colonial insect.                       |
+|   4   | A social bird.                           |
+|   5   | A primate.                               |
+|   6   | A pack hunter.                           |
 
 **One for All:** Gain access to the **One for All** reaction. Whenever a creature within your zone of control is targeted by a basic attack, you may use the One for All reaction to inflict disadvantage on that attack as if you were threatening that creature.
 

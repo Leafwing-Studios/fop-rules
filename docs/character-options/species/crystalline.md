@@ -16,23 +16,23 @@ The Geodes stand apart from these two factions, largely shunned for their freaki
 
 <div class="side-panel">
 
-| Roll | How were you formed?                                        |
-| :--: | ----------------------------------------------------------- |
-|  1   | I was one of the initial beings that the survivors fled to. |
-|  2   | I was formed naturally more recently.                       |
-|  3   | I am the product of a magical disaster.                     |
-|  4   | I was deliberately formed on the surface.                   |
-|  5   | I was deliberately formed underground by other Crystalline. |
-|  6   | I was one of the initial survivors.                         |
+| Roll  | How were you formed?                                        |
+| :---: | ----------------------------------------------------------- |
+|   1   | I was one of the initial beings that the survivors fled to. |
+|   2   | I was formed naturally more recently.                       |
+|   3   | I am the product of a magical disaster.                     |
+|   4   | I was deliberately formed on the surface.                   |
+|   5   | I was deliberately formed underground by other Crystalline. |
+|   6   | I was one of the initial survivors.                         |
 
-| Roll | How do you feel about offering your body’s crystals for other creatures’ uses? |
-| :--: | ------------------------------------------------------------------------------ |
-|  1   | Even breaking crystals off for your own use is repugnant.                      |
-|  2   | Doing so is an act of tremendous trust and intimacy.                           |
-|  3   | In times of great need, it might be the right thing to do.                     |
-|  4   | It is my right to do so, although I would rarely choose to.                    |
-|  5   | It is an incredibly useful feature to be shared carefully with my allies.      |
-|  6   | It is a perk of the way that I am, and a great way to earn a living.           |
+| Roll  | How do you feel about offering your body’s crystals for other creatures’ uses? |
+| :---: | ------------------------------------------------------------------------------ |
+|   1   | Even breaking crystals off for your own use is repugnant.                      |
+|   2   | Doing so is an act of tremendous trust and intimacy.                           |
+|   3   | In times of great need, it might be the right thing to do.                     |
+|   4   | It is my right to do so, although I would rarely choose to.                    |
+|   5   | It is an incredibly useful feature to be shared carefully with my allies.      |
+|   6   | It is a perk of the way that I am, and a great way to earn a living.           |
 
 </div>
 
@@ -40,7 +40,7 @@ The Geodes stand apart from these two factions, largely shunned for their freaki
 
 **Prismatic Lens:** Whenever you would make an attack that deals elemental damage and do not already have disadvantage on that attack, you may take disadvantage on that attack in order to select a new type of elemental damage for that attack.
 
-**Crystalline Structure:** Crystalline cannot benefit from the innate affixes of armor. Instead, their basic defense is 16 + Prowess + Agility, and their movement speed begins at 4 tiles. If you gain the Ascendant’s Natural Defense feature, your basic defense becomes 18 + Prowess + Agility + Presence, but you gain no additional benefit from that feature.
+**Crystalline Structure:**  Crystalline's basic defense is 12 + Prowess + Agility, but their movement speed is 4 tiles.
 
 **Forbidden Snack:** As a minor action, you may break off a number of essence crystals equal to your proficiency bonus from your body, suffering 1 stack of exhaustion for doing so. These are very unstable however, and must be used before the end of your next rest.
 
@@ -50,14 +50,14 @@ You may not use the Essence Tap minor action. However, consuming one of your own
 
 ## Raw
 
-| Roll | Why do you choose to let your body grow free?                           |
-| :--: | ----------------------------------------------------------------------- |
-|  1   | I prefer the way it looks.                                              |
-|  2   | I don’t want to waste any growth.                                       |
-|  3   | It was the way we were made.                                            |
-|  4   | I value it as a symbol of our resistance to the oppression we suffered. |
-|  5   | I refuse to conform.                                                    |
-|  6   | It’s really just too much work to cut it into facets.                   |
+| Roll  | Why do you choose to let your body grow free?                           |
+| :---: | ----------------------------------------------------------------------- |
+|   1   | I prefer the way it looks.                                              |
+|   2   | I don’t want to waste any growth.                                       |
+|   3   | It was the way we were made.                                            |
+|   4   | I value it as a symbol of our resistance to the oppression we suffered. |
+|   5   | I refuse to conform.                                                    |
+|   6   | It’s really just too much work to cut it into facets.                   |
 
 **Raw Power:** Whenever you land a critical hit, refund the essence spent on that attack.
 
@@ -67,31 +67,31 @@ You may not use the Essence Tap minor action. However, consuming one of your own
 
 ## Hewn
 
-| Roll | Why do you choose to cut your body into facets? |
-| :--: | ----------------------------------------------- |
-|  1   | I prefer the way it looks.                      |
-|  2   | I want to move more freely.                     |
-|  3   | It’s what makes us civilized.                   |
-|  4   | I want to fit in.                               |
-|  5   | I enjoy perfecting the art.                     |
-|  6   | I value the feeling of control it gives me.     |
+| Roll  | Why do you choose to cut your body into facets? |
+| :---: | ----------------------------------------------- |
+|   1   | I prefer the way it looks.                      |
+|   2   | I want to move more freely.                     |
+|   3   | It’s what makes us civilized.                   |
+|   4   | I want to fit in.                               |
+|   5   | I enjoy perfecting the art.                     |
+|   6   | I value the feeling of control it gives me.     |
 
-**Resonance:** You have resistance to the type of elemental damage that you last took damage from.
+**Resonance:** After you take elemental damage, gain resistance to that elemental damage type. You can only gain resistance to one elemental damage type at once in this way.
 
-**Carefully Hewn:** The base basic defense in your Crystalline Structure feature is now 14, but your base movement speed is 6 tiles like normal.
+**Carefully Hewn:** Your basic defense is 11 + Prowess + Agility instead, but your movement speed is 5 tiles.
 
 **Perfectionist:** You are proficient in Craftsmanship.
 
 ## Geode
 
-| Roll | How do you feel about the way Geodes are treated?                  |
-| :--: | ------------------------------------------------------------------ |
-|  1   | I am furious about our mistreatment.                               |
-|  2   | I am saddened by it, but accept it as the way that things are.     |
-|  3   | I understand that it helps them cope with their own persecution.   |
-|  4   | I left for the surface to find acceptance among the other species. |
-|  5   | I long for acceptance, and hate that I must be different.          |
-|  6   | I want to change Crystalline society to fix it.                    |
+| Roll  | How do you feel about the way Geodes are treated?                  |
+| :---: | ------------------------------------------------------------------ |
+|   1   | I am furious about our mistreatment.                               |
+|   2   | I am saddened by it, but accept it as the way that things are.     |
+|   3   | I understand that it helps them cope with their own persecution.   |
+|   4   | I left for the surface to find acceptance among the other species. |
+|   5   | I long for acceptance, and hate that I must be different.          |
+|   6   | I want to change Crystalline society to fix it.                    |
 
 **Stony Patience:** Whenever you take the Defend major action, you have advantage on all attacks made before the end of your next turn.
 
