@@ -15,88 +15,82 @@
 
 <div class="side-panel">
 
-| Roll | What do you want to become? |
-| :--: | --------------------------- |
-|  1   | An exemplar of my race.     |
-|  2   | A master of martial arts.   |
-|  3   | A mad scientist’s creation. |
-|  4   | An avatar of a god.         |
-|  5   | A powerful beast.           |
-|  6   | A mechanical masterpiece.   |
+| Roll  | What do you want to become? |
+| :---: | --------------------------- |
+|   1   | An exemplar of my race.     |
+|   2   | A master of martial arts.   |
+|   3   | A mad scientist’s creation. |
+|   4   | An avatar of a god.         |
+|   5   | A powerful beast.           |
+|   6   | A mechanical masterpiece.   |
 
-| Roll | Why do you care about improving yourself? |
-| :--: | ----------------------------------------- |
-|  1   | I thirst for power at any cost.           |
-|  2   | I seek enlightenment.                     |
-|  3   | I need to fulfill my destiny.             |
-|  4   | I hate what I used to be.                 |
-|  5   | I love exploring what I can become.       |
-|  6   | I want to live forever.                   |
+| Roll  | Why do you care about improving yourself? |
+| :---: | ----------------------------------------- |
+|   1   | I thirst for power at any cost.           |
+|   2   | I seek enlightenment.                     |
+|   3   | I need to fulfill my destiny.             |
+|   4   | I hate what I used to be.                 |
+|   5   | I love exploring what I can become.       |
+|   6   | I want to live forever.                   |
 
 </div>
 
 # Class Features
 
-| Level | Proficiency Bonus | Features                                                       |
-| :---: | :---------------: | -------------------------------------------------------------- |
-|   1   |        +1         | Combination Strikes (1), Self-Improvement (1), Natural Offense |
-|   2   |        +1         | Self-Improvement (2), Natural Defense, Meditation              |
-|   3   |        +1         | Self-Improvement (3), Tranquility                              |
-|   4   |        +1         | Attribute Improvement                                          |
-|   5   |        +2         | Proficiency Bonus Improvement, Combination Strikes (2)         |
-|   6   |        +2         | Discipline                                                     |
-|   7   |        +2         | Blur                                                           |
-|   8   |        +2         | Attribute Improvement                                          |
-|   9   |        +3         | Proficiency Bonus Improvement, Combination Strikes (3)         |
-|  10   |        +3         | Sublimation                                                    |
-|  11   |        +3         | Self-Improvement (4)                                           |
-|  12   |        +3         | Attribute Improvement                                          |
-|  13   |        +4         | Proficiency Bonus Improvement, Combination Strikes (4)         |
-|  14   |        +4         | Awareness                                                      |
-|  15   |        +4         | Purity                                                         |
-|  16   |        +4         | Attribute Improvement                                          |
-|  17   |        +5         | Proficiency Bonus Improvement, Combination Strikes (5)         |
-|  18   |        +5         | Reincarnation                                                  |
-|  19   |        +5         | Attribute Improvement                                          |
-|  20   |        +5         | Ascension                                                      |
+| Level | Proficiency Bonus | Features                                                  | Affixes Known |
+| :---: | :---------------: | --------------------------------------------------------- | :-----------: |
+|   1   |        +1         | Self Improvement, Inner Strength, Combination Strikes (1) |       3       |
+|   2   |        +1         | Meditation                                                |       3       |
+|   3   |        +1         | Inner Mastery, Tranquility                                |       3       |
+|   4   |        +1         | Attribute Improvement                                     |       4       |
+|   5   |        +2         | Proficiency Bonus Improvement, Combination Strikes (2)    |       4       |
+|   6   |        +2         | Discipline                                                |       4       |
+|   7   |        +2         | Blur                                                      |       4       |
+|   8   |        +2         | Attribute Improvement                                     |       5       |
+|   9   |        +3         | Proficiency Bonus Improvement, Combination Strikes (3)    |       5       |
+|  10   |        +3         | Sublimation                                               |       5       |
+|  11   |        +3         | Inner Duality                                             |       5       |
+|  12   |        +3         | Attribute Improvement                                     |       6       |
+|  13   |        +4         | Proficiency Bonus Improvement, Combination Strikes (4)    |       6       |
+|  14   |        +4         | Awareness                                                 |       6       |
+|  15   |        +4         | Purity                                                    |       6       |
+|  16   |        +4         | Attribute Improvement                                     |       7       |
+|  17   |        +5         | Proficiency Bonus Improvement, Combination Strikes (5)    |       7       |
+|  18   |        +5         | Reincarnation                                             |       7       |
+|  19   |        +5         | Attribute Improvement                                     |       8       |
+|  20   |        +5         | Ascension                                                 |       8       |
+
+# Self-Improvement
+
+Each Ascendant customizes their body in unique ways, turning their body into a natural weapon. Your body changes mutating, transforming or granting you superhuman abilities to allow you to perform feats such as grabbing your opponents with your beastly jaws, striking at them with a long scorpion tail, shooting spikes at them out of your hands or tripping enemies with incredible speed.
+
+At level 1, create a set of arms using the standard rules. You are always attuned to these arms, and they do not count against your attunement limit. You may also choose to create a set of armor in this way. If you do, you are always attuned to it and always have it equipped, but cannot equip or attune to any other set of armor.
+
+When you level up, you may freely replace the affixes of these arms and armor, obeying any usual restrictions but ignoring any cost in terms of downtime activities or essence crystals.
 
 ## Combination Strikes
 
-In battle, the Ascendant is an unstoppable martial force, striking their enemy with a flurry of chained blows from the improved body they have created. At level 1, whenever you hit a non-allied creature with an attack, you may spend one essence to immediately make another Strike, Grapple or Shove attack against them. At level 1, you may only use this feature once per round. The number of times per round that you can use this feature increases by one at levels 5, 9, 13 and 17.
+In battle, the Ascendant is an unstoppable martial force, striking their enemy with a flurry of chained blows from the improved body they have created. At level 1, whenever you hit a non-allied creature with an attack, you may spend one essence to immediately make another Strike, Grapple or Shove attack against them. 
+
+At level 1, you may only use this feature once per round, resetting at the start of each of your turns. The number of times per round that you can use this feature increases by one at levels 5, 9, 13 and 17.
 
 While you cannot usually spend essence while making attacks of opportunity, you can spend essence on Combination Strikes to follow up on attacks of opportunity that you land.
 
-## Self-Improvement
+## Inner Strength
 
-At level 1, you learn to augment your body with powerful magical abilities. Whenever you gain this feature, you may select non-prismatic arms or armor affixes that have a gear point total equal to the number associated with this feature. You gain their effects at all times.
+At level 1, you learn to augment your body with powerful temporary magical abilities. Whenever you make a Strike, Grapple or Shove attack, you may attempt a difficulty 10 Presence (Anima) skill check. If you succeed, choose one of the affixes that you know: you gain its effects for this attack. If you fail, you may choose to either cancel the attack, wasting your action, or complete the attack, optionally choosing a new target, without the affix.
 
-The gear point total of these affixes is one at level 1, two at level 2, and three at level 3, increasing to four at level 11.
-
-## Natural Offense
-
-Each Ascendant customizes their body in unique ways, turning their body into a natural weapon. Your body changes to accommodate these modifiers a way that is consistent with the modifiers selected: mutating, transforming or granting you superhuman abilities to allow you to perform feats such as grabbing your opponents with your beastly jaws, striking at them with a long scorpion tail, shooting spikes at them out of your hands or tripping enemies with incredible speed.
-
-The cap for the innate gear points of your arms is now equal to your (Prowess + Presence) / 2, rather than your Prowess / 2.
-
-When you gain this feature, create a set of arms using the standard rules. You are always attuned to these arms, and they do not count against your attunement limit.
-
-If your Prowess or Presence changes, remember to reselect the affixes used in this feature to ensure their gear point total is correct.
-
-## Natural Defense
-
-At level 2, your body becomes tougher to match your newfound weapons: your skin thickening, your reflexes quickening, mutating to become immune to the effects of fire and so on.
-
-The cap for the innate gear points of your arms is now equal to your (Prowess + Presence) / 2, rather than your Prowess / 2.
-
-When you gain this feature, create a set of armor using the standard rules. This armor is always equipped and you are always attuned to this armor. You cannot equip or attune to other armor.
-
-If your Prowess or Presence changes, remember to reselect the affixes used in this feature to ensure their gear point total is correct.
+You learn 3 affixes at level 1 selected from the [list of affixes](https://tools.fontsofpower.com). You learn an additional affix at level 4, 8, 12, 16 and 19. These must be arms affixes, cannot be prismatic and must have a gear point cost of 1 or less.
 
 ## Meditation
 
 When you reach level 2, you learn to sit in perfect tranquility, refreshing yourself even as battle rages around you. Whenever you take the Defend major action and have not yet spent movement or made an attack this turn, you may spend essence equal to twice your proficiency bonus to regain life equal to four times the essence spent. When you do, you cannot spend movement or make any attacks until the start of your next turn.
 
 You also gain access to the Meditate downtime activity, seeking to learn an inner truth. Make a difficulty 15 Focus (Insight) skill check. If you succeed, the party gains a Resolve.
+
+## Inner Mastery
+
+At level 3, you learn to better control and focus your magical abilities, beginning to master your own spirit. You have advantage on Presence (Anima) skill checks made to activate your Inner Strength class feature.
 
 ## Tranquility
 
@@ -131,6 +125,10 @@ At level 7, you fight with incredible speed, blurring your form and causing atta
 ## Sublimation
 
 Upon reaching level 10, you have transcended bodily needs. You no longer need to eat, drink or breathe and you recover from two levels of exhaustion every time you complete a rest.
+
+## Inner Duality
+
+At level 11, you learn to combine the magical manifestations of your will. Whenever the Presence (Anima) skill check result made as part of your Inner Strength class feature is at least 15, you may gain the benefit of two of your affixes instead of just one.
 
 ## Awareness
 
