@@ -70,7 +70,7 @@ You cannot modify these arms or armor with the Craft or Enchant downtime activit
 
 ## Combination Strikes
 
-In battle, the Ascendant is an unstoppable martial force, striking their enemy with a flurry of chained blows from the improved body they have created. At level 1, whenever you hit a non-allied creature with an attack, you may spend one essence to immediately make another Strike, Grapple or Shove attack against them. 
+In battle, the Ascendant is an unstoppable martial force, striking their enemy with a flurry of chained blows from the improved body they have created. At level 1, whenever you hit a creature with an attack, you may spend one essence to immediately make another Strike, Grapple or Shove attack against them. 
 
 At level 1, you may only use this feature once per round, resetting at the start of each of your turns. The number of times per round that you can use this feature increases by one at levels 5, 9, 13 and 17.
 
@@ -78,7 +78,7 @@ While you cannot usually spend essence while making attacks of opportunity, you 
 
 ## Inner Strength
 
-At level 1, you learn to augment your body with powerful temporary magical abilities. Whenever you make a Strike, Grapple or Shove attack, you may attempt a difficulty 10 Presence (Anima) skill check. If you succeed, choose one of the affixes that you know: you gain its effects for this attack. If you fail, you may choose to either cancel the attack, wasting your action, or complete the attack, optionally choosing a new target, without the affix.
+At level 1, you learn to augment your body with powerful temporary magical abilities. Whenever you make an attack, make a difficulty 10 Presence (Anima) skill check. If you succeed, that attack gainst the benefit of one of the affixes that you know. If you fail, you may choose to either cancel the attack, wasting your action, or complete the attack (optionally choosing new targets) without the affix.
 
 You learn 3 affixes at level 1 selected from the [list of affixes](https://tools.fontsofpower.com). You learn an additional affix at level 4, 8, 12, 16 and 19. These must be arms affixes, cannot be prismatic and must have a gear point cost of 1 or less.
 
@@ -90,7 +90,7 @@ You also gain access to the Meditate downtime activity, seeking to learn an inne
 
 ## Inner Mastery
 
-At level 3, you learn to better control and focus your magical abilities, beginning to master your own spirit. You have advantage on Presence (Anima) skill checks made to activate your Inner Strength class feature.
+At level 3, you learn to translate your inner strength into external precision. Whenever you  make an attack, you may choose to use your Presence (Anima) skill check result made as part of your Inner Strength class feature instead of making a basic or special attack roll for that attack. You may not change this choice after seeing the results of the attack, and you use the d20 rolled for the skill check to determine if the attack was a critical hit.
 
 ## Tranquility
 
