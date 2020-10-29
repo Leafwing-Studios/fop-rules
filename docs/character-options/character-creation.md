@@ -26,8 +26,8 @@ With this seed in place, you can begin to flesh out your character, and fill out
   - They sum to +5.
   - Roll 1d6 - 1d6 five times. These are your attributes, in order. Reroll if the sum is more than +10 or less than 0.
 - The **gear** that they begin the game with.
-  - Create two sets of **arms,** each with an innate gear score total equal to your half your Prowess.
-  - Create a set of **armor,** with an innate gear score total equal to your half your Prowess.
+  - Create two sets of **arms,** each with a gear point total of 2.
+  - Create a set of **armor,** with a gear point total of 2.
 
 Next, work with your party and the worldspeaker to determine how your character fits into the world, recording:
 
@@ -126,13 +126,13 @@ Attributes can never be higher than +5 or lower than -5. There are two methods t
 
 ## Gear
 
-Every character begins the game with two sets of arms and one set of armor, created to their exact specifications. Each of these should have a gear score total equal to your Prowess. Use the Gear chapter of this book to combine **affixes** and build arms and armor that fit your character concept.
+Every character begins the game with two sets of arms and one set of armor, created to their exact specifications. Each of these should have a gear score total of 2. Use the Gear chapter of this book to select pieces of prebuilt gear, or combine **affixes** freely to perfectly nail your character concept.
 
 When it comes to **adventuring gear,** characters are said to be **Prepared for Anything.** Rather than carefully budgeting your wealth and carrying capacity in order to pick out a bedroll, precisely 100 feet of rope, seven torches and a sack of flour, we assume that the party always has the basics of survival (unless there’s some reason that they wouldn’t) and typically remembered to pack or can scavenge for any specialized equipment that they might need. As described in the Prepared for Anything section of the Gear chapter, roll on the Supplies die whenever you want to find out whether the party has a particular tool or mundane item.
 
 The table should **set the initial Supplies die** for the party to reflect their state as play begins: are they meeting in a tavern (d8), suddenly ambushed (d6), struggling to make it back to town (d4) or captured and penniless (the Supplies die is fully depleted)?
 
-**For characters starting above level 1,** players may pick out two magical sets of arms, one set of magical armor and a collection of trinkets to begin the game with. These should each have a gear point total equal to their proficiency bonus, ensuring that they are at an appropriate power for their level. If they are level 9 or higher, this should include one prismatic affix. If they are level 17 or higher, include two prismatic affixes. We suggest experimenting with unusual choices during this initial selection, in order to make sure there’s space for interesting ways for your character to continue to grow and change.
+**For characters starting above level 1,** we recommend beginning with gear that has a gear point total equal to your proficiency bonus plus one, as well as one trinket of your choice. If they are level 9 or higher, this should include one prismatic affix. If they are level 17 or higher, include two prismatic affixes. We suggest experimenting with unusual choices during this initial selection, in order to make sure there’s space for interesting ways for your character to continue to grow and change.
 
 ## Ideals
 
