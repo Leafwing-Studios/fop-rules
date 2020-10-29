@@ -153,10 +153,10 @@ When you reach level 11, you learn to recover gracefully from unexpected failure
 ## Arcing
 
 At level 13, your magic flows more readily between your targets. Your charges may now chain between creatures that are up to 4 tiles away from the last creature in the chain, rather than being limited to 2 tiles when you use the Buffer Overflow class feature.
-Mastery: Trinket
-Once you reach level 14, you learn to master a particular form of magical trinket, using it effortlessly. Choose a trinket with a gear point total of 1. You are attuned to it and gain its benefits without it counting against the gear point total of your trinkets.
 
-You may change your choice of trinket for this feature whenever you complete a rest.
+## Mastery: Trinket
+
+Once you reach level 14, you learn to master the use of magical trinkets, effortlessly taking full advantage of your collection. You may attune to 4 trinkets at once, rather than the usual 3. Once per rest when you use the Activate minor action to gain the benefits of the Attune downtime activity, it does not count toward essence overload.
 
 ## GOTO
 
@@ -168,7 +168,7 @@ At level 17, you learn to branch your magic, executing multiple targets in paral
 
 ## Stack Overflow
 
-When you reach level 18, you have access to an incredible but diffuse repository of information, drawing upon the wisdom of those who have come before you. You are always treated as if you have an extra source of knowledge for the Enchant downtime activity.
+When you reach level 18, you have access to an incredible but diffuse repository of information, drawing upon the wisdom of those who have come before you. You are always treated as if you have an extra source of knowledge for the Enchant downtime activity. Advantage on your skill checks made as part of the Enchant downtime activity now stacks; you may roll an additional d20 for each separate source of advantage, taking the highest result as usual. Like usual, advantage gained in this way is cancelled by disadvantage on a one-for-one basis.
 
 ## Overclock
 

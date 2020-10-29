@@ -84,9 +84,9 @@ At level 1, you and your companion can strike in unison, combining each of your 
 
 Sharing an existence with an otherworldly entity does strange things to the Touched. Starting at level 2, you mutate in strange and powerful ways, becoming more similar to your companion.
 
-When you gain this feature, select a set of trinket enchantments of your choice with a gear point total equal to 1. You gain their effects at all times as if you were attuned to them. You may select any common or advanced trinket enchantment, but may only select exotic trinket enchantments if they have a tag corresponding to one of your two element types. You cannot select prismatic trinket affixes in this way.
+When you gain this feature, choose a trinket from the list of trinkets, or work with your table to come up with a fitting non-combat effect of similar power. You gain its effects at all times as if you were attuned to them.
 
-The enchantment point total of the trinket enchantments selected as your deviances increases by one at levels 6, 10, 14 and 18.
+The number of trinket effects that you gain in this way increases by one at levels 6, 10, 14 and 18.
 
 ## Balance of Power: Host
 
