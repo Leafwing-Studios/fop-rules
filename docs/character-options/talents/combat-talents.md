@@ -166,7 +166,7 @@ Once after you have rolled to see how much damage one of your attacks would do, 
 
 ### Audacious
 
-The critical hit threshold for your attacks is reduced by 2. Whenever you roll a 1 while making an attack, something goes horribly wrong, and you suffer the attack’s effects instead.
+The critical hit threshold for your attacks is reduced by 3. Whenever you roll a 1 while making an attack, something goes horribly wrong, and you suffer the attack’s effects instead.
 
 ### Careful
 
