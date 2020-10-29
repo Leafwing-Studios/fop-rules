@@ -64,6 +64,10 @@ Enemies provoke an attack of opportunity whenever they move from a tile that is 
 
 Enemies provoke an attack of opportunity whenever they would spend movement to leave your zone of control.
 
+### Reliable
+
+You have advantage on Prowess (Endurance) skill checks made as part of the Block reaction.
+
 ### Resilient
 
 Choose an attribute. Special attacks made against you that target the specified attribute are made with disadvantage.
