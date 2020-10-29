@@ -15,23 +15,23 @@
 
 <div class="side-panel">
 
-| Roll  | What do you want to become? |
-| :---: | --------------------------- |
-|   1   | An exemplar of my race.     |
-|   2   | A master of martial arts.   |
-|   3   | A mad scientist’s creation. |
-|   4   | An avatar of a god.         |
-|   5   | A powerful beast.           |
-|   6   | A mechanical masterpiece.   |
+| Roll | What do you want to become? |
+| :--: | --------------------------- |
+|  1   | An exemplar of my race.     |
+|  2   | A master of martial arts.   |
+|  3   | A mad scientist’s creation. |
+|  4   | An avatar of a god.         |
+|  5   | A powerful beast.           |
+|  6   | A mechanical masterpiece.   |
 
-| Roll  | Why do you care about improving yourself? |
-| :---: | ----------------------------------------- |
-|   1   | I thirst for power at any cost.           |
-|   2   | I seek enlightenment.                     |
-|   3   | I need to fulfill my destiny.             |
-|   4   | I hate what I used to be.                 |
-|   5   | I love exploring what I can become.       |
-|   6   | I want to live forever.                   |
+| Roll | Why do you care about improving yourself? |
+| :--: | ----------------------------------------- |
+|  1   | I thirst for power at any cost.           |
+|  2   | I seek enlightenment.                     |
+|  3   | I need to fulfill my destiny.             |
+|  4   | I hate what I used to be.                 |
+|  5   | I love exploring what I can become.       |
+|  6   | I want to live forever.                   |
 
 </div>
 
@@ -70,7 +70,7 @@ You cannot modify these arms or armor with the Craft or Enchant downtime activit
 
 ## Combination Strikes
 
-In battle, the Ascendant is an unstoppable martial force, striking their enemy with a flurry of chained blows from the improved body they have created. At level 1, whenever you hit a creature with an attack, you may spend one essence to immediately make another Strike, Grapple or Shove attack against them. 
+In battle, the Ascendant is an unstoppable martial force, striking their enemy with a flurry of chained blows from the improved body they have created. At level 1, whenever you hit a creature with an attack, you may spend one essence to immediately make another Strike, Grapple or Shove attack against them.
 
 At level 1, you may only use this feature once per round, resetting at the start of each of your turns. The number of times per round that you can use this feature increases by one at levels 5, 9, 13 and 17.
 
@@ -90,7 +90,9 @@ You also gain access to the Meditate downtime activity, seeking to learn an inne
 
 ## Inner Mastery
 
-At level 3, you learn to translate your inner strength into external precision. Whenever you  make an attack, you may choose to use your Presence (Anima) skill check result made as part of your Inner Strength class feature instead of making a basic or special attack roll for that attack. You may not change this choice after seeing the results of the attack, and you use the d20 rolled for the skill check to determine if the attack was a critical hit.
+At level 3, you learn to translate your inner strength into external precision. After you make a Presence (Anima) skill check with your Inner Strength class feature you may choose to use that skill check result as the attack roll result for the triggering attack.
+
+You must choose whether or not to use this feature before you make an attack roll, and do not make an attack roll if you use this feature. Use the d20 result from the skill check result to determine whether or not the attack is a critical hit.
 
 ## Tranquility
 
@@ -150,5 +152,6 @@ When you reach level 20, you have achieved your ideal form: body and mind existi
 - At the start of each of your turns, remove one stack of each affliction and ailment from yourself. When you use the Defend major action and take advantage of your Meditation class feature, gain 12 absorption.
 - Your movement speed is doubled, attacks of opportunity against you have disadvantage and you may pass through enemy tiles.
 - You have advantage on all special attacks. You may make Shove attacks using your Combination Strikes feature without spending any extra essence or counting against the total number of attacks used, although your chain still breaks if you miss them.
+- You have advantage on Presence (Anima) skill checks made for your Inner Strength class feature.
 
 The chosen effect persists until it is replaced by another in this list.
